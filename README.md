@@ -61,24 +61,25 @@
 
 ##### Cateogry 1
 - html
-- pem
 - ps1
 - py
 
-##### Cateogry 2
+##### Cateogry 2 (Text based)
 - pdf
+- docx
 - log
 - xml
 - txt
+- md
 
 ##### Cateogry 3
-- md
+- pem
 - pub
-- docx
 
 ##### Cateogry 4
 - png
 - jpg
+- jpeg
 
 ##### Cateogry 5
 - zip
