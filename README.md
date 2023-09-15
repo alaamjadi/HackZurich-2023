@@ -59,12 +59,12 @@
 #### Similar categories
 
 
-##### Cateogry 1
+##### Cateogry 1 > Mohammad
 - html
 - ps1
 - py
 
-##### Cateogry 2 (Text based)
+##### Cateogry 2 (Text based) > Magnus
 - pdf
 - docx
 - log
@@ -72,21 +72,21 @@
 - txt
 - md
 
-##### Cateogry 3
+##### Cateogry 3 > Mohammad
 - pem
 - pub
 
-##### Cateogry 4
+##### Cateogry 4 >  Nazish
 - png
 - jpg
 - jpeg
 
-##### Cateogry 5
+##### Cateogry 5 > Swetha
 - zip
 - msg
 - mp3
 
-##### Cateogry 6
+##### Cateogry 6 > Ayman
 - xlsx
 - csv
 - db
