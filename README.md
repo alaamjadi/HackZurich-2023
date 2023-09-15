@@ -2,13 +2,23 @@
   <img src="./logo_hack_black.jpg" width="300" height="330">
 </p>
 
+## Team name: Farzad
 
-Pipline:
+## Members
+- Mohammad Ala Amjadi
+- Nazish Malik
+- Magnus Glasder
+- Swetha Nachimuthu
+- Ayman Barakat
 
 
-- Begining : Access the file and retrive information
+## Approach
+
+### Outline:
+
+- Access the file and iterate over different paths
 - Categorizing the files based on file type (file signature)
-- Pattern Finder
+- Pattern (private key, passwd file, ... )
 - Labling Algorithm
   - Possible Content (text) Extraction
   - Metadata :
@@ -16,9 +26,70 @@ Pipline:
     - Date-Time: Calculation of how long the file is kept in the system
     - Camera / Device Information
     - Author of the file
-    
-  - 
+  - File Name
 - Visulization of Information
+
+
+### Analysis on labeled files:
+
+#### Possible file types
+
+|Number | File Type | Counts |
+| ----- | --------- | ------ |
+| 01 | .pdf | 105 |
+| 02 | .xlsx | 101 |
+| 03 | .log | 100 |
+| 04 | .csv | 100 |
+| 05 | .md | 66 |
+| 06 | .html | 60 |
+| 07 | .pem | 57 |
+| 08 | .ps1 | 48 |
+| 09 | .pub | 41 |
+| 10 | .db | 20 |
+| 11 | .xml | 19 |
+| 12 | .docx | 12 |
+| 13 | .png | 12 |
+| 14 | .py | 11 |
+| 15 | .txt | 10 |
+| 16 | .jpg | 10 |
+| 17 | .zip | 10 |
+| 18 | .msg | 7 |
+| 19 | .mp3 | 6 |
+
+#### Similar categories
+
+
+##### Cateogry 1
+- html
+- pem
+- ps1
+- py
+
+##### Cateogry 2
+- pdf
+- log
+- xml
+- txt
+
+##### Cateogry 3
+- md
+- pub
+- docx
+
+##### Cateogry 4
+- png
+- jpg
+
+##### Cateogry 5
+- zip
+- msg
+- mp3
+
+##### Cateogry 6
+- xlsx
+- csv
+- db
+
 
 # HackZurich 2023 - Scan the Bank Workshop
 Welcome to the Scan the Bank Workshop. This README leads you through this challenge and contains all the relevant information. In case something is unclear don't hesitate to get in touch with us.
