@@ -163,3 +163,29 @@ with open(output_filename, 'w', encoding='utf-8') as file:
 # Confirm that the text has been saved to the file
 print(f"Text has been saved to '{output_filename}'")
 
+# html to txt file conversion
+
+from bs4 import BeautifulSoup
+
+# Specify the path to your HTML file
+html_file = "add-make-manager.html"
+
+# Read the HTML content from the file
+with open(html_file, "r", encoding="utf-8") as file:
+    html_content = file.read()
+
+# Parse the HTML content with BeautifulSoup
+soup = BeautifulSoup(html_content, "html.parser")
+
+# Get the text content from the HTML and replace newlines with spaces
+text_content = soup.get_text().replace('\n', ' ')
+
+# Specify the path for the output text file
+output_filename = "output.txt"
+
+# Save the text content to a text file
+with open(output_filename, "w", encoding="utf-8") as file:
+    file.write(text_content)
+
+# Confirm that the text has been saved to the file
+print(f"Text has been extracted from '{html_file}' (newlines replaced with spaces) and saved to '{output_filename}'")
