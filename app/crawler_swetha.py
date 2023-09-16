@@ -136,3 +136,30 @@ output_dir = "msg_extracted_files"  # Directory to store extracted files
 
 extract_msg_file(msg_file_path, output_dir)
 
+# DOCX to text file conversion
+
+from docx import Document
+
+# Specify the absolute path to your Word document
+docx_filename = '/root/Hackzurich/baby-thing-follow.docx'
+
+# Initialize a Document object
+doc = Document(docx_filename)
+
+# Initialize an empty string to store the extracted text
+text = ''
+
+# Iterate through paragraphs in the document and extract text
+for paragraph in doc.paragraphs:
+    text += paragraph.text + '\n'
+
+# Specify the path for the output text file
+output_filename = '/root/Hackzurich/output.txt'
+
+# Save the extracted text to a text file
+with open(output_filename, 'w', encoding='utf-8') as file:
+    file.write(text)
+
+# Confirm that the text has been saved to the file
+print(f"Text has been saved to '{output_filename}'")
+
