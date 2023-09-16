@@ -21,12 +21,12 @@
 - Pattern (private key, passwd file, ... )
 - Labling Algorithm
   - Possible Content (text) Extraction
-  - Metadata :
-    - Location (Different regulations)
-    - Date-Time: Calculation of how long the file is kept in the system
-    - Camera / Device Information
-    - Author of the file
-  - File Name
+  ~~- Metadata :~~
+    ~~- Location (Different regulations)~~
+    ~~- Date-Time: Calculation of how long the file is kept in the system~~
+    ~~- Camera / Device Information~~
+    ~~- Author of the file~~
+  ~~- File Name~~
 - Visulization of Information
 
 
