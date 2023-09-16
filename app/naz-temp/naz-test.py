@@ -1,14 +1,11 @@
-from PIL import Image, ImageEnhance, ImageFilter
-import sys
-import pyocr
-import pyocr.builders
+import pytesseract
+from PIL import Image
 
+# Open an image
+image = Image.open('temp.jpg')
 
-# im = Image.open("tmp.jpg")
-# im = im.filter(ImageFilter.MedianFilter())
-# enhancer = ImageEnhance.Contrast(im)
-# im = enhancer.enhance(2)
-# im = im.convert('1')
-# im.save("temp.jpg")
+# Perform OCR
+text = pytesseract.image_to_string(image)
 
-# print(pytesseract.image_to_string("temp.jpg"))
+# Print the extracted text
+print(text)
