@@ -141,7 +141,7 @@ def main():
         print("Please place the files in the corresponding folder")
 
     gt = pd.read_csv(str(script_dir_path_parent) +"/results/labels.csv", header=0)
-pd.merge(T1, T2, on=T1.index, how='outer')    pred = pd.read_pickle(str(script_dir_path_parent) +"/results/crawler_labels.pkl")
+    pred = pd.read_pickle(str(script_dir_path_parent) +"/results/crawler_labels.pkl")
     pred = pd.DataFrame.from_dict(pred, orient='index')
     print(pred)
     print(evaluator(gt, pred,script_dir_path_parent))
