@@ -63,7 +63,7 @@
 
 ##### Cateogry 1 > Mohammad
 
-- html
+- html > Finished but the naming is not detecting properly
   - TRUE:
     - IBAN(sometimes spaces between characters, every 4 characters) +
     - EMAIL (space before @ sign) +
@@ -75,7 +75,7 @@
     - Country name instead of address
     - twitter usernames has @ and it can make confusion for email detection
 
-- ps1
+- ps1 > Finished
   - TRUE:
     - FNAME + IBAN + ZRNR
     - CLIENT FNAME, CLIENT NUMBER + IBAN
@@ -84,7 +84,7 @@
     - FNAME, ACCOUNT NUMBER, NUMBER
     - The information can be in lowercase and uppercase
 
-- py
+- py > Finished
   - TRUE:
     - NAME, SURNAME, EMAIL
     - NAME, SURNAME, EMAIL, IBAN
@@ -98,11 +98,11 @@
 - md
 
 ##### Cateogry 3 > Mohammad
-- pem
+- pem > Finished
   - TRUE:
     Allways, it starts with BEGIN and END
     
-- pub:
+- pub: > Finished: maybe add another statement to check if there is an iban in it
   - TRUE:
     - starts with ssh-rsa and then finishes with a valid iban
   - FALSE:
