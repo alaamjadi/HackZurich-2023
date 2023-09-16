@@ -23,6 +23,9 @@ from pathlib import Path
 import pickle
 ### Use the magic library for classifying files by their signatures
 #import magic
+import pandas as pd 
+import numpy as np 
+
 
 def save_dict_as_pickle(labels, filename):
     with open(filename, "w+b") as handle:
@@ -67,6 +70,52 @@ def classifier(file_path):
         # If it is not a `.txt` file the set the label to "review"
         return "review"
 
+def evaluator(actual, prediction, file_dir_path):
+    official_score = 0    
+    print()
+    print()
+    print()
+    print(actual)
+    print()
+    print(prediction)
+    for file_name in os.listdir(str(file_dir_path)+"/results"):
+        gt = actual.iloc[file_name]
+        pred = predict.iloc[file_name]
+
+        if actual=="TRUE" and pred=="TRUE":
+            official_score += 20
+        elif actual=="TRUE" and pred=="FALSE":
+            official_score -= 20
+        elif actual=="TRUE" and pred=="REVIEW":
+            official_score += 10
+        elif actual=="FALSE" and pred=="TRUE":
+            official_score -= 2
+        elif actual=="FALSE" and pred=="FALSE":
+            official_score += 2
+        elif actual=="FALSE" and pred=="REVIEw":
+            official_score -= 1
+    return official_score
+
+
+def accuracy(X, y, W):
+    yes, no = 0, 0
+    testRows = X.shape[0]
+
+    for i in range(testRows):
+        fv = X[i]                
+        actual = y[i]
+        prediction = predict(fv, W)
+
+        if actual == prediction:
+            yes += 1
+        else:
+            no += 1
+    score = (yes/(yes+no)) * 100 
+    return score, no
+
+
+
+
 
 def main():
     # Get the path of the directory where this script is in
@@ -90,6 +139,13 @@ def main():
         os.makedirs(output_dir, exist_ok=True)
         save_dict_as_pickle(labels, output_dir / 'crawler_labels.pkl')
         print("Please place the files in the corresponding folder")
+
+    gt = pd.read_csv(str(script_dir_path_parent) +"/results/labels.csv", header=0)
+pd.merge(T1, T2, on=T1.index, how='outer')    pred = pd.read_pickle(str(script_dir_path_parent) +"/results/crawler_labels.pkl")
+    pred = pd.DataFrame.from_dict(pred, orient='index')
+    print(pred)
+    print(evaluator(gt, pred,script_dir_path_parent))
+    print(accuracy(gt, pred))
 
 
 if __name__ == "__main__":
