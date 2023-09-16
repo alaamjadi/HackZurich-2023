@@ -21,14 +21,42 @@ things are satisfied:
 import os
 from pathlib import Path
 import pickle
+### Use the magic library for classifying files by their signatures
+import magic
+
 
 
 def save_dict_as_pickle(labels, filename):
     with open(filename, "w+b") as handle:
         pickle.dump(labels, handle, protocol=pickle.HIGHEST_PROTOCOL)
-        handle.close()
+    handle.close()
+
+    # import pandas as pd
+    # with open(filename, "rb") as f:
+    #     object = pickle.load(f)
+    # df = pd.DataFrame([object])
+    # df = df.transpose()
+    # df.to_csv('../results/prettyResults.csv')
+
+def im2text(im):
+    import pytesseract
+    from PIL import Image, ImageEnhance, ImageFilter
+
+    im = Image.open(im)
+    im = im.filter(ImageFilter.MedianFilter())
+    enhancer = ImageEnhance.Contrast(im)
+    im = enhancer.enhance(2)
+    im = im.convert('1')
+    im.save('tmp.jpg')
+    text = pytesseract.image_to_string(Image.open('tmp.jpg'))
+    print(text)
+
 
 def classifier(file_path):
+    
+    m=magic.open(magic.MAGIC_NONE)
+    m.file(file_path)
+
     # Check the data type
     if file_path.suffix == ".txt":
         # Open the file to read out the content
