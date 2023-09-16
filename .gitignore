@@ -1,3 +1,7 @@
+# Ignore the files folder
+files/**
+files-test/**
+
 # Custom ignores
 crawler_labels.pkl
 
