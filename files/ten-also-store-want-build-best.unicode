@@ -1,0 +1,103 @@
+<09:50AM KNBC> Any info on Tarzana, CA in san fernando?
+<09:51AM DrStupid> near the CSUN campus
+<09:51AM KFWB> [repeat] DVP advises boiling drinking water for health reasons
+<09:51AM NPR_News> NPR's Talk of the Nation will devote its first hour (2 pm EST) to coverage of the Earthquake.
+--> "+v More" mode change by KNBC on #earthquake
+bzcat /builds/free-electrons/toolchains-builder/buildroot/dl/busybox-1.26.2.tar.bz2 | tar --strip-components=1 -C /builds/free-electrons/toolchains-builder/build/tmp/test-x86-64-core-i7--uclibc--stable/build/busybox-1.26.2   -xf -
+        Model:              hElasticLHEP: 0 eV /n ---> 100.1 MeV/n
+[     34812] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Presence.asmx/ReplaceAttributes
+[     37984] Getting auth ticket for pipe appID 218 - should be 218.
+1999-016     1999 Apr  2 2203     1999-016A      Insat 2E                       Insat 2E                  S25666  Ariane 42P             V117             CSG ELA2                 0.0
+1999-042     1999 Aug 12 2252     1999-042A      Telkom 1                       Telkom 1                  S25880  Ariane 42P             V118             CSG ELA2                 0.0
+1999-046     1999 Sep  4 2234     1999-046A      Mugunghwa 3                    Koreasat 3                S25894  Ariane 42P             V120             CSG ELA2                 0.0
+1999-052     1999 Sep 25 0629     1999-052A      Telstar 7                      Telstar 7                 S25922  Ariane 44LP            V121             CSG ELA2                 0.0
+1999-059     1999 Oct 19 0622     1999-059A      Orion 2                        Orion 2                   S25949  Ariane 44LP            V122             CSG ELA2                 0.0
+[22:42:47] Sports: [+] 8087/8698 new URL - http://mwm-zahid.com.ua/index.php/component/users/?view=login
+[22:42:47] Sai: [-] 8094/8249 no engine matches (HTTP-Status: 500) - https://chemringmarine.com/__media__/js/netsoltrademark.php?d=fitnessloss.at.ua
+   950K .......... .......... .......... .......... .......... 48% 1.19M 2s
+adjtimex (ADJTIMEX) [N/y/?] n
+bbconfig (BBCONFIG) [N/y/?] n
+beep (BEEP) [N/y/?] n
+=== START import 2016-05-17 00:46:36 ===
+Importing categories...
+0 K2 categories imported
+[2023.05.20-22.07.39:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.05.20-22.07.39:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+tdf#113856 Navigator: Bad behaviour of controllers when changing slides [martinb214]
+tdf#113860 Selecting a recent or favorite special character is not applied by OK in bullets and numbering dialog [Mark Vecsernyes]
+tdf#113861 Chart data regions reduced in favor of labels [Eike Rathke, Vasily Melenchuk]
+tdf#113876 Parsing outline level only setted in english language on docsh2.cxx:1026 [Ahmed GHANMI]
+tdf#113877 Importing a document with numbered bullet points messes up numbering [Serge Krot]
+tdf#113901 UI: Comments for distant rows and columns are drawn shifted [Vasily Melenchuk]
+tdf#113907 Remove StartModuleCommands.xcu completely [Stephan Bergmann]
+tdf#113911 UI Text Language "More" button does not work [Henry Castro]
+tdf#113918 1bpp non-B&W PNG images are mishandled on Linux in all vcl "backends" ("plugins") [Vasily Melenchuk]
+tdf#113925 Paragraph dialog: Doubleclick on ruler should open "tabs" instead of "Indents & Spacing" [Nickson Thanda]
+tdf#113928 Read-only checkbox/toggle UNO command [Maxim Monastirsky, Gulsah Kose]
+tdf#113959 svxlo-FrameDirectionListBox should be used rather than GtkComboBox for text direction drop down list [Gabor Kelemen]
+tdf#113979 Paste unformated text does not ignore empty cells [Eike Rathke, Laurent BP]
+tdf#114013 Compound strings in Writer: "Text Format " + "(Search)" or "(Replace)" [Gabor Kelemen]
+tdf#114117 draw: page shadow issue. [Stephan Bergmann]
+tdf#114122 Double click in special character dialog inserts a character into the document, even when the dialog is only opened to select a single character [Mark Vecsernyes]
+tdf#114132 Tiling bitmaps does not work for charts (Format Wall) [Katarina Behrens]
+tdf#114173 FILESAVE XLSX Custom size of chart legend is not preserved when the file is saved as XLSX [Caolán McNamara]
+tdf#114180 FILESAVE XLSX Many custom chart wall properties are not preserved when the spreadsheet is saved as XLSX [Markus Mohrhard]
+tdf#114182 FILESAVE XLSX Pie chart slice moved back by LibreOffice Calc [Markus Mohrhard]
+tdf#114200 FILEOPEN: "Text Import" dialog: option to trim whitespace [Gabor Kelemen, manujvashist]
+tdf#114204 Clarify the "Local Help not installed" message [tagezi]
+tdf#114206 Remove duplication of strings found in StartModuleCommands.xcu [Yousuf Philips, Stephan Bergmann]
+tdf#114232 function ISERROR() doesn't work [Eike Rathke, Zdeněk Crhonek]
+tdf#114242 Menu/LibreOffice/Help/LibreOffice Help/[Content] -> Crash [Michael Stahl]
+tdf#114251 Hang loading spreadsheet [Eike Rathke]
+tdf#114256 Regression: Print Range not working anymore (Format - Page - Sheet - Scale) [Tomaž Vajngerl]
+tdf#114260 Customization button missing from menu, toolbar and context menus tab of customization dialog [Muhammet Kara]
+tdf#114261 Modifying a toolbar entry with a set toolbar:style attribute causes the attribute to be removed [Maxim Monastirsky]
+tdf#114286 Move uno command entries from module specific xcu file to GenericCommands.xcu [Yousuf Philips]
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+Run jekyll: jekyll build --destination "/scratch/ig-build-temp-JHXSGN/repo/output" (in folder /scratch/ig-build-temp-JHXSGN/repo/temp/pages) (22:53.161)
+Jekyll: Source: /scratch/ig-build-temp-JHXSGN/repo/temp/pages                    (22:53.489)
+Jekyll: Generating...                                                            (22:53.489)
+Jekyll: done in 4.513 seconds.                                                   (22:58.001)
+Checking Output HTML                                                             (23:04.431)
+0 categories imported
+Importing posts...
+ciInstanceKlass java/lang/ReflectiveOperationException 1 1 27 10 10 10 10 100 7 1 1 1 5 0 1 1 1 1 1 1 1 1 1 12 12 12 12 1 1
+ciInstanceKlass java/lang/ClassNotFoundException 1 1 32 100 10 10 9 100 7 1 1 1 5 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 1 1 1
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.security.BaseSecurityFilter.doFilter(BaseSecurityFilter.java:57) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+12:32:06 T:7432   DEBUG: Invalid item definition in "items" for type channels
+12:32:06 T:7432 WARNING: JSONRPC: Could not parse type "PVR.Details.ChannelGroup.Extended"
+12:32:06 T:7432    INFO: JSONRPC: Adding type "PVR.Details.ChannelGroup.Extended" to list of incomplete definitions (waiting for "PVR.Details.Channel")
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+instanceKlass com/android/dx/rop/cst/CstFieldRef
+[2023.05.20-22.07.40:540][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+Underfull \hbox (badness 1337) in paragraph at lines 3065--3078
+\OT1/ppl/m/n/12 friendly in-fras-truc-ture plan-ning in bei-jing and copenhagen-between
+ Will use up to   40 processors via shared memory.
+ %chk=Test14.chk
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+petty+officer+jonathan+campos	01.08.2009 21:44:55	http://www.google.com/search?client=safari&rls=en-us&q=Petty+Officer+Jonathan+Campos&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	76.97.91.122
+[      1829] [    SteamChild]             MainThrd/ CitizenFX Steam child starting - command line: "H:\FiveM Clean\FiveM.app\data\cache\subprocess\FiveM_SteamChild.exe" -steamchild:6640
+ PROC_COUNT N14 : ionInelastic = 3
+ PROC_COUNT N14 : ALL = 101495
+ PROC_COUNT N15 : Transportation = 67107
+ PROC_COUNT N15 : ALL = 67107
+ PROC_COUNT N16 : Transportation = 889
+[   1962515] overriding handle for mp_f_freemode_01/accs_diff_012_m_uni.ytd (was 4cd0100) -> 208
+[   1962531] overriding handle for mp_f_freemode_01/accs_diff_012_n_uni.ytd (was 4cd0101) -> 209
+[   1962531] overriding handle for mp_f_freemode_01/accs_diff_012_o_uni.ytd (was 4cd0102) -> 20a
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Bulgarian ЯВЕРТЪ" successfully loaded
+21:38:12 T:139832867932032    INFO: Pixel Ratio: 1.065844
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/about/careers/customer-experience-agent' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/about/careers/customer-experience-supervisor' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.

@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Druid - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6ODQsImlzcyI6ImNvdW50ZXI6c3lzdGVtIiwibmJmIjoxNjk0NjE0MTc0fQ.ipYHOigZQq2LA7NR-4k5yaWFtN9HClR7FTZJiXQhJjQ">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/druid" />
+<meta name="twitter:url" content="https://dbdb.io/db/druid" />
+<meta property="og:title" content="Database of Databases &mdash; Druid" />
+<meta property="og:description" content="Apache Druid is an open-source distributed real-time analytics database designed for business intelligence (OLAP) queries on streaming and historical data.  It is optimized for time series scans and aggregations. It supports loading data from both deep storage system like HDFS and streaming sources…" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/druid.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; Druid" />
+<meta name="twitter:description" content="Apache Druid is an open-source distributed real-time analytics database designed for business intelligence (OLAP) queries on streaming and historical data.  It is optimized for time series scans and …" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/druid.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/druid/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+Druid
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<p class="card-text">
+<p>Apache Druid is an open-source distributed real-time analytics database designed for business intelligence (OLAP) queries on streaming and historical data. It is optimized for time series scans and aggregations. It supports loading data from both deep storage system like HDFS and streaming sources like Kafka. Internally, Druid uses Zookeeper for cluster node coordination, a relational database like MySQL or Postgres to keep track of metadata, and a deep storage system such as HDFS for storing data. Druid also has low latency between the event creation and when it can be queried, which makes Druid desirable for real-time analytics. Druid stores incoming data in a unique format called a segment to allow fast aggregations for arbitrary dimensionalities of data. Druid is commonly used to power GUI-based analytical BI apps via JDBC and as a backend for AI apps via REST API. Druid is also used for clickstream analytics, network telemetry analytics, application performance analytics, advertising analytics.</p>
+</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://druid.apache.org/druid-powered">https://druid.apache.org/druid-powered</a></li>
+<li><a target="_blank" href="https://druid.apache.org/technology">https://druid.apache.org/technology</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>Druid was originally developed by engineers at Metamarkets to solve the problem of analyzing high dimensional data set in real-time. Scan and aggregation of billions of records in traditional relational databases are not fast enough, and pre-computing aggregations with NoSQL architecture requires unacceptably long processing time which creates high latency between event occurrence and its availability for querying. Druid was released in April, 2011 to address the need for fast, real-time analytics for high dimensional time series data. It was open sourced in Oct, 2012 and is under active development.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://static.druid.io/docs/druid.pdf">http://static.druid.io/docs/druid.pdf</a></li>
+<li><a target="_blank" href="https://druid.apache.org/blog/2011/04/30/introducing-druid.html">https://druid.apache.org/blog/2011/04/30/introducing-druid.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=multi-version-concurrency-control-mvcc">Multi-version Concurrency Control (MVCC)</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://druid.io/blog/2012/10/24/introducing-druid.html">http://druid.io/blog/2012/10/24/introducing-druid.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=column-family">Column Family / Wide-Column</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="indexes" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Indexes
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?indexes=btree">B+Tree</a>
+</p>
+<p><p>Druid index documents into data segment when data are first ingested.</p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="joins" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Joins
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?joins=sort-merge-join">Sort-Merge Join</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://druid.apache.org/docs/latest/querying/joins.html">https://druid.apache.org/docs/latest/querying/joins.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="logging" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Logging
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?logging=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://druid.io/docs/latest/dependencies/deep-storage.html">http://druid.io/docs/latest/dependencies/deep-storage.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-compilation" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Compilation
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-compilation=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-execution=tuple-at-a-time-model">Tuple-at-a-Time Model</a>
+<a class="badge badge-info" href="/browse?query-execution=vectorized-model">Vectorized Model</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://druid.apache.org/docs/latest/querying/query-execution.html">https://druid.apache.org/docs/latest/querying/query-execution.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=custom-api">Custom API</a>
+<a class="badge badge-info" href="/browse?query-interface=sql">SQL</a>
+<a class="badge badge-info" href="/browse?query-interface=http-rest">HTTP / REST</a>
+</p>
+<p><p>Druid uses customized query interface expressed in JSON for metadata, aggregation and search. Druid provides support for SQL via Apache Calcite.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://druid.apache.org/docs/latest/querying/sql.html">https://druid.apache.org/docs/latest/querying/sql.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=hybrid">Hybrid</a>
+</p>
+<p><p>Druid was built with all in-memory. However such choice is costly given large amount of data. It then switches to use a combination of memory and disk pages and allow users to customize the behavior.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://druid.apache.org/faq.html">https://druid.apache.org/faq.html</a></li>
+<li><a target="_blank" href=" https://druid.apache.org/docs/latest/design/design.html"> https://druid.apache.org/docs/latest/design/design.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=decomposition-storage-model-columnar">Decomposition Storage Model (Columnar)</a>
+</p>
+<p><p>Druid uses segments files to stores its index. A segment file is a basically a columnar storage model consists of three basic column types: timestamp columns, dimension columns and metric columns. This structure allows fast aggregation across different fields.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://druid.io/docs/latest/design/segments.html">http://druid.io/docs/latest/design/segments.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="stored-procedures" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Stored Procedures
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?stored-procedures=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-nothing">Shared-Nothing</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://static.druid.io/docs/druid.pdf">http://static.druid.io/docs/druid.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/druid/revisions/" title="View All Revisions for Druid">
+<div class="card-body">
+Revision #11
+&nbsp;|&nbsp;
+<time datetime="2022-06-27T07:36:35.789000-04:00">
+Updated 06/27/2022 7:36 a.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/kudu" title="Kudu">
+<img class="logo-recommendation" src="/media/logos/apache-kudu.png.200x50_q85.png" alt="Kudu" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/clickhouse" title="ClickHouse">
+<img class="logo-recommendation" src="/media/logos/clickhouse.svg" alt="ClickHouse" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/delta-lake" title="Delta Lake">
+<img class="logo-recommendation" src="/media/logos/delta-lake.svg" alt="Delta Lake" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/monetdb" title="MonetDB">
+<img class="logo-recommendation" src="/media/logos/monetdb.png.200x50_q85.png" alt="MonetDB" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/druid.svg"><img class="logo-thumbnail" src="/media/logos/druid.svg" style="border:none;" alt="Druid Logo" title="Druid"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="https://druid.apache.org">https://druid.apache.org</a></p>
+<h6 class="card-title">Source Code</h6>
+<p class="card-text"><a href="https://github.com/apache/druid">https://github.com/apache/druid</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="https://druid.apache.org/docs/latest/design/">https://druid.apache.org/docs/latest/design/</a></p>
+<h6 class="card-title">Twitter</h6>
+<p class="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" /></svg> <a target="twitter" href="https://twitter.com/druidio"> @druidio</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">Metamarkets</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=US" title="View other systems from United States of America">
+<i class="flag-sprite flag-u flag-_s"></i>
+US
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2011</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://druid.apache.org/blog/2011/04/30/introducing-druid.html">https://druid.apache.org/blog/2011/04/30/introducing-druid.html</a></li>
+</ul>
+</cite>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=open-source" title="View other Open Source systems">Open Source</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=java" title="View other systems that are written in Java">Java</a>
+</p>
+<h6 class="card-title">Supported languages</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?supported=clojure" title="View other systems that support Clojure">Clojure</a>, <a class="card-title" href="/browse?supported=java" title="View other systems that support Java">Java</a>, <a class="card-title" href="/browse?supported=javascript" title="View other systems that support JavaScript">JavaScript</a>, <a class="card-title" href="/browse?supported=php" title="View other systems that support PHP">PHP</a>, <a class="card-title" href="/browse?supported=python" title="View other systems that support Python">Python</a>, <a class="card-title" href="/browse?supported=r" title="View other systems that support R">R</a>, <a class="card-title" href="/browse?supported=ruby" title="View other systems that support Ruby">Ruby</a>, <a class="card-title" href="/browse?supported=scala" title="View other systems that support Scala">Scala</a>
+</p>
+<h6 class="card-title">Operating Systems</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?os=aix" title="View other systems that support AIX systems">AIX</a>, <a class="card-title" href="/browse?os=bsd" title="View other systems that support BSD systems">BSD</a>, <a class="card-title" href="/browse?os=hosted" title="View other systems that support Hosted systems">Hosted</a>, <a class="card-title" href="/browse?os=hp-ux" title="View other systems that support HP-UX systems">HP-UX</a>, <a class="card-title" href="/browse?os=linux" title="View other systems that support Linux systems">Linux</a>, <a class="card-title" href="/browse?os=os-x" title="View other systems that support OS X systems">OS X</a>, <a class="card-title" href="/browse?os=solaris" title="View other systems that support Solaris systems">Solaris</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=apache-v2" title="View other systems that use Apache v2">Apache v2</a>
+</p>
+<h6 class="card-title">Wikipedia</h6>
+<p class="card-text"><a target="wikipedia" href="https://en.wikipedia.org/wiki/Apache_Druid">https://en.wikipedia.org/wiki/Apache_Druid</a></p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/druid/revisions/" title="View All Revisions for Druid">
+<div class="card-body">
+Revision #11
+&nbsp;|&nbsp;
+<time datetime="2022-06-27T07:36:35.789000-04:00">
+Updated 06/27/2022 7:36 a.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/kudu" title="Kudu">
+<img class="logo-recommendation" src="/media/logos/apache-kudu.png.200x50_q85.png" alt="Kudu" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/clickhouse" title="ClickHouse">
+<img class="logo-recommendation" src="/media/logos/clickhouse.svg" alt="ClickHouse" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/delta-lake" title="Delta Lake">
+<img class="logo-recommendation" src="/media/logos/delta-lake.svg" alt="Delta Lake" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/monetdb" title="MonetDB">
+<img class="logo-recommendation" src="/media/logos/monetdb.png.200x50_q85.png" alt="MonetDB" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#2f424e46436f4b4d4b4d014640" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="691ca467c6997c20fc2753de-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="691ca467c6997c20fc2753de-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="691ca467c6997c20fc2753de-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="691ca467c6997c20fc2753de-text/javascript"></script>
+<script type="691ca467c6997c20fc2753de-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="691ca467c6997c20fc2753de-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="691ca467c6997c20fc2753de-text/javascript"></script>
+<script type="691ca467c6997c20fc2753de-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="691ca467c6997c20fc2753de-text/javascript"></script>
+<script src="/static/core/js/system.js" type="691ca467c6997c20fc2753de-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="691ca467c6997c20fc2753de-|49" defer></script></body>
+</html>

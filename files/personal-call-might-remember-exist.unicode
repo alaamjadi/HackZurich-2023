@@ -1,0 +1,126 @@
+
+LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//6_nat_Carbon.z
+tdf#112689 Replace chained O(U)StringBuffer::append() with operator+ [Shubham Verma]
+tdf#112755 [NEWHELP] Reorder module Icons in top of the page [Olivier Hallot]
+tdf#112757 [NEWHELP] Improvements required in index search [Ilmari Lauhakangas]
+tdf#112758 [NEWHELP] Improve UX of online help pages on tabs attributes [Ilmari Lauhakangas]
+tdf#112886 FILESAVE DOCX: Each save adds a tab space to footnotes [Justin Luth]
+tdf#113070 Master document: No difference between subdocuments from a master created with outline level 1 and outline level 2 [Ahmed GHANMI]
+tdf#113183 FILEOPEN DOCX: Text box alignment "right" from "page" too far right (due to another text box?) [Miklos Vajna]
+tdf#113197 FILEOPEN: EMF+ Incorrect lines' height [Armin Le Grand]
+tdf#113239 UI Spin button field for Column spacing (in Sections / Page styles) changes with 0,01 cm :) [brian houston morrow]
+tdf#113258 FILEOPEN: Text in shape in a docx document is misplaced (partially cut) when opening in LO [Miklos Vajna]
+tdf#113275 Last line drop down and expand single word check box should only be show active for Justified [Jim Raykowski]
+tdf#113284 Crash opening index dialog [Zdeněk Crhonek]
+tdf#113377 Crash in: OpenGLContext::AcquireFramebuffer(OpenGLTexture const &) [Miklos Vajna]
+tdf#113413 LibO hangs at the JRE Required dialog when creating a New Database [Michael Stahl]
+tdf#113455 Impossible to clear "Width/Height in pages" after converting "Page style" sheet to Widget UI [Mike Kaganski]
+tdf#113481 EDITING: it takes multiple backspace to delete one ideographic variation sequence [Mark Hung]
+tdf#113558 Replace 'AutoFormat' button with table style listbox in insert table dialog [Gabor Kelemen, Furkan Tokac, heiko tietze]
+tdf#113572 Copying a chart converts data ranges to data table [Vasily Melenchuk]
+tdf#114477 Can't set character highlighting on a text box using sidebar highlighting icon. [Tamás Zolnai]
+tdf#114488 EDITING: Writer is showing a low res image when copy/pasting a WMF image from Draw to Writer [Samuel Mehrbrodt]
+tdf#114495 CRASH: A control of tables 'grid' inside a form gives me an error [Julien Nabet]
+tdf#114523 Make inline tooltip for track changes optional [heiko tietze]
+tdf#114525 WIKIHELP: Help <F1> and Help button in Conditional Formatting dialogs give empty page [Gabor Kelemen]
+tdf#114536 Crash on layout of specific document [Miklos Vajna]
+tdf#114550 OpenPGP decryption does not work [Thorsten Behrens]
+tdf#114552 Improve image anchoring in Calc [Samuel Mehrbrodt]
+tdf#114555 Calc does not give warning when opening file containing a sheet with more than 1024 columns [Eike Rathke]
+tdf#114596 External forms for a database doesn't save data - closing form with dataloss [Michael Stahl]
+tdf#114603 do not highlights text field Range with not correct range in dialogue "Conditional formatting for" [tagezi]
+tdf#114613 Repair function does not work after opening PPTX file [Tamás Zolnai]
+build	14-Jul-2020 09:19:53	[INFO] Searching for local aggregator root...
+build	14-Jul-2020 09:19:53	[INFO] Local aggregation root: D:\BambooAgent\xml-data\build-dir\EPDG-EPWBD-JOB1\epdg-app-aggregator
+jerry+garcia+birthday	01.08.2009 22:26:35	http://www.google.com/search?hl=en&client=safari&rls=en&q=jerry+garcia+birthday+tribute+santa+cruz&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	99.170.149.41
+[22:42:48] Digital Marketing: [-] 0141/7912 download failed (Return: -) - http://guysaperstein.com/?p=14
+[22:42:48] Make money online: [-] 7832/8047 download failed (Return: -) - http://www.search4sex.biz/cgi-bin/catalog.cgi?cmd=pages&page=221563815695362_1483078667
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.personalization.preview.filter.PreviewFilter.doFilter(PreviewFilter.java:92) [magnolia-personalization-preview-app-2.0.3.jar:?]
+ ---------------------------------------------------------------------
+      1          8           0        0.000000    0.000000    0.117176
+  Process: nCapture
+        Model:          NeutronHPCapture: 0 eV  ---> 20 MeV
+        Model:               nRadCapture: 19.9 MeV ---> 100 TeV
+     Cr_sctns:        NeutronHPCaptureXS: 0 eV  ---> 20 MeV
+     Cr_sctns:        G4NeutronCaptureXS: 0 eV  ---> 100 TeV
+Executing: mpicc -E  -I/tmp/petsc-uGvYRc/config.setCompilers -I/tmp/petsc-uGvYRc/config.headers  /tmp/petsc-uGvYRc/config.headers/conftest.c 
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/destination' with error code: 'null'.
+build	14-Jul-2020 09:19:57	[DEBUG] Extension realms for project com.XXXXXX.eps.epdg:epdg-app-aggregator:pom:1.0.16-SNAPSHOT: (none)
+tdf#115873 Shape selected in navigator is not selected in the main window [Miklos Vajna]
+tdf#115874 On Style dialog's Organizer tab, non-integer font size is shown rounded to integer [Mike Kaganski]
+tdf#115875 On Character Style dialog's Organizer tab, no indication of Western/Asian/CTL font groups (unlike Paragraph Style) [Mike Kaganski]
+tdf#115879 Odd behaviour of concatenated NOT functions [Eike Rathke]
+tdf#115880 Wrong Selection with „Navigate By“ Function [Jim Raykowski]
+
+      end
+[     48579] [    GTAProcess]  UV loop: httpClient/ 
+[22:42:46] Amazon: [-] 3696/7825 download failed (Return: -) - http://www.conpap.net/zenphoto/Giona14/Giona14_DSC5976.jpg.php
+		- Add function to keep original upload csv file and be able to download  
+		
+1M3	ALABAMA	ARDMORE	afd	se_4_25OCT2007.png
+26A	ALABAMA	ASHLAND-LINEVILLE	afd	se_4_25OCT2007.png
+0R1	ALABAMA	ATMORE MUNI	afd	se_5_25OCT2007.png
+AUO	ALABAMA	AUBURN-OPELIKA ROBERT G. PITTS	afd	se_5_25OCT2007.png
+1R8	ALABAMA	BAY MINETTE MUNI 	afd	se_6_25OCT2007.png
+5R7	ALABAMA	BAYOU LA BATRE ROY E. RAY	afd	se_6_25OCT2007.png
+EKY	ALABAMA	BESSEMER	afd	se_6_25OCT2007.png
+BHM	ALABAMA	BIRMINGHAM INTL	afd	se_7_25OCT2007.png
+04A	ALABAMA	LUVERNE FRANK SIKES	afd	se_30_25OCT2007.png
+A08	ALABAMA	MARION VAIDEN FLD	afd	se_31_25OCT2007.png
+MXF	ALABAMA	MAXWELL AFB 	afd	se_31_25OCT2007.png
+BFM	ALABAMA	MOBILE DOWNTOWN	afd	se_32_25OCT2007.png
+MOB	ALABAMA	MOBILE RGNL	afd	se_33_25OCT2007.png
+MVC	ALABAMA	MONROEVILLE MONROE CO	afd	se_33_25OCT2007.png
+MGM	ALABAMA	MONTGOMERY RGNL-DANNELLY FLD	afd	se_34_25OCT2007.png
+L44	ALABAMA	MOUNDVILLE	afd	se_34_25OCT2007.png
+MSL	ALABAMA	MUSCLE SHOALS NORTHWEST ALABAMA RGNL	afd	se_35_25OCT2007.png
+20A	ALABAMA	ONEONTA ROBBINS FLD	afd	se_35_25OCT2007.png
+71J	ALABAMA	OZARK BLACKWELL FLD	afd	se_36_25OCT2007.png
+PLR	ALABAMA	PELL CITY ST CLAIR CO	afd	se_36_25OCT2007.png
+71A	ALABAMA	PINE HILL MUNI	afd	se_36_25OCT2007.png
+1A9	ALABAMA	PRATTVILLE-GROUBY FLD	afd	se_37_25OCT2007.png
+HUA	ALABAMA	REDSTONE AAF 	afd	se_37_25OCT2007.png
+3M8	ALABAMA	REFORM NORTH PICKENS	afd	se_37_25OCT2007.png
+7A5	ALABAMA	ROANOKE MUNI	afd	se_38_25OCT2007.png
+M22	ALABAMA	RUSSELLVILLE MUNI	afd	se_38_25OCT2007.png
+2R5	ALABAMA	ST ELMO	afd	se_38_25OCT2007.png
+1A4	ALABAMA	SAMSON LOGAN FLD	afd	se_39_25OCT2007.png
+4A6	ALABAMA	SCOTTSBORO MUNI	afd	se_39_25OCT2007.png
+SEM	ALABAMA	SELMA CRAIG FLD	afd	se_39_25OCT2007.png
+[   1928797] ResourceCacheDevice: downloaded resource.rpf in 318 msec (size 131072)
+
+] [79] [80] [81] [82]
+ PROC_COUNT deuteron : ALL = 410740
+ PROC_COUNT gamma : Transportation = 1419140
+build	14-Jul-2020 09:19:57	[DEBUG] Style:   Regular
+build	14-Jul-2020 09:19:57	[DEBUG] =======================================================================
+build	14-Jul-2020 09:19:57	[INFO]                                                                         
+build	14-Jul-2020 09:19:57	[INFO] ------------------------------------------------------------------------
+build	14-Jul-2020 09:19:57	[INFO] Building epdg-app Aggregator Project 1.0.16-SNAPSHOT
+build	14-Jul-2020 09:19:57	[INFO] ------------------------------------------------------------------------
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle default -> [validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy]
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle clean -> [pre-clean, clean, post-clean]
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle site -> [pre-site, site, post-site, site-deploy]
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle default -> [validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy]
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle clean -> [pre-clean, clean, post-clean]
+build	14-Jul-2020 09:19:57	  <pluginArtifacts>${plugin.artifacts}</pluginArtifacts>
+build	14-Jul-2020 09:19:57	  <project>${project}</project>
+build	14-Jul-2020 09:19:57	  <sourceRoot>${sourceRoot}</sourceRoot>
+build	14-Jul-2020 09:19:57	  <target>
+build	14-Jul-2020 09:19:57	    <copy todir="D:\BambooAgent\xml-data\build-dir\EPDG-EPWBD-JOB1\epdg-app-aggregator\target\classes" failonerror="false" overwrite="true">
+build	14-Jul-2020 09:19:57	      <fileset dir="D:\BambooAgent\xml-data\build-dir\EPDG-EPWBD-JOB1\epdg-app-aggregator\target\classes">
+build	14-Jul-2020 09:19:57	        <exclude name="**/*.class"/>
+build	14-Jul-2020 09:19:57	      </fileset>
+build	14-Jul-2020 09:19:57	      <mapper from="^(.*)-LOCAL\.(.*)$$" to="\1\.\2" type="regexp"/>
+build	14-Jul-2020 09:19:57	    </copy>
+build	14-Jul-2020 09:19:57	  </target>
+build	14-Jul-2020 09:19:57	  <testSourceRoot>${testSourceRoot}</testSourceRoot>
+build	14-Jul-2020 09:19:57	  <versionsPropertyName default-value="maven.project.dependencies.versions"/>
+build	14-Jul-2020 09:19:57	</configuration>
+build	14-Jul-2020 09:19:57	[DEBUG] -----------------------------------------------------------------------
+build	14-Jul-2020 09:19:57	[DEBUG] Goal:          org.apache.maven.plugins:maven-install-plugin:2.3.1:install (default-install)
+build	14-Jul-2020 09:19:57	[DEBUG] Style:         Regular
+build	14-Jul-2020 09:19:57	[DEBUG] Configuration: <?xml version="1.0" encoding="UTF-8"?>
+build	14-Jul-2020 09:19:57	<configuration>

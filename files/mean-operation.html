@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AlloyDB - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6ODY2LCJpc3MiOiJjb3VudGVyOnN5c3RlbSIsIm5iZiI6MTY5NDYxNDA1Nn0.XicJ7ZoiNDUk40dhaEh4NnTFuFhwQdn50IBuK46x1c8">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/alloydb" />
+<meta name="twitter:url" content="https://dbdb.io/db/alloydb" />
+<meta property="og:title" content="Database of Databases &mdash; AlloyDB" />
+<meta property="og:description" content="AlloyDB is a fully-managed database system that is a fork from PostgreSQL created by Google Cloud. AlloyDB separates the database layer from the storage layer. The disaggregated storage layer first handles write operations by writing the write-ahead log (WAL) to storage. A log processing service (L…" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/alloydb.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; AlloyDB" />
+<meta name="twitter:description" content="AlloyDB is a fully-managed database system that is a fork from PostgreSQL created by Google Cloud. AlloyDB separates the database layer from the storage layer. The disaggregated storage layer first h…" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/alloydb.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/alloydb/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+AlloyDB
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<p class="card-text">
+<p>AlloyDB is a fully-managed database system that is a fork from PostgreSQL created by Google Cloud. AlloyDB separates the database layer from the storage layer. The disaggregated storage layer first handles write operations by writing the write-ahead log (WAL) to storage. A log processing service (LPS) then processes these WAL records and generates database blocks. The storage layer can be independently sharded and replicated for durability due to its disaggregated nature. For read operations, the read query can be processed either by the primary instance or a replica instance, which can be independently scaled. Results are returned if the data block is in the instance’s memory cache. If not, a fetch request is sent to the storage layer. AlloyDB further extends the caching capacity of the read instance by using local SSD as cache as well. </p>
+<p>AlloyDB also uses an automatic adaptive columnar engine, memory management, and vacuum. The adaptive columnar engine utilizes a machine learning approach to determine the optimal data storage format for the workload and applies potential optimizations for query processing. Additionally, AlloyDB employs automatically adjusted memory management and vacuum techniques.</p>
+<p>In addition, AlloyDB announced an edition AlloyDB Omni which containerizes the AlloyDB database engine to be deployed in Linux environments.</p>
+</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage">https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="checkpoints" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Checkpoints
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?checkpoints=non-blocking">Non-Blocking</a>
+</p>
+<p><p>In AlloyDB, WAL records are written to the storage layer synchronously by the primary database instance. Then, the log processing service in the storage layer is responsible for replaying the logs continuously. AlloyDB supports checkpoints but there is no need for flushing the changes in the database layer to the storage layer.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage">https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=multi-version-concurrency-control-mvcc">Multi-version Concurrency Control (MVCC)</a>
+<a class="badge badge-info" href="/browse?concurrency-control=two-phase-locking-deadlock-detection">Two-Phase Locking (Deadlock Detection)</a>
+</p>
+<p><p>AlloyDB supports MVCC and Two-Phase Locking.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.postgresql.org/docs/7.1/mvcc.html">https://www.postgresql.org/docs/7.1/mvcc.html</a></li>
+<li><a target="_blank" href="https://www.interdb.jp/pg/pgsql05.html">https://www.interdb.jp/pg/pgsql05.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=object-relational">Object-Relational</a>
+</p>
+<p><p>AlloyDB is an object-relational database.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.postgresql.org/docs/current/intro-whatis.html">https://www.postgresql.org/docs/current/intro-whatis.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="foreign-keys" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Foreign Keys
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?foreign-keys=supported">Supported</a>
+</p>
+<p><p>AlloyDB supports foreign keys</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.postgresql.org/docs/current/tutorial-fk.html">https://www.postgresql.org/docs/current/tutorial-fk.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="indexes" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Indexes
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?indexes=hash-table">Hash Table</a>
+<a class="badge badge-info" href="/browse?indexes=bw-tree">Bw-Tree</a>
+<a class="badge badge-info" href="/browse?indexes=inverted-index-full-text">Inverted Index (Full Text)</a>
+<a class="badge badge-info" href="/browse?indexes=block-range-index">Block Range Index (BRIN)</a>
+</p>
+<p><p>AlloyDB provides the same index types as PostgreSQL: B-tree, Hash, GIST, SP-GIST, GIN and BRIN index types.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.postgresql.org/docs/current/indexes-types.html#INDEXES-TYPE-GIST">https://www.postgresql.org/docs/current/indexes-types.html#INDEXES-TYPE-GIST</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="isolation-levels" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Isolation Levels
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?isolation-levels=read-uncommitted">Read Uncommitted</a>
+<a class="badge badge-info" href="/browse?isolation-levels=read-committed">Read Committed</a>
+<a class="badge badge-info" href="/browse?isolation-levels=serializable">Serializable</a>
+<a class="badge badge-info" href="/browse?isolation-levels=repeatable-read">Repeatable Read</a>
+</p>
+<p><p>Isolation level in AlloyDB can be set through the configuration flag "default_transaction_isolation", where it can be set to either “read uncommitted”, “read committed”, “repeatable read”, or “serializable”. By default, the isolation level is set to "read committed".</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://cloud.google.com/alloydb/docs/reference/database-flags">https://cloud.google.com/alloydb/docs/reference/database-flags</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="joins" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Joins
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?joins=nested-loop-join">Nested Loop Join</a>
+<a class="badge badge-info" href="/browse?joins=hash-join">Hash Join</a>
+<a class="badge badge-info" href="/browse?joins=sort-merge-join">Sort-Merge Join</a>
+<a class="badge badge-info" href="/browse?joins=index-nested-loop-join">Index Nested Loop Join</a>
+</p>
+<p><p>AlloyDB supports the following three join strategies: nested loop join and it is possible to utilize the values from the row of the left relation as keys for scanning the right relation's index given that the right relation can be processed with index scan, merge join and hash join.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.postgresql.org/docs/current/planner-optimizer.html">https://www.postgresql.org/docs/current/planner-optimizer.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="logging" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Logging
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?logging=physical-logging">Physical Logging</a>
+</p>
+<p><p>AlloyDB uses the same logging format as PostgreSQL, which uses physical logging</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.interdb.jp/pg/pgsql09.html">https://www.interdb.jp/pg/pgsql09.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="parallel-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Parallel Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?parallel-execution=intra-operator">Intra-Operator (Horizontal)</a>
+<a class="badge badge-info" href="/browse?parallel-execution=inter-operator">Inter-Operator (Vertical)</a>
+</p>
+<p><p>AlloyDB supports both inter-operation parallelism, allowing for parallel execution of parts of the plan, and intraoperator parallelism, enabling partitioning and sharing of specific operators such as scans, joins, aggregation, and append across multiple processes.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.postgresql.org/docs/current/how-parallel-query-works.html">https://www.postgresql.org/docs/current/how-parallel-query-works.html</a></li>
+<li><a target="_blank" href="https://www.postgresql.org/docs/current/parallel-plans.html#PARALLEL-SCANS">https://www.postgresql.org/docs/current/parallel-plans.html#PARALLEL-SCANS</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-compilation" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Compilation
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-compilation=not-supported">Not Supported</a>
+</p>
+<p><p>AlloyDB does not support code generation or JIT optimization.</p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-execution=tuple-at-a-time-model">Tuple-at-a-Time Model</a>
+<a class="badge badge-info" href="/browse?query-execution=vectorized-model">Vectorized Model</a>
+</p>
+<p><p>The columnar engine of AlloyDB uses a vectorized model where SIMD instructions are used when deemed suitable. Bloom filters are also used for optimization purposes, depending on the selectivity of the workload. The row-based engine uses the traditional postgreSQL execution node with Tuple-at-a-Time model.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine">https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=sql">SQL</a>
+<a class="badge badge-info" href="/browse?query-interface=stored-procedures">Stored Procedures</a>
+</p>
+<p><p>AlloyDB supports SQL and Stored Procedures. Additional REST API and CLI tools are available for managing the database system resources including Google Cloud projects, project backups, clusters, cluster instances, etc.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.postgresql.org/docs/current/sql-createprocedure.html">https://www.postgresql.org/docs/current/sql-createprocedure.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=disk-oriented">Disk-oriented</a>
+</p>
+<p><p>For AlloyDB, all the WAL records are written synchronously to the storage layer, where the records get processed by the log processing service.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage">https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=decomposition-storage-model-columnar">Decomposition Storage Model (Columnar)</a>
+<a class="badge badge-info" href="/browse?storage-model=n-ary-storage-model-rowrecord">N-ary Storage Model (Row/Record)</a>
+</p>
+<p><p>AlloyDB stores the data in the storage layer following the same format as PostgreSQL. However, a columnar engine is used where the data that gets loaded into memory can take on either the row-based format or the columnar format based on the workload, which is decided using machine learning models. As a result, query optimizations relating to columnar formats can be applied to the relevant data.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine">https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-organization" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Organization
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-organization=heaps">Heaps</a>
+</p>
+<p><p>PostgreSQL uses heap files to store the database data. For AlloyDB, after the log processing service processes the WAL records, the resulting database blocks get sent back to the primary and replica instances from the storage layer.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage">https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage</a></li>
+<li><a target="_blank" href="https://rachbelaid.com/introduction-to-postgres-physical-storage/">https://rachbelaid.com/introduction-to-postgres-physical-storage/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="stored-procedures" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Stored Procedures
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?stored-procedures=supported">Supported</a>
+</p>
+<p><p>AlloyDB supports stored procedures. SQL, PL/pgSQL, and C are supported by default. In addition, extensions to PL/proxy and PL/v8 can be added to support additional procedural languages.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.postgresql.org/docs/current/sql-createprocedure.html">https://www.postgresql.org/docs/current/sql-createprocedure.html</a></li>
+<li><a target="_blank" href="https://cloud.google.com/alloydb/docs/reference/extensions">https://cloud.google.com/alloydb/docs/reference/extensions</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-disk">Shared-Disk</a>
+</p>
+<p><p>AlloyDB disaggregates its database layer and its storage layer. As a result, each component of the database system becomes more elastic to scale. AlloyDB refers to the main unit of resource as a cluster, which consists of one primary instance and multiple read pool instances. The primary instance handles read/write requests while the read pool instances only have read access. The storage layer is shared between all cluster resources.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage">https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=virtual-views">Virtual Views</a>
+<a class="badge badge-info" href="/browse?views=materialized-views">Materialized Views</a>
+</p>
+<p><p>AlloyDB follows the same rule as PostgreSQL where both Materialized Views and Virtual Views are supported.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.postgresql.org/docs/current/rules-materializedviews.html">https://www.postgresql.org/docs/current/rules-materializedviews.html</a></li>
+<li><a target="_blank" href="https://www.postgresql.org/docs/current/sql-createview.html">https://www.postgresql.org/docs/current/sql-createview.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/alloydb/revisions/" title="View All Revisions for AlloyDB">
+<div class="card-body">
+Revision #13
+&nbsp;|&nbsp;
+<time datetime="2023-04-30T20:16:36.761000-04:00">
+Updated 04/30/2023 8:16 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/orioledb" title="OrioleDB">
+<img class="logo-recommendation" src="/media/logos/orioledb.svg" alt="OrioleDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/seafowl" title="Seafowl">
+<img class="logo-recommendation" src="/media/logos/seafowl.svg" alt="Seafowl" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/greptimedb" title="GreptimeDB">
+<img class="logo-recommendation" src="/media/logos/greptimedb.svg" alt="GreptimeDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/umbra" title="Umbra">
+<img class="logo-recommendation" src="/media/logos/umbra.svg" alt="Umbra" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/alloydb.svg"><img class="logo-thumbnail" src="/media/logos/alloydb.svg" style="border:none;" alt="AlloyDB Logo" title="AlloyDB"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="https://cloud.google.com/alloydb">https://cloud.google.com/alloydb</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="https://cloud.google.com/alloydb/docs/">https://cloud.google.com/alloydb/docs/</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">Google</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=US" title="View other systems from United States of America">
+<i class="flag-sprite flag-u flag-_s"></i>
+US
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2022</p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=commercial" title="View other Commercial systems">Commercial</a>
+</p>
+<h6 class="card-title">Derived From</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?derived=postgresql" title="View other systems derived from PostgreSQL">PostgreSQL</a>
+</p>
+<h6 class="card-title">Compatible With</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?compatible=postgresql" title="View other systems compatible with PostgreSQL">PostgreSQL</a>
+</p>
+<h6 class="card-title">Operating Systems</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?os=hosted" title="View other systems that support Hosted systems">Hosted</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=proprietary" title="View other systems that use Proprietary">Proprietary</a>
+</p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/alloydb/revisions/" title="View All Revisions for AlloyDB">
+<div class="card-body">
+Revision #13
+&nbsp;|&nbsp;
+<time datetime="2023-04-30T20:16:36.761000-04:00">
+Updated 04/30/2023 8:16 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/orioledb" title="OrioleDB">
+<img class="logo-recommendation" src="/media/logos/orioledb.svg" alt="OrioleDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/seafowl" title="Seafowl">
+<img class="logo-recommendation" src="/media/logos/seafowl.svg" alt="Seafowl" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/greptimedb" title="GreptimeDB">
+<img class="logo-recommendation" src="/media/logos/greptimedb.svg" alt="GreptimeDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/umbra" title="Umbra">
+<img class="logo-recommendation" src="/media/logos/umbra.svg" alt="Umbra" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#4825292124082c2a2c2a662127" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="d0518867b14cd26a2ff911c1-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="d0518867b14cd26a2ff911c1-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="d0518867b14cd26a2ff911c1-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="d0518867b14cd26a2ff911c1-text/javascript"></script>
+<script type="d0518867b14cd26a2ff911c1-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="d0518867b14cd26a2ff911c1-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="d0518867b14cd26a2ff911c1-text/javascript"></script>
+<script type="d0518867b14cd26a2ff911c1-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="d0518867b14cd26a2ff911c1-text/javascript"></script>
+<script src="/static/core/js/system.js" type="d0518867b14cd26a2ff911c1-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="d0518867b14cd26a2ff911c1-|49" defer></script></body>
+</html>

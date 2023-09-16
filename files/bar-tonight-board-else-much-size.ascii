@@ -1,0 +1,10 @@
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+Auger cascade enabled                             1
+[   1930718] ResourceCacheDevice: downloaded resource.rpf in 194 msec (size 22528)
+[   1930765] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 4dedd8d7f6ad770a83dd4818582f4f19b97de331) from http://139.99.125.59:30124/files/op-doors/resource.rpf
+[   1931031] ResourceCache::AddEntry: Saved cache:v1:4dedd8d7f6ad770a83dd4818582f4f19b97de331 to the index cache.
+<09:22AM tasm> spoken with James Lee Whitt FEMA

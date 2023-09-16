@@ -1,0 +1,515 @@
+[2023.05.20-22.07.40:212][  0]LogInit: Using OS detected locale (en-US).
+[     14984] somefunc found dlc_patchDay7NG:/!
+[     15000] LoadDefDats: dlc_patchDay7NGCRC:/content.xml
+tdf#98505 Pressing ENTER in SIDEBAR combobox/spinbox cause it to press ENTER in the document [Jim Raykowski]
+tdf#98931 Insert images into cells in Calc [Samuel Mehrbrodt]
+Errors: 0, Warnings: 0, Info: 0, Broken Links: 0 (24:09.754)
+Finished                                                                         (24:09.782)
+jonathan+campos	01.08.2009 22:11:58	http://www.google.com/search?hl=en&safe=off&q=%22Jonathan+Campos%22+lancaster&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	24.168.122.158
+drake+falls+on+stage	01.08.2009 22:12:18	http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&gfns=1&q=drake+falls+on+stage+may+not+return+to+tour	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	70.165.40.148
+buick+open+tee+times	01.08.2009 22:12:30	http://www.google.com/search?client=safari&rls=en-us&q=4th+round+tee+times+buick+open&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	99.145.164.187
+[2023.05.20-22.07.43:063][  0]LogDeviceProfileManager: 	[00000A60F9927E00][00000A60F9992800 52] Android_Mali_G710_Vulkan, 
+-- Build files have been written to: /data/richards/NBRTT/build/Geant4/build
+Scanning dependencies of target G4EMLOW
+[  0%] Creating directories for 'G4EMLOW'
+[  0%] Performing download step (download, verify and extract) for 'G4EMLOW'
+-- downloading...
+     src='http://geant4.cern.ch/support/source/G4EMLOW.6.32.tar.gz'
+     dst='/data/richards/NBRTT/build/Geant4/build/Externals/G4EMLOW-6.32/src/G4EMLOW.6.32.tar.gz'
+     timeout='1500 seconds'
+-- [download 0% complete]
+-- [download 1% complete]
+-- [download 2% complete]
+-- [download 3% complete]
+-- [download 4% complete]
+-- [download 5% complete]
+-- [download 6% complete]
+-- [download 7% complete]
+-- [download 8% complete]
+-- [download 9% complete]
+-- [download 10% complete]
+-- [download 11% complete]
+-- [download 12% complete]
+-- [download 13% complete]
+-- [download 14% complete]
+-- [download 15% complete]
+-- [download 16% complete]
+-- [download 17% complete]
+-- [download 18% complete]
+-- [download 19% complete]
+-- [download 20% complete]
+<09:16AM cavalier> Attack: We read you.
+<09:22AM B-Clinton> "we will do everything we can to help"
+<09:22AM tasm> spoken with James Lee Whitt FEMA
+<09:22AM DrStupid> Clinton - spoke wtih dir. of FEMA - he is on his way
+<09:22AM KNBC> One person please..
+<09:22AM DrStupid> Clinton - providing backup and resources
+*** Netsplit at 09:22:27 (polaris.ctr.columbia.edu mcphy0.med.nyu.edu)
+<09:22AM B-Clinton> "I believe that later today it will be possible for us to issue the federal emergency for california"
+<09:22AM tasm> and how many disasters (major) have we had in the last year?
+<09:22AM AttackYak> Clinton doesn't sound very upset about the earthquake
+<09:22AM tasm> in USA?
+<09:23AM B-Clinton> "we do know that at lesat 3 ppl have lost their lives"
+<09:23AM B-Clinton> "3 major freeways that are damaged"
+(CBSnetwrk/#earthquake) Folks... I'm bailing..  someone else might want to pick up the CBS network/KCBS stuff...
+<09:23AM tasm> aattack: doesnt sound like it
+(CBSnetwrk/#earthquake) Good Luck To All, I'll try to be back later...
+*** KNBC has changed the topic on channel #earthquake to Presidents speech on CBS, ABC -  Earthquake in LA 6.6 mags 4:31 PST
+<09:23AM tasm> heheheheheheheheh
+<09:23AM tasm> hehehe
+*** Netsplit at 09:23:34 (irc.nada.kth.se irc.ethz.ch)
+<09:23AM tasm> they interupted him when he started on MLK day!
+<09:23AM B-Clinton> (now Martin Luther King speech)
+<09:23AM tasm> bye china and se
+<09:23AM tasm> they interruped him and left!
+<09:23AM KNBC> Yes
+<09:23AM tasm> when he mentioned Martin Luther King..
+<09:24AM KNBC> went to weather
+<09:24AM DrStupid> NBC - 5 people dead in the 3story -> 2 story collapse
+<09:24AM tasm> unusual
+(KD4CQY/#earthquake) Amateur Radio Radiogram services available OUTBOUND of Sticken area.  Check# #ARES
+[     33125] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Friends.asmx/GetBlocked
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+delgroup (DELGROUP) [Y/n/?] y
+  Support for removing users from groups (FEATURE_DEL_USER_FROM_GROUP) [N/y/?] n
+getty (GETTY) [Y/n/?] y
+login (LOGIN) [Y/n/?] y
+  Run logged in session in a child process (LOGIN_SESSION_AS_CHILD) [N/y/?] n
+./JeuxVideos/Final_Fantasy/FF6
+./JeuxVideos/Final_Fantasy/FF6/Grand%20Finale
+21:38:12 T:139832867932032    INFO: Loading special://xbmc/system/keymaps/joystick.Alienware.Dual.Compatible.Controller.xml
+21:38:12 T:139832867932032    INFO: Loading special://xbmc/system/keymaps/joystick.AppleRemote.xml
+21:38:12 T:139832867932032    INFO: Loading special://xbmc/system/keymaps/joystick.Harmony.xml
+21:38:12 T:139832867932032    INFO: Loading special://xbmc/system/keymaps/joystick.Interact.AxisPad.xml
+21:38:12 T:139832867932032    INFO: Loading special://xbmc/system/keymaps/joystick.Logitech.RumblePad.2.xml
+	at info.magnolia.module.cache.executor.Bypass.processCacheRequest(Bypass.java:58) [magnolia-cache-core-5.9.1.jar:?]
+-- [download 34% complete]
+tdf#116264 UI: No buttons shown in dialogs like "Error saving the document" (with a locked file) [Caolán McNamara]
+tdf#116265 FILEOPEN: Identation is lost in some cases [Miklos Vajna]
+tdf#116266 FILEOPEN: Impress 6.0.2 breaks links to svg-files [Serge Krot]
+
+[83] [84] [85] [86] [87] [88] [89]
+Underfull \hbox (badness 10000) in paragraph at lines 2010--2016
+[]\OT1/ppl/m/n/12 OpenStreetMap con-trib-u-tors: Planet dump re-trieved from
+ []
+
+[90]
+Underfull \hbox (badness 4156) in paragraph at lines 2253--2259
+[]\OT1/ppl/m/n/12 Butts, K.: Peartree. Peartree, V0.6.4, []$\OT1/cmtt/m/n/12 https : / / github . com / kuanb /
+ []
+
+[91]
+Underfull \hbox (badness 2671) in paragraph at lines 2305--2312
+\OT1/ppl/m/n/12 Ti-layer net-works. GitHub repos-i-tory. []$\OT1/cmtt/m/n/12 https : / / github . com / KatolaZ /
+ []
+
+[92] [93] [94] [95]
+Underfull \hbox (badness 1609) in paragraph at lines 3770--3777
+\OT1/cmtt/m/n/12 budapestinfo . eu / sportolas / fitnesstermek$[] \OT1/ppl/m/n/12 Ac-cessed: June 3, 2019
+ []
+
+[100]
+Underfull \hbox (badness 1577) in paragraph at lines 3790--3796
+[]\OT1/ppl/m/n/12 BudapestInfo.eu: Ther-mal and Spa. []$\OT1/cmtt/m/n/12 https : / / www . budapestinfo . eu /
+ []
+
+) (/Users/natera/Dropbox/PhD/thesis/chapters_tex/chapter7.tex [101] [102
+
+]
+Chapter 7.
+2021-10-26T21:50:50.035Z,1.035588,ab3bf380,6 [FLog::Output] hello from a happy cactus (:
+    + add VALGRIND_GDB also for normal unit tests [Markus Mohrhard]
+    + add waitForIdleEvent in remaining tests [Akash Jain]
+    + add way to add additional information to the crash report [Markus Mohrhard]
+    + add WEEKNUM_OOO compatibility function, follow-up (tdf#96198, tdf#50950) [Eike Rathke]
+    + add WEEKNUM_OOO hidden function resource [Eike Rathke]
+    + add Wildcards / PROP_Wildcards, (tdf#72196) [Eike Rathke]
+    + add Wildcards configuration option, (tdf#72196) [Eike Rathke]
+    + add Wildcards to Find&Replace dialog [Eike Rathke]
+    + add wildcards to Tools->Options->Calc->Calculate dialog, (tdf#72196) [Eike Rathke]
+    + add Wildcards UNO API implementation, (tdf#72196) [Eike Rathke]
+    + added a dump method for SfxItemSet in gridwin.cxx (tdf#97667) [Jaskaran]
+    + added a few things to techincal.dic (tdf#95079) [danielat998]
+    + added per module's macro definitions to eclipsesettingfile.xml (tdf#84628) [Gulsah Kose]
+    + added support of property VertOrient to cell range (tdf#33477) [Oliver Specht]
+    + added Test for checking newly created writer document with AppYield [Varun Dhall]
+    + added Test for copy/paste of cross references (tdf#63553) [Varun Dhall]
+    + added Test for cross ref bookmarks created with wrong prefix (tdf#94804) [Varun Dhall]
+    + added test for search for string with soft hyphen (tdf#73660) [Varun Dhall]
+    + added toolbar to beanshell editor with undo/redo buttons (tdf#98004) [Chirag Manwani]
+    + added Undo/Redo functionality to Beanshell Editor (tdf#97636) [Chirag Manwani]
+    + added unit test for rotated layout (tdf#88154) [Marco Cecchetti]
+    + added uno command for track changes bar. (tdf#90187) [Gulsah Kose]
+    + adding rows to table in protected sections not allowed (tdf#40494) [Oliver Specht]
+    + additional improvements to Impress' menu bar (tdf#91857) [Yousuf Philips]
+    + another blind fix for some TBs (-Werror,-Wunused-private-field) [Julien Nabet]
+    + apparently breaks Win-x86@42 tinderbox... disable on Windows. [Lionel Elie Mamane]
+    + apparently no reason to force underlying type here [Stephan Bergmann]
+    + apple_remote: autorelease --> release in dealloc (destructor) [Douglas Mencken]
+    + apple_remote: fix “variable set but not used” for non-debug builds [Douglas Mencken]
+    + application/visio.drawing is sometimes used in bugzilla [David Tardon]
+<09:18AM NeilM> BBC REPORT==RUETERS report
+<09:18AM DrStupid> KNBC - Grenada Hills hosptical emergency and serious injury care now CLOSED
+5NK	ALASKA	NAKNEK	afd	al_148_25OCT2007.png
+x+games+15+moto+x+best+trick	01.08.2009 19:35:19	http://www.google.com/url?sa=t&source=web&ct=res&cd=9&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fx%2Bgames%2B15%2Bmoto%2Bx%2Bbest%2Btrick&ei=yJh0SuuOFpSwMIq2_LAM&rct=j&q=x+games+15+moto+big+air+gold&usg=AFQjCNG5gy7MF-uiLAZGZz3au71yD6R-9g	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.20) Gecko/20081217 Firefox/2.0.0.20	24.11.253.121
+sayville+summerfest	01.08.2009 19:35:30	http://www.google.com/search?hl=en&rlz=1R2DKUS_enUS332&q=sayville+street+fair+2009&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)	24.185.120.179
+sayville+summerfest	01.08.2009 19:35:37	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4DKUS_enUS310US310&q=sayville+street+fair+2009	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)	24.185.120.179
+ohio+state+fair	01.08.2009 19:35:50	http://aim.search.aol.com/search/search?&query=Ohio+State+Fair+start+time+Sunday+August+2+2009&invocationType=tb50tr	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; Seekmo 10.0.406.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	65.31.5.241
+tim+hack+and+kelly+drew	01.08.2009 19:36:35	http://www.google.ca/search?hl=en&q=tim+hack+kelly+drew&meta=&aq=0&oq=tim+hack+ke	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)	209.146.175.162
+jonathan+campos	01.08.2009 19:36:49	http://www.google.com/search?pz=1&ned=us&hl=en&q=Jonathan+Campos&btnmeta%3Dsearch%3Dsearch=Search+the+Web	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	71.189.212.147
+market+days+chicago+2009	01.08.2009 19:36:58	http://www.google.com/search?hl=en&safe=off&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=g5z&q=street+fest+chicago+market+august+1&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	24.148.91.106
+tim+hack+and+kelly+drew	01.08.2009 19:37:05	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4GGLL_enUS328US328&q=timothy+hack+and+kelly+drew	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; MS-RTC EA 2)	66.188.125.32
+fedex+field	01.08.2009 19:37:28	http://www.google.com/search?q=fed+x+field+and+parking&ie=utf-8&oe=utf-8&aq=t&rls=com.google:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	173.79.38.253
+what+did+greg+mcmackin+say	01.08.2009 19:37:44	http://www.google.com/search?hl=en&rls=com.microsoft:en-US&q=what+did+greg+mcmackin+say&revid=188876140&ei=FJl0SpOhLNCOtgfhi9GWCQ&sa=X&oi=revisions_inline&resnum=0&ct=broad-revision&cd=1	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; MSN OptimizedIE8;ENUS)	65.30.165.92
+mcmackin+slur	01.08.2009 19:37:45	http://www.google.com/search?q=mcmackin%27s+anti+gay+slur+notre+dame&btnG=Search&hl=en&client=ms-rim&channel=browser&ie=ISO-8859-1&sa=2	BlackBerry8310/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102	206.53.153.120
+home+depot+kids+workshop	01.08.2009 19:38:13	http://www.google.com/search?q=kids+workshop+home+depot&hl=en&start=10&sa=N	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729)	65.31.98.70
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 19:38:33	http://www.google.com/search?hl=en&q=Invicta+Men%27s+Speedway+GS+Goldplated+and+Stainless+Steel+Watch+9212&cts=1249155509566&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	24.0.95.52
+fedex+field	01.08.2009 19:38:54	http://search.aol.com/aol/search?s_it=wscreen-searchboxhtml&query=fedex+field+parking+lot+&do=Search	Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.1; AOLBuild 4334.5006; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1)	64.12.116.73
+gold+coast+art+fair+2009	01.08.2009 19:39:16	http://search.aol.com/aol/search?ncid=aolsea00010000000041&query=gold+coast+art+fair+in+illinois&s_it=clpromo1&icid=aolsea00010000000041&c.userid=4287309673092487932	Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.30618; .NET CLR 3.5.30729)	64.12.117.77
+what+did+greg+mcmackin+say	01.08.2009 19:39:20	http://www.google.com/search?hl=en&rls=com.microsoft%3Aen-us%3AIE-SearchBox&q=what+did+greg+mcmackin+say&aq=0z&oq=what+did&aqi=g-z1g9	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; Tablet PC 2.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	74.206.50.253
+market+days+chicago+2009	01.08.2009 19:39:41	http://www.google.com/search?hl=en&rls=com.microsoft%3A*&q=gay+market+days+chicago+2009&aq=3&oq=gay+mark&aqi=g10	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	24.148.53.246
+laguardia+evacuated	01.08.2009 19:39:59	http://www.google.com/search?hl=en&q=lga+evacution&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/525.28 (KHTML, like Gecko) Version/3.2.2 Safari/525.28.1	24.186.243.25
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 19:40:12	http://www.google.com/search?q=Invicta+9212+Men%E2%80%99s+Gold+Plated+Stainless+Steel+Speedway+Watch&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7ADBF	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.30729; .NET CLR 3.5.30729)	71.100.218.210
+fedex+field	01.08.2009 19:40:56	http://www.google.com/hws/search?hl=en&client=dell-usuk&channel=us-psp&ibd=&q=fed+ex+field+concert+parking&Submit=Google+Search	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11	68.230.176.131
+what+did+greg+mcmackin+say	01.08.2009 19:41:31	http://www.google.com/search?q=McMackin%27s+slur+what+did+he+say&sourceid=ie7&rls=com.microsoft:en-US&ie=utf8&oe=utf8	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Zune 3.0)	76.194.10.111
+market+days+chicago+2009	01.08.2009 19:41:42	http://search.aol.com/aol/search?s_it=wscreen-searchboxhtml&query=Halsted+street+market+days&do=Search	Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.1; AOLBuild 4334.5006; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	205.188.116.141
+what+did+greg+mcmackin+say	01.08.2009 19:43:19	http://www.google.com/search?hl=en&safe=off&client=firefox-a&rls=org.mozilla:en-US:official&hs=TqK&q=what+did+greg+mcmackin+say&revid=390324661&ei=Jpp0SqyhG4LWtgPky-XeCA&sa=X&oi=revisions_inline&resnum=0&ct=broad-revision&cd=1	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11	24.176.177.161
+carlos+justo	01.08.2009 19:43:38	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4GGLL_enUS317US317&q=Carlos+Justo%27s+	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	76.183.9.189
+what+did+greg+mcmackin+say	01.08.2009 19:43:49	http://www.google.com/search?client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&channel=s&hl=en&q=what+did+greg+mcmackin+say%3F&btnG=Google+Search	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	96.32.130.242
+joel+tenenbaum	01.08.2009 19:44:04	http://www.google.com/search?hl=en&q=Joel+Tenenbaum+details&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	70.58.129.102
+what+did+greg+mcmackin+say	01.08.2009 19:44:11	http://www.google.com/search?client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&channel=s&hl=en&q=what+did+greg+mcmackin+say%3F&btnG=Google+Search	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	96.32.130.242
+what+did+greg+mcmackin+say	01.08.2009 19:44:14	http://www.google.com/search?q=McMackin%27s+slur+what+did+he+say&sourceid=ie7&rls=com.microsoft:en-US&ie=utf8&oe=utf8	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Zune 3.0)	76.194.10.111
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 19:44:34	http://www.google.com/search?hl=en&q=invicta+9212+review&aq=0&oq=invicta+9212+re&aqi=g1	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	96.255.212.168
+market+days+chicago+2009	01.08.2009 19:45:05	http://search.comcast.net/?cat=Web&con=homepage&q=halsted+market+days+2009.com	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.21022; .NET CLR 3.5.30729; .NET CLR 3.0.30618; AskTB5.2)	24.14.218.141
+APV	CALIFORNIA	APPLE VALLEY	afd	sw_43_25OCT2007.png
+2021-10-26T21:51:42.838Z,53.838192,4337000,7 [FLog::Network] NetworkClient:Create
+2021-10-26T21:51:42.838Z,53.838688,4337000,6 [FLog::LocalStorage] LocalStorage flushing (blocking)
+2021-10-26T21:51:42.838Z,53.838860,4337000,6 [FLog::LocalStorage] LocalStorage writing to file: /Users/studioagain/Library/Roblox/LocalStorage/memProfStorage11138.json
+2021-10-26T21:51:42.838Z,53.838913,4337000,6 [FLog::LocalStorage] LocalStorage will flush 5326 bytes to /Users/studioagain/Library/Roblox/LocalStorage/memProfStorage11138.json
+2021-10-26T21:51:42.839Z,53.839439,4337000,6 [FLog::LocalStorage] LocalStorage: Wrote 5326 bytes to disk
+2021-10-26T21:51:42.843Z,53.843479,4337000,6 [FLog::GameJoinLoadTime] Report game_join_loadtime: sid:6dc13002-5740-4ea3-bd22-ebcd8659c8b0, clienttime:1635285102.7200000286, join_time:0, referral_page:, placeid:4996049426, userid:3520967, universeid:1720936166, 
+2021-10-26T21:51:42.844Z,53.844318,4337000,7 [FLog::Network] Client will attempt to connect following server endpoints with threadSleepTime(-1)
+2021-10-26T21:51:42.844Z,53.844360,4337000,7 [FLog::Network] Server Address = 128.116.28.145, Port = 49574
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+2021-10-26T21:51:54.837Z,65.837608,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 1, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:51:54.837Z,65.837700,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.77 seconds
+2021-10-26T21:51:55.696Z,66.696556,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+2021-10-26T21:51:55.696Z,66.696686,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 2, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:51:55.696Z,66.696732,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.14 seconds
+2021-10-26T21:51:55.989Z,66.989700,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+2021-10-26T21:51:55.989Z,66.989822,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 3, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:51:55.989Z,66.989929,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.71 seconds
+2021-10-26T21:51:56.776Z,67.776047,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+2021-10-26T21:51:56.776Z,67.776184,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 4, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:51:56.776Z,67.776268,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.21 seconds
+2021-10-26T21:51:57.052Z,68.052689,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+[   1917562] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash a2c654c36957a461fc2f31d583d25aec3fe014c7) from http://139.99.125.59:30124/files/assets-church/resource.rpf
+[   1917718] ResourceCache::AddEntry: Saved cache:v1:a2c654c36957a461fc2f31d583d25aec3fe014c7 to the index cache.
+[   1917734] ResourceCacheDevice: downloaded resource.rpf in 169 msec (size 6144)
+\tag@help=\toks20
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks21
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks29
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+sayville+summerfest	01.08.2009 20:41:50	http://www.google.com/search?hl=en&q=west+sayville+street+fair&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_6; en-us) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1	69.117.243.147
+Underfull \hbox (badness 1817) in paragraph at lines 3697--3703
+\OT1/ppl/m/n/12 u-ca-tion. []$\OT1/cmtt/m/n/12 http : / / budapest . imami . hu / iskolak-[]ovodak-[]bolcsodek/$[] \OT1/ppl/m/n/12 Ac-
+ []
+[22:42:25] Precious metals: [-] 0090/8003 no engine matches (HTTP-Status: 501) - https://chrislema.com
+[22:42:25] Sports T1: [+] 0922/1000 matches engine Moodle - http://qld.realestatetraining.com.au/login/signup.php?
+[22:42:25] Sports T1: [+] 0922/1000 new URL - http://qld.realestatetraining.com.au/login/index.php
+[22:42:25] Sports T1: [-] 0922/1000 registration failed (class="error">) - http://qld.realestatetraining.com.au/login/signup.php? - L:harrietbro E:michealwatts5895@bd.dns-cloud.net P:PH-rz68np http://qld.realestatetraining.com.au/login/signup.php?
+[22:42:25] Online Degree: [+] 7886/8074 matches engine Joomla K2 - http://www.sakkos.com.gr/component/users/?view=login
+[22:42:25] Online Degree: [+] 7886/8074 new URL - http://www.sakkos.com.gr/component/users/?view=login
+[22:42:25] Online Degree: [-] 7886/8074 no form at all - http://www.sakkos.com.gr/index.php/component/users/?view=registration
+[22:42:25] Online Degree: [+] 7886/8074 matches engine EasyBlog - http://www.sakkos.com.gr/component/users/?view=login
+[22:42:25] Online Degree: [-] 7886/8074 wrong engine detected (ezblog-dashboard|implement(easyblog) - http://www.sakkos.com.gr/index.php?option=com_easyblog&view=dashboard&layout=write
+[22:42:25] Mortgage: [+] 7930/8168 matches engine Wordpress Article - http://bdzoom.com/122409/comic-books/%c2%ab%c2%a0dead-inside-%c2%bb-par-toni-fejzula-et-john-arcudi/
+[22:42:25] Mortgage: [+] 7930/8168 new URL - http://bdzoom.com/wp-login.php?registration=disabled
+[22:42:25] Mortgage: [-] 7930/8168 registration failed (registration=disabled) - http://bdzoom.com/wp-login.php?registration=disabled
+[22:42:25] Car Insurance: [-] 4183/8012 no engine matches - http://psychopathsandlove.com/emotional-vampires-how-to-keep-them-out-of-your-life/
+[22:42:25] Make money online T2: [-] 3843/8483 no engine matches (HTTP-Status: 0) - http://www.sigmm.org
+[22:42:26] Justice degree: [-] 8014/8289 no engine matches (HTTP-Status: 400) - https://cepr.org/
+[22:42:26] Computer T2: [-] 7734/8530 no engine matches - http://www.cuba-venezuela.org/index.php/2019/08/09/emergency-demonstrations-trump-unblock-venezuela/
+[22:42:26] Win News Time: [+] 7740/7826 matches engine Wordpress Article - http://ostseeschaenke.de
+[22:42:26] Win News Time: [+] 7740/7826 new URL - http://ostseeschaenke.de/wp-login.php?registration=disabled
+[22:42:26] Win News Time: [-] 7740/7826 registration failed (registration=disabled) - http://ostseeschaenke.de/wp-login.php?registration=disabled
+[22:42:30] Sports: [-] 8077/8698 no form at all - http://ringofentrepreneurs.com/wp-login.php?action=register
+[22:42:30] Car Insurance: [-] 4187/8012 no engine matches (HTTP-Status: 503) - http://www.noviathleticboosters.com/craft-show-update/
+[22:42:30] Mesa DUI lawyer: [-] 8176/8414 no engine matches (HTTP-Status: 501) - https://titsbhiwani.ac.in/index.php/component/k2/item/125-man-disamit/125-man-disamit?limitstart=0
+[22:42:30] Currency: [-] 7902/8085 no engine matches (HTTP-Status: 503) - http://memoryboxstories.com/blog/2014/06/23/the-britmums-experience/
+[22:42:30] Make money online: [-] 7815/8047 no engine matches (HTTP-Status: 400) - https://www.reggiochildren.it
+[22:42:30] Internet VOIP: [-] 0120/8096 no engine matches (HTTP-Status: 400) - https://www.btlumiar.org/
+[22:42:30] Digital Marketing: [-] 0128/7912 no engine matches (HTTP-Status: 501) - https://asprendimai.com/lt/component/users/?view=registration&layout=complete
+[22:42:30] Cooking TIPS: [-] 0199/7845 no engine matches (HTTP-Status: 400) - https://www.intrepidtravel.de
+[22:42:30] Sports: [-] 8078/8698 no engine matches (HTTP-Status: 503) - http://ladiesintech.com/podcast-aura-seltzer/
+[22:42:30] Hindu temples T2: [-] 4068/4573 no engine matches (HTTP-Status: 400) - https://learninglinksbc.ca
+[22:42:31] Forex: [+] 7886/7985 matches engine Wordpress Article - http://themeinccompanies.com/mc/2015/10/20/hoa-management-services/
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [catalina.jar:9.0.34]
+tdf#79077 No option to make File > Print > Options > "Use only paper size from printer preferences" stick [Katarina Behrens]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+ PROC_COUNT N13 : ALL = 16399
+(Font)              scaled to size 6.25204pt on input line 224.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 224.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 224.
+ GmVPrimitiveScorer::SetParameters: no parameters 
+/gamos/setParam RTPSPDoseHistos:FileName doseHistos.e
+<tasm> REDCROOS IS DENYING claims tehy say 25 are dead - CBS
+<KNBC> Gore screwed up
+(YaZoO/#earthquake) ed : yeh ya could do /on ^join "% #earthquake" #
+tdf#116438 Calc,Draw,Impress should also ask whether to apply orientation when an image is inserted [himajin100000]
+tdf#116448 Improve wording of "Skip empty cells" in Import Text and Text to Columns dialog [heiko tietze]
+CHP	ALASKA	CIRCLE HOT SPRINGS	afd	al_50_25OCT2007.png
+CLP	ALASKA	\ 	afd	al_51_25OCT2007.png
+Z84	ALASKA	CLEAR	afd	al_51_25OCT2007.png
+EUG	ALASKA	EUGENE, OR MAHLON SWEET FLD	afd	al_74_25OCT2007.png
+2Z2	ALASKA	EUREKA CREEK	afd	al_74_25OCT2007.png
+2Z3	ALASKA	EVA CREEK	afd	al_75_25OCT2007.png
+PAE	ALASKA	EVERETT, WA SNOHOMISH CO-PAINE FLD	afd	al_75_25OCT2007.png
+EXI	ALASKA	EXCURSION INLET SEAPLANE	afd	al_76_25OCT2007.png
+AK28	ALASKA	FAIRBANKS CHENA MARINA	afd	al_76_25OCT2007.png
+AK28_1	ALASKA	FAIRBANKS CHENA MARINA SEAPLANE	afd	al_76_25OCT2007.png
+2Z5	ALASKA	FAIRBANKS CHENA RIVER SEAPLANE	afd	al_76_25OCT2007.png
+FAI	ALASKA	FAIRBANKS INTL	afd	al_77_25OCT2007.png
+FAI_1	ALASKA	FAIRBANKS INTL SEAPLANE	afd	al_78_25OCT2007.png
+AK7	ALASKA	FAIRBANKS GOLD KING CREEK 	afd	al_78_25OCT2007.png
+AK22	ALASKA	FAIRBANKS LAKLOEY AIR PARK 	afd	al_78_25OCT2007.png
+AK22_1	ALASKA	FAIRBANKS LAKLOEY AIR PARK SEAPLANE 	afd	al_78_25OCT2007.png
+MTF	ALASKA	FAIRBANKS METRO FLD 	afd	al_78_25OCT2007.png
+2AK2	ALASKA	FAIRBANKS-FT WAINWRIGHT- CLEAR CREEK	afd	al_79_25OCT2007.png
+2Z6	ALASKA	FALSE ISLAND SEAPLANE	afd	al_79_25OCT2007.png
+KFP	ALASKA	FALSE PASS	afd	al_79_25OCT2007.png
+FWL	ALASKA	FAREWELL	afd	al_80_25OCT2007.png
+TNW	ALASKA	FAREWELL LAKE TIN CREEK	afd	al_80_25OCT2007.png
+3Z1	ALASKA	FEATHER RIVER	afd	al_80_25OCT2007.png
+FVM	ALASKA	FIVE MILE	afd	al_81_25OCT2007.png
+FLT	ALASKA	FLAT	afd	al_81_25OCT2007.png
+FYU	ALASKA	FORT YUKON	afd	al_82_25OCT2007.png
+FHR	ALASKA	FRIDAY HARBOR	afd	al_82_25OCT2007.png
+FNR	ALASKA	FUNTER BAY SEAPLANE	afd	al_83_25OCT2007.png
+GBH	ALASKA	GALBRAITH LAKE	afd	al_83_25OCT2007.png
+GAL	ALASKA	GALENA EDWARD G. PITKA SR	afd	al_84_25OCT2007.png
+ PROC_COUNT Mg25 : ALL = 779
+ PROC_COUNT N11 : RadioactiveDecay = 2
+ PROC_COUNT N11 : ALL = 2
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+<10:19AM CNN_news> soon= next several eyears
+(Tua/#earthquake) i received a call in claremont from El Paso at 6:30 PST
+
+  Process: neutronInelastic
+        Model:                      QGSP: 12 GeV ---> 100 TeV
+        Model:                      FTFP: 9.5 GeV ---> 25 GeV
+        Model:            Binary Cascade: 19.9 MeV ---> 9.9 GeV
+instanceKlass sun/misc/Launcher
+instanceKlass java/util/jar/Manifest
+instanceKlass java/net/URL
+su (SU) [Y/n/?] y
+  Enable su to write to syslog (FEATURE_SU_SYSLOG) [Y/n] y
+  Enable su to check user's shell to be listed in /etc/shells (FEATURE_SU_CHECKS_SHELLS) [Y/n] y
+    Support SUN disklabels (FEATURE_SUN_LABEL) [N/y/?] n
+    Support BSD disklabels (FEATURE_OSF_LABEL) [N/y/?] n
+    Support GPT disklabels (FEATURE_GPT_LABEL) [Y/n/?] y
+    Support expert mode (FEATURE_FDISK_ADVANCED) [Y/n/?] y
+findfs (FINDFS) [N/y/?] n
+flock (FLOCK) [Y/n/?] y
+fdflush (FDFLUSH) [Y/n/?] y
+freeramdisk (FREERAMDISK) [Y/n/?] y
+fsck_minix (FSCK_MINIX) [N/y/?] n
+fstrim (FSTRIM) [Y/n/?] y
+getopt (GETOPT) [Y/n/?] y
+  Support option -l (FEATURE_GETOPT_LONG) [Y/n/?] y
+hexdump (HEXDUMP) [Y/n/?] y
+  Support -R, reverse of 'hexdump -Cv' (FEATURE_HEXDUMP_REVERSE) [N/y/?] n
+hd (HD) [N/y/?] n
+hwclock (HWCLOCK) [Y/n/?] y
+  Support long options (--hctosys,...) (FEATURE_HWCLOCK_LONG_OPTIONS) [Y/n/?] y
+  Use FHS /var/lib/hwclock/adjtime (FEATURE_HWCLOCK_ADJTIME_FHS) [Y/n/?] y
+ipcrm (IPCRM) [Y/n/?] y
+ipcs (IPCS) [Y/n/?] y
+losetup (LOSETUP) [Y/n/?] y
+lspci (LSPCI) [Y/n/?] y
+lsusb (LSUSB) [Y/n/?] y
+mdev (MDEV) [Y/n/?] y
+  Support /etc/mdev.conf (FEATURE_MDEV_CONF) [Y/n/?] y
+    Support subdirs/symlinks (FEATURE_MDEV_RENAME) [Y/n/?] y
+      Support regular expressions substitutions when renaming device (FEATURE_MDEV_RENAME_REGEXP) [N/y/?] n
+drake+falls+on+stage	01.08.2009 18:38:44	http://www.google.com/search?q=drake+falls+on+stage&sourceid=navclient-ff&ie=UTF-8&rlz=1B3GGGL_enUS305US307&aq=t	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	76.94.104.41
+fedex+field	01.08.2009 18:38:56	http://www.google.com/search?hl=en&ie=ISO-8859-1&q=Concert+parking+at+Fed+Ex+Field&aq=o&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.1; AOLBuild 4334.5007; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; OfficeLivePatch.1.3; .NET CLR 3.5.30729; .NET CLR 3.0.30618; OfficeLiveConnector.1.4)	205.188.116.73
+sayville+summerfest	01.08.2009 18:39:15	http://www.google.com/search?hl=en&q=summerfest+long+island+new+york&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Media Center PC 5.0)	98.111.112.221
+sono+arts+festival	01.08.2009 18:39:37	http://www.google.com/search?client=ms-rim&hl=en&q=sono+arts+festival&ie=UTF-8&channel=browser	BlackBerry8310/4.5.0.110 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102	206.53.157.235
+fayette+county+fair	01.08.2009 18:39:40	http://www.google.com/search?hl=en&rlz=1T4DKUS_enUS311US311&q=fayette+county+free+fair&revid=1521426136&ei=LYt0Suy-Lcmltgepj9mWCQ&sa=X&oi=revisions_inline&resnum=0&ct=broad-revision&cd=4	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Media Center PC 5.0)	70.195.36.156
+socorro+caro	01.08.2009 18:39:51	http://www.google.com/search?q=Socorro+Caro+&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.5; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	68.5.87.186
+what+did+greg+mcmackin+say	01.08.2009 18:39:59	http://www.google.com/search?source=ig&hl=en&rlz=1G1GGLQ_ENUS321&=&q=greg+mcmackin+what+did+he+say&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10	68.106.226.11
+x+games+15+moto+x+best+trick	01.08.2009 18:40:14	http://www.google.com/search?q=moto+x+best+trick+winner+2009&rls=com.microsoft:en-us&ie=UTF-8&oe=UTF-8&startIndex=&startPage=1&rlz=1I7GPEA_enUS301	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	72.68.91.153
+what+did+greg+mcmackin+say	01.08.2009 18:40:29	http://www.google.com/search?q=Coach+McMackin++what+did+he+say&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1	75.177.86.234
+socorro+caro	01.08.2009 18:40:38	http://www.google.com/search?hl=en&q=socorro+caro&aq=2z&oq=soco&aqi=g2g-z1g7	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; InfoPath.1)	69.255.115.226
+socorro+caro	01.08.2009 18:40:41	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4ADBF_enUS304US304&q=Socorro+Caro+murder+case	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.1; .NET CLR 2.0.50727)	71.94.128.140
+friendship+quotes	01.08.2009 18:40:59	http://www.google.co.in/search?hl=en&q=friendship+graphic+quote+remembering+the+value+of+friend&btnG=Search&meta=&aq=f&oq=	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.37 Safari/530.5	115.240.139.117
+fedex+field	01.08.2009 18:41:14	http://www.google.com/search?hl=en&q=fedex+field+parking+map&rlz=1W1DKUS_en&aq=0&oq=fedex+field+parking&aqi=g4	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MSN Optimized;US)	68.101.32.43
+fedex+field	01.08.2009 18:41:17	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4TSHB_enUS315US316&q=fedex+field+concert+parking	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30729)	69.136.224.169
+caterina+gennaro	01.08.2009 18:41:17	http://www.google.com/search?complete=1&hl=en&q=Caterina+Gennaro%2C&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; Tablet PC 2.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729)	216.103.85.206
+market+days+chicago+2009	01.08.2009 18:41:27	http://www.google.com/search?q=street+fair+chicago+2009&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	76.217.61.109
+what+did+greg+mcmackin+say	01.08.2009 18:41:56	http://www.google.com/search?q=what+did+greg+mcmackin+say&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 3.5.30729)	69.152.203.128
+tim+hack+and+kelly+drew	01.08.2009 18:54:43	http://www.google.com/search?q=hack%2Cdrew%2C+wisconsin&ie=utf-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.1) Gecko/20061204 Firefox/2.0.0.1	71.211.21.69
+tim+hack+and+kelly+drew	01.08.2009 18:55:30	http://www.google.com/search?q=hack%2Cdrew%2C+wisconsin&ie=utf-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.1) Gecko/20061204 Firefox/2.0.0.1	71.211.21.69
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 18:55:39	http://www.google.com/search?client=ms-rim&hl=en&q=Invicta+9212+Men%E2%80%99s+Gold+Plated+Stainless+Steel+Speedway+Watch&ie=UTF-8&channel=browser	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)	206.53.153.174
+what+did+greg+mcmackin+say	01.08.2009 18:55:50	http://www.google.com/url?sa=t&source=web&ct=res&cd=8&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fwhat%2Bdid%2Bgreg%2Bmcmackin%2Bsay&ei=q490So6NCpWMtgeWgu2WCQ&rct=j&q=what+did+greg+mcmackin+say&usg=AFQjCNGV41wKWkTAJJ3qWFfr6ZAacJpquw&sig2=5NQ4yNQuvctVvH82LnJSsA	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	24.185.106.43
+carlos+justo	01.08.2009 18:56:08	http://www.google.com/search?hl=en&q=Carlos+Justo&aq=f&oq=&aqi=g6g-s1g2	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; YPC 3.0.1; .NET CLR 1.1.4322; yplus 4.1.00b)	75.2.220.38
+socorro+caro	01.08.2009 18:56:13	http://www.google.com/search?hl=en&q=Socorro+Caro+&btnG=Google+Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; MDDR; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	12.35.111.162
+sayville+summerfest	01.08.2009 18:56:27	http://www.google.com/cse?cx=partner-pub-9695918213045898%3Aj38vzq-eogn&cof=FORID%3A10&ie=ISO-8859-1&q=sayville+summerfest&sa=Search&ad=w9&num=10&rurl=http%3A%2F%2Fpuckettsprojects.com%2Fsearch%2F%3Fcx%3Dpartner-pub-9695918213045898%253Aj38vzq-eogn%26cof%3DFORID%253A10%26ie%3DISO-8859-1%26q%3Dsayville%2Bsummerfest%26sa%3DSearch	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	96.232.117.75
+buick+open+tee+times	01.08.2009 18:56:32	http://www.google.com/search?q=Buick+open+golf+pairings&ie=UTF-8&oe=UTF-8&hl=en&client=safari	Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16	166.205.135.148
+gold+coast+art+fair+2009	01.08.2009 18:56:34	http://www.google.com/search?q=gold+coast+art+festival&ie=UTF-8&oe=UTF-8&hl=en&client=safari	Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16	71.194.204.74
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 18:56:44	http://www.google.com/search?client=safari&rls=en-us&q=invicta+9212+Men%E2%80%99s+Gold+Plated+Stainless+Steel+Speedway+Watch&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	68.4.189.140
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 18:57:06	http://www.google.com/search?hl=en&q=Invicta+9212+Speedway&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; FunWebProducts; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; MDDC; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	71.63.168.215
+what+did+greg+mcmackin+say	01.08.2009 18:57:41	http://www.google.com/search?client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&channel=s&hl=en&q=what+did+Greg+McMackin%27s+say%3F&btnG=Google+Search	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	68.42.205.156
+tim+hack+and+kelly+drew	01.08.2009 18:57:42	http://www.google.com/search?client=safari&rls=en-us&q=edward+edwards+hack+drew&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1	69.76.87.77
+tim+hack+and+kelly+drew	01.08.2009 18:33:28	http://www.google.com/search?hl=en&q=kelly+drew+killing&rlz=1R2DBMX_es&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	201.172.124.241
+	at com.vaadin.server.VaadinService.handleRequest(VaadinService.java:1602) [vaadin-server-8.9.4.jar:8.9.4]
+[     14797] LoadDefDats: dlc_PATCHDAY15NGCRC:/content.xml
+[     14812] somefunc found dlc_PATCHDAY14NG:/!
+[     14828] LoadDefDats: dlc_PATCHDAY14NGCRC:/content.xml
+[     14843] somefunc found dlc_PATCHDAY13NG:/!
+[     14859] LoadDefDats: dlc_PATCHDAY13NGCRC:/content.xml
+[     14875] somefunc found dlc_PATCHDAY12NG:/!
+[     14875] LoadDefDats: dlc_PATCHDAY12NGCRC:/content.xml
+[     14890] somefunc found dlc_PATCHDAY11NG:/!
+[     14906] LoadDefDats: dlc_PATCHDAY11NGCRC:/content.xml
+[     14922] somefunc found dlc_PATCHDAY10NG:/!
+[     14922] LoadDefDats: dlc_PATCHDAY10NGCRC:/content.xml
+[     14937] somefunc found dlc_patchday9NG:/!
+[     14953] LoadDefDats: dlc_patchday9NGCRC:/content.xml
+[     14968] somefunc found dlc_PATCHDAY8NG:/!
+[     14968] LoadDefDats: dlc_PATCHDAY8NGCRC:/content.xml
+[     14984] somefunc found dlc_patchDay7NG:/!
+[     15000] LoadDefDats: dlc_patchDay7NGCRC:/content.xml
+[     17562] rage::gameSkeleton::RunInitFunctions: Invoking InitSystem INIT_CORE init (1 out of 52)
+[     17578] rage::gameSkeleton::RunInitFunctions: Invoking CShaderLib INIT_CORE init (2 out of 52)
+[     17718] rage::gameSkeleton::RunInitFunctions: Invoking PostFX INIT_CORE init (3 out of 52)
+[     17750] rage::gameSkeleton::RunInitFunctions: Invoking CGtaAnimManager INIT_CORE init (4 out of 52)
+[     17765] rage::gameSkeleton::RunInitFunctions: Invoking fwClipSetManager INIT_CORE init (5 out of 52)
+[     17828] hello from "D:\Rockstar Games\FiveM.app\cache\subprocess\FiveM_ROSSubProcess" ros:subprocess "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=gpu-process --no-sandbox --lang=en --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --gpu-preferences=GAAAAAAAAAAABwAAAQAAAAAAAAAAAGAA --use-gl=swiftshader-webgl --gpu-vendor-id=0x1002 --gpu-device-id=0x6660 --gpu-driver-vendor="Google Inc." --gpu-driver-version=3.3.0.2 --gpu-driver-date=2017/04/07 --gpu-secondary-vendor-ids=0x8086 --gpu-secondary-device-ids=0x5917 --amd-switchable --lang=en --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --service-request-channel-token=3D60B57DEC4D1F6D2C620E7C3BBC75A0 --mojo-platform-channel-handle=2240 /prefetch:2 --remote-debugging-port=13171 --ignore-certificate-errors
+[     17906] rage::gameSkeleton::RunInitFunctions: Invoking fwExpressionSetManager INIT_CORE init (6 out of 52)
+[     17922] rage::gameSkeleton::RunInitFunctions: Invoking fwFacialClipSetGroupManager INIT_CORE init (7 out of 52)
+[     17922] sub! "D:\Rockstar Games\FiveM.app\cache\subprocess\FiveM_ROSSubProcess" ros:subprocess "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=gpu-process --no-sandbox --lang=en --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --gpu-preferences=GAAAAAAAAAAABwAAAQAAAAAAAAAAAGAA --use-gl=swiftshader-webgl --gpu-vendor-id=0x1002 --gpu-device-id=0x6660 --gpu-driver-vendor="Google Inc." --gpu-driver-version=3.3.0.2 --gpu-driver-date=2017/04/07 --gpu-secondary-vendor-ids=0x8086 --gpu-secondary-device-ids=0x5917 --amd-switchable --lang=en --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --service-request-channel-token=3D60B57DEC4D1F6D2C620E7C3BBC75A0 --mojo-platform-channel-handle=2240 /prefetch:2 --remote-debugging-port=13171 --ignore-certificate-errors
+[     17937] rage::gameSkeleton::RunInitFunctions: Invoking audNorthAudioEngine INIT_CORE init (8 out of 52)
+[     17937] Initialized system mapping!
+[     18000] Replacing function table list entry 0x1400b9000 with 0x1400b9000
+[     18500] rage::gameSkeleton::RunInitFunctions: Invoking CCheat INIT_CORE init (9 out of 52)
+21:38:12 T:139832867932032    INFO: Loading special://xbmc/system/keymaps/joystick.Alienware.Dual.Compatible.Controller.xml
+21:38:12 T:139832867932032    INFO: Loading special://xbmc/system/keymaps/joystick.AppleRemote.xml
+[22:42:45] Bollywood: [-] 0202/7884 download failed (Return: -) - https://pustakalegal.wordpress.com/
+[22:42:45] Amazon: [-] 3695/7825 no engine matches (HTTP-Status: 503) - http://www.philosophyinwessex.org/talk-socrates-and-plato-through-the-eyes-of-marsilio-ficino/
+[22:42:45] Hindu temples T2: [-] 4071/4573 download failed (Return: -) - http://www.sprecz.eu/infusions/guest_book/guest_book.php?new_message=1
+[22:42:44] Travels: [-] 8129/8261 no form at all - http://www.angulonline.in/register/
+[22:42:45] Computer: [-] 0315/8028 download failed (Return: -) - http://butterboom.com/tech/gadget/iphone-hong-kong-pricing-rumours/
+tdf#63766 EDITING: Merging of merged cell and unmerged cell fails with error message [Zdeněk Crhonek]
+LaTeX Info: Redefining \ref on input line 90.
+[2023.05.20-22.07.43:062][  0]LogDeviceProfileManager: 	[00000A60F9922A00][00000A60F9950000 52] AppleTV2_4K, 
+[2023.05.20-22.07.43:062][  0]LogDeviceProfileManager: 	[00000A60F9922E00][00000A60F9955000 52] TVOS, 
+[2023.05.20-22.07.43:062][  0]LogDeviceProfileManager: 	[00000A60F9924000][00000A60F995A000 52] Mac, 
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 41
+./JeuxVideos/Super_Smash_Bros_Melee/Super%20Smash%20Bros.%20Brawl%20Soundtrack%20-%20Disc%202
+ Symbolic Z-matrix:
+ Charge =  0 Multiplicity = 1
+ O1
+ H2                   1     0.9572 
+ H3                   1     0.9572   2     104.52 
+ 
+                          Input orientation:                          
+ ---------------------------------------------------------------------
+ Center     Atomic      Atomic             Coordinates (Angstroms)
+ Number     Number       Type             X           Y           Z
+ ---------------------------------------------------------------------
+      1          8           0        0.000000    0.000000    0.000000
+      2          1           0        0.000000    0.000000    0.957200
+      3          1           0        0.926627    0.000000   -0.239987
+ ---------------------------------------------------------------------
+                    Distance matrix (angstroms):
+                    1          2          3
+     1  O    0.000000
+     2  H    0.957200   0.000000
+     3  H    0.957200   1.513901   0.000000
+ Stoichiometry    H2O
+ SCF Done:  E(RHF) =  -76.0105299762     A.U. after   10 cycles
+             Convg  =    0.4127D-08             -V/T =  2.0025
+
+ **********************************************************************
+
+            Population analysis using the SCF density.
+
+ **********************************************************************
+
+12:32:05 T:7432  NOTICE: Additional mode: 640x480@ 75.00 - Full Screen
+12:32:05 T:7432  NOTICE: Additional mode: 720x480@ 60.00 - Full Screen
+AKN_1	ALASKA	KING SALMON SEAPLANE	afd	al_119_25OCT2007.png
+IIK	ALASKA	KIPNUK	afd	al_119_25OCT2007.png
+INR	ALASKA	McKINLEY PARK McKINLEY NATIONAL PARK	afd	al_142_25OCT2007.png
+MMV	ALASKA	MCMINNVILLE MUNI	afd	al_143_25OCT2007.png
+MYU	ALASKA	MEKORYUK	afd	al_143_25OCT2007.png
+MTM	ALASKA	METLAKATLA SEAPLANE	afd	al_144_25OCT2007.png
+84K	ALASKA	MEYERS CHUCK SEAPLANE	afd	al_144_25OCT2007.png
+MDO	ALASKA	MIDDLETON ISLAND	afd	al_144_25OCT2007.png
+MHM	ALASKA	MINCHUMINA	afd	al_145_25OCT2007.png
+51Z	ALASKA	MINTO	afd	al_145_25OCT2007.png
+52Z	ALASKA	MOOSE PASS SUMMIT LAKE SEAPLANE	afd	al_146_25OCT2007.png
+KMY	ALASKA	MOSER BAY SEAPLANE	afd	al_146_25OCT2007.png
+MOU	ALASKA	MOUNTAIN VILLAGE	afd	al_147_25OCT2007.png
+76Z	ALASKA	NAKEEN	afd	al_148_25OCT2007.png
+5NK	ALASKA	NAKNEK	afd	al_148_25OCT2007.png
+5NK_1	ALASKA	NAKNEK SEAPLANE	afd	al_148_25OCT2007.png
+4AK9	ALASKA	NAKNEK TIBBETTS	afd	al_148_25OCT2007.png
+CYCD	ALASKA	NANAIMO	afd	al_149_25OCT2007.png
+78Z	ALASKA	NANCY LAKE SEAPLANE	afd	al_149_25OCT2007.png
+KEB	ALASKA	NANWALEK	afd	al_149_25OCT2007.png
+WNA	ALASKA	NAPAKIAK	afd	al_150_25OCT2007.png
+PKA	ALASKA	NAPASKIAK	afd	al_150_25OCT2007.png
+OUL	ALASKA	NELSON LAGOON	afd	al_151_25OCT2007.png
+ENN	ALASKA	NENANA MUNI	afd	al_151_25OCT2007.png
+ONP	ALASKA	NEWPORT MUNI	afd	al_152_25OCT2007.png
+KNW	ALASKA	NEW STUYAHOK	afd	al_152_25OCT2007.png
+EWU	ALASKA	NEWTOK	afd	al_153_25OCT2007.png
+WWT	ALASKA	NEWTOK SEAPLANE	afd	al_153_25OCT2007.png
+IGT	ALASKA	NIGHTMUTE	afd	al_153_25OCT2007.png
+FSP	ALASKA	NIKOLAI	afd	al_154_25OCT2007.png

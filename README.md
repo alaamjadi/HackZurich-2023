@@ -43,26 +43,51 @@
 | 05 | .md | 66 |
 | 06 | .html | 60 |
 | 07 | .pem | 57 |
-| 08 | .ps1 | 48 |
-| 09 | .pub | 41 |
-| 10 | .db | 20 |
-| 11 | .xml | 19 |
-| 12 | .docx | 12 |
-| 13 | .png | 12 |
-| 14 | .py | 11 |
-| 15 | .txt | 10 |
-| 16 | .jpg | 10 |
-| 17 | .zip | 10 |
-| 18 | .msg | 7 |
-| 19 | .mp3 | 6 |
+| 08 | No Extension | 55 |
+| 09 | .ps1 | 48 |
+| 10 | .pub | 41 |
+| 11 | .db | 20 |
+| 12 | .xml | 19 |
+| 13 | .docx | 12 |
+| 14 | .png | 12 |
+| 15 | .py | 11 |
+| 16 | .txt | 10 |
+| 17 | .jpg | 10 |
+| 18 | .zip | 10 |
+| 19 | .msg | 7 |
+| 20 | .mp3 | 6 |
+
 
 #### Similar categories
 
 
 ##### Cateogry 1 > Mohammad
+
 - html
+  - TRUE:
+    - IBAN(sometimes spaces between characters, every 4 characters) +
+    - EMAIL (space before @ sign) +
+    - NAME (might have some special characters)
+  - FALSE:
+    - Former name instead of full name
+    - Company name were included but the information wasn't related 
+    - Start Year instead of birthdate or age
+    - Country name instead of address
+    - twitter usernames has @ and it can make confusion for email detection
+
 - ps1
+  - TRUE:
+    - FNAME + IBAN + ZRNR
+    - CLIENT FNAME, CLIENT NUMBER + IBAN
+    - ACCOUNT NUMBER, CLIENT FNAME, ZRNR
+    - ZRNR, BANK NUMBER, FNAME
+    - FNAME, ACCOUNT NUMBER, NUMBER
+    - The information can be in lowercase and uppercase
+
 - py
+  - TRUE:
+    - NAME, SURNAME, EMAIL
+    - NAME, SURNAME, EMAIL, IBAN
 
 ##### Cateogry 2 (Text based) > Magnus
 - pdf
@@ -74,7 +99,14 @@
 
 ##### Cateogry 3 > Mohammad
 - pem
-- pub
+  - TRUE:
+    Allways, it starts with BEGIN and END
+    
+- pub:
+  - TRUE:
+    - starts with ssh-rsa and then finishes with a valid iban
+  - FALSE:
+    - NAME/WORD, EMAIL
 
 ##### Cateogry 4 >  Nazish
 - png
@@ -232,6 +264,31 @@ There are many tools out there that can do a lot of the heavy lifting for you. A
 Sometimes you can restructure a specific file type so that you can use a classifier that you built for another file type. Try to modularize your code and reuse features that you already implemented. So you can build pipelines for different data types without reinventing the wheel. Per example for audio files you could build a speech-to-text module and feed its output in your already existing text classifier. But beware, errors tend to compound when chaining estimators. So choose wisely whether you give something a `false` instead of a `review` label.
 
 ### Check If Your Solution Runs Correctly
+
+
+### Local Implementation:
+
+go to the `app` directory and run the following command:
+
+``` bash
+pip3 install -r requirements.txt
+```
+
+To run the program, run the following command
+``` bash
+python crawler.py
+```
+
+#### NLP Requirements (in case it is used)
+pip3 install --user -U nltk
+```
+
+``` bash
+pip3 install --user -U numpy
+```
+
+
+
 We check your solutions within a Docker image to ensure that your solution will also run on our hardware. We advise you to check your solution within Docker as well. [Install Docker](https://docs.docker.com/engine/install/) on your machine then go to the root directory of your local copy of this repo and run the command
 ```
 docker build -t crawler .

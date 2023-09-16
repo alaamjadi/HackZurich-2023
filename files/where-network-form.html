@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Yellowbrick - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6Njk2LCJpc3MiOiJjb3VudGVyOnN5c3RlbSIsIm5iZiI6MTY5NDYxNDYwMH0.bVibamu2w67tztyP_kdUZ7gjJh6wnjpp9MJUyrF_dgY">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/yellowbrick" />
+<meta name="twitter:url" content="https://dbdb.io/db/yellowbrick" />
+<meta property="og:title" content="Database of Databases &mdash; Yellowbrick" />
+<meta property="og:description" content="Yellowbrick is a relational data warehouse that is optimized for flash-based storage." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/yellowbrick.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; Yellowbrick" />
+<meta name="twitter:description" content="Yellowbrick is a relational data warehouse that is optimized for flash-based storage." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/yellowbrick.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/yellowbrick/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+Yellowbrick
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<a class="badge badge-secondary" style="font-size: 12px;" href="/browse?tag=olap">OLAP</a>
+<p class="card-text">
+<p>Yellowbrick is a relational data warehouse that is optimized for flash-based storage.</p>
+</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.eweek.com/storage/yellowbrick-data-enters-cloud-data-warehouse-wars">https://www.eweek.com/storage/yellowbrick-data-enters-cloud-data-warehouse-wars</a></li>
+<li><a target="_blank" href="https://www.yellowbrick.com/products/data-warehouse/">https://www.yellowbrick.com/products/data-warehouse/</a></li>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=multi-version-concurrency-control-mvcc">Multi-version Concurrency Control (MVCC)</a>
+</p>
+<p><p>Yellowbrick uses append-only MVCC with vacuum garbage collection.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=relational">Relational</a>
+</p>
+<p><p>Yellowbrick supports the boolean, integer, decimal, floating point, string, date/time, and UUID types available in PostgreSQL, as well as new data types for IP and MAC addresses.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="foreign-keys" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Foreign Keys
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?foreign-keys=supported">Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.yellowbrick.com/6.1/ybd_sqlref/create_table_examples.html">https://docs.yellowbrick.com/6.1/ybd_sqlref/create_table_examples.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="hardware-acceleration" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Hardware Acceleration
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?hardware-acceleration=fpga">FPGA</a>
+<a class="badge badge-info" href="/browse?hardware-acceleration=rdma">RDMA</a>
+</p>
+<p><p>Yellowbrick’s on-premise servers utilize a dual-core FPGA to accelerate table scans by performing file parsing, decompression, predicate evaluation, and Bloom filtering. The FPGA accelerator is also used for shuffling data between nodes, which happens via RDMA.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/andromeda-optimized-instances/">https://yellowbrick.com/resources/whitepapers/andromeda-optimized-instances/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="indexes" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Indexes
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?indexes=not-supported">Not Supported</a>
+</p>
+<p><p>Yellowbrick does not support indexes.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="isolation-levels" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Isolation Levels
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?isolation-levels=read-committed">Read Committed</a>
+</p>
+<p><p>Yellowbrick universally uses the <code>READ COMMITTED</code> isolation level.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="joins" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Joins
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?joins=nested-loop-join">Nested Loop Join</a>
+<a class="badge badge-info" href="/browse?joins=hash-join">Hash Join</a>
+<a class="badge badge-info" href="/browse?joins=sort-merge-join">Sort-Merge Join</a>
+</p>
+<p><p>Yellowbrick supports hash, sort-merge, and nested loop joins.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=uHMcVDNkHi4">https://www.youtube.com/watch?v=uHMcVDNkHi4</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="parallel-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Parallel Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?parallel-execution=intra-operator">Intra-Operator (Horizontal)</a>
+</p>
+<p><p>Yellowbrick uses intra-operator parallelism, where each thread operates on a different chunk of data, and threads are synchronized to each execute the same operators simultaneously. Yellowbrick schedules execution operators that process a given packet of data to be as close to each other as possible to minimize data movement.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=uHMcVDNkHi4">https://www.youtube.com/watch?v=uHMcVDNkHi4</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-compilation" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Compilation
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-compilation=code-generation">Code Generation</a>
+</p>
+<p><p>Yellowbrick partitions query plans into segments and converts them into C++ code. Segments are then compiled into machine code in parallel using a modified version of LLVM which is memory-resident with its ASTs pre-loaded. Compiled object files are cached and reused.</p>
+<p>Yellowbrick also has a specialized pattern compiler for <code>LIKE</code>, <code>SIMILAR TO</code>, regular expressions, and date/time parsing. Yellowbrick generates finite state machines for these patterns and compiles them to machine code using LLVM.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-execution=vectorized-model">Vectorized Model</a>
+</p>
+<p><p>Unlike systems which constrain their query plans to be trees, Yellowbrick uses graph query plans, which allow for execution nodes to have more than one consumer. The execution engine operates on a push-based model, passing cache-resident buffers between operators. Yellowbrick uses AVX SIMD instructions to evaluate expressions and predicate filters.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=sql">SQL</a>
+</p>
+<p><p>Yellowbrick is compatible with the PostgreSQL dialect and wire protocol, and it uses the PostgreSQL JDBC, ODBC, and ADO.NET drivers.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+<li><a target="_blank" href="https://docs.yellowbrick.com/6.1/connectivity/downloading_drivers.html">https://docs.yellowbrick.com/6.1/connectivity/downloading_drivers.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=hybrid">Hybrid</a>
+</p>
+<p><p>Yellowbrick’s on-premise servers persist data in NVMe SSDs using a custom file system called BBFS (Big Block File System). BBFS is fully asynchronous and stores file system metadata in in-memory indexes. On top of BBFS sits ParityFS, a cluster-level file system which implements n+2 erasure encoding at the file level, allowing it to tolerate up to two concurrent failures. If a node fails, its files are virtually reassigned to the remaining nodes, which lazily reconstruct the files when they are read.</p>
+<p>In the cloud version of Yellowbrick, data is persisted to an object store such as Amazon S3. Worker nodes use custom object store connectors built on a custom HTTP stack that runs asynchronously in userspace. Local SSDs operate as write-around caches: when a node writes to a shard, it writes directly to the object store, notifying other workers. Caches use a modified LRU eviction policy with scan resistance, and shards are assigned to workers using rendezvous hashing.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+<li><a target="_blank" href="https://docs.yellowbrick.com/6.1/administration/managing_row_store.html">https://docs.yellowbrick.com/6.1/administration/managing_row_store.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-format" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Format
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-format=parquet">Apache Parquet</a>
+</p>
+<p><p>Yellowbrick natively supports reading from Apache Parquet and CSV files.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.yellowbrick.com/6.1/getting_started/create_external_format.html">https://docs.yellowbrick.com/6.1/getting_started/create_external_format.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=hybrid">Hybrid</a>
+</p>
+<p><p>Yellowbrick uses a column store as the main storage format, with tables horizontally partitioned into 200MB shards.</p>
+<p>Yellowbrick also has a log-structured row store for streaming ingestion and small inserts which is periodically flushed to the column store. High-throughput streams, bulk loads, and <code>INSERT INTO ... SELECT</code> operations are committed directly to the column store.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/">https://yellowbrick.com/resources/whitepapers/inside-the-yellowbrick-data-warehouse/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="stored-procedures" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Stored Procedures
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?stored-procedures=supported">Supported</a>
+</p>
+<p><p>Yellowbrick supports PL/pgSQL stored procedures (<code>CREATE PROCEDURE</code>) but not user-defined functions (<code>CREATE FUNCTION</code>). Unlike in PostgreSQL, stored procedures in Yellowbrick can return values and be called from <code>SELECT</code> statements, but only when there is no table-referencing <code>FROM</code> clause.</p>
+<p>Triggers are not supported.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.yellowbrick.com/6.1/ybd_sqlref/create_procedure.html">https://docs.yellowbrick.com/6.1/ybd_sqlref/create_procedure.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-nothing">Shared-Nothing</a>
+</p>
+<p><p>Yellowbrick employs a shared-nothing microservice architecture managed by Kubernetes. Each Yellowbrick cluster is comprised of elastically scaling worker, compiler, and bulk load pods, which are supported by pods for management, logging, and the user interface.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=uHMcVDNkHi4">https://www.youtube.com/watch?v=uHMcVDNkHi4</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=virtual-views">Virtual Views</a>
+</p>
+<p><p>Yellowbrick supports virtual views only.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.yellowbrick.com/6.1/ybd_sqlref/create_view.html">https://docs.yellowbrick.com/6.1/ybd_sqlref/create_view.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/yellowbrick/revisions/" title="View All Revisions for Yellowbrick">
+<div class="card-body">
+Revision #29
+&nbsp;|&nbsp;
+<time datetime="2023-04-02T01:09:55.438000-04:00">
+Updated 04/02/2023 1:09 a.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/umbra" title="Umbra">
+<img class="logo-recommendation" src="/media/logos/umbra.svg" alt="Umbra" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/redisgraph" title="RedisGraph">
+<img class="logo-recommendation" src="/media/logos/redisgraph.svg" alt="RedisGraph" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/questdb" title="QuestDB">
+<img class="logo-recommendation" src="/media/logos/questdb.svg" alt="QuestDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/xtremedata" title="XtremeData">
+<img class="logo-recommendation" src="/media/logos/xtremeldata.png.200x50_q85.png" alt="XtremeData" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/yellowbrick2023.svg"><img class="logo-thumbnail" src="/media/logos/yellowbrick2023.svg" style="border:none;" alt="Yellowbrick Logo" title="Yellowbrick"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="https://yellowbrick.com">https://yellowbrick.com</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="https://yellowbrick.com/docs/">https://yellowbrick.com/docs/</a></p>
+<h6 class="card-title">Twitter</h6>
+<p class="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" /></svg> <a target="twitter" href="https://twitter.com/YellowbrickData"> @YellowbrickData</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">Yellowbrick Data</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=US" title="View other systems from United States of America">
+<i class="flag-sprite flag-u flag-_s"></i>
+US
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2014</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.crunchbase.com/organization/yellowbrick-data">https://www.crunchbase.com/organization/yellowbrick-data</a></li>
+</ul>
+</cite>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=commercial" title="View other Commercial systems">Commercial</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=c" title="View other systems that are written in C">C</a>, <a class="card-title" href="/browse?programming=cplusplus" title="View other systems that are written in C++">C++</a>, <a class="card-title" href="/browse?programming=go-lang" title="View other systems that are written in Go">Go</a>, <a class="card-title" href="/browse?programming=java" title="View other systems that are written in Java">Java</a>, <a class="card-title" href="/browse?programming=python" title="View other systems that are written in Python">Python</a>
+</p>
+<h6 class="card-title">Derived From</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?derived=postgresql" title="View other systems derived from PostgreSQL">PostgreSQL</a>
+</p>
+<h6 class="card-title">Compatible With</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?compatible=postgresql" title="View other systems compatible with PostgreSQL">PostgreSQL</a>
+</p>
+<h6 class="card-title">Operating Systems</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?os=hosted" title="View other systems that support Hosted systems">Hosted</a>, <a class="card-title" href="/browse?os=linux" title="View other systems that support Linux systems">Linux</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=proprietary" title="View other systems that use Proprietary">Proprietary</a>
+</p>
+<h6 class="card-title">Wikipedia</h6>
+<p class="card-text"><a target="wikipedia" href="https://en.wikipedia.org/wiki/Yellowbrick_Data">https://en.wikipedia.org/wiki/Yellowbrick_Data</a></p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/yellowbrick/revisions/" title="View All Revisions for Yellowbrick">
+<div class="card-body">
+Revision #29
+&nbsp;|&nbsp;
+<time datetime="2023-04-02T01:09:55.438000-04:00">
+Updated 04/02/2023 1:09 a.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/umbra" title="Umbra">
+<img class="logo-recommendation" src="/media/logos/umbra.svg" alt="Umbra" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/redisgraph" title="RedisGraph">
+<img class="logo-recommendation" src="/media/logos/redisgraph.svg" alt="RedisGraph" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/questdb" title="QuestDB">
+<img class="logo-recommendation" src="/media/logos/questdb.svg" alt="QuestDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/xtremedata" title="XtremeData">
+<img class="logo-recommendation" src="/media/logos/xtremeldata.png.200x50_q85.png" alt="XtremeData" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#1578747c7955717771773b7c7a" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="27ce16021206996283e96d45-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="27ce16021206996283e96d45-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="27ce16021206996283e96d45-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="27ce16021206996283e96d45-text/javascript"></script>
+<script type="27ce16021206996283e96d45-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="27ce16021206996283e96d45-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="27ce16021206996283e96d45-text/javascript"></script>
+<script type="27ce16021206996283e96d45-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="27ce16021206996283e96d45-text/javascript"></script>
+<script src="/static/core/js/system.js" type="27ce16021206996283e96d45-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="27ce16021206996283e96d45-|49" defer></script></body>
+</html>

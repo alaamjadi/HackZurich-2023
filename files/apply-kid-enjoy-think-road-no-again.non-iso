@@ -1,0 +1,46 @@
+ï»¿<#
+.SYNOPSIS
+	Synchronizes a repo 
+.DESCRIPTION
+	This PowerShell script synchronizes a local Git repository by pull and push (including submodules).
+.PARAMETER path
+	Specifies the path to the Git repository
+.EXAMPLE
+	PS> ./sync-repo.ps1 C:\MyRepo
+	â³ (1/4) Searching for Git executable...  git version 2.42.0.windows.1
+	â³ (2/4) Checking local repository...     ðŸ“‚C:\MyRepo
+	â³ (3/4) Pulling remote updates...        Already up to date.
+	â³ (4/4) Pushing local updates...         Everything up-to-date
+	âœ”ï¸ Synced repo ðŸ“‚MyRepo in 5 sec
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+
+param([string]$path = "$PWD")
+
+try {
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	Write-Host "â³ (1/4) Searching for Git executable...  " -noNewline
+ 	& git --version
+ 	if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
+
+	Write-Host "â³ (2/4) Checking local repository...     ðŸ“‚$path"
+	if (!(Test-Path "$path" -pathType container)) { throw "Can't access folder: $path" }
+	$pathName = (Get-Item "$path").Name
+
+	Write-Host "â³ (3/4) Pulling remote updates...        " -noNewline
+	& git -C "$Path" pull --all --recurse-submodules
+	if ($lastExitCode -ne "0") { throw "'git pull --all --recurse-submodes' failed" }
+
+	Write-Host "â³ (4/4) Pushing local updates...         " -noNewline
+	& git -C "$Path" push
+	if ($lastExitCode -ne "0") { throw "'git push' failed" }
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"âœ”ï¸ Synced repo ðŸ“‚$pathName in $Elapsed sec"
+	exit 0 # success
+} catch {
+	"âš ï¸ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}

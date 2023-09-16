@@ -1,0 +1,11 @@
+tdf#104368 With GTK3 port, floating search bar textentry widget can never get focused [Maxim Monastirsky]
+tdf#108967 Help for Edit Index in Writer points to old place in menu [Muhammet Kara]
+Importing categories...
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+[22:42:38] Car Insurance: [-] 4190/8012 no engine matches (HTTP-Status: 400) - https://www.colorado.gov
+tim+hack+and+kelly+drew	01.08.2009 17:41:59	http://www.google.com/search?hl=en&q=tim+hack+kelly+drew&aq=0&oq=tim+hack+k&aqi=g1	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727)	173.8.103.17
+[   1955375] instrumented function 0x1409081bc (7) took 15msec
+[   1955422] instrumented function 0x1401c0e94 (8) took 21msec
+[   1955453] instrumented function 0x1407c9ae0 (9) took 22msec
+[   1955484] instrumented function 0x1408f82a0 (10) took 8msec
+[   1955500] instrumented function 0x1408f8c5c (11) took 2msec

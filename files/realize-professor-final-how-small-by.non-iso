@@ -1,0 +1,33 @@
+ï»¿<#
+.SYNOPSIS
+	Uninstalls GitHub CLI
+.DESCRIPTION
+	This PowerShell script uninstalls the GitHub CLI from the local computer.
+.EXAMPLE
+	PS> ./uninstall-github-cli.ps1
+	â³ Uninstalling GitHub CLI...
+	âœ”ï¸ Removal of GitHub CLI took 7 sec
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+
+try {
+	"â³ Uninstalling GitHub CLI..."
+	$StopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	if ($IsMacOS) {
+		& brew uninstall gh
+	} elseif ($IsLinux) {
+		& sudo apt remote gh
+	} else {
+		& winget uninstall --id GitHub.cli
+	}
+	if ($lastExitCode -ne "0") { throw "Can't uninstall GitHub CLI, is it installed?" }
+
+	[int]$Elapsed = $StopWatch.Elapsed.TotalSeconds
+	"âœ”ï¸ Removal of GitHub CLI took $Elapsed sec"
+	exit 0 # success
+} catch {
+	"Sorry: $($Error[0])"
+	exit 1
+}

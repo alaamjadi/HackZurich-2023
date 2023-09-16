@@ -1,0 +1,503 @@
+  Edward_VIII          ==&gt; Edward_VIII
+Source:
+#include "confdefs.h"
+#include "conffix.h"
+
+int main() {
+;
+Successful compile:
+Source:
+#include "confdefs.h"
+#include "conffix.h"
+
+int main() {
+;
+  return 0;
+}
+Executing: mpicxx  -o /tmp/petsc-uGvYRc/config.setCompilers/conftest    /tmp/petsc-uGvYRc/config.setCompilers/conftest.o  -lpetsc-ufod4vtr9mqHvKIQiVAm
+Possible ERROR while running linker: exit code 1
+stderr:
+/usr/bin/ld: cannot find -lpetsc-ufod4vtr9mqHvKIQiVAm
+collect2: error: ld returned 1 exit status
+Executing: mpicxx -c -o /tmp/petsc-uGvYRc/config.setCompilers/conftest.o -I/tmp/petsc-uGvYRc/config.setCompilers     /tmp/petsc-uGvYRc/config.setCompilers/conftest.cc 
+Successful compile:
+Source:
+#include "confdefs.h"
+#include "conffix.h"
+
+int main() {
+;
+  return 0;
+}
+\pgf@hbox=\box61
+GNU	ALASKA	GOODNEWS	afd	al_87_25OCT2007.png
+ofz#6845 use of "deleted" ScRange [Eike Rathke]
+ofz#6888 /forcepoint#27 adjust consistency check [Caolán McNamara]
+MPI Message Lengths:  0.000e+00      0.00000   0.000e+00  0.000e+00
+MPI Reductions:       0.000e+00      0.00000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flops
+                            and VecAXPY() for complex vectors of length N --> 8N flops
+
+Summary of Stages:   ----- Time ------  ----- Flops -----  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total   counts   %Total     Avg         %Total   counts   %Total 
+ 0:      Main Stage: 1.1449e+02 100.0%  1.4138e+11 100.0%  0.000e+00   0.0%  0.000e+00        0.0%  0.000e+00   0.0% 
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+PCSetUp                1 1.0 4.0531e-06 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+PCApply            21548 1.0 1.4163e+00 1.0 4.69e+08 1.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0   331
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Viewer     4              2         1536     0
+              Matrix     1              1     30431632     0
+              Vector    70             70     12295360     0
+       Krylov Solver     1              1         2392     0
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle default -> [validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy]
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle clean -> [pre-clean, clean, post-clean]
+build	14-Jul-2020 09:19:57	  <pluginArtifacts>${plugin.artifacts}</pluginArtifacts>
+build	14-Jul-2020 09:19:57	  <project>${project}</project>
+build	14-Jul-2020 09:19:57	  <sourceRoot>${sourceRoot}</sourceRoot>
+build	14-Jul-2020 09:19:57	  <target>
+build	14-Jul-2020 09:19:57	    <copy todir="D:\BambooAgent\xml-data\build-dir\EPDG-EPWBD-JOB1\epdg-app-aggregator\target\classes" failonerror="false" overwrite="true">
+build	14-Jul-2020 09:19:57	      <fileset dir="D:\BambooAgent\xml-data\build-dir\EPDG-EPWBD-JOB1\epdg-app-aggregator\target\classes">
+build	14-Jul-2020 09:19:57	        <exclude name="**/*.class"/>
+build	14-Jul-2020 09:19:57	      </fileset>
+build	14-Jul-2020 09:19:57	      <mapper from="^(.*)-LOCAL\.(.*)$$" to="\1\.\2" type="regexp"/>
+build	14-Jul-2020 09:19:57	    </copy>
+build	14-Jul-2020 09:19:57	  </target>
+build	14-Jul-2020 09:19:57	  <testSourceRoot>${testSourceRoot}</testSourceRoot>
+build	14-Jul-2020 09:19:57	  <versionsPropertyName default-value="maven.project.dependencies.versions"/>
+build	14-Jul-2020 09:19:57	</configuration>
+build	14-Jul-2020 09:19:57	[DEBUG] -----------------------------------------------------------------------
+build	14-Jul-2020 09:19:57	[DEBUG] Goal:          org.apache.maven.plugins:maven-install-plugin:2.3.1:install (default-install)
+build	14-Jul-2020 09:19:57	[DEBUG] Style:         Regular
+build	14-Jul-2020 09:19:57	[DEBUG] Configuration: <?xml version="1.0" encoding="UTF-8"?>
+build	14-Jul-2020 09:19:57	<configuration>
+build	14-Jul-2020 09:19:57	  <artifact default-value="${project.artifact}"/>
+build	14-Jul-2020 09:19:57	  <attachedArtifacts default-value="${project.attachedArtifacts}"/>
+build	14-Jul-2020 09:19:57	  <createChecksum default-value="false">${createChecksum}</createChecksum>
+build	14-Jul-2020 09:19:57	  <localRepository>${localRepository}</localRepository>
+build	14-Jul-2020 09:19:57	  <packaging default-value="${project.packaging}"/>
+build	14-Jul-2020 09:19:57	  <pomFile default-value="${project.file}"/>
+build	14-Jul-2020 09:19:57	  <updateReleaseInfo default-value="false">${updateReleaseInfo}</updateReleaseInfo>
+build	14-Jul-2020 09:19:57	</configuration>
+build	14-Jul-2020 09:19:57	[DEBUG] =======================================================================
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+[22:42:42] Amazon: [-] 3689/7825 no engine matches (HTTP-Status: 400) - https://www.restaurantlaurus.be
+[22:42:42] Health: [+] 8181/8339 matches engine Drupal - Blog - http://berryfamilypoolstx.com
+[22:42:42] Online Degree: [-] 7893/8073 no engine matches (HTTP-Status: 502) - http://karieraservice.pl/?option=com_k2&view=itemlist&task=user&id=13034
+[22:42:42] Health: [+] 8181/8339 registration successful - http://www.berryfamilypoolstx.com/node/add
+[22:42:42] Health: [-] 8181/8339 login not possible/awaiting verification (sorry, unrecognized username or password) - http://www.berryfamilypoolstx.com/user
+[22:42:43] Mesothelioma: [-] 0525/7981 no engine matches (HTTP-Status: 500) - http://www.franciscodiaz.es/?option=com_k2&view=itemlist&task=user&id=3715
+[22:42:44] Web Design T2: [-] 4919/8453 download failed (Return: -) - http://scottpetinga.com/my-cancer-anniversary-11-years-strong/
+[22:42:44] Online Degree: [-] 7894/8073 no engine matches (HTTP-Status: 501) - https://www.osgeo.org/
+[22:42:44] Justice degree: [-] 8019/8289 download failed (Return: -) - http://www.pkspasuruan.org/2015/06/26/hotel-utsman-bin-affan-dibangun-dari-rekening-berusia-1-400-tahun/
+[22:42:44] Mesa DUI lawyer: [-] 8182/8413 download failed (Return: -) - http://www.feskekorka.com/index.php?option=com_content&view=article&id=95:tillbaka-igen&catid=4:la-bandiera&Itemid=58
+[22:42:44] Sports: [-] 8080/8698 download failed (Return: -) - https://www.sunrisetranscription.com/
+[22:42:44] eBay: [-] 8126/8467 no engine matches (HTTP-Status: 502) - http://ctwo.se/infos/multiple-skins-tons-of-options/
+[22:42:44] Car Insurance: [-] 4196/8012 download failed (Return: -) - http://spacetalk.co.kr/xe/?document_srl=64910
+[22:42:44] Make money online T2: [-] 3844/8483 download failed (Return: -) - https://www.qualitydigest.com
+[22:42:44] Travels: [-] 8128/8261 download failed (Return: -) - https://newengland.com/about/
+[22:42:44] Currency: [-] 7910/8085 download failed (Return: -) - http://legalspaintrans.com/legal-translation/quick-tip-for-translating-contracts-2-dont-use-undertakes-to/
+[22:42:44] Make money online: [-] 7822/8047 download failed (Return: -) - http://jinbocho.air-nifty.com/diary/2005/07/0701_dbbe.html
+[22:42:44] Agriculture: [-] 0006/7854 download failed (Return: -) - http://moxiurgrosspam.blogas.lt/mama-cat-has-three-kittensdoc-178.html
+[22:42:44] Cooking TIPS: [-] 0204/7845 no engine matches (HTTP-Status: 502) - http://www.sysleriogskribleri.dk/category/weekend
+[22:42:44] Precious metals: [-] 0103/8003 download failed (Return: -) - http://www.aktywnezycie.com/2013/05/smoothies-dietetyczne-zapiekanki-saatka.html
+[22:42:44] Injury Lawyers: [-] 7872/7969 no engine matches (HTTP-Status: 502) - http://kazlingvo.kz/uslugi
+[22:42:44] Digital Marketing: [-] 0134/7912 download failed (Return: -) - http://www.pmfgroup.lv/finansu-instrumenti/indikativs-plans-es-fondu-projektu-atlasei/
+[22:42:44] Agriculture T2: [-] 3869/8565 download failed (Return: -) - http://www.curacao-chamber.cw
+[22:42:44] Mortgage: [-] 7939/8168 download failed (Return: -) - http://whitewaysystems.co.za
+[22:42:44] Health: [-] 8185/8339 download failed (Return: -) - http://www.goldenbook.com
+[22:42:44] Sai: [-] 8088/8249 download failed (Return: -) - http://Nido-Rinconada.com/rinconada/sample-page/
+[22:42:44] Win News Time: [-] 7747/7826 download failed (Return: -) - http://www.diet-gazette.com/
+[22:42:44] Hindu temples T2: [-] 4070/4573 download failed (Return: -) - http://www.jaibhim.hu/a-roma-and-dalit-joint-project-in-hungary/
+[22:42:44] Internet VOIP: [-] 0124/8096 download failed (Return: -) - https://www.tamil.eronow.in/
+[22:42:44] Amazon: [-] 3693/7825 download failed (Return: -) - https://dropperist.com/listing/annamaija-katariina-vaisanen/
+HUA	ALABAMA	REDSTONE AAF 	afd	se_37_25OCT2007.png
+what+did+greg+mcmackin+say	01.08.2009 19:52:59	http://www.google.com/search?sourceid=navclient&aq=0h&oq=&ie=UTF-8&rlz=1T4GGLL_enUS309US309&q=what+did+hawaii+coach+mcmackin+say%3f	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727)	72.146.167.206
+tim+hack+and+kelly+drew	01.08.2009 19:53:03	http://www.google.com/search?client=safari&rls=en-us&q=tim+hack+kelly+drew+photo&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1	66.69.254.161
+mardomak	01.08.2009 19:53:58	http://www.google.se/search?hl=sv&q=mardomak&meta=&aq=2&oq=mardoma	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; msn OptimizedIE8;SVSE)	83.248.98.29
+mardomak	01.08.2009 19:53:59	http://www.google.ca/search?hl=en&q=mardomak+blog&btnG=Google+Search&meta=&aq=f&oq=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506)	24.224.182.175
+tim+hack+and+kelly+drew	01.08.2009 19:54:09	http://www.google.com/search?q=kelly+drew&hl=en&start=10&sa=N	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)	12.154.59.194
+granicrete	01.08.2009 19:54:20	http://www.google.com/search?hl=en&rls=com.microsoft:*:IE-SearchBox&rlz=1I7ACEW_enUS332US332&ei=upx0SoPJIIb8Nb7Z9LAM&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=granicrete+houston&spell=1	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	69.155.135.2
+jonathan+campos	01.08.2009 19:54:42	http://www.google.com/search?hl=en&q=jonathan%20campos&um=1&ie=UTF-8&sa=N&tab=iw&start=0	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.18 (KHTML, like Gecko) Version/4.0.1 Safari/530.18	75.51.92.224
+what+did+greg+mcmackin+say	01.08.2009 19:54:47	http://www.google.com/search?client=safari&rls=en-us&q=greg+mcmackin+what+did+he+say&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	71.79.231.240
+what+did+greg+mcmackin+say	01.08.2009 19:55:04	http://www.google.com/search?q=what+did+mcmackin+say&hl=en&start=10&sa=N	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; Windows-Media-Player/10.00.00.3990)	71.206.163.206
+what+did+greg+mcmackin+say	01.08.2009 19:55:16	http://www.google.com/search?client=safari&rls=en-us&q=greg+mcmackin+what+did+he+say&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	71.79.231.240
+sono+arts+festival	01.08.2009 19:55:56	http://search.hp.my.aol.com/aol/search?s_it=topsearchbox.search&query=Sono+Arts+Festival	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)	67.87.115.2
+mountaineer+race+track	01.08.2009 19:56:22	http://www.google.ca/search?hl=en&client=firefox-a&channel=s&rls=org.mozilla:en-US:official&hs=Skf&ei=tJ10SsmfNse_tgeH8tCWCQ&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=mountaineer+thoroughbred+horse+racing&spell=1	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	72.38.167.122
+mountaineer+race+track	01.08.2009 19:56:24	http://www.google.com/hws/search?client=dell-usuk&adsafe=high&safe=high&channel=us-psp&hl=en&ibd=4090115&q=mountaineer+horse+track	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506)	216.68.46.66
+tim+hack+and+kelly+drew	01.08.2009 19:56:27	http://www.google.com/search?hl=en&q=kelly+drew+and+tim+hack+pictures&btnG=Google+Search&cts=1249156569225&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	68.229.66.42
+market+days+chicago+2009	01.08.2009 19:57:19	http://www.google.com/search?hl=en&q=what+is+market+days+Chicago+IL&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	24.14.23.200
+market+days+chicago+2009	01.08.2009 19:57:36	http://www.google.com/search?hl=en&q=what+is+market+days+Chicago+IL&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	24.14.23.200
+lughnasadh	01.08.2009 19:58:32	http://www.google.com/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Flughnasadh&ei=ZZ50SuahBZ6ltgfE-NyWCQ&rct=j&q=lughnasadh+wallpaper&usg=AFQjCNGhzz_J3tE1T--AuDrPbij9wSrruw	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.7pre) Gecko/20070815 Firefox/2.0.0.6 Navigator/9.0b3	71.255.201.220
+what+did+greg+mcmackin+say	01.08.2009 19:58:57	http://www.google.com/search?q=what+did+hawaii+coach+say+notre+dame+gay&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GFRD	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727)	99.151.170.174
+what+did+greg+mcmackin+say	01.08.2009 20:00:03	http://www.google.com/search?sourceid=navclient&aq=0&oq=greg+mcmack&ie=UTF-8&rlz=1T4ADRA_enUS331US333&q=greg+mcmackin	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	71.156.51.141
+west+virginia+derby	01.08.2009 20:00:05	http://search.aol.com/aol/search?s_it=topsearchbox.search&q=mountaineer+park+west+virginia++race+derby+entries	Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; GTB6; AskTB5.3)	205.188.116.134
+fedex+field	01.08.2009 20:14:21	http://www.google.com/search?sourceid=navclient&aq=1h&oq=fedex&ie=UTF-8&rlz=1T4SUNA_enUS272US273&q=fedex+parking+for+concerts	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	69.143.170.164
+tim+hack+and+kelly+drew	01.08.2009 20:14:22	http://www.google.com/search?q=pictures+of+kelly+drew+and+tim+hack+&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GGLL_en	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	12.68.16.34
+what+did+greg+mcmackin+say	01.08.2009 20:14:23	http://www.google.com/search?q=what+did+coach+mcmackin+say&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7SUNA_en	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; InfoPath.1; .NET CLR 2.0.50727)	173.73.161.108
+what+did+greg+mcmackin+say	01.08.2009 20:14:55	http://www.google.com/search?client=safari&rls=en-us&q=what+did+greg+mcmackin+say&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	71.193.96.103
+what+did+greg+mcmackin+say	01.08.2009 20:15:57	http://www.google.com/search?hl=en&q=What+word+did+McMackin+use&rlz=1W1DKUS_en&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; .NET CLR 1.1.4322; InfoPath.2)	66.91.110.146
+nbc5i+com+radar	01.08.2009 20:16:18	http://www.google.com/search?q=nbc5i+weather&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GZEZ_en	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; DigExt; GTB6; yie8)	71.51.102.103
+clasica+san+sebastian+live	01.08.2009 20:16:33	http://www.google.cz/search?hl=cs&q=clasica+san+sebastian+2009+tv&btnG=Hledat&lr=	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; QUICK.CZ; FunWebProducts; .NET CLR 2.0.50727)	90.178.252.110
+sayville+summerfest	01.08.2009 20:17:06	http://www.google.com/search?q=sayville+summerfest&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	24.45.213.143
+socorro+caro	01.08.2009 20:17:06	http://www.google.com/search?q=socorro%20caro&hl=en&ned=us&tab=nw	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; WinNT-PAI 20.07.2009)	98.195.190.31
+sayville+summerfest	01.08.2009 20:17:28	http://www.google.com/search?hl=en&client=firefox-a&channel=s&rls=org.mozilla%3Aen-US%3Aofficial&hs=9j0&q=sayville+town+fair&btnG=Search&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	24.47.4.218
+Checking copula in apposition
+#include "conffix.h"
+\ALG@tlm=\skip84
+Executing: mpif90  -o /tmp/petsc-uGvYRc/config.setCompilers/conftest  -Wl,-rpath,/sandbox/petsc/petsc.next   /tmp/petsc-uGvYRc/config.setCompilers/conftest.o 
+            Valid FC linker flag -Wl,-rpath,/sandbox/petsc/petsc.next
+Executing: uname -s
+                           Hadronic Processes for anti_He3
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+[22:42:47] Insurance: [-] 8221/8262 no engine matches (HTTP-Status: 502) - http://www.djradio.ca/using-k2/item/23-venenatis-conubia-gravida
+[22:42:47] Hindu temples T2: [-] 4077/4573 no engine matches (HTTP-Status: 500) - http://www.annu.3wnet.eu/submit_site.php?action=meta_send&id_cat=0&url=http://nike-paobu.com
+build	14-Jul-2020 09:19:57	[DEBUG] Extension realms for project com.XXXXXX.enterprise.build:enterprise-pom:pom:3.0.0: (none)
+                      Event Strings : 0
+               Cable Wrap Sense Transitions: 2
+      Transition Time: 2008 024 // 05:03:03.00000
+       From Wrap Name: CW
+         To Wrap Name: CCW
+         Breaks Track: No
+      Transition Time: 2008 024 // 07:41:33.00000
+       From Wrap Name: CCW
+         To Wrap Name: CW
+         Breaks Track: Yes
+                              Wrap  Name: CCW
+                               Narrative: 
+                      Initial Wrap Valid: Yes
+              Complete w/o Wrap Limit(s): Yes
+  Opt. Period         Initial Wrap Valid: No
+  Opt. Period Complete w/o Wrap Limit(s): Yes
+                        Recommended Wrap: Yes
+            Wrap Reversal During Pre-Cal: No
+                                  Events: 0
+
+                      Event Strings : 0
+               Cable Wrap Sense Transitions: 1
+      Transition Time: 2008 024 // 05:03:03.00000
+       From Wrap Name: CW
+         To Wrap Name: CCW
+         Breaks Track: No
+       Bad Cable Wrap Reports: 
+            Pre-Limit  Events: 
+                       Events: 
+RealEvent    2008 023 // 23:32:55.000 Above Elevation Pre-Limit               108.300  6.000
+      8          8           0       -1.190405   -1.190405   -1.190405
+ ---------------------------------------------------------------------
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+ PART_COUNT: O14 = 31
+ PART_COUNT: O15 = 269
+Importing categories...
+0 K2 categories imported
+./Film/Shrek_I
+./Film/Stargate_Universe
+./Film/Star_Wars
+[22:42:30] Sports: [+] 8077/8698 new URL - http://ringofentrepreneurs.com/wp-login.php?action=register
+[22:42:30] Travels: [-] 8120/8261 no engine matches (HTTP-Status: 503) - http://fewo-silesia.de
+ofz#4419 integer-overflow [Caolán McNamara]
+ofz#4422 integer-overflow [Caolán McNamara]
+[22:42:43] Cooking TIPS: [-] 0202/7845 no engine matches (HTTP-Status: 400) - https://www.newscorpaustralia.com
+[22:42:43] Mesothelioma T1: [+] 0213/8853 unknown registration status - http://www.ietrade.com.cn
+[22:42:43] Insurance: [+] 8214/8262 matches engine Wordpress Article - http://www.inktippitchsummit.com/
+[22:42:48] Digital Marketing: [-] 0144/7912 registration failed (registration=disabled) - http://palmerhistory.biz/wp-login.php?registration=disabled
+
+          #define PETSC_VERSION_LT(MAJOR,MINOR,SUBMINOR)          \
+ XXYZ=              0.0000 YYXZ=              0.0000 ZZXY=              0.0000
+[   1901125] [op-oxy]
+[   1901140] [op-racing]
+[   1901156] [op-restart]
+     file='/data/richards/NBRTT/build/Geant4/build/Externals/G4EMLOW-6.32/src/G4EMLOW.6.32.tar.gz'
+-- verifying file... done
+-- extracting...
+     src='/data/richards/NBRTT/build/Geant4/build/Externals/G4EMLOW-6.32/src/G4EMLOW.6.32.tar.gz'
+     dst='/data/richards/NBRTT/build/Geant4/build/data/G4EMLOW6.32'
+[     43469] [   ROSLauncher]                14544/ SC JS message: SignInComplete -> {}
+[   1963750] overriding handle for mp_f_freemode_01/jbib_diff_008_i_uni.ytd (was 4cd03f3) -> 260
+[   1963765] overriding handle for mp_f_freemode_01/jbib_diff_008_j_uni.ytd (was 4cd03f4) -> 261
+[   1963781] overriding handle for mp_f_freemode_01/jbib_diff_008_k_uni.ytd (was 4cd03f5) -> 262
+[   1963781] overriding handle for mp_f_freemode_01/jbib_diff_008_l_uni.ytd (was 4cd03f6) -> 263
+[   1963812] overriding handle for mp_f_freemode_01/jbib_diff_008_n_uni.ytd (was 4cd03f8) -> 264
+[   1963812] overriding handle for mp_f_freemode_01/jbib_diff_008_o_uni.ytd (was 4cd03f9) -> 265
+[   1963828] overriding handle for mp_f_freemode_01/jbib_diff_008_p_uni.ytd (was 4cd03fa) -> 266
+[   1963843] overriding handle for mp_f_freemode_01/jbib_diff_011_d_uni.ytd (was 4cd041e) -> 267
+[   1963859] overriding handle for mp_f_freemode_01/jbib_diff_012_a_uni.ytd (was 4cd042b) -> 268
+[   1963875] overriding handle for mp_f_freemode_01/jbib_diff_012_b_uni.ytd (was 4cd042c) -> 269
+[   1963890] overriding handle for mp_f_freemode_01/jbib_diff_012_c_uni.ytd (was 4cd042d) -> 26a
+[   1963906] overriding handle for mp_f_freemode_01/jbib_diff_012_d_uni.ytd (was 4cd042e) -> 26b
+[   1963922] overriding handle for mp_f_freemode_01/jbib_diff_012_e_uni.ytd (was 4cd042f) -> 26c
+[   1963937] overriding handle for mp_f_freemode_01/jbib_diff_012_f_uni.ytd (was 4cd0430) -> 26d
+[   1963953] overriding handle for mp_f_freemode_01/jbib_diff_012_g_uni.ytd (was 4cd0431) -> 26e
+[   1963968] overriding handle for mp_f_freemode_01/jbib_diff_012_k_uni.ytd (was 4cd0435) -> 26f
+[   1963968] overriding handle for mp_f_freemode_01/jbib_diff_012_l_uni.ytd (was 4cd0436) -> 270
+[   1963984] overriding handle for mp_f_freemode_01/jbib_diff_012_m_uni.ytd (was 4cd0437) -> 271
+[   1964000] overriding handle for mp_f_freemode_01/jbib_diff_012_n_uni.ytd (was 4cd0438) -> 272
+[   1964015] overriding handle for mp_f_freemode_01/jbib_diff_012_o_uni.ytd (was 4cd0439) -> 273
+[   1964031] overriding handle for mp_f_freemode_01/jbib_diff_012_p_uni.ytd (was 4cd043a) -> 274
+[   1964047] overriding handle for mp_f_freemode_01/jbib_diff_014_a_uni.ytd (was 4cd044b) -> 275
+[   1964062] overriding handle for mp_f_freemode_01/jbib_diff_014_b_uni.ytd (was 4cd044c) -> 276
+[   1964078] overriding handle for mp_f_freemode_01/jbib_diff_014_c_uni.ytd (was 4cd044d) -> 277
+[   1964093] overriding handle for mp_f_freemode_01/jbib_diff_014_d_uni.ytd (was 4cd044e) -> 278
+[   1964093] overriding handle for mp_f_freemode_01/jbib_diff_014_e_uni.ytd (was 4cd044f) -> 279
+[   1964109] overriding handle for mp_f_freemode_01/jbib_diff_014_f_uni.ytd (was 4cd0450) -> 27a
+[   1964125] overriding handle for mp_f_freemode_01/jbib_diff_014_g_uni.ytd (was 4cd0451) -> 27b
+[   1964140] overriding handle for mp_f_freemode_01/jbib_diff_014_h_uni.ytd (was 4cd0452) -> 27c
+[   1964156] overriding handle for mp_f_freemode_01/jbib_diff_014_i_uni.ytd (was 4cd0453) -> 27d
+  return 0;
+  return 0;
+}
+Executing: /usr/local/cuda/bin/nvcc --version
+stdout:
+
+int main() {
+;
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in webinterface.default has been installed.'
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+5R1	ALABAMA	CHATOM ROY WILCOX	afd	se_11_25OCT2007.png
+KFP	ALASKA	FALSE PASS	afd	al_79_25OCT2007.png
+
+---------------------------------------------------
+                           Hadronic Processes for kaon-
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+
+  Process: kaon-Inelastic
+        Model:                      QGSP: 12 GeV ---> 100 TeV
+        Model:                      FTFP: 4 GeV ---> 25 GeV
+        Model:            BertiniCascade: 0 eV  ---> 5 GeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns: ChipsKaonMinusInelasticXS: 0 eV  ---> 100 TeV
+     Cr_sctns:          GheishaInelastic: 0 eV  ---> 100 TeV
+
+  Process: hBertiniCaptureAtRest
+
+---------------------------------------------------
+                           Hadronic Processes for lambda
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+
+  Process: lambdaInelastic
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+        Model:                      FTFP: 2 GeV ---> 100 TeV
+     Cr_sctns:   ChipsHyperonInelasticXS: 0 eV  ---> 100 TeV
+      "verify:ethereum-mainnet": "hardhat etherscan-verify --network eth_mainnet",
+      "verify:polygon": "hardhat etherscan-verify --network polygon",
+      "verify:avalanche": "hardhat etherscan-verify --network avalanche",
+--> "-b *!*@192*" mode change by KNBC on #earthquake
+<09:58AM DrStupid> KNBC - boil it for 20 minutes IF you are not running gas stove.
+<09:58AM CNN_news> no info of CSUN here
+--> "-m" mode change by KNBC on #earthquake
+(WildEep/#earthquake) shock!
+<09:59AM DrStupid> KNBC - aftershock
+<09:59AM rabbi>  /quit
+<09:59AM Oopo> h
+<09:59AM KFWB> CSUN Info: One building on fire
+<09:59AM Dr_Delete> holy kcow
+--> "+m" mode change by KNBC on #earthquake
+--> "+o cavalier" mode change by tasm on #earthquake
+<09:59AM CNN_news> aftershock in LA now
+<09:59AM cavalier> thanks tasm. finally.
+<09:59AM cavalier> AutoMaton Update: For TALK/CHAT join #QUAKECHAT or #QUAKETALK. This is the NEWS Channel.
+(WildEep/#earthquake) that was a big one.
+<09:59AM cavalier> Automaton Update: finger quake@geophys.washington.edu is OK.
+<09:59AM cavalier> AutoMaton Update: Amateur Radio Assistance. OUTBOUND Messaging from stricken area for ALL USA. JOIN #ARES
+<09:59AM KNBC> jf
+<09:59AM cavalier> AutoMaton Update: EXTENDED SUMMARY TEXT of EARTHQUAKE available by /MSG CAVALIER XDCC SEND #1
+<09:59AM cavalier> ** FILES OFFERED. /MSG cavalier XDCC SEND #N for autosend file #N
+<09:59AM cavalier> #1  EARTHQUAKE EXTENDED SUMMARY TEXT REVISION 1 12:51 EST
+*** Netsplit at 09:59:34 (irc-2.mit.edu *.ch)
+--> "-m" mode change by KNBC on #earthquake
+<09:59AM DrStupid> this is a good sized aftershock relatively.
+--> "+m" mode change by cavalier on #earthquake
+<09:59AM cavalier> KNBC: Stop that.
+--> "+b *!*@192*" mode change by irc.mit.edu on #earthquake
+<10:00AM KNBC> Cav: sorry Imeant to +v
+--> "-b *!*@192*" mode change by cavalier on #earthquake
+Activated Location featurizer
+(Tua/#earthquake) i just realized something..can one tell the likely direction of the waves through an area by the orientation of a book shelf with books on top rather precariously balanced that did not fall (indicating that the waves came through parallel to the long axis
+(Tua/#earthquake) of the books?
+          scored/VBD-2  ==                        DEL    $0.429  [D]
+            more/JJR-3  ==                        DEL    $0.429  [D]
+-- [download 7% complete]
+5A8	ALASKA	ALEKNAGIK-NEW	afd	al_5_25OCT2007.png
+Z33	ALASKA	ALEKNAGIK SEAPLANE	afd	al_5_25OCT2007.png
+Source:
+[   1965718] overriding handle for mp_f_freemode_01/teef_diff_008_a_uni.ytd (was 4cd062f) -> 2f0
+[   1965734] overriding handle for mp_f_freemode_01/teef_diff_008_b_uni.ytd (was 4cd0630) -> 2f1
+[22:42:48] Structured Settlement: [-] 8360/8547 no engine matches (HTTP-Status: 502) - http://www.rybarimb.cz
+mkdosfs (MKDOSFS) [Y/n/?] y
+mkfs.vfat (MKFS_VFAT) [N/y/?] n
+mkswap (MKSWAP) [Y/n/?] y
+  UUID support (FEATURE_MKSWAP_UUID) [N/y/?] n
+more (MORE) [Y/n/?] y
+mount (MOUNT) [Y/n/?] y
+  Support option -f (FEATURE_MOUNT_FAKE) [N/y/?] n
+  Support option -v (FEATURE_MOUNT_VERBOSE) [N/y/?] n
+  Support mount helpers (FEATURE_MOUNT_HELPERS) [N/y/?] n
+  Support specifying devices by label or UUID (FEATURE_MOUNT_LABEL) [N/y/?] n
+  Support mounting NFS file systems on Linux < 2.6.23 (FEATURE_MOUNT_NFS) [N/y/?] n
+  Support mounting CIFS/SMB file systems (FEATURE_MOUNT_CIFS) [Y/n/?] y
+  Support lots of -o flags in mount (FEATURE_MOUNT_FLAGS) [Y/n/?] y
+  Support /etc/fstab and -a (FEATURE_MOUNT_FSTAB) [Y/n/?] y
+    Support -T <alt_fstab> (FEATURE_MOUNT_OTHERTAB) [Y/n/?] y
+nsenter (NSENTER) [N/y/?] n
+pivot_root (PIVOT_ROOT) [Y/n/?] y
+*
+* Miscellaneous Utilities
+*
+adjtimex (ADJTIMEX) [N/y/?] n
+bbconfig (BBCONFIG) [N/y/?] n
+beep (BEEP) [N/y/?] n
+chat (CHAT) [N/y/?] n
+chrt (CHRT) [Y/n/?] y
+conspy (CONSPY) [N/y/?] n
+crond (CROND) [Y/n/?] y
+  Support option -d to redirect output to stderr (FEATURE_CROND_D) [N/y/?] n
+  Report command output via email (using sendmail) (FEATURE_CROND_CALL_SENDMAIL) [N/y/?] n
+  crond spool directory (FEATURE_CROND_DIR) [/var/spool/cron] /var/spool/cron
+  Process: anti_protonInelastic
+build	14-Jul-2020 09:19:57	[INFO] ------------------------------------------------------------------------
+./Metallica/Metallica%20-%201992%20-%20New%20Skulls%20For%20The%20Old%20Ceremony
+./Metallica/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge
+./Metallica/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge%20-%20CD%201
+./Metallica/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge%20-%20CD%202
+./Metallica/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge%20-%20CD%203
+[      9438] [    GTAProcess]             MainThrd/ NullInitializeGraphics
+GAD	ALABAMA	GADSDEN NORTHEAST ALABAMA RGNL	afd	se_21_25OCT2007.png
+33J	ALABAMA	GENEVA MUNI	afd	se_21_25OCT2007.png
+7A0	ALABAMA	GREENSBORO MUNI	afd	se_22_25OCT2007.png
+-- [download 85% complete]
+-- [download 86% complete]
+-- [download 87% complete]
+-- [download 88% complete]
+-- [download 89% complete]
+-- [download 90% complete]
+-- [download 91% complete]
+-- [download 92% complete]
+-- [download 93% complete]
+-- [download 94% complete]
+-- [download 95% complete]
+-- [download 96% complete]
+-- [download 97% complete]
+-- [download 98% complete]
+-- [download 99% complete]
+-- [download 100% complete]
+-- downloading... done
+-- [download 82% complete]
+--- [download 84% complete]
+-- [download 85% complete]
+-- [download 86% complete]
+    <defaults>
+      manliDepth                        = 100
+      manliMaxDELINSSize                = 1
+      manliMaxSUBSize                   = 4
+      manliAdjustMaxSUBSizeUsingGold    = null
+      manliTempGeometric                = true
+      manliStartTemp                    = 40.0
+      manliEndTemp                      = 0.0010
+      manliCheckCoverageMatch           = true
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:155) [magnolia-core-6.2.3.jar:?]
+[      8875] [    GTAProcess]             MainThrd/ Loading content XML: dlc_patchDay20NGCRC:/content.xml
+[      8875] [    GTAProcess]             MainThrd/ Loading content XML: dlc_PATCHDAY19NGCRC:/content.xml
+[      8875] [    GTAProcess]             MainThrd/ Loading content XML: dlc_PATCHDAY18NGCRC:/content.xml
+[      8875] [    GTAProcess]             MainThrd/ Loading content XML: dlc_PATCHDAY17NGCRC:/content.xml
+[      8875] [    GTAProcess]             MainThrd/ Loading content XML: dlc_PATCHDAY16NGCRC:/content.xml
+make[1]: Entering directory '/builds/free-electrons/toolchains-builder/buildroot'
+<09:44AM KNBC> This is f***ing insane
+<09:44AM DrStupid> KNBC - Northridge Hostpital status unknown
+<09:45AM NPR_News> tasm:  Rush criticized joint NYC-LA radio coverage for having an earthquake psychologist on the air
+[22:42:45] Hindu temples T2: [-] 4072/4573 download failed (Return: -) - http://www.armotec.pe/productos/electricidad/fuente-de-poder/fuente-de-poder-programable-rigol-serie-dp1000a-detail
+[   1963343] overriding handle for mp_f_freemode_01/jbib_diff_006_d_uni.ytd (was 4cd03ce) -> 245
+[   1963359] overriding handle for mp_f_freemode_01/jbib_diff_006_f_uni.ytd (was 4cd03d0) -> 246
+[   1963375] overriding handle for mp_f_freemode_01/jbib_diff_006_g_uni.ytd (was 4cd03d1) -> 247
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+sono+arts+festival	01.08.2009 20:29:00	http://www.google.com/search?q=sono+fine+art+festival&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.20) Gecko/20081217 Firefox/2.0.0.20	67.86.121.209
+NOTE: The PROCEDURE PRINT printed page 2.
+ofz#4530 null-dereference READ [Caolán McNamara]
+./Film/by_John_Williams/John%20Williams%20-%2040%20Years%20of%20music/CD2
+./Film/by_John_Williams/John%20Williams%20-%2040%20Years%20of%20music/CD3
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.multisite.filters.MultiSiteFilter.doFilter(MultiSiteFilter.java:120) [magnolia-module-multisite-2.1.1.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+ PROC_COUNT He6 : ionInelastic = 1
+ PROC_COUNT He6 : ALL = 15
+Checking for program /usr/bin/ar...found
+\lst@newlines=\count192
+     Additional Information   : (multiple lines)
+}
+void bar(void){foo();}
+Executing: mpicc  -o /tmp/petsc-uGvYRc/config.setCompilers/libconftest.so  -shared  /tmp/petsc-uGvYRc/config.setCompilers/conftest.o 
+          Accepted Cxx PIC code without compiler flag
+          Trying FC for PIC code without any compiler flag
+Executing: mpif90 -c -o /tmp/petsc-uGvYRc/config.setCompilers/conftest.o -I/tmp/petsc-uGvYRc/config.setCompilers     /tmp/petsc-uGvYRc/config.setCompilers/conftest.F90 
+Successful compile:
+Source:
+      program main
+
+      end
+Executing: mpif90 -c -o /tmp/petsc-uGvYRc/config.setCompilers/conftest.o -I/tmp/petsc-uGvYRc/config.setCompilers   /tmp/petsc-uGvYRc/config.setCompilers/conftest.F90 
+Successful compile:
+Source:
+      function foo(a)
+      real:: a,x,bar
+      common /xx/ x
+      x=a
+      foo = bar(x)
+      end
+Executing: mpicc  -o /tmp/petsc-uGvYRc/config.setCompilers/libconftest.so  -shared  /tmp/petsc-uGvYRc/config.setCompilers/conftest.o 
+          Accepted FC PIC code without compiler flag
+          Trying CUDA for PIC code without any compiler flag
+Executing: /usr/local/cuda/bin/nvcc -c -o /tmp/petsc-uGvYRc/config.setCompilers/conftest.o -I/tmp/petsc-uGvYRc/config.setCompilers    -Wno-deprecated-gpu-targets /tmp/petsc-uGvYRc/config.setCompilers/conftest.cu 
+Successful compile:
+Source:
+#include "confdefs.h"
+          Accepted CUDA compiler flag -Xcompiler -fPIC for PIC code
+================================================================================
+TEST checkSharedLinkerPaths from config.setCompilers(/sandbox/petsc/petsc.next/config/BuildSystem/config/setCompilers.py:1380)
+-- Configuring download of missing dataset G4NDL (4.2)
+-- Configuring download of missing dataset G4EMLOW (6.32)
+*** QuakeLog is root@dhalicio.extern.ucsd.edu (Taner Halicioglu (taner@ucsd.edu))
+*** on channels: @#earthquake 
+-- extracting... [analysis]
+              to/TO-10  ==                        DEL    $0.429  [D]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/head-occipital-frontal-circumference-percentile|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-bmi-for-age|6.1.0]
+12:32:05 T:7432  NOTICE: Additional mode: 1280x768@ 60.00 #2 - Full Screen
+     Preferred Abbreviation   : 
+     Mailing Address          : 
+        Model:       ParticleHPInelastic: 0 eV /n ---> 200 MeV/n
+        Model:  Binary Light Ion Cascade: 190 MeV/n ---> 4 GeV/n
+        Model:                      FTFP: 2 GeV/n ---> 100 TeV/n
+     Cr_sctns:     DeuteronHPInelasticXS: 0 eV  ---> 200 MeV
+     Cr_sctns: Glauber-Gribov nucleus nucleus: 0 eV  ---> 2.88022e+295 J  

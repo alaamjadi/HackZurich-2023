@@ -1,0 +1,56 @@
+ï»¿<#
+.SYNOPSIS
+	Creates a new Git branch 
+.DESCRIPTION
+	This PowerShell script creates a new branch in a Git repository and switches to it.
+.PARAMETER newBranch
+	Specifies the new branch name
+.PARAMETER repoPath
+	Specifies the path to the Git repository (current working directory per default)
+.EXAMPLE
+	PS> ./new-branch.ps1 test123 C:\MyRepo
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+
+param([string]$newBranch = "", [string]$repoPath = "$PWD")
+
+try {
+	if ($newBranch -eq "") { $newBranch = Read-Host "Enter the new branch name" }
+
+	$stopWatch = [system.diagnostics.stopwatch]::startNew()
+
+	Write-Host "â³ (1/6) Searching for Git executable...  " -noNewline
+	& git --version
+	if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
+
+	Write-Host "â³ (2/6) Checking local repository...     ðŸ“‚$repoPath"
+	if (-not(Test-Path "$repoPath" -pathType container)) { throw "Can't access directory: $repoPath" }
+	$repoPathName = (Get-Item "$repoPath").Name
+
+	"â³ (3/6) Fetching latest updates..."
+	& git -C "$repoPath" fetch --all --recurse-submodules --prune --prune-tags --force
+	if ($lastExitCode -ne "0") { throw "'git fetch' failed with exit code $lastExitCode" }
+
+	$currentBranch = (git -C "$repoPath" rev-parse --abbrev-ref HEAD)
+	if ($lastExitCode -ne "0") { throw "'git rev-parse' failed with exit code $lastExitCode" }
+
+	"â³ (4/6) Creating branch..."
+	& git -C "$repoPath" checkout -b "$newBranch"
+	if ($lastExitCode -ne "0") { throw "'git checkout -b $newBranch' failed with exit code $lastExitCode" }
+
+	"â³ (5/6) Pushing updates..."
+	& git -C "$repoPath" push origin "$newBranch"
+	if ($lastExitCode -ne "0") { throw "'git push origin $newBranch' failed with exit code $lastExitCode" }
+
+	"â³ (6/6) Updating submodules..."
+	& git -C "$repoPath" submodule update --init --recursive
+	if ($lastExitCode -ne "0") { throw "'git submodule update' failed with exit code $lastExitCode" }
+
+	[int]$elapsed = $stopWatch.Elapsed.TotalSeconds
+	"âœ”ï¸ Created new branch '$newBranch' in repo ðŸ“‚$repoPathName (based on '$currentBranch', it took $elapsed sec)"
+	exit 0 # success
+} catch {
+	"âš ï¸ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}

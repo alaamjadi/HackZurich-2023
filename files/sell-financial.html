@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Materialize - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6NzMwLCJpc3MiOiJjb3VudGVyOnN5c3RlbSIsIm5iZiI6MTY5NDYxNDM1Mn0.rVObwa-QlFKiuL73EcLBgtWwKKYjkMWThP7EyuuW4V4">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/materialize" />
+<meta name="twitter:url" content="https://dbdb.io/db/materialize" />
+<meta property="og:title" content="Database of Databases &mdash; Materialize" />
+<meta property="og:description" content="Materialize is a streaming database. It ingests data from sources (i.e., Kafka, Postgres CDC), incrementally maintains materialize views, and allows users to query or subscribe the data using Postgres wire protocol or sinks data to sinks like Kafka." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/materialize.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; Materialize" />
+<meta name="twitter:description" content="Materialize is a streaming database. It ingests data from sources (i.e., Kafka, Postgres CDC), incrementally maintains materialize views, and allows users to query or subscribe the data using Postgre…" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/materialize.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/materialize/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+Materialize
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<a class="badge badge-secondary" style="font-size: 12px;" href="/browse?tag=streaming">Streaming</a>
+<p class="card-text">
+<p>Materialize is a streaming database. It ingests data from sources (i.e., Kafka, Postgres CDC), incrementally maintains materialize views, and allows users to query or subscribe the data using Postgres wire protocol or sinks data to sinks like Kafka.</p>
+</p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>Materialize builds on top of <a href="https://github.com/TimelyDataflow/differential-dataflow">differential dataflow</a>, which is a differential computation framework for <a href="https://github.com/TimelyDataflow/timely-dataflow">timely dataflow</a>, introduced in <a href="http://dl.acm.org/citation.cfm?id=2522738">Naiad</a> system from Microsoft Research.</p>
+<p>Before the <a href="https://materialize.com/docs/releases/v0.27/">v0.27 release</a>, Materialize mainly supports in-memory computation. Materialized views are only maintained in memory. It requires the data source to persist and replay the changes after restarting Materialize. On October 12, 2022, Materialize <a href="https://materialize.com/docs/lts/">0.26 LTS</a> entered long-term-support mode and 0.27 debuted as the cloud-native release of Materialize. It added support for source data persistence, <a href="https://github.com/MaterializeInc/materialize/pull/13706">materialized views</a> with data replicated and persisted within cluster, and other changes for the cloud platform.</p>
+<p>Materialize is licensed under <a href="https://github.com/MaterializeInc/materialize/blob/main/LICENSE">BSL license</a>. Each version of Materialize will be transformed to Apache 2.0 License 4 years after its release.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://materialize.com/about/">https://materialize.com/about/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="checkpoints" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Checkpoints
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?checkpoints=non-blocking">Non-Blocking</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=relational">Relational</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="foreign-keys" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Foreign Keys
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?foreign-keys=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="indexes" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Indexes
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?indexes=hash-table">Hash Table</a>
+</p>
+<p><p>Differential dataflow stores changes of a sequence of data (collection) by key and time in an in-memory index called <a href="https://timelydataflow.github.io/differential-dataflow/chapter_5/chapter_5.html">arrangement</a>, so that operators can query the changes of value for a given key in a period of time.</p>
+<p>The index is maintained in-memory and provides multi-version access to the data.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://etos.cs.brown.edu/publications/papers/shared-arrangements:vldb20.pdf">https://etos.cs.brown.edu/publications/papers/shared-arrangements:vldb20.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="isolation-levels" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Isolation Levels
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?isolation-levels=serializable">Serializable</a>
+</p>
+<p><p>Materialize supports strong consistency stream processing, and two isolation levels: serializable and strict serializable.</p>
+<p>As a streaming system, Materialize ingests data with timestamps and do not directly handle transactions. Upstream systems like Postgres CDC will send data in transition commit order. Data are processed in order of the row's ingestion timestamp, or virtual time.</p>
+<p>Materialize supports strong consistency in terms of consistency in streaming processing, which means the result stored in materialized views should be the same as executing a query over the collection of the source data at a given time. In contrary, an <a href="https://materialize.com/blog/eventual-consistency-isnt-for-streaming/">eventual consistency</a> streaming system may produce a materialized view which does not correspond to a query over the source data collection at a given time.</p>
+<p>If a user creates non-streaming source (i.e., a table) in Materialize, <a href="https://materialize.com/docs/overview/isolation-level/#strict-serializable">strict serializable isolation level</a> guarantees reads from materialized views always reflect the insertions, by waiting the changes to propagate to all materialized views. Otherwise, serializable level only guarantees a user can read a consistent snapshot over all materialized views.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://materialize.com/blog/consistency/">https://materialize.com/blog/consistency/</a></li>
+<li><a target="_blank" href="https://materialize.com/blog/the-four-acid-questions/">https://materialize.com/blog/the-four-acid-questions/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="joins" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Joins
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?joins=index-nested-loop-join">Index Nested Loop Join</a>
+</p>
+<p><p>Differential dataflow only supports index joins. If a user requests to join two tables, differential dataflow will first create an index (arrangement) over the two tables using join columns as the index key, and then perform index joins.</p>
+<p>Materialize supports joins by using index joins in differential dataflow.</p>
+<p>If user has already created all required indexes for a multi-way join in advance, Materialize will use a special kind of join strategy called delta join to execute the query. Delta join supports joining multiple tables, does not maintain any additional data structures and therefore achieves no additional storage and memory cost.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://materialize.com/blog/joins-in-materialize/">https://materialize.com/blog/joins-in-materialize/</a></li>
+<li><a target="_blank" href="https://materialize.com/blog/delta-joins/">https://materialize.com/blog/delta-joins/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="parallel-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Parallel Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?parallel-execution=intra-operator">Intra-Operator (Horizontal)</a>
+<a class="badge badge-info" href="/browse?parallel-execution=inter-operator">Inter-Operator (Vertical)</a>
+</p>
+<p><p>Timely dataflow supports running different operators in the same query plan on different workers, therefore achieving inter query parallelism. At the same time, it also shards a logical operator to multiple physical ones, so as to operate on independent parts of the data concurrently.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://timelydataflow.github.io/timely-dataflow/chapter_0/chapter_0_2.html">https://timelydataflow.github.io/timely-dataflow/chapter_0/chapter_0_2.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-execution=tuple-at-a-time-model">Tuple-at-a-Time Model</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=sql">SQL</a>
+</p>
+<p><p>Materialize supports Postgres SQL with custom APIs. For example, <a href="https://materialize.com/docs/sql/create-connection/">CREATE CONNECTION</a>, <a href="https://materialize.com/docs/sql/create-source/">CREATE SOURCE</a> and <a href="https://materialize.com/docs/sql/create-sink/">CREATE SINK</a> are used to connect Materialize to external sources and sinks (i.e., Kafka, Postgres CDC). <a href="https://materialize.com/docs/sql/subscribe/">SUBSCRIBE</a> allows users to retrieve streaming updates from the Postgres wire protocol.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://materialize.com/docs/sql/">https://materialize.com/docs/sql/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=hybrid">Hybrid</a>
+</p>
+<p><p>Materialize supports storing data to different storage backends, including S3, filesystem, and in-memory backend (for testing).</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://github.com/MaterializeInc/materialize/tree/main/src/persist/src">https://github.com/MaterializeInc/materialize/tree/main/src/persist/src</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=custom">Custom</a>
+</p>
+<p><p>Materialize persists data in the form of key-value pairs.</p>
+<p>As of Materialize 0.48, the storage component is only used for persisting sources and materialized views. Materialize has a distributed key-value storage service, and the compute workers can read data from and write data to the storage service. Indexes and internal states are only <a href="https://materialize.com/docs/sql/create-index/">maintained in memory</a>.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://github.com/MaterializeInc/materialize/blob/main/doc/developer/platform/architecture-storage.md">https://github.com/MaterializeInc/materialize/blob/main/doc/developer/platform/architecture-storage.md</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-organization" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Organization
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-organization=log-structured">Log-structured</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-nothing">Shared-Nothing</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=virtual-views">Virtual Views</a>
+<a class="badge badge-info" href="/browse?views=materialized-views">Materialized Views</a>
+</p>
+<p><p>Materialize supports two kinds of views: temporary views and materialized views.</p>
+<p>Users can create temporary views by using <a href="https://materialize.com/docs/sql/create-view/"><code>CREATE VIEW</code></a> statement. It simply stores the SQL query in the system and can be used in other queries within the session.</p>
+<p>Users can create materialized views by using <a href="https://materialize.com/docs/sql/create-materialized-view/"><code>CREATE MATERIALIZED VIEW</code></a>. The views are incrementally maintained and reflect real-time updates. The content of materialized views are persisted into the storage service and users can directly query the materialized views to get latest data. Users can also subscribe materialized views to get real-time updates or sink the data to third-party services.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://materialize.com/docs/sql/create-materialized-view/">https://materialize.com/docs/sql/create-materialized-view/</a></li>
+<li><a target="_blank" href="https://materialize.com/docs/sql/create-view/">https://materialize.com/docs/sql/create-view/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/materialize/revisions/" title="View All Revisions for Materialize">
+<div class="card-body">
+Revision #7
+&nbsp;|&nbsp;
+<time datetime="2023-04-06T20:24:31.937000-04:00">
+Updated 04/06/2023 8:24 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/locustdb" title="LocustDB">
+<img class="logo-recommendation" src="/media/logos/locustdb.png.200x50_q85.png" alt="LocustDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/terminusdb" title="TerminusDB">
+<img class="logo-recommendation" src="/media/logos/terminusdb.png.200x50_q85.png" alt="TerminusDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/indradb" title="IndraDB">
+<img class="logo-recommendation" src="/media/logos/indradb_s7wdUwg.png.200x50_q85.png" alt="IndraDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/seafowl" title="Seafowl">
+<img class="logo-recommendation" src="/media/logos/seafowl.svg" alt="Seafowl" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/materialize.svg"><img class="logo-thumbnail" src="/media/logos/materialize.svg" style="border:none;" alt="Materialize Logo" title="Materialize"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="http://materialize.io/">http://materialize.io/</a></p>
+<h6 class="card-title">Source Code</h6>
+<p class="card-text"><a href="https://github.com/MaterializeInc/materialize">https://github.com/MaterializeInc/materialize</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="https://materialize.io/docs/">https://materialize.io/docs/</a></p>
+<h6 class="card-title">Twitter</h6>
+<p class="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" /></svg> <a target="twitter" href="https://twitter.com/MaterializeInc"> @MaterializeInc</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">Materialize</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=US" title="View other systems from United States of America">
+<i class="flag-sprite flag-u flag-_s"></i>
+US
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2019</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://github.com/MaterializeInc/materialize/commit/e587f671ab809973cdfb1b0b40ec7c3f32dd4834">https://github.com/MaterializeInc/materialize/commit/e587f671ab809973cdfb1b0b40ec7c3f32dd4834</a></li>
+</ul>
+</cite>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=commercial" title="View other Commercial systems">Commercial</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=rust" title="View other systems that are written in Rust">Rust</a>
+</p>
+<h6 class="card-title">Compatible With</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?compatible=postgresql" title="View other systems compatible with PostgreSQL">PostgreSQL</a>
+</p>
+<h6 class="card-title">Operating Systems</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?os=linux" title="View other systems that support Linux systems">Linux</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=business-source-license" title="View other systems that use Business Source License">Business Source License</a>
+</p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/materialize/revisions/" title="View All Revisions for Materialize">
+<div class="card-body">
+Revision #7
+&nbsp;|&nbsp;
+<time datetime="2023-04-06T20:24:31.937000-04:00">
+Updated 04/06/2023 8:24 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/locustdb" title="LocustDB">
+<img class="logo-recommendation" src="/media/logos/locustdb.png.200x50_q85.png" alt="LocustDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/terminusdb" title="TerminusDB">
+<img class="logo-recommendation" src="/media/logos/terminusdb.png.200x50_q85.png" alt="TerminusDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/indradb" title="IndraDB">
+<img class="logo-recommendation" src="/media/logos/indradb_s7wdUwg.png.200x50_q85.png" alt="IndraDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/seafowl" title="Seafowl">
+<img class="logo-recommendation" src="/media/logos/seafowl.svg" alt="Seafowl" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#1578747c7955717771773b7c7a" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="5634a213c2453b7f0ed00dc9-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="5634a213c2453b7f0ed00dc9-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="5634a213c2453b7f0ed00dc9-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="5634a213c2453b7f0ed00dc9-text/javascript"></script>
+<script type="5634a213c2453b7f0ed00dc9-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="5634a213c2453b7f0ed00dc9-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="5634a213c2453b7f0ed00dc9-text/javascript"></script>
+<script type="5634a213c2453b7f0ed00dc9-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="5634a213c2453b7f0ed00dc9-text/javascript"></script>
+<script src="/static/core/js/system.js" type="5634a213c2453b7f0ed00dc9-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="5634a213c2453b7f0ed00dc9-|49" defer></script></body>
+</html>

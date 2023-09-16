@@ -1,0 +1,102 @@
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+1984-114     1984 Nov 10 0114:18  1984-114A      Spacenet F2                    Spacenet F2               S15385  Ariane 3               V11              CSG ELA1                 0.0
+added 114 packages in 25s
+
+8 packages are looking for funding
+  run `npm fund` for details
+npm notice 
+npm notice New minor version of npm available! 9.5.1 -> 9.8.1
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.8.1>
+npm notice Run `npm install -g npm@9.8.1` to update!
+npm notice 
+DEBUG:root:running: java -Xms19000m -Xmx19000m -jar ../publisher.jar -ig ig.json -api-key-file /etc/ig.builder.keyfile.ini -fhir-settings /etc/fhir-settings.json -auto-ig-build -tx http://tx.fhir.org -target https://build.fhir.org/ig/HL7/fhir-us-ph-library/ -out /scratch/ig-build-temp-JHXSGN/repo
+DEBUG:root:Time to deadline 35853.386287 seconds
+FHIR IG Publisher Version 1.3.28 (Git# cad7585c587e). Built 2023-08-04T19:34:36.96Z (12 days old)
+Detected Java version: 21-ea from /usr/local/openjdk-21 on Linux/amd64 (64bit). 19008MB available
+dir = /scratch/ig-build-temp-JHXSGN/repo, path = /usr/local/openjdk-21/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+Parameters: -ig ig.json -api-key-file /etc/ig.builder.keyfile.ini -fhir-settings /etc/fhir-settings.json -auto-ig-build -tx http://tx.fhir.org -target https://build.fhir.org/ig/HL7/fhir-us-ph-library/ -out /scratch/ig-build-temp-JHXSGN/repo
+Start Clock @ Wednesday, August 16, 2023, 9:18:38 PM Coordinated Universal Time (2023-08-16T21:18:38Z)
+                                                                                
+Build FHIR IG from /scratch/ig-build-temp-JHXSGN/repo                            (00:00.016)
+API keys loaded from /etc/fhir-settings.json                                     (00:00.016)
+Package Cache: /scratch/ig-build-temp-JHXSGN/repo/var/lib/.fhir/packages         (00:00.019)
+Run Sushi on /scratch/ig-build-temp-JHXSGN/repo                                  (00:00.023)
+Sushi: info  Running SUSHI v3.3.1 (implements FHIR Shorthand specification v3.0.0-ballot) (00:00.464)
+Sushi: info  Arguments:                                                          (00:00.464)
+Sushi: info    --require-latest                                                  (00:00.464)
+Sushi: info    --out /scratch/ig-build-temp-JHXSGN/repo                          (00:00.464)
+Sushi: info    /scratch/ig-build-temp-JHXSGN/repo                                (00:00.465)
+Sushi: info  Using configuration file: /scratch/ig-build-temp-JHXSGN/repo/sushi-config.yaml (00:01.283)
+Sushi: info  Importing FSH text...                                               (00:01.412)
+Sushi: info  Preprocessed 145 documents with 38 aliases.                         (00:01.723)
+Sushi: info  Imported 90 definitions and 57 instances.                           (00:01.819)
+park+ave+fest+rochester+ny+2009	01.08.2009 21:34:01	http://www.google.com/search?q=park+ave+fest+Rochester+NY+times&ie=UTF-8&oe=UTF-8&hl=en&client=safari	Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16	166.137.135.158
+tdf#113876 Parsing outline level only setted in english language on docsh2.cxx:1026 [Ahmed GHANMI]
+[   1927062] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash c8db9426df1efdb3b2fa2eedd66b4a25642ac7cd) from http://139.99.125.59:30124/files/chat/resource.rpf
+[   1927328] ResourceCache::AddEntry: Saved cache:v1:c8db9426df1efdb3b2fa2eedd66b4a25642ac7cd to the index cache.
+[   1927343] ResourceCacheDevice: downloaded resource.rpf in 273 msec (size 147456)
+[   1927390] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 467efa7dbebc1e3ccc4bf5b07325fa62c49d865b) from http://139.99.125.59:30124/files/op-banking/resource.rpf
+[   1927734] ResourceCache::AddEntry: Saved cache:v1:467efa7dbebc1e3ccc4bf5b07325fa62c49d865b to the index cache.
+[   1927750] ResourceCacheDevice: downloaded resource.rpf in 353 msec (size 258048)
+[   1927797] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 9b103363bfe74254f99bfeb82c1f6489416005f4) from http://139.99.125.59:30124/files/op-cad/resource.rpf
+[   1927953] ResourceCache::AddEntry: Saved cache:v1:9b103363bfe74254f99bfeb82c1f6489416005f4 to the index cache.
+[   1927968] ResourceCacheDevice: downloaded resource.rpf in 172 msec (size 6144)
+[   1928031] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 6ab8900f04a0670dc55c123ba04e67d88fd65892) from http://139.99.125.59:30124/files/op-chopshop/resource.rpf
+[   1928187] ResourceCache::AddEntry: Saved cache:v1:6ab8900f04a0670dc55c123ba04e67d88fd65892 to the index cache.
+[   1928203] ResourceCacheDevice: downloaded resource.rpf in 176 msec (size 69632)
+[   1928250] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 447fc70b44c130290c360e2f00db2ac7705669d3) from http://139.99.125.59:30124/files/op-scoreboard/resource.rpf
+[   1928406] ResourceCache::AddEntry: Saved cache:v1:447fc70b44c130290c360e2f00db2ac7705669d3 to the index cache.
+[   1928422] ResourceCacheDevice: downloaded resource.rpf in 174 msec (size 90112)
+[   1928484] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 1e14c9e8af5d3601af132b82142b8dca20a45e4d) from http://139.99.125.59:30124/files/op-cocaine/resource.rpf
+[   1928750] ResourceCache::AddEntry: Saved cache:v1:1e14c9e8af5d3601af132b82142b8dca20a45e4d to the index cache.
+[   1928797] ResourceCacheDevice: downloaded resource.rpf in 318 msec (size 131072)
+[   1928859] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash fcac02e3cdf3ad5fbe83b257a86c708eb3994c0a) from http://139.99.125.59:30124/files/op-garbagejob/resource.rpf
+[   1929015] ResourceCache::AddEntry: Saved cache:v1:fcac02e3cdf3ad5fbe83b257a86c708eb3994c0a to the index cache.
+[   1929031] ResourceCacheDevice: downloaded resource.rpf in 171 msec (size 63488)
+[   1929078] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 89cc481164c5e691e233c123369abc7388e7cb74) from http://139.99.125.59:30124/files/op-robberies/resource.rpf
+[   1929328] ResourceCache::AddEntry: Saved cache:v1:89cc481164c5e691e233c123369abc7388e7cb74 to the index cache.
+[   1929343] ResourceCacheDevice: downloaded resource.rpf in 268 msec (size 149504)
+[   1929390] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 800f06e46d2615da62fd07415561a45489ecadb6) from http://139.99.125.59:30124/files/op-residences/resource.rpf
+[   1929562] ResourceCache::AddEntry: Saved cache:v1:800f06e46d2615da62fd07415561a45489ecadb6 to the index cache.
+[   1935922] ResourceCache::AddEntry: Saved cache:v1:3a29e60c727aaf05a26d68cb05b3030f9c7f253f to the index cache.
+[   1935937] ResourceCacheDevice: downloaded resource.rpf in 191 msec (size 22528)
+[   1936000] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 1ff680b5abbef790c323b89e70f735b541d5e270) from http://139.99.125.59:30124/files/op-transportation/resource.rpf
+[   1936375] ResourceCache::AddEntry: Saved cache:v1:1ff680b5abbef790c323b89e70f735b541d5e270 to the index cache.
+LaTeX Info: Redefining \dots on input line 499.
+NOTE: The data set THIS.MYTICKER has 4471 observations and 14 variables.
+[     14500] del cfxcollection 0x26ab5db0
+[     14515] del cfxcollection 0x26ab5db0
+[     14531] del cfxcollection 0x26ab5db0
+[     14547] del cfxcollection 0x26ab5db0
+[     14562] del cfxcollection 0x26ab5db0
+[     14578] del cfxcollection 0x26ab5db0
+[     14593] del cfxcollection 0x26ab5db0
+[     14609] del cfxcollection 0x26ab5db0
+[     14625] del cfxcollection 0x26ab5db0
+[     14656] del cfxcollection 0x26ab5db0
+[     14656] TaskManagerStub::CreateTask
+[     14672] somefunc found dlc_patchDay20NG:/!
+[     14672] LoadDefDats: dlc_patchDay20NGCRC:/content.xml
+[     14703] somefunc found dlc_PATCHDAY19NG:/!
+[     14703] LoadDefDats: dlc_PATCHDAY19NGCRC:/content.xml
+[     14718] somefunc found dlc_PATCHDAY18NG:/!
+[     14734] LoadDefDats: dlc_PATCHDAY18NGCRC:/content.xml
+[     14734] somefunc found dlc_PATCHDAY17NG:/!
+[     14750] LoadDefDats: dlc_PATCHDAY17NGCRC:/content.xml
+[     14765] somefunc found dlc_PATCHDAY16NG:/!
+[     14781] LoadDefDats: dlc_PATCHDAY16NGCRC:/content.xml
+[     14781] EndpointMapper::HandleRequest: GET /cfx/login
+[     14797] somefunc found dlc_PATCHDAY15NG:/!
+[     14797] LoadDefDats: dlc_PATCHDAY15NGCRC:/content.xml
+[     14812] somefunc found dlc_PATCHDAY14NG:/!
+[     14828] LoadDefDats: dlc_PATCHDAY14NGCRC:/content.xml
+[     14843] somefunc found dlc_PATCHDAY13NG:/!
+[     14859] LoadDefDats: dlc_PATCHDAY13NGCRC:/content.xml
+[     14875] somefunc found dlc_PATCHDAY12NG:/!
+[     14875] LoadDefDats: dlc_PATCHDAY12NGCRC:/content.xml
+2021-10-26T21:51:05.216Z,16.216219,43ba000,6 [FLog::Output] Info: Script 'Players.FruitySama.PlayerGui.HUD.Setting.LowGfx.FXButtonLocal', Line 2
+2021-10-26T21:51:05.216Z,16.216246,43ba000,6 [FLog::Output] Info: Stack End
+2021-10-26T21:51:05.216Z,16.216265,43ba000,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.FruitySama:WaitForChild("DataLoad")'

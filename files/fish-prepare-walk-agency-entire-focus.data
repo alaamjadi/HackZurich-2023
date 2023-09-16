@@ -1,0 +1,512 @@
+(Font)              scaled to size 12.50409pt on input line 4.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 4.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 4.
+PROC_CREATOR_COUNT C13 : neutronInelastic = 38
+instanceKlass java/security/PrivilegedExceptionAction
+<09:32AM cavalier> AutoMaton Update: Amateur Radio Assistance. OUTBOUND Messaging from stricken area for ALL USA. JOIN #ARES
+<09:32AM cavalier> AutoMaton Update: Requesting "INFO" in a MSG to me will send standard info on Quake (for newbies.)
+  <MemoFn>Loading memos from /u/nlp/rte/natlog/memos/lex/eqLemmas.memos.ser.gz...</MemoFn>
+ Range cuts        :  gamma  700 um     e-  700 um     e+  700 um  proton 700 um 
+ Energy thresholds :  gamma  2.40367 keV    e-  307.625 keV    e+  299.466 keV proton 70 keV
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+====================================================================
+
+### Run 0 starts.
+ %%% EVENT 0 NTRACKS 1 TOTAL NTRACKS 1
+ %%% EVENT 1000 NTRACKS 1 TOTAL NTRACKS 7369
+ %%% EVENT 2000 NTRACKS 1 TOTAL NTRACKS 14997
+ %%% EVENT 3000 NTRACKS 1 TOTAL NTRACKS 23301
+ %%% EVENT 4000 NTRACKS 1 TOTAL NTRACKS 30159
+ %%% EVENT 5000 NTRACKS 6 TOTAL NTRACKS 37289
+ %%% EVENT 6000 NTRACKS 1 TOTAL NTRACKS 44259
+ %%% EVENT 7000 NTRACKS 37 TOTAL NTRACKS 52079
+ %%% EVENT 8000 NTRACKS 1 TOTAL NTRACKS 59339
+ %%% EVENT 9000 NTRACKS 15 TOTAL NTRACKS 66671
+ Run terminated.
+Run Summary
+  Number of events processed : 10000
+  User=97.37s Real=98.14s Sys=0.26s
+SetUnit RTPSPDoseHistos 1e-12 Name Gy
+ CreateHisto1D RTPSPDoseHistos: Dose = 36201
+ CreateHisto1D RTPSPDoseHistos: Dose-volume = 36202
+ CreateHisto1D RTPSPDoseHistos: Dose Error REL = 36203
+ CreateHisto1D RTPSPDoseHistos: log10(Dose Error REL) = 36204
+ CreateHisto1D RTPSPDoseHistos: Dose Error = 36205
+ CreateHisto1D RTPSPDoseHistos: log10(Dose Error) = 36206
+ CreateHisto2D RTPSPDoseHistos: log10(Dose) .vs. log10(Dose Error) = 36207
+Package pdftex.def Info: images/lqi/Budapest_Network_voronoi_op2.png  used on input line 39.
+(pdftex.def)             Requested size: 418.25368pt x 187.05655pt.
+ [64] [65 </Users/natera/Dropbox/PhD/thesis/images/lqi/Budapest_Network_voronoi_op2.png>] [66] [67] [68] [69]
+<images/lqi/Budapest_LQI_Neighborhoods-eps-converted-to.pdf, id=1449, 1772.44177pt x 716.6775pt>
+File: images/lqi/Budapest_LQI_Neighborhoods-eps-converted-to.pdf Graphic file (type pdf)
+<use images/lqi/Budapest_LQI_Neighborhoods-eps-converted-to.pdf>
+Package pdftex.def Info: images/lqi/Budapest_LQI_Neighborhoods-eps-converted-to.pdf  used on input line 168.
+(pdftex.def)             Requested size: 418.25368pt x 169.11911pt.
+ [70 </Users/natera/Dropbox/PhD/thesis/images/lqi/Budapest_LQI_Neighborhoods-eps-converted-to.pdf>] [71]
+<images/lqi/LQI_categories_regplots.pdf, id=1525, 867.24pt x 578.16pt>
+File: images/lqi/LQI_categories_regplots.pdf Graphic file (type pdf)
+<use images/lqi/LQI_categories_regplots.pdf>
+Package pdftex.def Info: images/lqi/LQI_categories_regplots.pdf  used on input line 191.
+(pdftex.def)             Requested size: 418.25368pt x 278.83694pt.
+ [72 </Users/natera/Dropbox/PhD/thesis/images/lqi/LQI_categories_regplots.pdf>]) (/Users/natera/Dropbox/PhD/thesis/chapters_tex/conclusion.tex [73] [74
+
+]
+Chapter 6.
+
+Underfull \vbox (badness 1132) has occurred while \output is active []
+
+ [75] [76]) (/Users/natera/Dropbox/PhD/thesis/main.bbl [77] [78
+
+] [79] [80] [81] [82]
+Underfull \hbox (badness 10000) in paragraph at lines 756--766
+[]\OT1/ppl/m/n/12 Batty, M., Mil-ton, R.: A new frame-work for very large-
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 756--766
+    + ...and ignore DisposedException from multiple Frame::close [Stephan Bergmann]
+    + ...and MSVC "warning C4701: potentially uninitialized local variable used" [Stephan Bergmann]
+[2023.05.20-22.07.39:932][  0]LogConsoleManager: Warning: Setting the console variable 'r.ScreenPercentage' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '100'
+[2023.05.20-22.07.39:932][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+2016-02-23 15:45:25,612  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.RoutingModule, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=52, type=MAPBINDER, keyType=java.lang.String)], provider=org.matsim.core.router.PseudoTransit@6d2a209c}
+2016-02-23 15:45:25,613  INFO Injector:68 org.matsim.core.router.RoutingModule @com.google.inject.multibindings.Element(setName=,uniqueId=54, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,613  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.RoutingModule, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=54, type=MAPBINDER, keyType=java.lang.String)], provider=org.matsim.core.router.Teleportation@161479c6}
+2016-02-23 15:45:25,614  INFO Injector:68 org.matsim.core.router.RoutingModule @com.google.inject.multibindings.Element(setName=,uniqueId=56, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,614  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.RoutingModule, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=56, type=MAPBINDER, keyType=java.lang.String)], provider=org.matsim.core.router.Teleportation@75329a49}
+2016-02-23 15:45:25,614  INFO Injector:68 org.matsim.core.router.RoutingModule @com.google.inject.multibindings.Element(setName=,uniqueId=58, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,614  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.RoutingModule, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=58, type=MAPBINDER, keyType=java.lang.String)], provider=org.matsim.core.router.Teleportation@1e802ef9}
+2016-02-23 15:45:25,614  INFO Injector:68 org.matsim.core.router.util.TravelTime @com.google.inject.multibindings.Element(setName=,uniqueId=60, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,614  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.util.TravelTime, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=60, type=MAPBINDER, keyType=java.lang.String)], provider=Key[type=org.matsim.core.trafficmonitoring.TravelTimeCalculatorModule$ObservedLinkTravelTimes, annotation=[none]]}
+2016-02-23 15:45:25,615  INFO Injector:68 org.matsim.core.router.costcalculators.TravelDisutilityFactory @com.google.inject.multibindings.Element(setName=,uniqueId=62, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,615  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.costcalculators.TravelDisutilityFactory, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=62, type=MAPBINDER, keyType=java.lang.String)], provider=ConstantFactory{value=org.matsim.core.router.costcalculators.RandomizingTimeDistanceTravelDisutility$Builder@6f03482}[Scopes.SINGLETON]}
+2016-02-23 15:45:25,615  INFO Injector:68 org.matsim.analysis.IterationStopWatch 
+2016-02-23 15:45:25,615  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@305b7c14[Scopes.SINGLETON]
+2016-02-23 15:45:25,616  INFO Injector:68 org.matsim.core.controler.OutputDirectoryHierarchy 
+2016-02-23 15:45:25,616  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@bccb269[Scopes.SINGLETON]
+2016-02-23 15:45:25,616  INFO Injector:68 org.matsim.core.scoring.EventsToActivities 
+2016-02-23 15:45:25,616  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@7d8704ef[Scopes.SINGLETON]
+2016-02-23 15:45:25,616  INFO Injector:68 org.matsim.core.scoring.EventsToLegs 
+2016-02-23 15:45:25,616  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@3c3d9b6b[Scopes.SINGLETON]
+2016-02-23 15:45:25,616  INFO Injector:68 org.matsim.core.scoring.ScoringFunctionsForPopulation 
+2016-02-23 15:45:25,616  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@7e6f74c[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.core.events.EventsManagerModule$EventHandlerRegistrator 
+2016-02-23 15:45:25,617  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@7530ad9c[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.core.router.SingleModeNetworksCache 
+2016-02-23 15:45:25,617  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@394df057[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.core.replanning.StrategyManager 
+2016-02-23 15:45:25,617  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@65d09a04[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.core.replanning.ReplanningContextImpl 
+2016-02-23 15:45:25,617  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@3a52dba3[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.analysis.CalcLinkStats 
+<09:50AM DrStupid> from the onsite fire chief.
+  *
+ofz#5294 indirect-leak [Caolán McNamara]
+tdf#116274 Cannot open an excel workbook, "maximum number of columns per sheet" only in 64bit Calc on Windows 10 [Eike Rathke]
+tdf#116283 FILESAVE: DOCX File corrupted after roundtrip [Jan Holesovsky]
+tdf#116296 [NEWHELP] Remove product version from help pages path when building offline case [Olivier Hallot]
+
+                         Max       Max/Min        Avg      Total 
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 21:47:01	http://www.google.com/search?rlz=1C1CHMA_enUS313US313&sourceid=chrome&ie=UTF-8&q=1+Invicta+9212	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.39 Safari/530.5	96.251.57.215
+gold+coast+art+fair+2009	01.08.2009 21:47:06	http://www.google.com/search?q=gold+coast+art&ie=UTF-8&oe=UTF-8&hl=en&client=safari	Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16	166.137.135.12
+
+[22:42:43] Car Insurance: [-] 4195/8012 no engine matches - http://quantitycosts.com/building-construction-costings/forecasting-and-reporting/benefits-of-forecasting-and-reporting/
+staticfield com/android/dx/rop/type/StdTypeList BOOLEANARR_INT Lcom/android/dx/rop/type/StdTypeList; com/android/dx/rop/type/StdTypeList
+\fc@tmpcatcode=\count286
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
+-- extracting...
+     src='/data/richards/NBRTT/build/Geant4/build/Externals/G4SAIDDATA-1.1/src/G4SAIDDATA.1.1.tar.gz'
+21:38:12 T:139832867932032    INFO: Pixel Ratio: 0.899306
+21:38:12 T:139832867932032   DEBUG: Loading: /usr/lib64/kodi/system/ImageLib-x86_64-linux.so
+21:38:12 T:139832867932032  NOTICE: Using visual 0x20
+Using include paths: -I/misc/local/src/petsc-3.6.3/arch-linux2-c-debug/include -I/misc/local/src/petsc-3.6.3/include -I/misc/local/src/petsc-3.6.3/include -I/misc/local/src/petsc-3.6.3/arch-linux2-c-debug/include -I/usr/local/pkgs-modules/openmpi_1.6.5_intel_2013_PBS/include
+-----------------------------------------
+
+2021-10-26T21:51:58.122Z,69.122459,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 7, url: https://gamejoin.roblox.com/v1/join-reserved-game
+instanceKlass java/lang/Class$Atomic
+instanceKlass java/lang/Class$ReflectionData
+instanceKlass java/lang/Class$3
+instanceKlass java/lang/ThreadLocal
+instanceKlass java/nio/charset/spi/CharsetProvider
+instanceKlass java/nio/charset/Charset
+instanceKlass java/lang/Math
+instanceKlass java/util/Hashtable$Entry
+instanceKlass sun/misc/VM
+instanceKlass java/util/HashMap$Node
+instanceKlass java/util/Map$Entry
+instanceKlass sun/reflect/Reflection
+instanceKlass sun/misc/SharedSecrets
+instanceKlass java/lang/ref/Reference$1
+instanceKlass sun/misc/JavaLangRefAccess
+instanceKlass java/lang/ref/ReferenceQueue$Lock
+instanceKlass java/lang/ref/ReferenceQueue
+instanceKlass java/util/Collections$UnmodifiableCollection
+instanceKlass java/util/AbstractMap
+instanceKlass java/util/Set
+instanceKlass java/util/Collections
+instanceKlass java/lang/ref/Reference$Lock
+instanceKlass sun/reflect/ReflectionFactory
+instanceKlass java/util/AbstractCollection
+instanceKlass java/util/RandomAccess
+instanceKlass java/util/List
+instanceKlass java/util/Collection
+instanceKlass java/lang/Iterable
+instanceKlass java/security/cert/Certificate
+instanceKlass sun/reflect/ReflectionFactory$GetReflectionFactoryAction
+                               Narrative: 
+12:32:05 T:6472  NOTICE:         m_displayNameExtra: DIRECTSOUND: Realtek Digital Output (2- Realtek High Definition Audio)
+12:32:05 T:6472  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
+[      2984] MumbleAudioInput::InitializeAudioDevice: Initialized audio capture device.
+[      3156] hello from "D:\Rockstar Games\FiveM.app\cache\subprocess\FiveM_ROSLauncher" ros:launcher --parent_pid=16644 "D:\Rockstar Games\Grand Theft Auto V\GTAVLauncher.exe"
+2021-10-26T21:51:38.897Z,49.897282,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.44 seconds
+2021-10-26T21:51:39.416Z,50.416424,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+ PROC_COUNT Be8 : ALL = 6
+ PROC_COUNT Be9 : Transportation = 13960
+ PROC_COUNT Be9 : ionInelastic = 3
+ PROC_COUNT Be9 : ALL = 13963
+ PROC_COUNT C10 : Transportation = 8102
+ PROC_COUNT C10 : ionInelastic = 4
+ PROC_COUNT C10 : ALL = 8106
+ PROC_COUNT C11 : Transportation = 141209
+ PROC_COUNT C11 : ALL = 141209
+ PROC_COUNT C12 : Transportation = 2465953
+ PROC_COUNT C12 : ionInelastic = 5
+ PROC_COUNT C12 : ALL = 2.46596e+06
+ PROC_COUNT C13 : Transportation = 98567
+ PROC_COUNT C13 : ionInelastic = 1
+ PROC_COUNT C13 : ALL = 98568
+ PROC_COUNT C14 : Transportation = 7255
+ PROC_COUNT C14 : ALL = 7255
+ PROC_COUNT C8 : RadioactiveDecay = 1
+ PROC_COUNT Na23 : ALL = 594
+ PROC_COUNT Na24 : Transportation = 311
+ PROC_COUNT Na24 : ALL = 311
+ PROC_COUNT Ne19 : Transportation = 1381
+ PROC_COUNT Ne19 : ALL = 1381
+ PROC_COUNT Ne20 : Transportation = 3249
+ PROC_COUNT Ne20 : ALL = 3249
+ PROC_COUNT Ne21 : Transportation = 972
+ PROC_COUNT Ne21 : ALL = 972
+ PROC_COUNT O14 : Transportation = 9332
+ PROC_COUNT O14 : ALL = 9332
+ PROC_COUNT O15 : Transportation = 81866
+File: images/datadriven/SI_Nodes.png Graphic file (type png)
+<use images/datadriven/SI_Nodes.png>
+Package pdftex.def Info: images/datadriven/SI_Nodes.png  used on input line 22.
+(pdftex.def)             Requested size: 418.25368pt x 369.32446pt.
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100 TeV/n
+       Additional Information : (multiple lines)
+12:32:06 T:6224   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - recording id:1602550594, state:scheduled, title:Vera - Ein ganz spezieller Fall, desc:Familiengeheimnisse, error:none
+12:32:06 T:6224   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - recording id:734512255, state:scheduled, title:Vera - Ein ganz spezieller Fall, desc:Alte Freunde, error:none
+		- Set default for check complete in Grouting table
+		- Change Type on Grouting table from 320v to 380v
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 2.88022e+295 J  
+	at com.vaadin.data.provider.HierarchicalDataCommunicator.expand(HierarchicalDataCommunicator.java:289) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.ui.TreeGrid.lambda$registerTreeGridRpc$275f28ba$1(TreeGrid.java:187) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.server.VaadinServlet.service(VaadinServlet.java:448) [vaadin-server-8.9.4.jar:8.9.4]
+	at info.magnolia.admincentral.AdmincentralServlet.service(AdmincentralServlet.java:119) [magnolia-admincentral-6.2.3.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [servlet-api.jar:?]
+	at info.magnolia.cms.filters.ServletDispatchingFilter.doFilter(ServletDispatchingFilter.java:148) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.virtualuri.VirtualUriFilter.doFilter(VirtualUriFilter.java:98) [magnolia-virtual-uri-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.module.cache.executor.Bypass.processCacheRequest(Bypass.java:58) [magnolia-cache-core-5.9.1.jar:?]
+	at info.magnolia.module.cache.executor.CompositeExecutor.processCacheRequest(CompositeExecutor.java:66) [magnolia-cache-core-5.9.1.jar:?]
+	at info.magnolia.module.cache.filter.CacheFilter.doFilter(CacheFilter.java:164) [magnolia-cache-core-5.9.1.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.i18n.I18nContentSupportFilter.doFilter(I18nContentSupportFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.RangeSupportFilter.doFilter(RangeSupportFilter.java:78) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+Package pdftex.def Info: images/datadriven/Fig01.png  used on input line 17.
+(pdftex.def)             Requested size: 418.25368pt x 142.9249pt.
+ [45 </Users/natera/Dropbox/PhD/thesis/images/datadriven/Fig01.png>] [46] [47]
+
+LaTeX Font Warning: Font shape `OT1/ppl/m/scit' undefined
+(Font)              using `OT1/ppl/m/it' instead on input line 70.
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 81.
+
+LaTeX Font Warning: Font shape `OT1/ppl/m/scit' undefined
+(Font)              using `OT1/ppl/m/it' instead on input line 87.
+
+[48]
+
+LaTeX Font Warning: Font shape `OT1/ppl/m/scit' undefined
+(Font)              using `OT1/ppl/m/it' instead on input line 109.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Font Warning: Font shape `OT1/ppl/m/scit' undefined
+(Font)              using `OT1/ppl/m/it' instead on input line 125.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[49]
+<images/datadriven/algorithms.png, id=1226, 1146.4431pt x 486.1362pt>
+File: images/datadriven/algorithms.png Graphic file (type png)
+Sushi: info  Downloaded hl7.fhir.us.core#5.0.1                                   (00:07.811)
+[     48579] [    GTAProcess]  UV loop: httpClient/ OnConnectionProgress: df_Core: Please wait while the bans database is being checked...
+[     48579] [    GTAProcess]  UV loop: httpClient/ 
+[     48766] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking ViewportSystemInit INIT_CORE init (4 out of 11)
+       - Linux, OSF: -Wl,-rpath,
+       - Solaris: -R
+       - FreeBSD: -Wl,-R,
+Executing: uname -s
+stdout: Linux
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-exposure-contact-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-exposure-contact-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-temperature|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-exposure-contact-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-weight|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-exposure-contact-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-head-circumference|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-exposure-contact-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-heart-rate|6.1.0]
+Executing: mpicc -c -o /tmp/petsc-uGvYRc/config.setCompilers/conftest.o -I/tmp/petsc-uGvYRc/config.setCompilers   /tmp/petsc-uGvYRc/config.setCompilers/conftest.c 
+Successful compile:
+instanceKlass sun/misc/Launcher$ExtClassLoader$1
+instanceKlass java/util/StringTokenizer
+2016-02-23 15:45:25,581  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.replanning.selectors.GenericPlanSelector<org.matsim.api.core.v01.population.Plan, org.matsim.api.core.v01.population.Person>, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@24269709}
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.34]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.module.cache.executor.Bypass.processCacheRequest(Bypass.java:58) [magnolia-cache-core-5.9.1.jar:?]
+	at info.magnolia.module.cache.executor.CompositeExecutor.processCacheRequest(CompositeExecutor.java:66) [magnolia-cache-core-5.9.1.jar:?]
+	at info.magnolia.module.cache.filter.CacheFilter.doFilter(CacheFilter.java:164) [magnolia-cache-core-5.9.1.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.i18n.I18nContentSupportFilter.doFilter(I18nContentSupportFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:110) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:96) [magnolia-core-6.2.3.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [catalina.jar:9.0.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [catalina.jar:9.0.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [catalina.jar:9.0.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [catalina.jar:9.0.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [catalina.jar:9.0.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.34]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690) [catalina.jar:9.0.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [catalina.jar:9.0.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [catalina.jar:9.0.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-coyote.jar:9.0.34]
+\caption@hangindent=\dimen283
+Package caption Info: Standard document class detected.
+2021-10-26T21:51:40.531Z,51.531517,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=405cc706-a41d-4d4f-b250-4b6784555e4e","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+[   1965547] overriding handle for mp_f_freemode_01/teef_diff_004_f_uni.ytd (was 4cd061c) -> 2e3
+[   1965547] overriding handle for mp_f_freemode_01/teef_diff_005_a_uni.ytd (was 4cd061d) -> 2e4
+[   1965562] overriding handle for mp_f_freemode_01/teef_diff_005_b_uni.ytd (was 4cd061e) -> 2e5
+[   1965578] overriding handle for mp_f_freemode_01/teef_diff_005_c_uni.ytd (was 4cd061f) -> 2e6
+[   1965593] overriding handle for mp_f_freemode_01/teef_diff_005_d_uni.ytd (was 4cd0620) -> 2e7
+[   1965609] overriding handle for mp_f_freemode_01/teef_diff_005_e_uni.ytd (was 4cd0621) -> 2e8
+[   1965625] overriding handle for mp_f_freemode_01/teef_diff_005_f_uni.ytd (was 4cd0622) -> 2e9
+[   1965640] overriding handle for mp_f_freemode_01/teef_diff_006_a_uni.ytd (was 4cd0623) -> 2ea
+[   1965656] overriding handle for mp_f_freemode_01/teef_diff_006_b_uni.ytd (was 4cd0624) -> 2eb
+[   1965656] overriding handle for mp_f_freemode_01/teef_diff_006_c_uni.ytd (was 4cd0625) -> 2ec
+[   1965672] overriding handle for mp_f_freemode_01/teef_diff_006_d_uni.ytd (was 4cd0626) -> 2ed
+[   1965687] overriding handle for mp_f_freemode_01/teef_diff_006_e_uni.ytd (was 4cd0627) -> 2ee
+[   1966500] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_g_uni.ytd (was 51d000d) -> 586
+[   1966515] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_h_uni.ytd (was 51d000e) -> 587
+[   1966531] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_i_uni.ytd (was 51d000f) -> 588
+[   1966547] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_j_uni.ytd (was 51d0010) -> 589
+[   1966562] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_k_uni.ytd (was 51d0011) -> 58a
+[   1966578] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_l_uni.ytd (was 51d0012) -> 58b
+[   1966593] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_m_uni.ytd (was 51d0013) -> 58c
+[   1966609] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_n_uni.ytd (was 51d0014) -> 58d
+[   1966609] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_o_uni.ytd (was 51d0015) -> 58e
+[   1966625] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_p_uni.ytd (was 51d0016) -> 58f
+[   1966640] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_q_uni.ytd (was 51d0017) -> 590
+[   1966656] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_r_uni.ytd (was 51d0018) -> 591
+[   1966672] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_s_uni.ytd (was 51d0019) -> 592
+[   1966687] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_t_uni.ytd (was 51d001a) -> 593
+[   1966703] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_u_uni.ytd (was 51d001b) -> 594
+[   1966718] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_v_uni.ytd (was 51d001c) -> 595
+[   1966734] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_w_uni.ytd (was 51d001d) -> 596
+[   1966750] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_x_uni.ytd (was 51d001e) -> 597
+LogInit:      CURL_VERSION_SSL
+[  1%] No patch step for 'G4SAIDDATA'
+2021-10-26T21:52:05.558Z,76.558540,4f32000,7 [FLog::Network] Connection lost: connectMode: Disconnect ASAP, timeMS:76558, connectionTime 53925
+21:38:12 T:139832867932032  NOTICE:     Device 1
+build	14-Jul-2020 09:19:57	[DEBUG]   Imported: org.apache.maven.classrealm < plexus.core
+ PART_COUNT: Be10 = 20
+     Additional Information   : 
+
+4.x  Antenna Type             : (A20, from rcvr_ant.tab ; see instructions)
+     Serial Number            : (A*, but note the first A5 is used in SINEX)
+     Antenna Reference Point  : (BPA/BCR/XXX from antenna.gra ; see instr.)
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup6
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup7
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count281
+\float@exts=\toks31
+\float@box=\box51
+\@float@everytoks=\toks32
+\@floatcapt=\box52
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count282
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks33
+\ttl@minus=\dimen164
+\ttl@toksa=\toks37
+\titlewidth=\dimen165
+\titlewidthlast=\dimen166
+\titlewidthfirst=\dimen167
+instanceKlass java/lang/invoke/MethodHandleNatives
+    + Access2Base - Add default FilterOptions string in Calc export to csv [Jean-Pierre Ledure]
+    + Access2Base - add Picture property to Control object [Jean-Pierre Ledure]
+    + Access2Base - Correct error message and other typo's [Jean-Pierre Ledure]
+    + add build toolchain to upload LibreOffice API to Maven Central [David Ostrovsky]
+    + add comment wondering what the code thinks it is doing [Tor Lillqvist]
+Sushi: info  Downloading hl7.terminology.r4#5.0.0... https://packages.fhir.org/hl7.terminology.r4/5.0.0 (00:02.572)
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/personal/accounts-and-savings' with error code: 'null'.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/personal/digital-banking/privacy-policy' with error code: 'null'.
+ Entering Gaussian System, Link 0=g09
+ Input=wat-sp.com
+GAL	ALASKA	GALENA EDWARD G. PITKA SR	afd	al_84_25OCT2007.png
+GAM	ALASKA	GAMBELL	afd	al_85_25OCT2007.png
+AQY	ALASKA	GIRDWOOD	afd	al_85_25OCT2007.png
+KGZ	ALASKA	GLACIER CREEK	afd	al_86_25OCT2007.png
+N93	ALASKA	GOLOVIN	afd	al_86_25OCT2007.png
+GNU	ALASKA	GOODNEWS	afd	al_87_25OCT2007.png
+Z40	ALASKA	GOOSE BAY	afd	al_87_25OCT2007.png
+GSZ	ALASKA	GRANITE MOUNTAIN AS	afd	al_87_25OCT2007.png
+Tacoma	ALASKA	GRAY AAF	afd	al_88_25OCT2007.png
+KGX	ALASKA	GRAYLING	afd	al_88_25OCT2007.png
+GKN	ALASKA	GULKANA	afd	al_89_25OCT2007.png
+GST	ALASKA	GUSTAVUS	afd	al_89_25OCT2007.png
+HNS	ALASKA	HAINES	afd	al_90_25OCT2007.png
+3Z9	ALASKA	HAINES SEAPLANE	afd	al_90_25OCT2007.png
+CYHT	ALASKA	HAINES JUNCTION 	afd	al_90_25OCT2007.png
+4Z2	ALASKA	UPPER HANNUM CREEK	afd	al_91_25OCT2007.png
+HAY	ALASKA	HAYCOCK	afd	al_91_25OCT2007.png
+HRR	ALASKA	HEALY RIVER	afd	al_92_25OCT2007.png
+AK33	ALASKA	HERENDEEN BAY	afd	al_92_25OCT2007.png
+HYL	ALASKA	HOLLIS SEAPLANE	afd	al_93_25OCT2007.png
+HCA	ALASKA	HOLY CROSS	afd	al_93_25OCT2007.png
+HOM	ALASKA	HOMER	afd	al_94_25OCT2007.png
+5BL	ALASKA	HOMER-BELUGA LAKE SEAPLANE	afd	al_94_25OCT2007.png
+2AK4	ALASKA	HOMER OYSTER COVE 	afd	al_95_25OCT2007.png
+KVL	ALASKA	KIVALINA	afd	al_120_25OCT2007.png
+AKW	ALASKA	KLAWOCK	afd	al_120_25OCT2007.png
+AQC	ALASKA	KLAWOCK SEAPLANE	afd	al_121_25OCT2007.png
+OBU	ALASKA	KOBUK	afd	al_121_25OCT2007.png
+ADQ	ALASKA	KODIAK	afd	al_122_25OCT2007.png
+9Z3	ALASKA	KODIAK (LILLY LAKE) SEAPLANE	afd	al_123_25OCT2007.png
+[22:42:35] Hindu temples: [+] 0574/8054 matches engine Wordpress Article - http://assicurazionisardegna.it
+LaTeX Info: Redefining \cite on input line 302.
+12:32:05 T:6472  NOTICE:         m_deviceName      : {775DFF2A-BF37-4C15-B2F6-4253FA03FA82}
+12:32:05 T:6472  NOTICE:         m_displayName     : SPDIF - Realtek Digital Output (2- Realtek High Definition Audio)
+12:32:05 T:6472  NOTICE:         m_displayNameExtra: DIRECTSOUND: Realtek Digital Output (2- Realtek High Definition Audio)
+what+did+greg+mcmackin+say	01.08.2009 18:37:16	http://www.google.com/search?hl=en&q=Greg+McMackin+faggot&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727)	68.49.95.106
+carlos+justo	01.08.2009 18:37:18	http://www.google.com/search?q=Carlos+Justo&hl=en&rlz=1T4ADBR_enUS303US304&start=10&sa=N	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 2.0.50727; .NET CLR 1.1.4322; InfoPath.2; yie8)	68.185.244.186
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 18:37:44	http://www.google.com/search?q=Invicta+9212+Men%E2%80%99s+Gold+Plated+Stainless+Steel+Speedway+Watch+&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 3.5.30729)	70.20.146.5
+petty+officer+jonathan+campos	01.08.2009 18:38:12	http://www.google.com/search?q=Jonathan+Campos&hl=en&start=20&sa=N	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	98.193.72.14
+jerry+garcia+birthday	01.08.2009 18:38:16	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4TSHB_enUS245US246&q=Sunshine+Dream+Festival+d.c.	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; FunWebProducts; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; eMusic DLM/3)	98.169.57.163
+what+did+greg+mcmackin+say	01.08.2009 18:38:37	http://www.google.com/url?sa=t&source=web&ct=res&cd=8&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fwhat%2Bdid%2Bgreg%2Bmcmackin%2Bsay&ei=d4t0SomWMZPUMsCm1LEM&rct=j&q=what+did+greg+mcmackin+say&usg=AFQjCNGV41wKWkTAJJ3qWFfr6ZAacJpquw	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1	139.67.30.209
+drake+falls+on+stage	01.08.2009 18:38:44	http://www.google.com/search?q=drake+falls+on+stage&sourceid=navclient-ff&ie=UTF-8&rlz=1B3GGGL_enUS305US307&aq=t	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	76.94.104.41
+fedex+field	01.08.2009 18:38:56	http://www.google.com/search?hl=en&ie=ISO-8859-1&q=Concert+parking+at+Fed+Ex+Field&aq=o&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.1; AOLBuild 4334.5007; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; OfficeLivePatch.1.3; .NET CLR 3.5.30729; .NET CLR 3.0.30618; OfficeLiveConnector.1.4)	205.188.116.73
+sayville+summerfest	01.08.2009 18:39:15	http://www.google.com/search?hl=en&q=summerfest+long+island+new+york&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Media Center PC 5.0)	98.111.112.221
+sono+arts+festival	01.08.2009 18:39:37	http://www.google.com/search?client=ms-rim&hl=en&q=sono+arts+festival&ie=UTF-8&channel=browser	BlackBerry8310/4.5.0.110 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102	206.53.157.235
+fayette+county+fair	01.08.2009 18:39:40	http://www.google.com/search?hl=en&rlz=1T4DKUS_enUS311US311&q=fayette+county+free+fair&revid=1521426136&ei=LYt0Suy-Lcmltgepj9mWCQ&sa=X&oi=revisions_inline&resnum=0&ct=broad-revision&cd=4	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Media Center PC 5.0)	70.195.36.156
+socorro+caro	01.08.2009 18:39:51	http://www.google.com/search?q=Socorro+Caro+&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.5; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	68.5.87.186
+what+did+greg+mcmackin+say	01.08.2009 18:39:59	http://www.google.com/search?source=ig&hl=en&rlz=1G1GGLQ_ENUS321&=&q=greg+mcmackin+what+did+he+say&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10	68.106.226.11
+x+games+15+moto+x+best+trick	01.08.2009 18:40:14	http://www.google.com/search?q=moto+x+best+trick+winner+2009&rls=com.microsoft:en-us&ie=UTF-8&oe=UTF-8&startIndex=&startPage=1&rlz=1I7GPEA_enUS301	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	72.68.91.153
+what+did+greg+mcmackin+say	01.08.2009 18:40:29	http://www.google.com/search?q=Coach+McMackin++what+did+he+say&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1	75.177.86.234
+socorro+caro	01.08.2009 18:40:38	http://www.google.com/search?hl=en&q=socorro+caro&aq=2z&oq=soco&aqi=g2g-z1g7	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; InfoPath.1)	69.255.115.226
+socorro+caro	01.08.2009 18:40:41	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4ADBF_enUS304US304&q=Socorro+Caro+murder+case	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.1; .NET CLR 2.0.50727)	71.94.128.140
+friendship+quotes	01.08.2009 18:40:59	http://www.google.co.in/search?hl=en&q=friendship+graphic+quote+remembering+the+value+of+friend&btnG=Search&meta=&aq=f&oq=	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.37 Safari/530.5	115.240.139.117
+fedex+field	01.08.2009 18:41:14	http://www.google.com/search?hl=en&q=fedex+field+parking+map&rlz=1W1DKUS_en&aq=0&oq=fedex+field+parking&aqi=g4	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MSN Optimized;US)	68.101.32.43
+fedex+field	01.08.2009 18:41:17	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4TSHB_enUS315US316&q=fedex+field+concert+parking	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30729)	69.136.224.169
+caterina+gennaro	01.08.2009 18:41:17	http://www.google.com/search?complete=1&hl=en&q=Caterina+Gennaro%2C&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; Tablet PC 2.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729)	216.103.85.206
+market+days+chicago+2009	01.08.2009 18:41:27	http://www.google.com/search?q=street+fair+chicago+2009&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	76.217.61.109
+what+did+greg+mcmackin+say	01.08.2009 18:41:56	http://www.google.com/search?q=what+did+greg+mcmackin+say&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 3.5.30729)	69.152.203.128
+tim+hack+and+kelly+drew	01.08.2009 18:54:43	http://www.google.com/search?q=hack%2Cdrew%2C+wisconsin&ie=utf-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.1) Gecko/20061204 Firefox/2.0.0.1	71.211.21.69
+tim+hack+and+kelly+drew	01.08.2009 18:55:30	http://www.google.com/search?q=hack%2Cdrew%2C+wisconsin&ie=utf-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.1) Gecko/20061204 Firefox/2.0.0.1	71.211.21.69
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 18:55:39	http://www.google.com/search?client=ms-rim&hl=en&q=Invicta+9212+Men%E2%80%99s+Gold+Plated+Stainless+Steel+Speedway+Watch&ie=UTF-8&channel=browser	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)	206.53.153.174
+what+did+greg+mcmackin+say	01.08.2009 18:55:50	http://www.google.com/url?sa=t&source=web&ct=res&cd=8&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fwhat%2Bdid%2Bgreg%2Bmcmackin%2Bsay&ei=q490So6NCpWMtgeWgu2WCQ&rct=j&q=what+did+greg+mcmackin+say&usg=AFQjCNGV41wKWkTAJJ3qWFfr6ZAacJpquw&sig2=5NQ4yNQuvctVvH82LnJSsA	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	24.185.106.43
+carlos+justo	01.08.2009 18:56:08	http://www.google.com/search?hl=en&q=Carlos+Justo&aq=f&oq=&aqi=g6g-s1g2	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; YPC 3.0.1; .NET CLR 1.1.4322; yplus 4.1.00b)	75.2.220.38
+socorro+caro	01.08.2009 18:56:13	http://www.google.com/search?hl=en&q=Socorro+Caro+&btnG=Google+Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; MDDR; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	12.35.111.162
+sayville+summerfest	01.08.2009 18:56:27	http://www.google.com/cse?cx=partner-pub-9695918213045898%3Aj38vzq-eogn&cof=FORID%3A10&ie=ISO-8859-1&q=sayville+summerfest&sa=Search&ad=w9&num=10&rurl=http%3A%2F%2Fpuckettsprojects.com%2Fsearch%2F%3Fcx%3Dpartner-pub-9695918213045898%253Aj38vzq-eogn%26cof%3DFORID%253A10%26ie%3DISO-8859-1%26q%3Dsayville%2Bsummerfest%26sa%3DSearch	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	96.232.117.75
+             1971 Oct 16          -              FU-202                         Astronomie Spatiale               Eridan                 E007             CSG ALFS               205.0
+             1971 Oct 18          -              C154                           Essai Technologique               Centaure               C154             CSG ALFS                 0.0
+1971-F10     1971 Nov  5 1300     1971-F10       STV 4                          STV 4                     F00636  Europa II              F-11             CSG CECLES               0.0
+1971-F14     1971 Dec  5 1620     1971-F14       D-2A Polaire                   D-2A Polaire              F00644  Diamant B              No. 4            CSG Diamant              0.0
+             1971 Dec 16 1957     -              VA92                           Cisaspe                           Veronique 61M          61M/92           CSG ALFS V             227.0
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.i18n.I18nContentSupportFilter.doFilter(I18nContentSupportFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+Executing: mpicc  -o /tmp/petsc-uGvYRc/config.libraries/conftest    /tmp/petsc-uGvYRc/config.libraries/conftest.o  -ldl 
+                Defined "HAVE_LIBDL" to "1"
+		<!-- Default:1800.0; Defines how many seconds a time mutation can maximally shift a time. -->
+		<param name="mutationRange" value="1800.0" />
+	</module>
+
+<!-- ====================================================================== -->
+
+	<module name="changeLegMode" >
+		<param name="ignoreCarAvailability" value="true" />
+		<param name="modes" value="car,pt" />
+	</module>
+
+<!-- ====================================================================== -->
+================================================================================
+================================================================================
+Starting configure run at Tue, 20 Aug 2019 01:40:57 -0500
+Configure Options: --configModules=PETSc.Configure --optionsModule=config.compilerOptions COPTFLAGS="-g -O" FOPTFLAGS="-g -O" CXXOPTFLAGS="-g -O" --with-cuda=1 --with-precision=double --with-clanguage=c PETSC_ARCH=arch-cuda-double PETSC_DIR=/sandbox/petsc/petsc.next
+================================================================================
+TEST configureGit from config.sourceControl(/sandbox/petsc/petsc.next/config/BuildSystem/config/sourceControl.py:24)
+TESTING: configureGit from config.sourceControl(/sandbox/petsc/petsc.next/config/BuildSystem/config/sourceControl.py:24)
+  Find the Git executable
+Checking for program /home/petsc/soft/mpich-3.3/bin/git...not found
+Checking for program /usr/local/sbin/git...not found
+Checking for program /usr/local/bin/git...not found
+Checking for program /usr/sbin/git...not found
+Checking for program /usr/bin/git...found
+              Defined make macro "GIT" to "git"
+Executing: git --version
+stdout: git version 2.7.4
+================================================================================

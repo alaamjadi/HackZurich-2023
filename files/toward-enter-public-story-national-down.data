@@ -1,0 +1,113 @@
+<09:49AM tasm> barbara bocer: really nice to have a FEMA director who is a real human being... on TODAY SHOW
+<09:49AM tasm> what a liberal bimbo
+<09:49AM KNBC> Anyone have info on Laguana Hills?
+-- extracting... [clean up]
+-- extracting... done
+Load Package hl7.fhir.uv.bulkdata#2.0.0
+Installing hl7.fhir.uv.smart-app-launch#2.0.0 to the package cache
+
+     0K .......... .......... .......... .......... .......... 53% 3.46M 0s
+    50K .......... .......... .......... .......... ...       100% 65.2M=0.01s
+make[1]: Leaving directory '/builds/free-electrons/toolchains-builder/build/tmp/test-x86-64-core-i7--uclibc--stable/build/host-lzip-1.18'
+>>> skeleton  Extracting
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GLTFImporter/Content/' mounted to '/GLTFImporter/'
+-v 1
+-vecload_block_size 3
+#End of PETSc Option Table entries
+[     20234] FileSystemStub::getProfilePath
+ions: Invoking CNetworkTelemetry INIT_CORE init (22 out of 52)
+[     20250] rage::gameSkeleton::RunInitFunctions: Invoking CPopulationStreamingWrapper INIT_CORE init (23 out of 52)
+Underfull \hbox (badness 1817) in paragraph at lines 3697--3703
+\OT1/ppl/m/n/12 u-ca-tion. []$\OT1/cmtt/m/n/12 http : / / budapest . imami . hu / iskolak-[]ovodak-[]bolcsodek/$[] \OT1/ppl/m/n/12 Ac-
+tdf#112384 Chapter Numbering: Allow line breaks for "separator, after" in the Chapter Numbering dialog [Adolfo Jayme Barrientos, Nithin Kumar Padavu]
+tdf#112448 FILEOPEN, DOCX spurious blank line in text [Serge Krot]
+mount (MOUNT) [Y/n/?] y
+  Support option -f (FEATURE_MOUNT_FAKE) [N/y/?] n
+  Support option -v (FEATURE_MOUNT_VERBOSE) [N/y/?] n
+BWC	CALIFORNIA	BRAWLEY MUNI	afd	sw_53_25OCT2007.png
+CYMA	ALASKA	MAYO	afd	al_139_25OCT2007.png
+AK0	ALASKA	McCARTHY JAKES BAR	afd	al_139_25OCT2007.png
+<KNBC> If you dont want to see all this signoff crap type /IGNORE * CRAP
+10.x Date                     : (CCYY-MM-DD/CCYY-MM-DD)
+<10:14AM NPR_News> Gov. Wilson has decalred state of emergency; federal declaration will be made when request officially made by Calif. authorities.
+Executing: mpicc -c -o /tmp/petsc-uGvYRc/config.setCompilers/conftest.o -I/tmp/petsc-uGvYRc/config.setCompilers   /tmp/petsc-uGvYRc/config.setCompilers/conftest.c 
+Successful compile:
+[      6359] Creating backbuffer.
+	Bug fixed
+======       Pre-compound/De-excitation Physics Parameters     ========
+=======================================================================
+[   1961875] overriding handle for mp_f_freemode_01/accs_009_u.ydd (was 4cd0096) -> 1df
+[   1928187] ResourceCache::AddEntry: Saved cache:v1:6ab8900f04a0670dc55c123ba04e67d88fd65892 to the index cache.
+2021-10-26T21:51:39.416Z,50.416424,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+instanceKlass java/lang/Byte
+build	14-Jul-2020 09:19:52	[INFO] --- versions-maven-plugin:2.7:set (default-cli) @ epdg-app-aggregator ---
+build	14-Jul-2020 09:19:53	[INFO] Searching for local aggregator root...
+[22:42:43] Mesothelioma T1: [+] 0213/8853 matches engine SupeSite - http://www.ietrade.com.cn
+[22:42:43] Cooking TIPS: [-] 0202/7845 no engine matches (HTTP-Status: 400) - https://www.newscorpaustralia.com
+  Process: muonNuclear
+        Model:      G4MuonVDNuclearModel: 0 eV  ---> 1 PeV
+     Cr_sctns:     KokoulinMuonNuclearXS: 0 eV  ---> 100 TeV
+
+  Process: muMinusCaptureAtRest
+
+---------------------------------------------------
+                           Hadronic Processes for neutron
+
+  Process: hadElastic
+        Model:             hElasticCHIPS: 19.5 MeV ---> 100 TeV
+        Model:          NeutronHPElastic: 0 eV  ---> 20 MeV
+     Cr_sctns:        NeutronHPElasticXS: 0 eV  ---> 20 MeV
+     Cr_sctns:        G4NeutronElasticXS: 0 eV  ---> 100 TeV
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+
+  Process: neutronInelastic
+        Model:                      QGSP: 12 GeV ---> 100 TeV
+        Model:                      FTFP: 9.5 GeV ---> 25 GeV
+        Model:            Binary Cascade: 19.9 MeV ---> 9.9 GeV
+        Model:        NeutronHPInelastic: 0 eV  ---> 20 MeV
+     Cr_sctns:      NeutronHPInelasticXS: 0 eV  ---> 20 MeV
+     Cr_sctns:       Barashenkov-Glauber: 0 eV  ---> 100 TeV
+     Cr_sctns:       Barashenkov-Glauber: 0 eV  ---> 100 TeV
+     Cr_sctns:          GheishaInelastic: 0 eV  ---> 100 TeV
+
+  Process: nCapture
+        Model:          NeutronHPCapture: 0 eV  ---> 20 MeV
+        Model:               nRadCapture: 19.9 MeV ---> 100 TeV
+     Cr_sctns:        NeutronHPCaptureXS: 0 eV  ---> 20 MeV
+depmod (DEPMOD) [N/y/?] n
+tim+hack+and+kelly+drew	01.08.2009 17:53:17	http://www.google.com/search?hl=en&q=Tim+Hack+and+Kelly+Drew+&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)	209.161.51.38
+tim+hack+and+kelly+drew	01.08.2009 17:53:22	http://www.google.com/search?hl=en&q=Tim+Hack+and+Kelly+Drew+&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)	209.161.51.38
+            Adding ['dl'] to LIBS
+Executing: uname -s
+ciMethod java/lang/OutOfMemoryError <init> ()V 0 0 1 0 -1
+ciMethod java/lang/AbstractStringBuilder ensureCapacityInternal (I)V 4097 1 14152 0 -1
+ciMethod java/lang/AbstractStringBuilder newCapacity (I)I 793 1 5664 0 -1
+ciMethod java/lang/AbstractStringBuilder hugeCapacity (I)I 0 0 1 0 -1
+ciMethod java/lang/AbstractStringBuilder append (Ljava/lang/String;)Ljava/lang/AbstractStringBuilder; 2105 1 6056 0 -1
+ciMethod java/lang/AbstractStringBuilder appendNull ()Ljava/lang/AbstractStringBuilder; 0 0 1 0 -1
+ciMethod java/lang/StringBuilder <init> ()V 1145 1 10062 0 -1
+ciMethod java/lang/StringBuilder append (Ljava/lang/String;)Ljava/lang/StringBuilder; 2073 1 22965 0 -1
+ciMethod java/lang/StringBuilder append (C)Ljava/lang/StringBuilder; 4097 1 5459 0 -1
+ciMethod java/lang/StringBuilder append (I)Ljava/lang/StringBuilder; 0 0 1 0 -1
+ciMethod java/lang/StringBuilder toString ()Ljava/lang/String; 1225 1 10072 0 -1
+ciMethod java/lang/NullPointerException <init> (Ljava/lang/String;)V 0 0 1 0 -1
+ciMethod java/util/HashMap hash (Ljava/lang/Object;)I 2617 1 21712 0 0
+ciMethod java/util/HashMap get (Ljava/lang/Object;)Ljava/lang/Object; 3073 1 15431 0 0
+ciMethod java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 1905 9 6282 0 1120
+ciMethod java/util/HashMap put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object; 2209 1 3298 0 0
+ciMethod java/util/HashMap putVal (ILjava/lang/Object;Ljava/lang/Object;ZZ)Ljava/lang/Object; 2209 161 3302 0 0
+ciMethod java/util/HashMap resize ()[Ljava/util/HashMap$Node; 185 5001 28 0 0
+ciMethod java/util/HashMap treeifyBin ([Ljava/util/HashMap$Node;I)V 0 0 1 0 -1
+ciMethod java/util/HashMap newNode (ILjava/lang/Object;Ljava/lang/Object;Ljava/util/HashMap$Node;)Ljava/util/HashMap$Node; 2281 1 3247 0 0
+ciMethod java/util/HashMap afterNodeAccess (Ljava/util/HashMap$Node;)V 377 1 40 0 0
+ciMethod java/util/HashMap afterNodeInsertion (Z)V 3793 1 1527 0 0
+ciMethod java/util/HashMap$Node <init> (ILjava/lang/Object;Ljava/lang/Object;Ljava/util/HashMap$Node;)V 2417 1 3264 0 0
+ciMethod com/android/dx/util/ByteArray getUnsignedByte (I)I 4097 1 82786 0 224
+ciMethod com/android/dx/util/ByteArray getUnsignedShort (I)I 2145 1 72972 0 288
+ciMethod com/android/dx/util/ByteArray checkOffsets (II)V 4097 1 8252 0 128
+ciMethod com/android/dx/util/ByteArray getByte0 (I)I 3241 1 6406 0 -1
+ciMethod com/android/dx/util/ByteArray getUnsignedByte0 (I)I 4097 1 255443 0 96
+ciMethod com/android/dx/cf/cst/ConstantPoolParser parse0 (ILjava/util/BitSet;)Lcom/android/dx/rop/cst/Constant; 3305 1 35774 0 -1
+ciMethod com/android/dx/cf/cst/ConstantPoolParser parseUtf8 (I)Lcom/android/dx/rop/cst/CstString; 1537 1 7368 0 -1

@@ -1,0 +1,500 @@
+0 categories imported
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3346--3354
+[]\OT1/ppl/m/n/12 Hungarian Po-lice: Bunugyi statisztikak. []$\OT1/cmtt/m/n/12 http : / / www . police . hu /
+ []
+
+[98] [99]
+Underfull \hbox (badness 10000) in paragraph at lines 3687--3693
+[]\OT1/ppl/m/n/12 Sportmegoldasok: Sport as-so-ci-a-tions in Bu-dapest. []$\OT1/cmtt/m/n/12 https :
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 3687--3693
+\OT1/cmtt/m/n/12 / / sportmegoldasok . hu / klub _ budapest . ht$[] \OT1/ppl/m/n/12 Ac-cessed: June 3, 2019
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 3697--3703
+\OT1/ppl/m/n/12 u-ca-tion. []$\OT1/cmtt/m/n/12 http : / / budapest . imami . hu / iskolak-[]ovodak-[]bolcsodek/$[] \OT1/ppl/m/n/12 Ac-
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 3718--3724
+[]\OT1/ppl/m/n/12 imami.hu: Pe-di-a-tri-cians, Gy-ne-col-o-gists. []$\OT1/cmtt/m/n/12 http : / / budapest . imami . hu /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3738--3745
+[]\OT1/ppl/m/n/12 valami.info: Cul-ture cen-ters. []$\OT1/cmtt/m/n/12 https : / / holmivan . valami . info /
+ []
+     dst='/data/richards/NBRTT/build/Geant4/build/data/G4EMLOW6.32'
+\sift@deathcycles=\count310
+       Serial Number          : 
+       Distance to Antenna    : (m)
+2016-02-23 15:45:25,603  INFO Injector:68 org.matsim.counts.Counts<org.matsim.api.core.v01.network.Link> 
+2016-02-23 15:45:25,607  INFO Injector:69    -> @Provides org.matsim.counts.CountsModule.provideLinkCounts(CountsModule.java:63)[Scopes.SINGLETON]
+2016-02-23 15:45:25,607  INFO Injector:68 org.matsim.core.controler.listener.ControlerListener @com.google.inject.multibindings.Element(setName=,uniqueId=40, type=MULTIBINDER, keyType=)
+2016-02-23 15:45:25,607  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.listener.ControlerListener, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=40, type=MULTIBINDER, keyType=)], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@41a2befb}
+2016-02-23 15:45:25,607  INFO Injector:68 org.matsim.core.mobsim.framework.listeners.MobsimListener @com.google.inject.multibindings.Element(setName=,uniqueId=41, type=MULTIBINDER, keyType=)
+-- [download 8% complete]
+-- [download 9% complete]
+-- [download 10% complete]
+-- [download 11% complete]
+-- [download 12% complete]
+                     [116
+<10:15AM cavalier> AutoMaton Update: Be Advised regarding DCC once you message with me YOU HAVE TO TYPE /DCC GET cavalier in order to complete the transfer.
+*** HERE: Gozler    (SA5373@gemini.tntech.edu) [10:16AM]
+ Center     Atomic      Atomic             Coordinates (Angstroms)
+ Number     Number       Type             X           Y           Z
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128) [magnolia-core-6.2.3.jar:?]
+		
+Version 1.45.0 (18 MAY 2020)
+	New feature
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Alpha/Inelastic/F02//18_38_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Alpha/Inelastic/F02//18_40_Argon.z
+@@@ G4ParticleHPInelastic instantiated for particle deuteron data directory variable is G4DEUTERONHPDATA pointing to /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Deuteron/Inelastic
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Deuteron/Inelastic/F02//6_12_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Deuteron/Inelastic/F02//6_13_Carbon.z
+</alignment>
+Alignment ------------------------------------------------
+
+Cyprus               ==> Cyprus
+was                  ==> was
+divided              ==> Divide
+into                 ==> _
+two                  ==> two
+parts                ==> parts
+in                   ==> in
+March_2001           ==> March_2001
+.                    ==> .
+Alignment score: 24.660
+
+Features ------------------------------------------------
+
+[ 1.000] Alignment.isGood: Weight for score based on closeness to 'good' threshold
+[-0.000] Alignment.isBad: Weight for score based on closeness to 'bad' threshold
+[30.719] Alignment.score.scaled: Alignment score scaled by exponentiated hypothesis size.
+[ 0.500] Alignment.hypSpan NULL JUSTIFICATION
+[ 0.044] Alignment.txtSpan NULL JUSTIFICATION
+Running AntonymFeaturizer 0.1
+Checking copula in apposition
+argH.first: num
+<alignment>
+  Miller               ==&gt; Miller
+  was                  ==&gt; _
+  the                  ==&gt; _
+  best                 ==&gt; _
+  scorer               ==&gt; _
+PROC_CREATOR_COUNT B10 : dInelastic = 40
+PROC_CREATOR_COUNT B10 : neutronInelastic = 40
+     Firmware Version         : (A11)
+ofz#5234 direct-leak [Caolán McNamara]
+ofz#5235 bad-cast [Caolán McNamara]
+ofz#5244 tighten depth check [Caolán McNamara]
+ofz#5247 integer-overflow [Caolán McNamara]
+ofz#5248 integer-overflow [Caolán McNamara]
+                  All Rights Reserved.
+tdf#55058 EMF+ List of EMF import bugs with examples [Bartosz Kosiorek]
+1988-098     1988 Oct 28 0217:00  1988-098A      TDF 1                          TDF 1                     S19621  Ariane 2               V26              CSG ELA1                 0.0
+Curve fit start and end: 2008 023 // 23:32:55.00000 - 2008 024 // 12:35:19.00000
+         Distance/activity    : (multiple lines)
+     Additional Information   : (multiple lines)
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+[22:42:49] Car Insurance T2: [-] 3382/8966 download failed (Return: -) - http://lissi.novemberkids.de/index.php/allgemein/allerlei/
+CXL	CALIFORNIA	CALEXICO INTL	afd	sw_57_25OCT2007.png
+L71	CALIFORNIA	CALIFORNIA CITY MUNI	afd	sw_57_25OCT2007.png
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+12:32:05 T:6472  NOTICE:         m_displayName     : SPDIF - Realtek Digital Output(Optical) (2- Realtek High Definition Audio)
+* this is package 'trade' version '0.5.5'
+./Indochine/Paradize
+simple	14-Jul-2020 09:19:43	Initialized empty Git repository in D:/BambooAgent/xml-data/build-dir/EPDG-EPWBD-JOB1/.git/
+simple	14-Jul-2020 09:19:44	Fetching 'refs/heads/develop' from 'ssh://git@bitbucket.XXXXXX.com:7999/epdgs/epdg-web-app.git'.
+simple	14-Jul-2020 09:19:44	Warning: Permanently added '[127.0.0.1]:57370' (RSA) to the list of known hosts.
+simple	14-Jul-2020 09:19:45	From ssh://127.0.0.1:57370/epdgs/epdg-web-app
+simple	14-Jul-2020 09:19:45	 * [new branch]      develop    -> develop
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+<10:12AM CNN_news> t call this one the big one
+-ABC_NEWS:#earthquake- Pat Georgenson (us Geological society) says could have been worse
+<10:13AM cavalier> FLOOD WARNING. 7 LINE AUTOMATON UPDATE IN 6 MINUTES.
+<10:13AM NPR_News> Mayor of L.A. says "We've been through worse." We'll get through this one."
+<10:13AM CNN_news> Feinstein says Clinton has declared Federal state of emergency
+-ABC_NEWS:#earthquake- Pat Georenson says: overall could have been alot worse...
+<10:14AM NPR_News> Gov. Wilson has decalred state of emergency; federal declaration will be made when request officially made by Calif. authorities.
+--> "+v FOX_Live" mode change by KNBC on #earthquake
+--> "+oo Jup1 NeilM" mode change by eff.org on #earthquake
+--> "+vv Metallica NeilM" mode change by eff.org on #earthquake
+<10:15AM cavalier> AutoMaton Update: Amateur Radio Assistance. OUTBOUND Messaging from stricken area for ALL USA. JOIN #ARES
+<10:15AM cavalier> AutoMaton Update: EXTENDED SUMMARY TEXT of EARTHQUAKE available by /MSG CAVALIER XDCC SEND #1
+<10:15AM cavalier> AutoMaton Update: Be Advised regarding DCC once you message with me YOU HAVE TO TYPE /DCC GET cavalier in order to complete the transfer.
+*** HERE: Gozler    (SA5373@gemini.tntech.edu) [10:16AM]
+<10:16AM KNBC> Fox live I did
+<10:16AM NPR_News> Attention Public Radio Listeners:  NPR's Talk of the Nation will devote its first hour (2 pm - 3 pm EST) to the Earthquake.
+<10:16AM NPR_News> If your NPR station does not regularly carry this program, they are permitted to pick it up from the satellite feed in emergencies.
+-ABC_NEWS:#earthquake- showing train all amngled on KABC
+<10:16AM cavalier> AutoMaton Update: WORLDWIDEWEB info available : http://www.seas.upenn.edu/~mengwong/irc.quake.txt
+*** GONE: gozler    [10:17AM]
+<10:17AM NPR_News> Contatct your local NPR station for details.
+--> "+v FOX_Live" mode change by KNBC on #earthquake
+*** KNBC has changed the topic on channel #earthquake to Need info? Type /msg KNBC help and you will be able to ask your question to ev
+*** Netsplit at 10:18:35 (clique.cdf.utoronto.ca irc.yorku.ca)
+<10:19AM CNN_news> 8.2 area earthquake is likely to happen soon (Walter Hays)
+<10:19AM CNN_news> soon= next several eyears
+(Tua/#earthquake) i received a call in claremont from El Paso at 6:30 PST
+*** Netsplit at 10:33:46 (polaris.ctr.columbia.edu eff.org)
+<10:33AM Wolferl> I need an update of the 1200 block of North Corsant, hollywood.   I just heard there was extensive damage in hollywood on NBC
+(WildEep/#earthquake) pasadena has been out since at least 0700 until just now
+what+did+greg+mcmackin+say	01.08.2009 20:00:03	http://www.google.com/search?sourceid=navclient&aq=0&oq=greg+mcmack&ie=UTF-8&rlz=1T4ADRA_enUS331US333&q=greg+mcmackin	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	71.156.51.141
+west+virginia+derby	01.08.2009 20:00:05	http://search.aol.com/aol/search?s_it=topsearchbox.search&q=mountaineer+park+west+virginia++race+derby+entries	Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; GTB6; AskTB5.3)	205.188.116.134
+fedex+field	01.08.2009 20:14:21	http://www.google.com/search?sourceid=navclient&aq=1h&oq=fedex&ie=UTF-8&rlz=1T4SUNA_enUS272US273&q=fedex+parking+for+concerts	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	69.143.170.164
+tim+hack+and+kelly+drew	01.08.2009 20:14:22	http://www.google.com/search?q=pictures+of+kelly+drew+and+tim+hack+&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GGLL_en	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	12.68.16.34
+what+did+greg+mcmackin+say	01.08.2009 20:14:23	http://www.google.com/search?q=what+did+coach+mcmackin+say&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7SUNA_en	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; InfoPath.1; .NET CLR 2.0.50727)	173.73.161.108
+<09:51AM NPR_News> NPR's Talk of the Nation will devote its first hour (2 pm EST) to coverage of the Earthquake.
+--> "+v More" mode change by KNBC on #earthquake
+<09:51AM KNBC> NPR+ msg went thru  that time
+--> "+oo FOX_Live NeilM" mode change by eff.org on #earthquake
+--> "+vvv Metallica FOX_Live NeilM" mode change by eff.org on #earthquake
+=== START stop_import 2016-05-16 18:53:46 ===
+=== END stop_import 2016-05-16 18:53:46 ===
+
+=== START import 2016-05-16 18:54:26 ===
+Importing categories...
+0 K2 categories imported
+0 categories imported
+Importing posts...
+0 posts imported
+0 medias imported
+Importing K2 items...
+=== START import 2016-05-16 21:14:40 ===
+Importing categories...
+0 K2 categories imported
+0 categories imported
+Importing posts...
+0 posts imported
+0 medias imported
+Importing K2 items...
+=== START import 2016-05-16 23:22:15 ===
+Importing categories...
+0 K2 categories imported
+0 categories imported
+Importing posts...
+0 posts imported
+0 medias imported
+Importing K2 items...
+=== START import 2016-05-17 00:46:36 ===
+Importing categories...
+0 K2 categories imported
+[   1965640] overriding handle for mp_f_freemode_01/teef_diff_006_a_uni.ytd (was 4cd0623) -> 2ea
+[   1965656] overriding handle for mp_f_freemode_01/teef_diff_006_b_uni.ytd (was 4cd0624) -> 2eb
+instanceKlass java/io/ExpiringCache
+instanceKlass java/io/FileSystem
+[   1947515] instrumented function 0x1400067e8 (3) took 1msec
+sha3sum (SHA3SUM) [Y/n/?] y
+12:32:06 T:6224   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - tag updated id:3, name:HDTV
+CMA	CALIFORNIA	CAMARILLO	afd	sw_58_25OCT2007.png
+[22:42:26] Insurance: [-] 8206/8263 no engine matches (HTTP-Status: 504) - http://nocleanfeed.com
+[22:42:30] Justice degree: [-] 8015/8289 no engine matches (HTTP-Status: 400) - https://www.bambooroof.com
+[22:42:30] Mesa DUI lawyer T2: [-] 4196/8439 no engine matches (HTTP-Status: 503) - http://eletricabarreto.com/index.php/contato
+[22:42:30] Hindu temples T2: [-] 4067/4573 no engine matches (HTTP-Status: 503) - http://unity-guild.com
+*
+* Common options for ls, more and telnet
+[22:42:35] Computer: [+] 0311/8028 matches engine Wordpress Article - http://loft64.nl
+[22:42:35] Computer: [+] 0311/8028 new URL - https://web302.your-webhost.nl:443/stack-protect.php?ip_address=34.69.44.172&re_direct_to=loft64.nl/wp-login.php&action=register
+[   1927968] ResourceCacheDevice: downloaded resource.rpf in 172 msec (size 6144)
+[   1928031] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 6ab8900f04a0670dc55c123ba04e67d88fd65892) from http://139.99.125.59:30124/files/op-chopshop/resource.rpf
+[   1879015] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/GeoLocation.asmx/GetLocationInfoFromIP
+[   1889093] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/presence.asmx/GetPresenceServers
+[   1899437] [op-progressbar]
+[   1899453] [op-inventory]
+[   1899468] [bob74_ipl]
+2016-02-23 15:45:25,620  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@49e5f737[Scopes.SINGLETON]
+       Notes                  : 
+
+8.1.x Humidity Sensor Model   : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy (% rel h)     : (% rel h)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Effective Dates        : 
+       Notes                  : 
+
+8.4.x Water Vapor Radiometer  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.5.1 Other Instrumentation   : 
+
+8.5.x Other Instrumentation   : (multiple lines)
+
+
+9.  Local Ongoing Conditions Possibly Affecting Computed Position
+
+[      8875] [    GTAProcess]             MainThrd/ Loading content XML: dlc_patchDay20NGCRC:/content.xml
+[      8875] [    GTAProcess]             MainThrd/ Loading content XML: dlc_PATCHDAY19NGCRC:/content.xml
+[      8875] [    GTAProcess]             MainThrd/ Loading content XML: dlc_PATCHDAY18NGCRC:/content.xml
+[      8875] [    GTAProcess]             MainThrd/ Loading content XML: dlc_PATCHDAY17NGCRC:/content.xml
+[      8875] [    GTAProcess]             MainThrd/ Loading content XML: dlc_PATCHDAY16NGCRC:/content.xml
+ the Gaussian 86(TM) system (copyright 1986, Carnegie Mellon
+<KNBC> Fire on ABC
+<KNBC> People.. You can post.. its just the server is screwed up
+<tasm> CBS - ignoring Gore!!! heheh heh they are going back to their LA bureasu :)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65) [magnolia-core-6.2.3.jar:?]
+[     19515] EndpointMapper::HandleRequest: GET /scui/v2/desktop
+
+    CLHEP_VERSION_OK
+
+ciMethodData com/android/dx/rop/type/Type <init> (Ljava/lang/String;I)V 1 666 orig 264 8 110 37 81 0 0 0 0 200 106 190 22 0 0 0 0 64 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 94 0 0 0 225 17 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 16 0 0 0 255 255 255 255 2 0 4 0 0 0 0 0 data 2 0x40002 0x23c oops 0
+ciMethodData com/android/dx/rop/type/Type <init> (Ljava/lang/String;II)V 1 867 orig 264 8 110 37 81 0 0 0 0 232 105 190 22 0 0 0 0 248 1 0 0 128 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 101 0 0 0 241 23 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 12 0 2 0 0 0 192 0 0 0 255 255 255 255 2 0 1 0 0 0 0 0 data 24 0x10002 0x2fe 0x50007 0x2fe 0x30 0x0 0xe0002 0x0 0x130007 0x0 0x40 0x2fe 0x190007 0x2fe 0x30 0x0 0x220002 0x0 0x280007 0x2fe 0x30 0x0 0x310002 0x0 oops 0
+ciMethodData com/android/dx/rop/type/Type putIntern (Lcom/android/dx/rop/type/Type;)Lcom/android/dx/rop/type/Type; 1 864 orig 264 8 110 37 81 0 0 0 0 24 130 190 22 0 0 0 0 40 2 0 0 144 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 98 0 0 0 241 23 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 23 0 2 0 0 0 224 0 0 0 255 255 255 255 5 0 7 0 0 0 0 0 data 28 0x70005 0x183 0x1902a4a0 0x17b 0x0 0x0 0xf0005 0x0 0x192bd410 0x2fe 0x0 0x0 0x120104 0x0 0x1902a4a0 0x3e 0x0 0x0 0x170007 0x2c0 0x20 0x3e 0x230005 0x0 0x192bd410 0x2c0 0x0 0x0 oops 4 2 com/android/dx/rop/type/Type 8 java/util/HashMap 14 com/android/dx/rop/type/Type 24 java/util/HashMap
+ciMethodData com/android/dx/util/MutabilityControl <init> (Z)V 2 6963 orig 264 8 110 37 81 0 0 0 0 232 52 190 22 0 0 0 0 56 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 153 201 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 3 0 2 0 0 0 16 0 0 0 255 255 255 255 2 0 1 0 0 0 0 0 data 2 0x10002 0x1933 oops 0
+ciMethodData com/android/dx/util/FixedSizeList <init> (I)V 2 6767 orig 264 8 110 37 81 0 0 0 0 120 227 190 22 0 0 0 0 152 1 0 0 56 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 254 1 0 0 137 195 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 10 0 2 0 0 0 112 0 0 0 255 255 255 255 7 0 2 0 0 0 0 0 data 14 0x20007 0x16c 0x38 0x1705 0x60003 0x1705 0x18 0xa0002 0x1871 0x150003 0x1871 0x28 0x1f0002 0x0 oops 0
+[   1966375] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_003_h_uni.ytd (was 5120039) -> 564
+[   1966406] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_003_j_uni.ytd (was 512003b) -> 565
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65) [magnolia-core-6.2.3.jar:?]
+       Effective Dates        : 
+       Additional Information : 
+build	14-Jul-2020 09:19:51	[WARNING] 'build.pluginManagement.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.eclipse.m2e:lifecycle-mapping @ com.XXXXXX.enterprise.build:enterprise-pom:3.0.0, d:\MavenRepo\com\XXXXXX\enterprise\build\enterprise-pom\3.0.0\enterprise-pom-3.0.0.pom, line 197, column 13
+build	14-Jul-2020 09:19:51	[WARNING] 
+build	14-Jul-2020 09:19:51	[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+build	14-Jul-2020 09:19:51	[WARNING] 
+build	14-Jul-2020 09:19:51	[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+     31     1.497688
+PTU	ALASKA	PLATINUM	afd	al_170_25OCT2007.png
+KPB	ALASKA	POINT BAKER SEAPLANE	afd	al_170_25OCT2007.png
+PHO	ALASKA	POINT HOPE	afd	al_171_25OCT2007.png
+PIZ	ALASKA	POINT LAY LRRS	afd	al_171_25OCT2007.png
+AK11	ALASKA	POINT McINTYRE	afd	al_171_25OCT2007.png
+
+what+did+greg+mcmackin+say	01.08.2009 19:21:38	http://www.google.com/search?q=greg+McMackin&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9) Gecko/2008061004 Firefox/3.0	68.96.66.161
+	at info.magnolia.dam.app.contentview.column.AssetNameColumnDefinition$ValueProvider.apply(AssetNameColumnDefinition.java:64) ~[magnolia-dam-app-3.0.3.jar:?]
+	at com.vaadin.ui.Grid$Column.generateRendererValue(Grid.java:1111) ~[vaadin-server-8.9.4.jar:8.9.4]
+<use images/datadriven/SI_Nodes.png>
+Package pdftex.def Info: images/datadriven/SI_Nodes.png  used on input line 22.
+(pdftex.def)             Requested size: 418.25368pt x 369.32446pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/datadriven/SI_Lengths.png, id=1822, 1057.82631pt x 933.7284pt>
+File: images/datadriven/SI_Lengths.png Graphic file (type png)
+<use images/datadriven/SI_Lengths.png>
+Package pdftex.def Info: images/datadriven/SI_Lengths.png  used on input line 29.
+(pdftex.def)             Requested size: 418.25368pt x 369.18199pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/datadriven/SI_Lengths_Bike-Streets_FractionKM.pdf, id=1823, 1065.34328pt x 933.85765pt>
+File: images/datadriven/SI_Lengths_Bike-Streets_FractionKM.pdf Graphic file (type pdf)
+<use images/datadriven/SI_Lengths_Bike-Streets_FractionKM.pdf>
+Package pdftex.def Info: images/datadriven/SI_Lengths_Bike-Streets_FractionKM.pdf  used on input line 36.
+(pdftex.def)             Requested size: 418.25368pt x 366.63968pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/datadriven/SI_Directness.png, id=1824, 1057.41335pt x 933.7284pt>
+File: images/datadriven/SI_Directness.png Graphic file (type png)
+<use images/datadriven/SI_Directness.png>
+Package pdftex.def Info: images/datadriven/SI_Directness.png  used on input line 43.
+(pdftex.def)             Requested size: 418.25368pt x 369.32446pt.
+\openout10 = `main.lof'.
+
+ [116]pdfTeX warning (ext4): destination with the same identifier (name{page.116}) has been already used, duplicate ignored
+[     48813] [    GTAProcess]             MainThrd/ done loading xm18:/x64/audio/dlcAWXM2018_sounds.dat in data file mounter class audMetadataDataFileMounter.
+[     48813] [    GTAProcess]             MainThrd/ loading AUDIO_WAVEPACK xm18:/x64/audio/sfx/dlc_AWXM2018.
+[     48813] [    GTAProcess]             MainThrd/ done loading xm18:/x64/audio/sfx/dlc_AWXM2018 in data file mounter class `private: static void __cdecl audNorthAudioEngine::RegisterDataFileMounters(void)'::`2'::audWavePackDataFileMounter.
+[     48813] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking cStoreScreenMgr INIT_CORE init (2 out of 21)
+[     48813] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CVideoEditorUI INIT_CORE init (3 out of 21)
+tdf#63388 MAILMERGE: LibreOffice freezes when clicking Test Settings button [Justin Luth]
+       Manufacturer           : 
+./JeuxVideos/Xenoblade_Chronicles
+./JeuxVideos/Xenoblade_Chronicles/Disc%201
+./JeuxVideos/Xenoblade_Chronicles/Disc%202
+2016-02-23 15:45:25,533  INFO Injector:68 org.matsim.api.core.v01.network.Network 
+2016-02-23 15:45:25,533  INFO Injector:69    -> @Provides org.matsim.core.scenario.ScenarioByInstanceModule.provideNetwork(ScenarioByInstanceModule.java:39)
+tim+hack+and+kelly+drew	01.08.2009 18:55:30	http://www.google.com/search?q=hack%2Cdrew%2C+wisconsin&ie=utf-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.1) Gecko/20061204 Firefox/2.0.0.1	71.211.21.69
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 18:55:39	http://www.google.com/search?client=ms-rim&hl=en&q=Invicta+9212+Men%E2%80%99s+Gold+Plated+Stainless+Steel+Speedway+Watch&ie=UTF-8&channel=browser	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)	206.53.153.174
+what+did+greg+mcmackin+say	01.08.2009 18:55:50	http://www.google.com/url?sa=t&source=web&ct=res&cd=8&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fwhat%2Bdid%2Bgreg%2Bmcmackin%2Bsay&ei=q490So6NCpWMtgeWgu2WCQ&rct=j&q=what+did+greg+mcmackin+say&usg=AFQjCNGV41wKWkTAJJ3qWFfr6ZAacJpquw&sig2=5NQ4yNQuvctVvH82LnJSsA	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	24.185.106.43
+[      2407] [    GTAProcess]             MainThrd/ pre-gameload component rage:allocator:five
+[      2407] [    GTAProcess]             MainThrd/ pre-gameload component steam
+[      2407] [    GTAProcess]             MainThrd/ pre-gameload component vfs:core
+[22:42:39] Amazon: [+] 3685/7825 new URL - https://kchesanek.blog.usf.edu/wp-login.php?action=register
+[22:42:39] Amazon: [-] 3685/7825 no form at all - https://kchesanek.blog.usf.edu/wp-login.php?action=register
+[22:42:39] Insurance: [+] 8211/8262 matches engine Wordpress Article - http://proseminar.berlin/referenzen-2/
+[22:42:39] Insurance: [+] 8211/8262 new URL - http://proseminar.berlin/wp-login.php?registration=disabled
+[22:42:39] Insurance: [-] 8211/8262 registration failed (zurzeit ist die benutzer-registrierung nicht erlaubt.) - http://proseminar.berlin/wp-login.php?registration=disabled
+(WildEep/#earthquake) In pasadena, quake was East-West force
+(Tua/#earthquake) ok..based on that waves in the claremont area came east-west
+i#119141 IP clearance: replace ISCII<->Unicode tables [Chris Sherlock]
+i#696969 colibre icons: use for font icons [andreas kainz]
+ofz#4746 invalid-bool-value [Caolán McNamara]
+ofz#4753 bad-cast, check all open tables [Caolán McNamara]
+ofz#4760 floating-point-exception [Caolán McNamara]
+
+] [79] [80] [81] [82]
+Underfull \hbox (badness 10000) in paragraph at lines 756--766
+[]\OT1/ppl/m/n/12 Batty, M., Mil-ton, R.: A new frame-work for very large-
+ []
+-- [download 21% complete]
+-- [download 22% complete]
+  Check that the archiver exists and can make a library usable by the compiler
+Executing: ar -V
+08A	ALABAMA	WETUMPKA MUNI	afd	se_44_25OCT2007.png
+ofz#5391 integer-overflow [Caolán McNamara]
+ofz#5402 timeout [Caolán McNamara]
+     src='/data/richards/NBRTT/build/Geant4/build/Externals/G4EMLOW-6.32/src/G4EMLOW.6.32.tar.gz'
+ciMethodData java/lang/String indexOf (II)I 2 30418 orig 264 8 110 37 81 0 0 0 0 128 81 124 22 0 0 0 0 16 2 0 0 88 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 63 20 0 0 201 26 0 0 153 20 3 0 0 0 0 0 0 0 0 0 2 0 0 0 1 0 15 0 2 0 0 0 224 0 0 0 255 255 255 255 7 0 7 0 0 0 0 0 data 28 0x70007 0x359 0x38 0x0 0xc0003 0x0 0x38 0x110007 0x2f1 0x20 0x68 0x190007 0x0 0x78 0x2f1 0x280007 0x2bc 0x58 0x62c8 0x310007 0x6293 0x20 0x35 0x3a0003 0x6293 0xffffffffffffffc0 0x420002 0x0 oops 0
+ PROC_COUNT Ne20 : ALL = 3249
+ PROC_COUNT Ne21 : Transportation = 972
+ PROC_COUNT Ne21 : ALL = 972
+ PROC_COUNT O14 : Transportation = 9332
+ PROC_COUNT O14 : ALL = 9332
+<NeilM> how do they know?
+Electron internal conversion ID                     2
+ciMethodData com/android/dx/rop/type/Prototype intern (Ljava/lang/String;)Lcom/android/dx/rop/type/Prototype; 2 6159 orig 264 8 110 37 81 0 0 0 0 56 167 190 22 0 0 0 0 232 4 0 0 8 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 43 0 0 0 25 191 0 0 137 97 0 0 0 0 0 0 0 0 0 0 2 0 0 0 3 0 63 0 2 0 0 0 160 3 0 0 255 255 255 255 7 0 1 0 0 0 0 0 data 116 0x10007 0x17e3 0x30 0x0 0xa0002 0x0 0x180005 0x0 0x192bd410 0x17e3 0x0 0x0 0x1b0104 0x0 0x185db750 0x14a6 0x0 0x0 0x210003 0x17e3 0x18 0x2a0007 0x33d 0x20 0x14a6 0x300002 0x33d 0x400005 0x161 0x171b45b0 0x7dd 0x0 0x0 0x490007 0x601 0x38 0x33d 0x4f0003 0x33d 0x1a0 0x560007 0x601 0x68 0x2f 0x5f0005 0x7 0x171b45b0 0x28 0x0 0x0 0x640003 0x2f 0xffffffffffffffb0 0x6b0007 0x25d 0x98 0x3a4 0x730005 0x74 0x171b45b0 0x330 0x0 0x0 0x7b0007 0x3a4 0x30 0x0 0x840002 0x0 0x8e0003 0x3a4 0x18 0x9b0005 0xd1 0x171b45b0 0x530 0x0 0x0 0x9e0002 0x601 0xa10004 0x0 0x1902a4a0 0x601 0x0 0x0 0xa50003 0x601 0xfffffffffffffe28 0xab0005 0x90 0x171b45b0 0x2ad 0x0 0x0 0xae0002 0x33d 0xb80002 0x33d 0xc30007 0x33d 0x68 0x601 0xce0005 0xd1 0x18625070 0x530 0x0 0x0 0xd40003 0x601 0xffffffffffffffb0 0xe00002 0x33d 0xe50002 0x33d oops 9 8 java/util/HashMap 14 com/android/dx/rop/type/Prototype 29 java/lang/String 46 java/lang/String 59 java/lang/String 74 java/lang/String 82 com/android/dx/rop/type/Type 91 java/lang/String 105 com/android/dx/rop/type/StdTypeList
+ciMethodData com/android/dx/rop/cst/CstInterfaceMethodRef <init> (Lcom/android/dx/rop/cst/CstType;Lcom/android/dx/rop/cst/CstNat;)V 1 250 orig 264 8 110 37 81 0 0 0 0 168 14 190 22 0 0 0 0 64 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 193 7 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 16 0 0 0 255 255 255 255 2 0 3 0 0 0 0 0 data 2 0x30002 0xf8 oops 0
+[      2688] [    GTAProcess]             MainThrd/ pre-gameload component citizen:game:main
+2021-10-26T21:51:33.482Z,44.482487,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.56 seconds
+2021-10-26T21:51:34.511Z,45.511650,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=405cc706-a41d-4d4f-b250-4b6784555e4e","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+     54     0.130902
+(Sea-Marie/#earthquake) (ron): Special envoy (head of FEMA) heading to LA -- held up by winter weather in DC.
+*** You have been marked as being away
+*** QuakeLog is root@dhalicio.extern.ucsd.edu (Taner Halicioglu (taner@ucsd.edu))
+*** on channels: @#earthquake 
+*** on irc via server irc.netsys.com (NETSYS COMMUNICATIONS)
+*** QuakeLog is away: 6.6 Earthquake in Northridge (LA), California at 4:31am PST - severe damage
+*** QuakeLog had been idle 7 minutes 8 seconds
+--> "+v FOX_live" mode change by KNBC on #earthquake
+*** Netsplit at 09:09:13 (irc-2.mit.edu hub.cs.jmu.edu)
+(CBSnetwrk/#earthquake) KCBS - MLK Parade Postponed
+(KD4CQY/#earthquake) N0TJX de KD4CQY, there is an ARES net on #ARES. Can you join?
+<DrStupid> KNBC - Mayor Dick Riordan - Reschedule everything so that the police can be rescheduled.  "Lets stay cool" "Thank god that we have strong leadership" "I congradulate the citizens of LA for the cool they've shown so far"
+<KNBC> Sanat monica closed for months
+<DrStupid> KNBC - state of emergency frees budgetary constraints
+<DrStupid> for the city.
+--> "+v AttackYak" mode change by kc6sxc-1 on #earthquake
+<DrStupid> KNBC - ther's a car on fire in northridge.
+--> "+v weise" mode change by KNBC on #earthquake
+<DrStupid> (big whop)
+<FOX_live> "people should be aware about the high chance for aftershocks in the coming days and weeks"
+<weise> Anyone down there who can tell us what it's like?
+<DrStupid> KNBC - Clinton and Gore are addressing the people.
+<DrStupid> KNBC - Gore - blah blah blah
+<DrStupid> KNBC - Gore - there will be Martin Luther King ceremonies later
+<KNBC> jesus gore shut the hell up
+<DrStupid> KNBC - Gore - blah blah blah intro intro intro blah blah blah
+<DrStupid> KNBC - Gore - senator represnetative state party blah 
+<tasm> what the hell is Gore saying
+(YaZoO/#earthquake) attak : yeh
+(WildEep/#earthquake) Please "Cal Tech" is Caltech, all one word.
+230-You are user #4 of 100 simultaneous users allowed.
+230-
+onGenerate.data:
+     [xslt] Processing /scratch/ig-build-temp-JHXSGN/repo/template/onGenerate-ig-working.xml to /scratch/ig-build-temp-JHXSGN/repo/temp/pages/_data/artifacts.json
+\cmidrulekern=\dimen296
+-- [download 9% complete]
+  Joaquin_Navarro-Valls ==&gt; _
+  is                   ==&gt; was
+  the                  ==&gt; _
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Polish QWERTY" successfully loaded
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Russian ЙЦУКЕН" successfully loaded
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Russian АБВ" successfully loaded
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Spanish QWERTY" successfully loaded
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "German QWERTZ" successfully loaded
+    + add existing CppUnit test for sal/rtl/random [Christoph Brill]
+i#111045 configure: add option for jemalloc allocator [Stephan Bergmann]
+i#111934 block selection area changes slightly on copy to clipboard [Stephan Bergmann]
+i#111951 Text direction wrong in empty <Title,vertical text> layouts slide [Stephan Bergmann]
+i#112600 Clean up code and get rid of any tools types which interfere with Windows types [Stephan Bergmann]
+i#114635 C++ UNO bridge should convert non-UNO exceptions into RuntimeException [Stephan Bergmann]
+instanceKlass java/util/Arrays
+  illegally            ==&gt; _
+    DefaultRegionForTheWorld
+
+<tasm> KCBS - house collapsed on 4 year old child feared crushed to death
+<KNBC> No nuclear affected
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//6_13_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//7_14_Nitrogen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//7_15_Nitrogen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//8_16_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//8_17_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//8_17_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//18_36_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//18_38_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//18_40_Argon.z
+=======================================================================
+======       Radioactive Decay Physics Parameters              ========
+=======================================================================
+Max life time                                     1e+15 ps
+Internal e- conversion flag                       1
+Stored internal conversion coefficients           0
+NeutronHP: /Elastic file for Z = 6, A = 12 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Elastic/CrossSection/6_nat_Carbon
+NeutronHP: /Elastic file for Z = 6, A = 13 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Elastic/CrossSection/6_nat_Carbon
+NeutronHP: /Elastic file for Z = 8, A = 18 is not found and CrossSection set to 0.
+@@@ G4ParticleHPInelastic instantiated for particle neutron data directory variable is G4NEUTRONHPDATA pointing to /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//6_nat_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//6_nat_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//7_14_Nitrogen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//8_16_Oxygen.z
+NeutronHP: /Capture file for Z = 6, A = 12 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Capture/CrossSection/6_nat_Carbon
+NeutronHP: /Capture file for Z = 6, A = 13 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Capture/CrossSection/6_nat_Carbon
+NeutronHP: /Capture file for Z = 8, A = 18 is not found and CrossSection set to 0.
+@@@ G4ParticleHPInelastic instantiated for particle triton data directory variable is G4TRITONHPDATA pointing to /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//6_12_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//6_13_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//7_14_Nitrogen.z
+-- [download 67% complete]
+-- [download 68% complete]
+./JeuxVideos/World_Of_Warcraft
+./JeuxVideos/Xenoblade_Chronicles
+ofz#6024 direct-leak [Caolán McNamara]
+ofz#6064 clear footnotes from tobe-deleted paragraph [Caolán McNamara]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.RangeSupportFilter.doFilter(RangeSupportFilter.java:78) [magnolia-core-6.2.3.jar:?]
+[     14500] del cfxcollection 0x26ab5db0
+[     14515] del cfxcollection 0x26ab5db0
+[     14531] del cfxcollection 0x26ab5db0
+    + adapt loplugin:implicitboolconversion to changes in Clang trunk towards 3.8 [Stephan Bergmann]
+    + adapt new/delete exception specs for MSVC [Stephan Bergmann]
+    + adapt places that call GetSearchTextPtr(), (tdf#72196) [Eike Rathke]
+    + adapt ScRefButtonEx UI object class (tdf#98023) [Stephan Bergmann]
+    + adapt sfx2 to use xml based context menus (tdf#93837) [Maxim Monastirsky]
+    + adapt to "Extract Directories from BootstrapFixtureBase" [Stephan Bergmann]
+    + adapt to more warnings being enabled for clang-cl [Stephan Bergmann]
+    + adapt to true wchar_t in clang-cl [Stephan Bergmann]
+    + add "use-wildcards" XML_USE_WILDCARDS, (tdf#72196) [Eike Rathke]
+    + add --ignore-unpublished to unoidl-check [Stephan Bergmann]
+    + add @since LibreOffice 5.2 [Eike Rathke]
+    + add [optional, property] boolean Wildcards, (tdf#72196) [Eike Rathke]
+    + add a "filter" to Insert > Field > Other > Cross reference tab (tdf#32364) [akki95]
+    + add a comment about user defined IDs [Eike Rathke]
+    + add a few unit tests for conditional format reference listening [Markus Mohrhard]
+    + add a few unit tests for ScFormulaListener [Markus Mohrhard]
+    + add a humble wish [Tor Lillqvist]
+    + add a README to avoid unrealistic expectations [Tor Lillqvist]
+    + add a recursion guard to lcl_FindRangeNamesInUse() [Eike Rathke]
+    + add Apatani [apt-IN] to language list (tdf#97386) [Eike Rathke]
+    + add API to get the number of OpenGL buffer swaps, including through UNO [Tor Lillqvist]
+    + add assert preventing memory leak [Markus Mohrhard]
+    + add assert to prevent memory leak [Markus Mohrhard]
+    + add Basque [eu-ES] and map [eu] to [eu-ES] (tdf#97315) [Eike Rathke]
+    + add RAWSUBTRACT spreadsheet function, (tdf#71459) [Eike Rathke]
+    + add readmes to instdir, too [Stephan Bergmann]
+    + add SAL_WARN + convert some printf into SAL_WARN [Julien Nabet]
+    + add ScDocument::InsertNewRangeName() for sheet-local scope [Eike Rathke]
+    + add script to generate symbols [Markus Mohrhard]
+    + add script to upload symbols to crash reporting site [Markus Mohrhard]
+ofz#4530 null-dereference READ [Caolán McNamara]

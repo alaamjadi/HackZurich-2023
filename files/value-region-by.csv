@@ -1,0 +1,981 @@
+bank_country,hostname,latitude,country,time,longitude,language_name,language_code,random_number,iso8601,company,file_name,city,date,pricetag,mac_address
+CH,lt-41.peter.com,46.262245,Lithuania,11:35:55,41.458419,Swedish,ug,5901,2016-09-11T13:40:31,Bolliger Inc,temporibus.css,Vevey,1985-02-14,"$63,242.25",b2:95:3f:80:5a:61
+CH,db-58.isler.com,82.921095,Cuba,01:40:28,24.117204,Luxembourgish,pap,347689,1985-12-12T12:37:43,Stöckli-Hofer,cumque.tiff,Regensdorf,2001-10-01,"$99,124.92",1e:e2:be:7a:6d:f5
+CH,desktop-10.stutz.com,-19.872604,Gabon,21:11:17,59.643744,Albanian,eo,6712883,1977-04-09T04:05:22,Hauser-Michel,velit.odt,Prilly,1988-01-25,$3.18,e1:65:0e:e4:39:ef
+CH,desktop-16.fehr.com,67.634499,Marshall Islands,18:08:25,120.973067,Afrikaans,ur,5,1975-08-31T07:42:41,Schärer Inc,modi.html,Delsberg,2013-12-26,"$51,849.84",d5:d6:b3:1b:b9:19
+CH,web-49.beck-schumacher.com,12.8057795,North Korea,11:52:34,-149.875488,Dutch,wo,335170138,2019-11-28T20:07:00,Hafner Inc,eos.jpeg,Glarus,1984-03-09,"$7,026.97",3d:80:88:0d:c9:4d
+CH,lt-01.schneider.com,32.543779,Slovakia,11:59:21,124.976133,Marshallese,da,5166,1984-09-18T11:59:54,Herzog-Portmann,eligendi.avi,Crans-Montana,2001-05-09,$40.43,94:4d:b4:30:e4:9b
+CH,web-77.herzog.biz,73.9503885,Austria,12:55:06,-30.356983,Lao,ar,1983,1983-05-16T12:23:32,Scheidegger-Gloor,doloribus.mov,Möhlin,1996-08-27,"$1,685.34",f5:54:6a:d9:b9:0e
+CH,web-65.herzog.com,7.7641815,Belgium,13:34:21,162.934148,Akan,sat,536854179,1979-08-01T00:37:35,"Gasser, Berger and Keller",iste.avi,Riehen,2018-10-08,"$96,407.05",f2:a0:04:ba:2e:2d
+CH,desktop-02.maier.com,43.5396855,United Arab Emirates,18:02:13,47.135086,Twi,oc,3390899,2018-07-03T17:57:23,Tobler and Sons,repudiandae.flac,Affoltern,2006-01-17,$26.61,9a:91:b7:01:96:e4
+CH,laptop-74.kuhn.com,85.2482275,Uganda,10:04:17,49.733063,Kazakh,ss,840273985,1984-02-02T04:14:30,Berger LLC,esse.jpg,Burgdorf,2023-03-08,$858.22,3e:5f:4c:c6:89:47
+CH,web-65.schwarz.com,9.629008,Central African Republic,14:17:22,-42.653033,Bambara,iu,6613,1980-06-30T10:56:19,Vogel-Hauser,libero.json,Zollikofen,2008-12-31,"$60,981.71",f9:8d:77:7f:ac:8b
+CH,db-09.bar.com,-85.4016505,Belize,05:22:52,-88.128711,Azerbaijani,li,8294,2020-02-01T09:28:07,Hermann-Isler,exercitationem.webm,Bellinzona,2006-04-15,"$83,431.50",54:94:cf:a9:e1:0d
+CH,email-87.ruegg.com,-77.6396745,Kuwait,13:16:32,86.392586,Ndonga,tcy,74962,2009-01-05T00:18:36,Lanz-Grob,recusandae.mp3,Bülach,1995-01-07,$8.87,28:82:a4:3f:89:f0
+CH,email-89.zurcher-wegmann.com,-2.0020355,Chad,11:27:42,-141.651201,Polish,om,717341,2008-02-18T03:33:57,"Forster, Studer and Wenger",eius.avi,Zug,1986-03-06,$708.30,86:8e:d7:e5:28:65
+CH,web-96.steiner.com,-87.461803,Tuvalu,00:43:52,-61.568754,Greek,bn,66797,2000-10-17T06:53:02,Gerber and Sons,ullam.avi,Pratteln,1978-04-03,"$69,341.66",25:5d:f1:92:fc:6c
+CH,lt-23.zbinden.com,62.268516,Kiribati,08:36:23,-156.853248,Bashkir,se,49308522,1983-06-18T12:30:33,Schwab-Moser,labore.js,Le Grand-Saconnex,1972-07-10,$67.23,0f:64:84:87:f7:e7
+CH,lt-90.lustenberger.com,18.887516,Republic of the Congo,00:10:24,-8.848785,Guarani,lb,2,2010-03-29T23:25:12,"Steffen, Bauer and Wettstein",id.ods,Männedorf,2007-10-31,$41.39,8a:4e:82:ba:76:25
+CH,email-81.meyer-lehmann.com,-72.3000995,Brunei Darussalam,07:46:40,-119.003456,Bambara,ce,59,1993-07-18T23:19:44,Felber-Schuler,illo.css,Gland,2019-11-17,$9.03,2e:ac:c8:6c:2d:7f
+CH,laptop-62.lustenberger.info,11.5635945,Uganda,01:56:29,134.939121,Latvian,mr,230,1985-06-07T00:30:22,"Scherrer, Bühler and Hodel",aspernatur.webm,Mendrisio,1971-12-26,$46.99,2b:6c:ba:ec:8b:d6
+CH,srv-13.zehnder-wettstein.com,83.9404875,United States,13:24:42,51.061028,Croatian,fo,313982,2019-05-24T10:40:07,"Käser, Hotz and Stocker",ea.pptx,Glarus,1994-10-20,$823.24,eb:63:fb:a1:3a:a8
+CH,srv-50.schneider.com,26.069203,Eritrea,18:03:27,69.381681,Macedonian,wa,954297050,2018-08-16T10:48:42,Kaiser LLC,eius.flac,La Chaux-de-Fonds,2005-04-23,$9.25,b5:0c:fa:0d:52:42
+CH,lt-26.wagner.org,71.568644,Turkey,03:39:38,-169.567731,Zhuang,bem,9866919,1998-08-04T23:28:52,"Gfeller, Kälin and Brun",quos.flac,Wetzikon,1989-09-25,"$76,163.58",c1:69:e4:d8:98:79
+CH,srv-93.stockli-brun.net,-75.667756,Cyprus,07:50:04,-120.490861,Luxembourgish,ms,13466,2003-07-08T06:24:40,"Kohler, Siegrist and Hotz",itaque.js,Spreitenbach,2021-09-29,$246.53,61:a7:05:8e:a1:fc
+CH,email-02.kaser.com,39.543130,Uruguay,00:09:34,-175.552121,Bislama,ckb,5,2006-07-22T05:11:26,Jenni Inc,earum.mov,Herisau,1979-07-20,$470.74,df:30:ff:36:57:34
+CH,db-20.bieri-schneider.com,-29.479494,Yemen,13:47:02,74.285361,Norwegian,dz,1,2005-01-02T22:03:34,Mayer Group,cumque.jpeg,Thalwil,2003-06-30,"$59,847.24",85:cd:fd:fa:5a:5c
+CH,web-87.friedli.com,-31.691991,India,22:39:07,-115.147759,Urdu,kok,489759895,1971-03-25T09:53:12,Hofstetter-Küng,officia.mp3,Horw,1999-02-18,"$2,440.90",12:27:6c:b9:68:93
+CH,web-88.luscher.com,-72.555671,Latvia,15:13:21,174.941029,Rundi,tg,3,1980-10-23T14:37:10,Mayer Ltd,quis.mov,Köniz,1987-06-18,"$70,133.82",b5:c3:a7:90:3d:54
+CH,email-47.forster-hafliger.net,-21.0251125,Spain,04:07:04,3.199904,Uighur,fo,464997334,1975-03-23T01:18:52,"Müller, Kaufmann and Stucki",labore.mp3,Schlieren,1994-10-03,$177.47,95:08:2c:4d:91:f3
+CH,desktop-76.friedli.com,16.421979,Portugal,07:58:43,-165.749852,Occitan,ast,35723840,1980-03-28T14:31:13,Näf Inc,enim.mp4,Locarno,2022-03-06,$555.15,b7:08:2d:34:76:d6
+CH,desktop-61.roth.com,32.149580,Bhutan,01:16:50,93.148962,Chinese,ber,476,2018-06-30T04:56:15,Bauer-Egger,ad.mp4,Schwyz,2017-02-09,"$2,096.39",c8:d6:2c:82:e8:ea
+CH,lt-17.gasser.net,11.981350,Oman,16:10:48,94.746206,Kirghiz,nso,52865,2000-10-14T20:23:02,Schenk Inc,ipsum.txt,Dübendorf,2005-09-17,"$19,406.09",42:e4:09:c0:83:19
+CH,srv-01.hug.com,85.564322,Nepal,13:41:05,-145.116330,Indonesian,li,8,1983-12-15T19:22:18,Hug-Keller,facilis.avi,Arbon,2008-05-08,"$2,097.96",c3:a9:89:cb:a2:08
+CH,desktop-76.hess.org,49.193076,People's Republic of China,06:10:49,-98.427265,Fulah,wo,44741,1987-12-26T21:28:54,"Lehmann, Fehr and Kägi",fugiat.avi,Einsiedeln,1997-05-19,$7.29,5a:c3:32:59:d6:bf
+CH,web-70.ferrari-bar.com,-49.6162285,Democratic Republic of the Congo,00:32:56,130.551438,Thai,el,6653802,1982-12-19T04:09:54,"Albrecht, Ritter and Merz",modi.webm,Sarnen,1983-09-21,"$91,525.06",58:40:5f:88:80:a0
+CH,lt-14.berger.com,17.787652,Italy,11:48:12,-135.846481,Sanskrit,csb,5302280,2021-07-31T08:54:36,Schnyder-Benz,ipsum.flac,Le Grand-Saconnex,2001-12-19,"$6,591.19",6f:eb:c2:a5:9f:9f
+CH,email-46.imhof.biz,-14.4453985,Philippines,05:28:43,132.585165,Nepali,mi,117943,1975-05-26T00:57:24,"Hermann, Roos and Seiler",atque.mp3,Amriswil,2004-07-05,$8.70,24:fa:2e:13:22:fd
+CH,lt-15.forster.com,-57.747991,Madagascar,11:13:07,-67.967772,Aragonese,yue,2230790,2000-01-17T09:00:08,Peter-Kunz,doloribus.mp3,Muttenz,2014-11-01,$5.87,9f:ec:cc:dc:cb:b9
+CH,email-86.schnyder.com,74.786343,Bosnia and Herzegovina,10:09:59,-77.603807,Tsonga,es,336417,1995-09-24T05:44:51,Bernasconi Inc,totam.json,Freienbach,1994-07-26,"$7,572.89",8d:ca:fb:40:7f:d3
+CH,lt-81.hasler.biz,-65.3564575,Saint Lucia,01:16:23,-31.634438,Xhosa,ig,712048,1986-12-23T09:49:53,Baumgartner and Sons,quasi.webm,Münchenbuchsee,1984-01-15,$74.94,07:f2:33:0b:7f:a9
+CH,laptop-85.steiger-leu.info,-25.6478515,Burkina Faso,17:16:50,-71.168620,Kuanyama,sat,554556,2006-09-07T10:59:24,Hartmann-Jost,quasi.jpeg,Herisau,1977-11-21,$33.91,0a:ca:88:75:ab:b7
+CH,lt-96.hoffmann.com,70.412621,Russia,18:14:47,-147.171145,Korean,bn,7,2018-02-15T00:25:05,Felber-Wirz,sequi.css,Cham,1990-12-26,"$2,190.86",8b:d6:72:a5:44:d7
+CH,srv-63.gfeller.com,-46.3093505,Guyana,05:07:40,-36.922722,Sichuan Yi,lg,4830,2020-06-24T02:30:17,Wolf Inc,porro.js,Val-de-Ruz,1983-03-03,$1.21,1a:ef:92:04:7d:3f
+CH,web-96.widmer-portmann.biz,41.6161925,Denmark,14:58:08,72.546450,Malagasy,ne,3,2009-11-06T02:15:57,Mäder-Senn,voluptates.key,Basel,2014-09-07,"$5,896.89",ce:ca:75:78:a0:33
+CH,db-24.leunberger.org,-27.930620,Jordan,21:30:41,-26.207308,Uighur,kw,23903,1981-06-07T00:12:41,"Martin, Schwarz and Wegmann",saepe.wav,Ostermundigen,1998-07-02,$1.61,ea:ea:ed:2f:b3:5e
+CH,email-36.ernst.net,-13.568257,Montenegro,23:45:09,92.999360,Oromo,gl,963,2007-10-25T06:53:10,Tobler-Lüthi,illo.avi,Bern,1991-10-12,$844.79,af:b6:ec:26:19:1a
+CH,srv-10.wettstein.com,19.365628,Lebanon,16:33:34,-40.891554,Quechua,mni,339,2001-10-06T05:33:26,Bühler and Sons,minima.mp3,Liestal,2001-12-07,$949.34,cc:5a:eb:71:b6:dc
+CH,desktop-83.wirth.com,-56.223192,Antigua and Barbuda,14:03:14,70.296785,Ganda,hu,78781,2019-06-12T19:36:24,Grob-Geiger,eius.mov,Birsfelden,1978-01-25,$7.07,d2:b3:a4:4d:41:51
+CH,email-56.ammann.org,76.734886,Malta,18:44:24,-7.029152,Ojibwa,yo,5534,1994-12-15T18:27:18,Schürch Group,vitae.png,La Chaux-de-Fonds,2019-12-24,$7.69,66:e4:4d:47:22:f4
+CH,srv-73.bachmann-schurch.com,-48.5095605,Algeria,10:09:33,-74.269088,Bulgarian,nan,8078,1996-12-10T11:46:47,Küng-Amrein,voluptate.html,Plan-les-Ouates,2014-03-24,$28.81,4e:ff:af:8d:a9:64
+CH,srv-79.weber-giger.info,-86.9638495,Iran,14:13:45,-156.830342,English,uk,75456,1977-10-31T10:17:40,"Ackermann, Meier and Jost",mollitia.csv,Kloten,2009-12-13,$22.04,33:e5:ff:bb:97:95
+CH,srv-15.zingg-berger.com,20.752457,Kazakhstan,08:41:01,-66.742376,Limburgan,lt,95,2005-10-12T03:12:47,Bieri PLC,earum.flac,Küsnacht,1994-01-20,$0.69,97:06:00:e8:54:36
+CH,db-93.geiger-sutter.com,-16.6295425,United Arab Emirates,21:11:45,-14.145487,Albanian,kw,5,1981-09-11T16:50:19,Stalder-Gerber,ipsa.mp3,Lenzburg,1970-02-12,"$2,399.10",5d:8a:85:f2:3a:6f
+CH,desktop-06.bar.biz,49.4920515,Libya,23:16:41,112.573029,Vietnamese,kl,6692,2003-06-18T04:50:25,Blaser-Portmann,similique.pages,Kriens,2003-04-18,$474.65,09:3b:66:4c:50:e3
+CH,email-36.herzog.com,-62.6028475,Saint Lucia,10:25:45,93.414327,Mongolian,bho,8,1993-12-20T02:28:48,Michel-Roth,reiciendis.html,Glarus,1988-03-12,$168.23,d4:58:08:d3:9e:81
+CH,web-75.hoffmann.biz,-54.977068,Trinidad and Tobago,01:05:42,-56.115927,Welsh,mn,508568853,2009-04-14T05:12:29,Kuhn PLC,distinctio.mp3,Vevey,1972-07-08,$80.93,3d:6a:ab:48:71:d9
+CH,email-66.kagi.org,15.180652,Zambia,21:16:46,86.546376,Belarusian,kn,3812,2003-01-24T04:09:18,Wenger-Bättig,omnis.mp4,Brugg,1982-09-03,"$7,443.56",61:83:82:0d:8d:59
+CH,srv-54.geiger.com,-37.3177575,Palau,04:19:25,-93.921500,Javanese,gu,391,1997-09-27T11:38:14,Koch Group,consequuntur.mp3,Lyss,2017-12-16,"$8,879.34",e8:47:89:f4:82:98
+CH,db-32.graf.com,60.7240055,Republic of the Congo,10:30:10,-12.019554,Luxembourgish,aa,3905,1976-04-07T21:39:28,Jäggi PLC,ipsa.avi,Siders,1988-12-19,$86.85,23:eb:e3:d0:a9:58
+CH,db-31.hartmann.org,-60.8153785,Andorra,13:26:10,12.997363,Interlingue,fr,4495047,2014-02-23T15:13:34,"Stauffer, Hasler and Lüscher",eligendi.mov,Burgdorf,1979-07-02,"$6,002.33",be:b9:6f:87:a7:3a
+CH,db-00.schweizer.biz,83.744213,Estonia,18:45:07,53.754774,Sundanese,ne,66770399,2006-04-29T11:29:24,Stöckli-Hauser,perferendis.jpg,Altstätten,1980-09-09,$62.06,9f:d5:47:e6:d7:e6
+CH,lt-08.muller-arnold.org,11.623665,North Macedonia,07:19:48,169.612214,Romansh,ha,756766301,1993-09-12T03:26:19,Kunz Inc,iure.wav,Vernier,1973-03-04,$84.61,89:2b:d3:93:97:01
+CH,web-64.staub.com,-88.0835285,Tanzania,07:08:25,25.126727,Telugu,fy,4882535,2015-06-13T08:45:14,"Leunberger, Schweizer and Bättig",doloremque.jpg,Lausanne,1999-09-05,"$1,036.05",e3:91:a6:88:3d:1a
+CH,desktop-05.meili-walter.com,-7.9521895,Saint Vincent and the Grenadines,03:12:04,160.156038,Portuguese,aa,324,1994-01-28T03:10:59,"Kessler, Schäfer and Bianchi",rem.png,Brugg,2010-03-17,$14.60,de:ec:f8:f2:ff:f4
+CH,web-65.schneider-ruegg.com,12.990897,Samoa,03:14:41,-25.558509,Norwegian,vi,33636443,2018-05-22T07:35:02,Hofmann-Schweizer,assumenda.wav,Liestal,2019-03-05,$1.61,a4:55:92:c5:c6:53
+CH,web-96.baumann.com,25.7300005,Tanzania,02:42:22,-166.255476,Marathi,cv,8379,2018-06-04T08:03:37,"Berger, Eichenberger and Bosshard",magni.ppt,Männedorf,1998-08-07,"$8,981.09",81:f7:01:49:7c:77
+CH,srv-79.zollinger-hauser.com,-36.873902,Malta,15:57:27,-57.871430,Church Slavic,lg,105305,2004-09-26T12:07:53,Hofmann and Sons,hic.webm,Onex,1974-09-23,$746.17,f4:05:36:a9:88:87
+CH,laptop-52.zingg.com,31.9345095,Gabon,05:15:49,17.965363,Avestan,tg,6546436,2018-06-10T12:50:46,Braun-Flückiger,perferendis.flac,Oftringen,1971-09-05,$2.52,89:8b:20:94:e9:dd
+CH,srv-43.jost.com,-19.3009735,Honduras,04:11:24,-78.552205,Norwegian Nynorsk,cy,42,2017-03-20T06:04:14,"Hug, Beck and Schaller",atque.xlsx,Küsnacht,1972-05-18,$168.61,dc:08:55:e9:e0:6f
+CH,srv-51.hermann.biz,85.720815,Japan,08:35:05,-61.479960,Kongo,sa,46561,2022-10-29T13:19:10,Felder-Schaub,iste.mp3,Birsfelden,1992-01-18,$33.94,68:2f:a7:53:40:99
+CH,email-12.meier.com,-9.562829,Libya,08:30:24,-134.782972,Ganda,sd,58652112,1976-10-06T09:00:03,Steffen and Sons,maxime.json,Payerne,2018-12-28,"$82,539.26",2f:d4:f9:c0:2e:6e
+CH,srv-55.forster.com,72.9361765,Uruguay,02:34:19,129.472651,Swahili,the,7219195,1975-06-12T11:01:48,"Wegmann, Leunberger and Brunner",similique.wav,Bellinzona,2009-12-07,$809.96,64:aa:f2:7e:a5:33
+CH,email-58.benz-bachmann.com,70.194228,Nauru,17:13:31,-80.994874,Lingala,st,81,2023-01-25T11:43:21,Hodel Group,commodi.pages,Steffisburg,1972-09-25,$415.96,71:fb:51:7c:21:31
+CH,email-18.schurch-schneider.com,-3.0517825,Central African Republic,14:20:47,125.359136,Interlingue,shs,77289,1972-06-10T04:41:33,"Ritter, Frey and Bauer",ratione.gif,Freienbach,2000-12-05,"$8,028.06",2e:cc:81:ce:5e:76
+CH,desktop-52.buhler.info,-2.2519785,Saint Vincent and the Grenadines,17:15:30,-76.541019,Oromo,yi,25082497,2006-08-28T02:27:14,"Spörri, Ritter and Bader",sit.txt,Regensdorf,1994-02-04,$983.27,eb:0e:5d:71:d9:8f
+CH,web-55.felber.com,13.7146585,Rwanda,17:43:06,60.629022,Turkish,sq,71,2004-10-15T10:53:09,"Jost, Sigrist and Lang",quas.avi,Sursee,1987-03-26,$41.91,91:77:4d:ab:0d:1e
+CH,lt-14.hofmann.com,-5.8088845,Papua New Guinea,22:45:18,-173.062963,Cornish,sl,33945024,2007-12-02T20:08:06,Kaiser-Wegmann,harum.txt,Siders,1986-12-26,$1.68,52:0e:d2:74:1b:30
+CH,lt-27.battig.com,36.5943755,Senegal,13:51:42,-150.637071,Sardinian,lij,6,1981-04-15T08:10:34,Aebi-Gloor,fuga.mp3,Meyrin,1992-05-01,$9.04,0a:22:2a:a9:9b:97
+CH,lt-01.ernst.com,-51.218910,Tonga,14:49:24,7.840095,Kikuyu,es,70,1980-08-16T18:29:41,Wirz-Friedli,maxime.css,Münchenstein,1991-10-23,"$68,641.39",f4:ef:ca:1a:85:53
+CH,laptop-59.iten.net,-63.223419,Chile,07:45:40,-103.250291,Yoruba,xh,3766002,1986-02-12T12:46:15,Roth Group,eos.webm,Binningen,2009-07-12,$3.10,41:5f:52:30:49:27
+CH,lt-75.hafner.com,52.699675,Bosnia and Herzegovina,17:10:03,-48.638117,Navajo,mai,747,2000-08-03T21:14:02,Hotz-Schaller,quis.css,Veyrier,1997-05-06,$6.84,3b:93:67:4e:e4:21
+CH,desktop-99.hurlimann.com,43.3521965,Angola,11:50:32,-41.835949,Pushto,tt,87019731,1982-01-03T17:51:56,Eugster Inc,similique.png,Spiez,1981-02-21,"$95,885.81",0c:8c:5b:ab:c5:81
+CH,email-45.baur.info,-18.383194,Eritrea,05:07:43,-19.605225,Tibetan,lv,4005,1990-01-18T16:27:34,"Hess, Hoffmann and Betschart",dolores.wav,Nyon,1975-05-12,"$88,625.26",22:0b:88:5c:8f:39
+CH,lt-58.schnyder.com,-51.882810,Greece,20:30:57,-70.047426,Armenian,kok,82774813,1994-12-19T22:01:07,"Schmidt, Meier and Furrer",nesciunt.wav,Ittigen,1970-11-29,$64.00,05:1a:cd:ac:c5:1a
+CH,email-87.kern-schweizer.com,-62.0858665,Spain,11:27:49,-29.024417,Luxembourgish,km,2,2016-11-18T14:01:31,"Ammann, Hofmann and Furrer",animi.csv,Kriens,1981-05-08,$7.52,c2:bf:5b:f1:25:ef
+CH,laptop-75.sporri-fuchs.com,-48.6403045,Mali,07:34:43,-166.244432,Uzbek,nhn,46,1981-04-20T16:19:31,"Hirt, Wegmann and Baumann",ratione.txt,Steinhausen,1979-01-09,"$53,018.53",63:4f:eb:05:a9:99
+CH,laptop-05.buhlmann.com,13.9154105,Papua New Guinea,20:56:27,155.365528,Walloon,cv,521732059,2022-12-10T06:22:03,"Näf, Hofstetter and Graf",enim.html,Neuenburg,2016-09-24,$46.92,cd:b7:0f:ad:75:1f
+CH,lt-15.blum-hunziker.com,15.806726,Czech Republic,07:42:06,-8.307117,Welsh,nb,449492,2004-06-25T09:45:12,Felder-Senn,ducimus.json,Stäfa,1977-03-06,$29.22,cc:4f:8e:0f:4f:fd
+CH,db-82.luthi-portmann.biz,-49.163892,Vanuatu,21:59:07,-121.663557,Swahili,lv,84,1983-01-05T18:51:38,"Meyer, Stocker and Stauffer",perferendis.mp4,Adliswil,2000-12-10,$597.77,ca:a8:0f:64:b9:eb
+CH,lt-59.gfeller-probst.net,2.702157,Nepal,08:20:38,-125.718907,Afrikaans,dv,72939,2015-04-08T21:25:16,Hirt Inc,magni.jpg,Burgdorf,1970-04-04,"$8,308.57",9f:7d:4f:72:ba:66
+CH,db-61.hofer.com,-51.811414,Senegal,02:43:28,-20.264706,Cornish,iu,123511,1988-02-17T19:33:28,Grob LLC,ipsa.json,Basel,1984-11-10,"$9,888.69",a4:63:b4:e7:1a:36
+CH,web-52.meyer-lutz.biz,-69.541772,Azerbaijan,14:19:11,154.959478,Yoruba,sc,4661,1993-03-25T13:02:45,Stalder-Sidler,officiis.csv,Liestal,2011-09-25,"$9,051.95",40:eb:65:bf:68:cb
+CH,lt-60.lehmann-schumacher.com,36.4768035,Brazil,03:49:46,-75.762236,Sundanese,ug,4275,1981-05-12T06:12:55,Roth-Eugster,id.wav,Birsfelden,2002-08-10,$5.89,d2:3a:7c:ba:71:71
+CH,desktop-52.kern.biz,-58.120256,Ecuador,02:12:54,-74.903486,Italian,niu,584350,2011-10-05T04:39:13,"Frey, Vogt and Hofstetter",accusamus.flac,Thônex,2017-12-13,$4.76,56:cb:ae:ac:29:50
+CH,desktop-92.stocker.org,-8.8615555,Somalia,17:10:32,122.329536,Romansh,ayc,5,1972-05-11T09:36:10,Rey and Sons,quis.mp3,Zofingen,1999-07-01,$7.18,3c:79:73:c2:e2:a1
+CH,laptop-56.wehrli-beck.com,-42.969611,Kiribati,23:10:40,-43.753241,Lingala,te,1,1974-12-09T06:22:22,"Scherrer, Felber and Flückiger",iste.mp4,Delsberg,1974-02-04,$44.27,f4:40:3c:8d:0f:6e
+CH,web-30.kagi.com,17.2027015,Spain,20:49:15,-140.495523,Macedonian,cy,840641762,1994-08-12T09:25:16,Hodel-Hoffmann,magnam.numbers,Meilen,2020-02-19,$4.41,80:ae:bb:16:db:54
+CH,desktop-24.bianchi.biz,16.4165675,Kazakhstan,21:53:14,36.493534,Sanskrit,mr,7,2017-07-24T02:06:38,Wagner and Sons,quo.js,Schwyz,2020-09-17,$740.46,06:a6:a4:0e:6d:75
+CH,web-56.gasser.com,6.4589345,Malta,14:13:45,92.016162,Kashmiri,ta,3,2004-10-29T22:14:30,Weibel-Egger,quas.bmp,Birsfelden,2009-12-25,"$11,989.75",ae:57:b5:c4:f9:fe
+CH,db-87.betschart.com,13.6183465,Belgium,01:51:50,-30.173839,Afar,csb,914,2022-05-13T05:15:23,Martin Inc,quo.csv,Wallisellen,1972-02-04,$3.33,53:2c:0a:30:26:10
+CH,srv-61.kunz.com,-17.9996935,Paraguay,12:09:00,68.132733,Ido,fr,718,2020-11-02T20:19:16,"Lutz, Kälin and Stadelmann",corrupti.wav,Spreitenbach,2014-06-04,$396.83,09:ed:6c:35:78:fd
+CH,desktop-05.hofstetter.com,3.6836935,Chile,10:54:44,-46.950407,Cornish,os,46747,1985-10-26T09:59:30,"Bühler, Gfeller and Jäggi",autem.tiff,Villars-sur-Glâne,1997-07-23,"$7,406.81",99:56:83:0e:c0:f6
+CH,desktop-55.beck-lanz.biz,46.271473,Palau,03:38:13,-139.787055,Uzbek,sc,334,2016-07-19T02:51:30,Ammann-Baumann,recusandae.png,La Chaux-de-Fonds,2012-02-07,$347.70,8e:84:f8:f5:f0:92
+CH,srv-02.iten.com,-80.0565125,CÃ´te d'Ivoire,03:10:56,71.169754,Tajik,kn,62,2022-10-06T18:03:36,"Ritter, Martin and Ammann",reiciendis.txt,Oftringen,1974-10-13,$85.32,8f:ff:13:32:a8:1e
+CH,db-84.bieri-steiger.org,-66.641670,Republic of the Congo,05:38:22,-144.739883,French,gd,5844,2011-07-04T08:48:10,Hug Group,quis.avi,Pratteln,2006-01-09,$214.85,ed:7b:d4:36:40:36
+CH,srv-83.jaggi.com,-42.557482,Brazil,01:53:49,19.979232,Turkmen,ber,96255235,2005-11-13T05:04:05,Walder Inc,id.pages,Buchs,1981-06-20,"$38,428.71",fe:7e:46:49:0a:67
+CH,db-50.beck.com,85.294075,Malta,15:28:01,-136.225881,Finnish,nn,8,2009-10-05T05:48:36,Gut-Spörri,explicabo.pages,Prilly,1987-01-08,$91.62,2b:11:fd:9e:4a:b7
+CH,desktop-87.arnold.org,-57.0961325,Chad,15:21:18,68.804322,Swedish,cs,570,2001-01-15T07:12:43,"Wenger, Schürch and Hofer",optio.json,Allschwil,1977-01-14,"$35,177.45",d8:56:42:01:88:84
+CH,email-79.lehmann.com,47.694731,Serbia,23:35:42,70.730227,Sango,es,84942085,1983-04-18T00:32:04,Wagner PLC,eligendi.avi,Horgen,1973-08-03,$77.45,c7:9d:38:2a:e1:5f
+CH,desktop-27.eichenberger.com,75.3684775,Vatican City,21:41:24,-87.539974,Bihari languages,mn,7929632,1978-06-18T11:46:57,Winkler Group,amet.jpeg,Adliswil,1980-11-04,"$67,416.72",13:94:66:08:b4:83
+CH,desktop-40.luthi.com,-54.4937355,Hungary,05:18:54,-95.254343,Kurdish,or,4176551,1984-06-29T11:29:30,"Stalder, Steiner and Arnold",magni.mov,Weinfelden,1988-06-19,"$7,464.01",dc:59:c6:ff:8b:67
+CH,email-54.stocker-giger.com,73.077220,Kiribati,06:18:49,-135.787926,Limburgan,eu,3865,1972-12-03T22:36:43,Gfeller and Sons,dolorem.mp3,Adliswil,1997-12-24,$630.87,01:0b:b9:0c:62:2f
+CH,lt-87.kern.net,14.664221,Zambia,19:59:31,-28.623737,Hausa,be,49007,2015-09-12T15:45:58,Stutz Group,veritatis.mov,Ostermundigen,1983-03-02,$493.38,e2:57:c1:b7:cf:7d
+CH,laptop-74.hess.com,-53.511009,Albania,17:34:40,85.387089,Kalaallisut,ne,798362,1993-03-31T06:09:31,"Stalder, Steiger and Meier",nobis.avi,Muri,2014-01-27,"$5,122.74",81:e9:24:fe:79:c7
+CH,db-45.sporri.biz,71.182866,Burundi,21:44:28,61.825568,Avestan,kk,65966932,2023-03-24T19:05:01,Jost-Huber,reprehenderit.avi,Möhlin,1989-11-30,$1.74,0d:45:88:85:90:03
+CH,email-06.roth.com,-1.8081225,Kazakhstan,00:46:17,-22.354581,Swedish,mai,378126462,1987-04-14T10:27:36,Aebi and Sons,earum.avi,Langenthal,2022-08-03,$4.63,3d:2f:2a:32:8e:66
+CH,db-23.roth.info,-51.4497755,Belgium,21:18:49,-160.691623,Walloon,gv,34847093,2001-11-30T00:07:05,"Walder, Lanz and Frey",omnis.tiff,Aigle,2013-04-04,$87.20,bf:62:d5:37:25:9b
+CH,laptop-45.baumann.com,-44.6778005,Vanuatu,11:45:04,-148.427340,Swedish,az,600714002,1979-04-02T06:29:24,Wettstein Ltd,fuga.wav,Küssnacht,2001-12-23,$797.96,26:93:87:0a:08:fb
+CH,email-21.knecht.com,33.903165,Canada,04:17:02,-21.707193,Tagalog,sd,820,1999-10-17T19:02:06,Jäggi-Roth,adipisci.odp,Langenthal,1982-09-08,$40.07,cf:0e:cf:fc:2d:9f
+CH,email-97.gut-moser.com,86.2690355,Chile,01:31:33,-63.796791,Chuvash,kk,770,2021-05-11T07:27:29,"Iten, Zürcher and Blum",qui.mp4,Birsfelden,1976-06-23,"$79,801.08",10:a4:39:41:c8:6e
+CH,db-67.grob.com,-58.337929,Tuvalu,14:08:26,65.112949,Komi,nso,16406215,2003-11-24T04:32:29,"Thommen, Huber and Wirz",necessitatibus.mov,Chêne-Bougeries,2006-01-05,"$55,505.68",fb:d5:23:a8:81:ba
+CH,lt-76.maurer.net,41.2702255,Nigeria,16:56:45,67.881623,Serbian,dz,919859799,1980-05-12T15:45:30,Meier Ltd,rerum.pdf,Rheinfelden,2015-03-28,$626.43,d0:9c:c3:b6:f0:91
+CH,laptop-14.baumann-berger.com,79.5964195,Georgia,04:44:16,147.078898,Tajik,bho,3854892,1972-08-16T08:35:23,Wettstein-Imhof,eos.csv,Steffisburg,2023-07-06,$25.16,6e:2d:35:07:0c:b7
+CH,srv-61.schwab.info,62.322441,Myanmar,17:03:18,-58.321541,Luxembourgish,lo,819779757,1986-03-15T14:05:42,Furrer LLC,sit.webm,Romanshorn,2006-04-25,$85.36,32:04:f5:7f:78:6c
+CH,srv-08.schenk-bieri.biz,28.3046175,Mauritius,10:50:55,-129.993339,Tigrinya,hak,205755,2015-02-27T15:53:56,Berger-Gloor,soluta.odp,Adliswil,2014-10-18,"$6,901.87",32:fd:4a:af:5d:c7
+CH,laptop-12.rey-forster.org,-37.8168645,Cambodia,19:51:50,157.338146,Divehi,bem,93742757,1971-10-21T15:14:56,Aebi LLC,cupiditate.tiff,Aigle,1997-09-06,"$56,410.47",c0:41:6b:6f:bd:61
+CH,db-04.gut-schmid.info,63.933198,Denmark,17:22:20,137.542976,Swahili,km,89,2021-07-22T00:11:29,Gasser-Erni,nam.pdf,Brig-Glis,1984-12-09,"$46,514.89",d0:05:fd:a0:a4:0e
+CH,desktop-84.baur-stockli.net,4.9264135,Lithuania,18:31:07,-26.859099,Arabic,pt,3360977,1985-06-11T10:32:26,Amrein Inc,voluptate.wav,Muttenz,2013-11-20,$45.84,ab:46:8d:3f:0b:e2
+CH,email-28.mader.com,-68.187613,Switzerland,20:33:51,79.005460,Italian,pt,110630,2018-09-28T20:26:51,"Hodel, Frei and Lanz",quia.mp4,Frauenfeld,1971-06-19,"$4,424.78",99:91:5c:bb:eb:99
+CH,laptop-81.hoffmann.com,-15.5460215,Poland,02:43:34,9.266799,Oriya,mt,1431072,1992-01-06T09:52:18,Gasser-Merz,labore.json,Gossau,1985-11-17,$44.23,fe:02:08:f1:46:73
+CH,db-90.ernst.com,31.157140,Ecuador,22:26:05,143.995103,Yiddish,wae,16,1980-08-16T04:21:26,Walter-Lüscher,est.jpg,Münchenbuchsee,2018-03-05,$77.07,5a:66:53:07:ca:34
+CH,srv-05.lutz.org,-50.603369,Bulgaria,03:53:03,-146.568722,Fijian,eu,980,1991-04-22T05:56:08,"Egger, Ritter and Huber",repellat.mp4,Val-de-Ruz,2008-07-23,$2.57,fd:2b:c2:16:02:62
+CH,laptop-73.arnold.info,-28.923881,Eritrea,20:56:01,15.028138,Chuvash,ss,4542,2007-05-23T18:26:32,Lüscher Inc,sunt.css,Spiez,1995-04-10,$0.75,af:f5:6c:18:ab:7f
+CH,web-29.thommen.com,66.247181,Thailand,00:40:30,-106.921991,Igbo,ml,49,1978-05-12T10:45:32,"Bianchi, Bühlmann and Imhof",iusto.wav,Bern,2020-05-07,"$40,048.23",d2:62:da:ed:9b:8a
+CH,email-61.staub.com,-56.4634155,Somalia,08:04:18,124.361936,Aymara,ga,386665,1989-04-22T10:54:42,Bolliger Group,sapiente.csv,Steinhausen,2004-08-10,"$3,219.15",27:55:8e:db:d0:32
+CH,laptop-15.blum.com,-17.3539975,Kingdom of the Netherlands,12:58:28,110.865642,Kirghiz,cmn,89,1993-08-19T01:22:16,"Fuchs, Schmid and Michel",quae.png,Weinfelden,2003-03-03,$771.79,52:e8:28:1c:72:08
+CH,email-68.portmann.com,-83.4146675,Montenegro,06:54:04,2.987043,Telugu,nan,79,1990-10-20T19:22:10,Sidler-Arnold,illo.mov,Schaffhausen,1971-07-22,$5.30,55:bf:7e:1d:10:b9
+CH,email-42.moser-battig.biz,55.115219,Guinea-Bissau,09:36:01,-63.173497,Vietnamese,as,289,2013-10-18T19:16:44,"Fankhauser, Giger and Zehnder",odio.mp3,Küssnacht,1982-02-20,$3.99,34:4e:28:bf:b8:b9
+CH,srv-53.steffen.com,-85.8313245,Tajikistan,04:23:49,172.674943,Church Slavic,my,8850,1970-10-29T21:46:39,Stutz-Stettler,harum.mov,Aarau,2006-04-22,"$16,823.94",dc:ee:f4:8a:91:76
+CH,web-40.schwab.com,-87.4814495,Mali,15:33:33,-16.092026,Kashmiri,mg,63588164,2021-11-19T11:04:40,"Maurer, Stettler and Roth",earum.png,Locarno,1981-08-22,$2.11,ca:99:4a:1d:0e:20
+CH,laptop-64.scharer-zehnder.com,83.6846935,Namibia,18:36:00,4.071619,Pali,crh,9374633,2017-04-29T07:24:43,Steffen-Gerber,quibusdam.mov,Martigny,1971-11-02,$26.71,a9:58:ac:fa:c3:be
+CH,web-57.hafliger.org,63.812159,South Africa,16:08:44,146.062567,Urdu,lo,8106012,2017-05-09T07:49:35,"Blaser, Michel and Hofer",vel.flac,Bulle,1972-10-12,$5.46,0e:a7:77:d1:35:16
+CH,srv-24.ernst.com,50.9159415,Vatican City,22:51:19,-62.372022,"Sotho, Southern",km,38556,1976-02-10T10:07:46,Kern-Gerber,esse.txt,Einsiedeln,1973-04-19,"$91,200.69",b4:5c:1f:b6:dd:5d
+CH,lt-31.merz.net,4.3070335,Norway,03:42:40,-112.378088,Guarani,sw,7,2004-05-11T05:47:24,Blaser Group,at.mp3,Lenzburg,2004-12-19,"$5,365.70",bd:d7:2b:93:9f:67
+CH,desktop-66.naf-schumacher.com,30.0459645,Somalia,23:47:01,-130.210705,Rundi,af,9387,2006-06-25T14:56:18,"Ackermann, Steiger and Jenni",velit.odt,Arbon,1980-05-14,"$1,073.64",89:14:35:90:51:77
+CH,srv-17.kalin-hartmann.com,-76.9308235,Afghanistan,13:30:21,179.035628,Church Slavic,tig,306425,2001-11-19T20:02:40,Lehmann PLC,earum.mp4,Onex,2016-08-20,$460.78,cc:51:ef:51:bb:97
+CH,srv-62.roos.com,-25.3675705,Mauritania,09:17:05,-138.333918,Western Frisian,ka,4425261,1970-10-26T17:44:54,Schmidt Ltd,temporibus.flac,Steinhausen,1982-03-14,$56.15,78:8c:0c:60:96:90
+CH,desktop-97.sutter.com,65.223502,Ethiopia,02:43:49,-93.202146,Kannada,sd,91698,1998-10-28T14:29:48,Amrein-Felder,neque.wav,Winterthur,1988-08-12,"$6,247.83",5d:31:54:24:14:f9
+CH,srv-13.egli.org,62.418155,Botswana,20:31:36,-96.605790,Kalaallisut,brx,6,2010-06-16T13:19:49,Bühler Ltd,magnam.json,Spiez,1971-06-12,"$61,632.96",64:a1:08:57:6b:ee
+CH,db-91.suter.org,21.008484,Finland,14:21:01,150.209955,Nauru,it,5807,1989-09-13T13:08:01,Schweizer-Zehnder,maxime.webm,Weinfelden,1994-12-09,$408.20,7c:55:20:25:bc:74
+CH,lt-15.leu.com,-52.8855445,United States,21:34:38,-92.509396,Malagasy,cmn,853314248,1997-11-27T19:06:38,Widmer-Frei,commodi.mov,Weinfelden,2022-02-03,$49.10,50:35:1f:65:a6:c2
+CH,email-63.brun.info,58.634997,Jamaica,14:50:26,125.875428,Irish,wa,1,1985-11-25T02:00:19,"Ott, Amrein and Ernst",eveniet.ppt,Onex,1985-04-08,$40.89,d8:b5:be:3d:98:6d
+CH,srv-05.ferrari.com,-1.752272,Bangladesh,17:45:12,-3.123818,Urdu,nhn,233,1995-07-29T01:45:28,Christen Inc,autem.bmp,Ostermundigen,1971-01-09,$0.97,c2:c2:4c:5d:26:bb
+CH,web-55.koch.com,0.169727,Nigeria,19:46:53,-76.274181,Quechua,yue,55289944,2023-03-22T02:27:46,"Lehmann, Bucher and Bianchi",est.html,Renens,1981-03-13,"$83,727.81",4e:c4:40:b3:74:91
+CH,web-71.fischer.com,9.450546,Suriname,15:37:30,-63.974876,Sanskrit,bn,3393705,2008-11-12T12:45:57,Jenni-Wyss,esse.png,Wohlen,2008-05-14,$51.26,ba:22:e8:55:bd:77
+CH,laptop-44.fehr.com,-28.6294735,Senegal,02:56:33,-37.356920,Central Khmer,hr,777982308,1992-04-19T02:29:49,Schlatter Ltd,quae.tiff,Neuhausen,1986-05-31,$983.64,11:0c:b6:72:23:5c
+CH,email-33.hofmann.info,-50.4549455,Marshall Islands,08:55:21,116.076214,Ukrainian,pa,544161014,1981-06-27T16:17:07,Keller and Sons,amet.jpeg,Biel/Bienne,1977-05-23,$714.24,26:ea:b6:22:33:1d
+CH,laptop-25.fluckiger-tobler.com,-41.6404955,Uganda,17:22:11,-128.282306,Nauru,vi,269952,2017-03-13T18:31:07,Hoffmann Group,explicabo.wav,Opfikon,1988-01-29,$514.36,31:fe:5c:fb:d4:5a
+CH,web-51.gfeller-roos.biz,24.867113,Gabon,13:56:53,-11.202370,Arabic,be,844699,1991-10-28T10:30:48,Kuhn-Lanz,animi.flac,Küssnacht,1989-11-27,$44.52,57:82:8c:6a:7f:4d
+CH,db-15.eugster.com,58.292427,Austria,08:40:07,-72.197332,Tajik,lg,8,2020-11-08T03:52:15,Bianchi-Lang,earum.key,Volketswil,1995-12-18,"$3,752.69",77:2d:6f:e3:14:67
+CH,db-80.schweizer.com,76.348245,Tanzania,10:34:46,-2.839504,Slovenian,my,18282,1985-03-14T09:59:44,Schmid-Hunziker,sapiente.png,Neuhausen,2010-06-23,"$50,905.56",b4:27:13:72:d4:01
+CH,web-14.koch.biz,-29.503456,Qatar,21:38:05,4.982446,Abkhazian,ha,9866831,1998-02-06T19:47:27,Michel PLC,porro.docx,Opfikon,1998-05-29,"$39,448.04",c0:02:8b:ca:f9:93
+CH,srv-37.wagner.com,-37.1670115,Belgium,08:21:19,-157.025541,French,ug,77768,2004-10-07T16:36:14,Studer-Flückiger,blanditiis.flac,Frauenfeld,1998-02-01,$671.53,d5:8a:27:1d:80:7f
+CH,desktop-20.meier-bauer.com,57.741115,Slovenia,17:51:43,-172.073116,Lingala,ms,732,1973-06-02T16:19:18,Wegmann Ltd,porro.png,Villars-sur-Glâne,1989-05-22,$944.85,26:e7:59:81:1a:f9
+CH,web-76.walder-fluckiger.biz,88.245278,Vatican City,03:46:30,26.159241,Tonga,br,7392553,2015-07-28T20:26:20,Blaser LLC,placeat.odt,Lancy,2015-03-30,"$15,973.48",b1:37:50:f5:03:5a
+CH,srv-74.furrer.org,35.459557,Comoros,13:30:02,-49.808290,Kashmiri,mk,8345,2012-01-09T04:02:33,Frei-Gasser,perspiciatis.mp3,Olten,2004-01-08,$710.32,10:53:bd:76:53:05
+CH,email-27.kaiser-peter.biz,-27.205188,Israel,16:46:45,3.766905,Kikuyu,iw,9846978,2010-12-27T21:15:32,Stettler Group,ratione.csv,Naters,1991-07-23,$95.65,03:f6:81:2b:77:69
+CH,desktop-57.brunner.org,1.328400,Barbados,06:54:33,66.593644,Guarani,dz,339,2015-11-08T15:30:30,Egli-Benz,earum.avi,Möhlin,1994-08-17,"$94,933.62",0c:00:b9:58:af:a9
+CH,db-33.hofstetter.com,45.3912845,Vietnam,03:17:08,167.022233,Manx,eu,1,2022-02-08T00:15:44,Tobler-Egli,tempora.mp3,Weinfelden,1977-01-26,"$76,271.05",4b:8e:3a:8e:90:15
+CH,web-66.brunner-zimmermann.net,37.7279095,Kuwait,15:26:02,80.887351,Greek,en,5850,2010-05-07T09:00:09,"Seiler, Huber and Zingg",dolore.mp4,Richterswil,1990-01-06,$76.46,22:26:ae:1b:3f:7e
+CH,lt-78.ammann.info,-21.8361965,Libya,07:51:38,-17.834517,German,ku,68,2007-03-13T15:33:39,"Jost, Walter and Schwarz",commodi.tiff,Langenthal,1982-08-09,$55.81,85:47:89:30:7b:fe
+CH,srv-05.buhlmann-schurch.info,-70.280307,Poland,21:12:56,-131.543701,Thai,hsb,26473,1998-04-22T23:16:19,Maier-Ammann,iusto.doc,Ittigen,1997-05-03,$73.75,8b:cf:d5:bc:7d:53
+CH,desktop-12.sutter.com,6.0633615,Philippines,00:09:17,115.222889,Abkhazian,gd,852914334,1970-04-30T02:39:25,"Amrein, Ackermann and Gloor",quos.pdf,Langenthal,1975-11-01,"$1,020.65",03:7a:2c:54:45:06
+CH,laptop-91.scherrer.com,67.235215,Cameroon,08:09:19,54.993493,Kanuri,sid,7,1981-08-30T17:26:33,"Gasser, Beck and Baumgartner",fuga.key,Altstätten,2009-07-09,"$5,141.79",41:ce:f6:84:d8:a4
+CH,srv-59.wettstein.com,66.371973,Moldova,08:58:08,-94.042611,Walloon,iw,430653,2022-08-10T10:41:58,"Schürch, Wagner and Amrein",laudantium.avi,Nyon,2017-01-28,$9.07,7f:07:59:84:76:0a
+CH,srv-08.meili-benz.com,4.0033365,Cyprus,22:10:43,58.351872,Lithuanian,gl,74434,1973-04-27T15:08:31,Bättig-Stauffer,voluptatum.pages,La Tour-de-Peilz,2000-07-28,"$62,767.56",85:45:a8:bd:60:4b
+CH,db-56.jenni.com,33.396665,Croatia,23:37:01,-22.235443,Zulu,oc,97791859,1988-09-16T03:16:48,Schmidt Ltd,laboriosam.txt,Affoltern,2012-07-24,"$5,045.77",e5:fb:df:c9:e9:ff
+CH,lt-47.kohler-ackermann.com,-35.898702,Portugal,11:12:07,-128.963325,Turkmen,ss,8275,1972-09-11T15:21:35,Hunziker-Arnold,atque.js,Wallisellen,1980-07-03,$9.64,7d:1b:ec:b9:eb:0e
+CH,lt-15.wettstein.org,74.0826345,Uruguay,17:50:34,110.999531,Pushto,dz,88440650,2008-11-11T09:00:13,"Beck, Schwarz and Schürch",vitae.js,Binningen,2010-11-02,$795.71,0f:0f:2d:23:4f:25
+CH,srv-95.frey.net,-65.995880,Somalia,08:38:51,-173.352072,Ndonga,quz,7,1980-09-14T03:59:35,"Schnyder, Bader and Schürch",atque.jpeg,Baar,1996-06-01,$23.36,a0:f3:35:b5:19:ac
+CH,email-08.bieri.com,-72.3183645,Palau,09:08:43,151.276748,Tswana,sid,646479,2014-12-13T05:42:21,Hotz LLC,ut.mov,Freienbach,2001-07-16,"$36,326.49",8d:94:fc:d9:05:17
+CH,email-34.schafer-steffen.com,-47.610319,Grenada,09:03:05,24.296134,Church Slavic,sv,53115414,1991-02-19T06:36:22,Bolliger-Probst,odit.pages,Frauenfeld,2022-01-16,"$47,983.41",34:45:98:7d:82:b3
+CH,db-73.schurch-albrecht.com,79.585300,Burundi,18:02:47,62.930824,Ojibwa,km,461,2014-09-18T22:14:05,"Graf, Wehrli and Mettler",cum.ppt,Spiez,1993-08-17,"$39,748.14",a7:20:8f:66:be:92
+CH,db-64.iten.com,-82.984024,Antigua and Barbuda,14:54:14,-70.336504,Panjabi,fo,988,1977-08-17T07:59:52,Ott PLC,fuga.txt,Baar,2003-08-24,"$24,534.31",2a:03:9b:5f:2f:b7
+CH,laptop-90.eichenberger-berger.biz,-62.440214,Palau,03:12:53,78.759226,Turkmen,gez,93079,1974-05-23T19:49:57,Bachmann-Stalder,ratione.odt,Olten,1995-09-15,"$4,461.04",4b:71:3d:e5:ca:67
+CH,lt-52.schlatter-luthi.com,82.864811,Kenya,11:57:10,17.032418,Sichuan Yi,hak,4775,2001-10-27T09:00:39,Küng-Peter,perspiciatis.csv,Münchenstein,2004-03-25,"$97,114.22",2b:90:ad:97:b1:7c
+CH,lt-33.schumacher.com,23.5348565,Malta,18:27:17,-159.232507,Cornish,or,916,1988-08-09T17:12:21,Felder-Amrein,repellat.mp3,Ostermundigen,2016-03-06,$7.63,cb:d8:15:20:9a:0d
+CH,web-51.battig.com,-74.7739175,Venezuela,01:57:40,-27.389338,Samoan,hsb,470994,2014-03-24T11:30:36,Leunberger Ltd,odio.key,Thalwil,2007-02-18,"$1,057.48",9d:01:45:57:59:39
+CH,lt-50.hoffmann.org,-58.2420195,South Korea,01:13:33,-25.812326,Luxembourgish,ca,1386,2007-06-10T23:43:04,Egli-Frei,animi.css,Wetzikon,1983-05-29,"$4,318.00",86:b9:a1:30:a6:9b
+CH,laptop-67.bar.biz,-77.9488175,Central African Republic,22:52:02,-161.033565,Kinyarwanda,sat,28,1977-03-13T15:54:53,Hofer PLC,voluptate.jpg,Spreitenbach,1979-01-11,"$31,118.54",54:45:1c:b4:ad:4c
+CH,email-84.mettler-schweizer.com,-12.526731,Egypt,05:04:04,134.131046,Mongolian,nso,927,1987-03-23T08:20:57,Burri-Scheidegger,dolor.jpeg,Rheinfelden,2020-05-13,"$28,952.75",1c:7f:39:d5:e0:8b
+CH,web-18.mettler.com,14.343650,Equatorial Guinea,15:46:33,-34.692338,Dzongkha,quz,1606,1974-07-23T17:04:25,Flückiger and Sons,voluptas.flac,Uzwil,1999-12-07,"$35,291.03",f1:da:10:60:2e:74
+CH,lt-60.hoffmann.com,80.974578,Montenegro,16:45:03,-18.257382,Mongolian,wal,53271,2012-08-17T08:31:39,Baur LLC,laudantium.avi,Bülach,2015-03-16,$979.43,f8:1c:cf:0e:ea:3f
+CH,web-39.hafliger.biz,-51.131342,Chad,18:00:21,52.607517,Indonesian,cs,8946799,1998-10-12T11:57:01,"Schäfer, Koch and Michel",nobis.txt,Horgen,1998-11-06,$607.16,5e:23:ee:73:17:38
+CH,srv-90.wuthrich-albrecht.com,13.159204,Republic of Ireland,02:49:05,-151.276924,Polish,rw,2622687,1979-05-14T09:14:13,Hafner-Bär,quasi.webm,Le Grand-Saconnex,1984-10-17,"$61,385.81",4a:3c:14:40:60:ae
+CH,web-59.frey.biz,66.147350,Belarus,08:28:59,91.514435,Slovenian,nhn,4005,1987-09-26T15:04:21,"Grob, Schwarz and Lüthi",adipisci.html,Wohlen,2013-11-10,$38.05,74:5f:06:7b:12:d3
+CH,lt-05.hug.com,-35.235355,Burundi,16:00:35,-162.496972,Serbian,li,2963501,2008-10-06T01:03:56,Hofstetter-Zimmermann,laboriosam.tiff,Buchs,1989-10-08,$4.98,bf:f9:83:6c:0b:38
+CH,laptop-65.gfeller-luthi.info,-10.394816,Algeria,14:08:54,51.566343,Interlingua,sv,5698,2020-02-12T03:39:24,"Steinmann, Lang and Arnold",vero.numbers,Oberwil,2018-06-21,"$1,831.95",8b:b6:52:a0:c2:be
+CH,web-95.wirth.com,-52.7847475,Oman,01:32:54,128.254639,Bengali,sc,75,2005-02-24T08:31:18,Schäfer Inc,vel.mov,Wettingen,2014-01-01,$524.10,db:23:e0:91:c6:e8
+CH,lt-82.schneider.info,-8.778761,Syria,00:58:19,-75.223878,Chuvash,tl,706,2015-05-23T02:02:04,Häfliger-Schlatter,veritatis.mp3,Versoix,2004-06-08,$231.03,de:d3:f1:bc:cb:ee
+CH,db-30.bieri-wirth.com,11.0514255,Uganda,10:05:29,163.380865,Tajik,aa,688514,1972-07-09T06:38:30,Müller Group,quibusdam.avi,Küsnacht,1985-12-25,$49.28,8a:f4:2c:67:6a:ba
+CH,email-70.hasler.com,36.3013845,Costa Rica,00:27:01,62.010501,Herero,hy,1525256,2006-04-15T18:52:15,Hofmann-Hasler,eligendi.jpg,Wetzikon,1992-10-31,$6.81,96:d0:5d:83:32:f7
+CH,desktop-36.schurch.com,-46.5866025,United Kingdom,22:17:18,145.285728,Urdu,ckb,16903,2001-04-14T16:44:40,Furrer-Huber,esse.html,Davos,2022-11-27,$909.99,4a:16:02:8a:ef:0d
+CH,lt-16.kuhn.com,58.2285245,Namibia,17:36:36,121.240967,Azerbaijani,li,3,2002-12-09T14:25:52,"Giger, Kälin and Amrein",reprehenderit.flac,Riehen,1989-12-19,$32.56,5d:ae:d1:81:57:e2
+CH,desktop-62.kaser.com,71.9221855,Iran,20:58:03,-14.570818,Maltese,lg,436769,2009-08-06T00:38:24,Bühlmann-Gfeller,exercitationem.docx,Buchs,2016-11-06,$285.69,3b:b8:60:73:f3:83
+CH,desktop-55.meister.com,72.119083,Barbados,22:16:35,42.156456,Tatar,he,62661,1998-10-05T12:00:10,"Schär, Bühlmann and Hug",vel.mov,Zürich,1973-01-28,$9.65,aa:6d:b5:25:a3:ee
+CH,db-83.probst-bachmann.com,64.610772,Burkina Faso,07:05:32,1.734419,Polish,mag,31829977,1970-08-12T07:30:21,"Favre, Ott and Wolf",repellat.xls,Locarno,1979-05-12,$6.65,4e:e6:a3:ed:28:65
+CH,db-89.studer.com,-64.2420255,Tajikistan,15:22:38,-147.894123,Fulah,mhr,8,1981-10-09T12:52:10,Gerber-Schnyder,eius.csv,Liestal,1998-08-25,$88.90,d6:72:c6:dd:fb:1a
+CH,email-72.staub.com,31.1010815,Finland,06:30:45,-174.640874,Norwegian,mr,7789,2009-02-09T20:35:41,Iten-Kuhn,quia.webm,Genf,1980-09-16,$1.72,1e:2b:1f:e0:cb:08
+CH,web-20.schnyder-friedli.net,26.6721375,Zambia,06:03:12,-92.538332,Oromo,ln,94191697,2016-04-03T02:05:03,"Amrein, Meili and Marti",numquam.tiff,Vevey,2015-06-24,"$4,264.43",7b:10:c1:f0:6c:82
+CH,desktop-55.schlatter-buhlmann.com,81.0939365,Jordan,08:12:50,136.135984,Mongolian,he,8418,2018-03-22T19:46:14,Kern-Wagner,harum.webm,Stäfa,1993-11-30,$7.69,a2:5a:99:af:4f:95
+CH,db-31.kagi.com,66.8603655,Maldives,20:01:36,51.928257,Bislama,ve,55751337,1998-10-17T19:59:50,Brunner-Schlatter,sed.flac,Winterthur,1978-10-15,"$9,046.65",f7:98:e2:fc:e1:8d
+CH,desktop-72.kagi-furrer.biz,18.491646,Canada,00:45:24,-91.401704,Luba-Katanga,en,7920772,2019-05-01T01:00:39,"Siegrist, Mettler and Hasler",voluptas.flac,Le Grand-Saconnex,1979-08-03,"$45,525.97",f7:5b:41:c1:d0:86
+CH,email-87.ritter.com,31.216393,Iceland,15:25:35,143.061126,Bislama,quz,7608849,2010-01-08T00:38:41,Schwarz LLC,ipsam.webm,La Tour-de-Peilz,2007-05-30,$1.17,be:76:e8:3d:03:95
+CH,desktop-34.sporri.com,45.5616625,Zambia,06:58:41,-131.226512,Ndonga,gu,8664,1987-02-15T05:27:13,Kohler-Kaufmann,nesciunt.mp3,Sitten,2006-05-15,$3.01,69:17:e6:1e:61:8d
+CH,db-01.isler.info,23.459650,Algeria,06:40:34,-138.544345,Tswana,rw,129430153,2021-12-23T17:09:32,Schär-Fuchs,corrupti.txt,Weinfelden,1994-06-27,$12.86,79:8e:cc:e5:ba:1f
+CH,web-20.hauser.com,-44.344633,Costa Rica,17:15:33,133.264923,Rundi,fr,0,2006-11-21T12:06:17,Lüthi-Suter,reiciendis.mp3,Biel/Bienne,1987-07-08,$35.31,20:07:92:71:ff:60
+CH,desktop-22.eugster-stocker.com,-73.9019285,Maldives,08:37:32,116.659950,Interlingua,wa,487,1976-06-01T23:04:56,"Bernasconi, Braun and Weibel",a.jpg,Muri,2003-09-04,$4.86,86:ba:1f:f8:06:c6
+CH,lt-56.zingg.com,22.302502,Niger,20:54:38,91.581664,Tigrinya,te,377,1983-07-03T06:28:58,"Kohler, Friedli and Staub",autem.ods,Wil,2014-01-14,$267.53,24:a7:ec:ed:d0:a1
+CH,db-63.schmidt.com,9.198975,CÃ´te d'Ivoire,02:48:36,68.816705,Quechua,rw,24,1995-08-17T21:35:32,Kuhn-Steinmann,perspiciatis.xlsx,Küsnacht,1984-11-03,"$52,981.97",03:c9:d6:9a:c3:eb
+CH,desktop-46.hirt.org,-34.031024,Nepal,16:13:17,3.550790,Tajik,mt,287646,1988-03-27T23:10:36,Forster-Schmidt,quo.png,Zofingen,2021-03-16,$921.24,26:d0:1c:d4:de:2b
+CH,db-61.schuler-hafliger.com,-43.0852065,Sri Lanka,19:10:55,-54.634776,Oriya,lg,956254,2019-09-17T04:35:25,Stocker-Zollinger,officiis.mp4,Uzwil,2016-01-22,$170.87,a1:9e:a5:8a:84:d1
+CH,srv-70.gfeller.net,66.8984455,Bhutan,12:19:11,33.359611,Manx,ik,797,1984-09-10T08:28:10,Häfliger-Schenk,quidem.mov,Maur,1983-06-17,$66.54,af:7f:f7:be:3a:9c
+CH,db-58.lustenberger.com,-40.7574265,Kuwait,18:51:39,6.675223,Hebrew,ber,51,2013-06-24T02:42:58,Koch LLC,temporibus.avi,Worb,2003-08-15,"$98,214.18",7c:ab:84:20:54:b3
+CH,db-10.zollinger.org,53.5818465,Tanzania,11:20:18,20.590712,Mongolian,gez,96136511,2003-03-22T20:06:33,Zollinger Group,asperiores.numbers,Cham,1990-06-03,"$6,150.64",d4:12:3f:da:6f:0a
+CH,web-61.hofstetter.com,-57.5137455,Portugal,15:47:38,-64.309312,Romanian,cy,819916,2004-06-01T18:20:04,"Rüegg, Steiner and Hauser",omnis.pages,Muri,1991-06-18,$13.66,55:7c:96:95:31:f7
+CH,laptop-70.maurer-mader.net,3.5800475,Somalia,01:02:38,74.876527,Somali,hy,3330555,2001-09-08T01:22:19,Grob-Schweizer,expedita.jpeg,Bellinzona,2013-07-24,$235.30,14:e5:cc:d9:6c:bc
+CH,db-40.kaiser.biz,20.8636925,Central African Republic,04:17:28,-154.232302,Spanish,nn,80960,1976-06-12T04:24:00,"Ritter, Egli and Merz",tempore.js,Villars-sur-Glâne,2013-04-22,"$1,560.22",3f:80:77:57:35:94
+CH,desktop-57.stettler.com,-23.862387,Federated States of Micronesia,00:11:02,-63.342688,Kikuyu,wa,6252732,1975-04-26T09:22:11,"Wagner, Walter and Wirz",quod.doc,Uster,1998-08-06,"$94,116.94",6b:f1:e3:19:de:13
+CH,desktop-12.kalin.org,10.677890,Cameroon,12:17:35,-54.771365,Latvian,fur,1,2001-11-01T07:09:03,Schwarz and Sons,dolorum.json,Thun,1971-03-03,"$3,808.25",4f:18:d1:e0:ce:7a
+CH,srv-96.stucki.com,-10.452070,Slovakia,11:30:29,-128.490616,Malay,nso,66,1993-11-04T11:30:40,Baumann-Fischer,fugit.mp4,Thun,1972-06-08,"$79,324.83",fe:56:77:f0:57:a1
+CH,srv-38.kessler.com,20.0211635,Italy,00:47:59,-91.967287,Greek,bg,1991618,1998-09-30T13:54:19,"Koch, Steffen and Meier",quidem.html,Wädenswil,1988-11-10,$27.90,64:48:c0:f6:bd:82
+CH,lt-57.stadelmann-ruegg.com,-3.297769,Norway,03:30:56,-66.032332,Inuktitut,tk,7085,1998-01-30T05:50:26,Schmid-Schlatter,aliquid.mov,Wald,2000-11-18,$4.24,9b:1d:f9:84:82:f7
+CH,srv-53.siegrist.com,-22.4996465,Colombia,05:59:35,170.565598,Dutch,tk,84779267,2015-06-07T13:46:08,Kohler-Gasser,reprehenderit.pdf,Onex,2006-06-14,"$9,096.61",9d:af:5f:1c:58:66
+CH,desktop-97.bosshard.com,35.9761265,Iceland,23:31:45,53.813355,Chamorro,brx,8217611,2018-09-26T06:59:15,"Lüscher, Baur and Frick",quisquam.txt,Urdorf,1975-08-29,$821.20,20:da:8c:fa:d6:29
+CH,email-62.wirth.com,17.372802,Sweden,00:55:46,82.560949,Rundi,sa,0,2017-08-24T01:34:30,Hartmann-Hafner,harum.mp4,Davos,2019-05-02,$1.78,78:e1:2b:6b:ca:85
+CH,desktop-80.ziegler.com,87.6837805,Cambodia,11:11:18,69.744783,English,zh,995,2017-11-10T13:46:19,"Zollinger, Schmidt and Baur",amet.js,Baar,2004-01-31,"$9,817.82",bd:ad:54:3b:e9:c8
+CH,email-66.bucher.com,-13.858749,Morocco,22:21:06,9.275139,Serbian,kl,994,2016-12-04T06:12:12,Marti and Sons,a.gif,Carouge,1996-07-29,"$62,106.64",17:68:93:58:f8:c6
+CH,web-60.mader.com,44.826677,Pakistan,04:26:32,-160.750570,Tatar,sd,581,2014-07-13T22:08:12,Mayer and Sons,laborum.avi,Val-de-Ruz,1986-03-24,"$3,202.93",d4:0f:6d:ff:62:dc
+CH,desktop-01.meier.com,28.837695,France,07:40:23,154.941453,Maori,bn,5,1985-07-16T11:35:07,"Felber, Wirz and Weber",eos.flac,Kreuzlingen,1996-05-28,$165.60,1d:66:f2:69:64:f6
+CH,laptop-79.walter.info,60.031164,Mongolia,22:38:36,99.850597,Pushto,uk,882584253,1985-09-27T23:38:31,"Mettler, Berger and Ziegler",rem.tiff,Wädenswil,1981-05-15,$56.60,55:15:25:f3:68:45
+CH,db-75.lang.com,45.9610015,Paraguay,15:30:14,29.968734,Avaric,ff,803867429,1975-05-21T06:03:35,Steiner-Kunz,ipsa.wav,Amriswil,1981-08-25,"$52,474.89",c6:46:e5:08:3e:27
+CH,desktop-13.burri-wenger.net,67.203581,Lithuania,00:19:54,103.473745,Lingala,ca,9484273,2014-04-26T03:25:15,Furrer-Egger,laboriosam.csv,Pfäffikon,2015-09-15,"$37,879.49",db:fc:64:06:fd:e0
+CH,email-64.senn.com,-73.120072,Norway,15:55:50,-35.307827,Chuvash,nhn,4,1975-06-24T22:29:29,Stöckli-Wirth,occaecati.txt,Naters,2001-03-29,$616.77,3c:7f:b0:67:7e:98
+CH,laptop-05.vogel.com,48.128555,Zimbabwe,11:32:31,-98.198493,Swati,lv,2658164,1971-03-19T23:57:19,Walder Ltd,repudiandae.wav,Amriswil,2019-08-15,$4.63,4e:bb:cc:c3:c4:89
+CH,desktop-68.hasler.net,9.7689715,Guyana,12:55:48,-108.052280,Samoan,bs,761,1999-07-29T21:23:24,"Meier, Sutter and Probst",fuga.mov,Montreux,2021-09-06,"$40,367.51",bd:a3:d4:fd:0c:1f
+CH,web-72.friedli.com,42.2637475,South Korea,01:40:59,-5.734966,Galician,tr,9822276,1993-01-11T21:35:49,Steffen Inc,nemo.gif,Buchs,1979-11-15,$61.46,75:25:04:a9:a6:82
+CH,srv-79.tobler-baur.com,22.058079,Madagascar,21:58:49,-89.277568,Interlingue,km,80,2002-10-05T10:32:43,Sutter-Schenk,non.jpg,Thun,1975-06-01,"$65,224.05",8e:8c:7f:e3:48:26
+CH,srv-60.luscher.com,-40.900217,Pakistan,01:53:44,-157.574018,Fulah,ig,24451980,1998-01-27T09:58:30,Fischer-Martin,ipsa.css,Biel/Bienne,1998-02-16,$8.92,bb:9b:19:54:75:7c
+CH,laptop-20.buhlmann.info,49.8664785,Samoa,21:03:54,-97.542703,German,iw,63647,1977-03-29T12:09:16,Ritter Ltd,impedit.avi,Lugano,1975-08-12,$32.98,c1:d8:fc:fd:f4:c5
+CH,laptop-05.fankhauser-koch.org,43.7216055,Solomon Islands,17:00:37,-101.667990,Turkish,niu,31217235,2020-10-22T18:56:28,Hirt Ltd,ullam.txt,Langenthal,2021-11-11,"$4,382.39",d0:27:47:fb:9a:ab
+CH,web-70.widmer.com,-54.959969,Guinea-Bissau,14:02:49,42.602181,Avaric,sk,428718,1991-06-29T01:43:33,Wyss-Stettler,cupiditate.ppt,Vevey,1992-06-30,"$68,426.43",9b:b7:fe:52:9f:0b
+CH,db-26.schlatter.com,66.040969,Montenegro,13:35:19,132.536051,Maltese,lij,5,1979-08-06T07:08:00,"Burri, Käser and Kälin",minima.csv,Muttenz,2000-11-30,"$4,548.15",2f:fb:5f:1c:d7:42
+CH,laptop-50.erni.info,-75.9974275,Vietnam,08:58:24,102.148737,Chamorro,bho,624415,1971-04-04T02:14:12,"Ferrari, Rey and Gfeller",itaque.jpeg,Lutry,1995-06-12,"$24,005.20",14:0b:8b:af:19:b4
+CH,db-37.rey-furrer.com,7.198814,Serbia,20:00:24,140.375530,Hungarian,apn,59826,1970-06-09T19:07:21,Häfliger and Sons,sapiente.wav,Kreuzlingen,2007-05-24,$454.01,e0:85:fe:0f:53:a3
+CH,srv-81.fehr.com,-42.9429615,El Salvador,12:57:30,-92.613407,Pushto,ff,3149741,2012-10-18T19:25:57,Schnyder-Hürlimann,inventore.wav,Freienbach,1990-04-08,$304.49,94:43:1e:72:cd:64
+CH,desktop-83.stettler-stauffer.com,3.4756595,Vatican City,06:38:06,-55.330480,Malagasy,the,57,2007-01-15T10:12:47,Hauser Ltd,voluptates.ppt,Mendrisio,2010-02-26,"$39,268.76",cf:18:c0:c9:b4:ea
+CH,laptop-17.blaser.com,23.122012,Vatican City,17:23:44,20.292705,Marathi,ts,1228,1990-05-11T09:50:47,Meyer Group,officiis.docx,Buchs,1977-10-28,"$98,833.65",39:58:2d:70:3c:6f
+CH,srv-69.wolf-ernst.org,89.671583,Libya,06:09:39,159.090131,Dutch,mr,4,1978-04-11T23:20:24,Siegrist-Geiger,reprehenderit.mov,Reinach,1975-11-16,$247.86,55:54:be:ac:e7:2a
+CH,web-07.meili-steffen.org,-37.191838,Andorra,00:53:37,-158.449381,North Ndebele,ts,3,1987-10-02T00:01:18,Hirt-Hasler,atque.jpeg,Küsnacht,2002-05-11,"$26,498.97",e5:8c:2e:43:f7:63
+CH,email-22.steinmann.com,21.7524215,Kyrgyzstan,03:33:02,16.776562,Samoan,he,895,2010-01-15T21:23:27,"Hirt, Portmann and Siegrist",atque.html,Luzern,2015-07-05,"$62,537.26",57:f8:6c:3c:8f:35
+CH,db-07.felber.biz,-47.6257865,Luxembourg,15:50:09,-133.553822,Aymara,zh,629423610,2007-11-07T10:04:39,Felder-Imhof,asperiores.avi,Mendrisio,2008-11-22,"$5,751.03",2d:52:ee:c1:fe:62
+CH,email-00.fankhauser.com,19.338476,Panama,04:13:51,-132.651188,Serbian,tt,3,2008-08-06T20:10:06,"Hirt, Leunberger and Schäfer",exercitationem.xlsx,Amriswil,1973-02-28,"$5,722.12",bc:0a:8e:5a:32:59
+CH,web-24.zingg-braun.net,-46.9973525,Romania,17:07:33,-167.213439,Navajo,yi,34,1979-12-06T01:49:32,Schlatter PLC,nisi.csv,Montreux,1986-07-21,"$3,311.80",b3:ba:a9:e5:5c:a0
+CH,laptop-37.winkler.com,14.746332,Colombia,23:12:44,-83.246384,Bihari languages,uz,9,1987-02-09T02:20:09,Brun-Zollinger,sapiente.webm,Luzern,2001-08-11,"$95,626.13",0e:92:fe:4d:33:0f
+CH,email-78.ferrari.biz,21.874035,Guinea-Bissau,05:59:34,77.770967,French,eo,59268,1985-09-19T08:48:00,"Widmer, Hofmann and Wirth",numquam.css,Spreitenbach,2023-05-16,$278.24,94:d2:a6:8c:18:5b
+CH,srv-04.tanner-schwarz.com,-10.935717,Germany,21:07:28,-161.423269,Hindi,om,9728043,2014-01-24T00:57:29,"Keller, Walter and Zingg",iste.flac,Chêne-Bougeries,1992-08-18,$112.62,46:1e:1e:d9:49:99
+CH,desktop-46.gfeller-tobler.org,-0.413446,Syria,16:33:09,3.108628,Uighur,pa,9,1991-01-06T19:03:35,Bühler-Ott,quidem.flac,Aigle,2002-07-10,"$70,973.79",c8:65:f6:42:cd:24
+CH,srv-76.christen.com,-9.367579,Germany,14:52:04,176.900011,North Ndebele,uz,6421,1983-09-12T12:04:04,Schmidt Ltd,suscipit.jpeg,Bellinzona,1988-12-21,$9.84,62:5e:86:26:cb:3f
+CH,web-59.meili.org,24.605694,Serbia,00:20:20,93.935497,Arabic,ik,313,1977-06-16T11:28:32,"Giger, Zürcher and Portmann",nemo.jpeg,Glarus,1986-01-26,"$3,421.23",27:90:ad:da:b7:a9
+CH,db-34.koch.com,-32.2637145,Barbados,10:00:58,-130.543954,Pali,ca,3786,2014-06-08T21:44:16,"Beck, Gross and Zollinger",ut.js,Thalwil,2019-01-15,$36.69,2a:e9:33:43:5d:10
+CH,lt-51.lehmann.com,69.292826,Algeria,21:33:32,-116.832577,Welsh,ve,16497034,1970-07-19T16:24:36,"Käser, Egli and Imhof",corrupti.html,Muttenz,2012-11-27,"$2,958.19",a7:7f:41:bb:72:f7
+CH,email-04.hotz-gross.com,-19.3774265,Namibia,05:43:25,-7.903519,Ukrainian,nr,9,2015-01-16T01:30:08,Hermann Inc,beatae.flac,Spreitenbach,2019-10-26,"$7,433.62",91:43:9f:ec:e7:d4
+CH,srv-99.hasler.info,50.7698865,Turkmenistan,03:41:10,48.604559,Lithuanian,sc,297371707,1970-10-20T13:45:32,Steiner-Marti,soluta.bmp,Gossau,1988-03-15,$848.41,2a:0c:d3:bc:9e:04
+CH,srv-01.graf.com,48.7101625,Norway,20:37:17,28.379862,Irish,gu,439115,2007-07-01T03:41:03,"Walder, Stauffer and Schumacher",quo.txt,Maur,2007-07-11,$1.02,5e:8d:0a:5e:f8:b7
+CH,desktop-33.stucki-schaller.org,18.7969985,Botswana,16:42:36,-33.082352,Thai,cs,144,2018-12-07T00:14:07,Bader Group,magnam.mov,Glarus,2000-06-02,"$31,309.30",2c:2f:df:43:5e:24
+CH,web-46.moser.com,54.471899,New Zealand,06:31:13,-101.190027,Guarani,ckb,137,2019-01-26T07:38:45,"Brunner, Schaub and Kaufmann",ratione.webm,Cham,1983-09-23,"$28,029.77",b6:0f:13:50:aa:5d
+CH,srv-30.lutz-frey.com,-79.082165,Bhutan,03:18:12,-154.321514,Estonian,sc,1812968,1970-04-17T12:02:20,Friedli LLC,architecto.txt,Münchenstein,2010-03-15,$23.66,ce:3b:14:f1:41:31
+CH,laptop-92.hermann.com,-44.839575,Venezuela,12:38:41,-65.112157,Luba-Katanga,ga,84,1983-11-11T16:29:45,Flückiger Ltd,nam.webm,Wetzikon,2002-11-19,$1.01,48:db:09:42:4b:31
+CH,email-54.bucher-portmann.org,63.415531,Kenya,13:55:35,-0.307922,Norwegian,cmn,30,2004-04-06T08:05:24,Friedli PLC,esse.gif,Lutry,2012-03-19,"$48,810.10",fe:4f:eb:90:67:93
+CH,lt-36.hug.com,-62.1071775,Central African Republic,10:29:59,-155.772323,Arabic,oc,3344387,1979-06-27T05:22:45,Schäfer-Peter,blanditiis.css,Grenchen,2001-11-09,$32.75,c4:39:a5:91:2e:72
+CH,lt-60.wuthrich.net,-12.898598,Serbia,07:43:04,-122.308338,Ewe,mni,1367432,2007-04-13T07:12:01,Thommen and Sons,excepturi.mp4,Glarus,2021-08-25,"$56,323.81",a3:28:31:8e:f5:5f
+CH,laptop-88.ferrari.com,-82.578139,Iraq,08:12:51,-103.343301,Vietnamese,oc,113346464,1990-02-03T12:21:16,"Bernasconi, Näf and Pfister",laudantium.mov,Suhr,2009-08-13,$3.88,f6:2a:b4:ee:73:d3
+CH,email-42.merz-vogt.com,48.1255335,Nauru,04:54:49,-113.301010,Bislama,gu,36,2002-08-19T19:15:52,"Hermann, Sutter and Ott",illum.odp,Kriens,1975-12-10,$2.03,ec:c6:d6:07:d0:c6
+CH,email-08.hasler.net,-63.847452,Guinea,21:33:36,55.122055,Ojibwa,fi,5,1999-09-01T08:41:48,"Jäggi, Hofmann and Müller",voluptatem.wav,Dietikon,1983-10-01,$5.45,54:77:61:2c:a0:ad
+CH,web-39.lustenberger-frey.biz,-61.327922,Malaysia,18:06:16,-13.080019,Dutch,aa,946787,1970-03-02T11:46:27,Hasler-Koch,iusto.wav,Zug,1986-11-29,"$5,142.31",79:13:e6:94:f4:21
+CH,email-02.siegrist.com,-35.526816,Mauritius,01:18:14,-92.147598,Indonesian,ckb,679,1976-02-03T19:25:52,"Weibel, Seiler and Kaufmann",modi.tiff,Kriens,2000-09-26,$5.34,ea:47:70:30:a9:c7
+CH,laptop-63.frick.net,-85.694275,Saint Lucia,04:38:12,-33.647908,Chechen,bhb,669497229,1987-06-03T11:55:11,"Eichenberger, Scheidegger and Hotz",asperiores.mp3,Chur,1994-10-14,$5.70,9c:1f:b0:d7:25:6f
+CH,laptop-64.leunberger.net,-2.833887,Bosnia and Herzegovina,10:30:32,51.608621,Hindi,gd,5,1970-11-07T00:43:55,Fehr-Stalder,quo.txt,Genf,2016-05-27,$6.59,a0:1b:2e:8b:a3:da
+CH,email-37.zehnder.info,-86.4004985,Liechtenstein,15:13:43,93.927459,Thai,hsb,449529,2014-08-12T14:37:01,"Brun, Küng and Küng",consequuntur.odp,Aesch,1975-03-01,"$31,357.25",43:ba:7f:3b:35:87
+CH,lt-66.portmann.com,54.4223755,Equatorial Guinea,19:40:44,10.495322,Portuguese,ja,8957,2021-04-28T03:29:41,Keller Ltd,voluptatibus.ods,Oftringen,1970-05-08,"$23,525.65",e5:57:99:c7:ce:47
+CH,lt-45.lehmann.biz,-55.0458725,Democratic Republic of the Congo,03:32:37,32.983434,Romansh,bo,7,1978-01-08T17:17:44,Müller and Sons,iusto.css,Steffisburg,1976-09-28,$40.20,c5:90:da:01:10:5a
+CH,lt-33.sporri.com,44.555885,Ecuador,14:57:16,128.813304,Sundanese,hak,7,1975-04-25T17:10:03,Bühler LLC,id.ods,Cham,2018-08-04,$5.55,46:41:9c:0f:2a:77
+CH,desktop-99.zbinden.com,76.8564395,United Arab Emirates,16:48:24,73.725679,Afar,km,7,2021-06-10T02:42:04,Amrein LLC,illum.wav,Muri,1998-08-07,"$3,041.69",85:91:c1:04:be:f4
+CH,db-77.zurcher.com,-17.000141,Dominica,15:45:16,7.255257,Aragonese,es,7,1996-02-17T12:20:57,Weber Ltd,deserunt.json,Reinach,2000-11-20,$5.30,1c:f9:ac:ce:c0:f5
+CH,srv-66.kung-braun.com,-44.2950055,Myanmar,12:02:07,20.852428,Tatar,tl,313208,1998-08-05T15:13:38,Meili-Steffen,blanditiis.webm,Lausanne,1993-08-26,"$7,869.08",02:00:12:e4:3a:01
+CH,email-01.mayer-schlatter.net,-71.8214785,Montenegro,12:11:38,68.087122,Cornish,ks,3183,2004-05-05T01:12:08,"Zimmermann, Walter and Walder",repellendus.html,Zofingen,1993-11-17,"$86,029.55",30:b2:75:19:bc:64
+CH,db-58.lanz.com,-84.9002825,Tajikistan,11:51:07,24.825792,Hausa,csb,105751899,2022-08-14T08:48:57,"Rüegg, Tanner and Ott",illum.flac,Prilly,2001-02-06,$263.07,00:f3:46:8b:e1:e4
+CH,web-65.meyer.com,-37.4421175,Poland,22:06:12,151.626042,Bulgarian,iu,229,1982-07-11T01:34:19,Widmer-Schneider,ex.avi,Oberwil,1971-01-12,$0.85,b7:7c:ae:5e:b7:74
+CH,web-93.iten-schwarz.com,-45.439563,Maldives,17:46:28,-136.615297,Kashmiri,cmn,45699,1986-11-03T06:24:29,Moser-Baur,unde.mov,Meyrin,1975-05-15,"$2,024.91",5f:94:c2:87:7f:96
+CH,desktop-23.hasler-kaufmann.com,86.195555,Poland,19:24:32,156.178064,Burmese,tn,900900053,1981-10-19T17:24:45,"Ziegler, Hofmann and Hunziker",quae.numbers,Plan-les-Ouates,1972-10-15,$60.08,8c:7f:d0:ca:d1:9a
+CH,srv-07.giger.com,-79.6331065,Vatican City,07:26:30,58.216828,Central Khmer,kn,2040,2018-08-29T00:00:49,Schwab Inc,delectus.wav,Schaffhausen,2019-12-15,"$8,476.98",07:3f:53:a0:8e:5e
+CH,lt-13.ott-amrein.info,-89.302604,Austria,22:30:47,-56.055282,Komi,ha,796183247,1973-07-26T19:56:34,"Tanner, Hermann and Hafner",placeat.webm,Zürich,2001-12-09,"$8,412.51",e2:c7:56:6c:3a:ed
+CH,srv-63.fankhauser.biz,-63.052786,Tajikistan,03:01:56,53.859615,Slovenian,cs,7995850,2007-03-15T23:56:50,"Meier, Hafner and Gloor",enim.mov,Küssnacht,2004-10-23,$79.80,90:92:4c:d6:e1:3f
+CH,email-96.stockli-fankhauser.com,-22.268843,Sudan,08:15:10,16.834684,Norwegian,cv,37279,1973-12-08T04:24:17,Maier-Felder,sed.webm,Spiez,1990-08-30,$429.55,5b:4f:68:4a:1c:57
+CH,laptop-61.ferrari.info,-56.063197,Libya,21:02:07,150.715031,Lao,cv,424705808,2011-10-05T00:21:21,Bader-Portmann,explicabo.jpg,Oberwil,2006-02-05,$8.97,bb:e0:a3:e9:dd:5f
+CH,db-94.meyer.net,23.1629315,Philippines,14:53:22,-32.066268,Kanuri,om,4221,2006-01-07T05:30:13,Gut-Bolliger,libero.avi,La Chaux-de-Fonds,1991-12-27,$633.24,cb:a8:77:92:e3:36
+CH,srv-16.eichenberger-fehr.com,-17.7047705,Comoros,03:48:38,85.773754,Occitan,ja,451285,1995-01-02T15:11:35,Bieri-Lanz,autem.css,Davos,1976-04-23,$1.18,a3:3c:8e:db:57:b1
+CH,laptop-26.stucki.info,55.192550,Jamaica,10:50:37,46.067446,Dutch,ckb,665,1994-03-06T22:21:27,Hauser PLC,similique.js,Yverdon-les-Bains,1986-12-01,"$8,453.69",8b:d3:b8:b1:96:34
+CH,db-76.leu-sporri.com,-47.7003095,Iceland,17:36:15,89.911346,Russian,pa,29496350,2013-11-01T02:06:32,"Hirt, Giger and Tanner",commodi.csv,Davos,1994-03-28,$21.92,ca:88:0f:b6:b8:97
+CH,web-44.bachmann.net,-29.506190,Somalia,01:16:07,-146.453156,Malay,bn,18,1977-06-03T10:49:15,Bär-Ziegler,temporibus.mp4,Gossau,2000-03-16,$6.65,d8:47:8b:85:5a:21
+CH,lt-54.gerber.com,-40.4362275,Vietnam,09:49:04,-11.440842,Afar,mni,3208,1986-08-05T17:40:10,Brun-Baumgartner,autem.txt,Zollikofen,1989-08-31,"$6,509.23",fa:21:80:a1:c4:10
+CH,db-07.kung.net,62.2284285,Nicaragua,03:44:18,-66.569047,Xhosa,ks,86,1985-06-25T04:04:42,"Meyer, Winkler and Roth",tempore.js,Freiburg,2008-08-09,$5.98,f9:da:bb:d5:98:59
+CH,lt-33.roth.biz,-35.524360,Jamaica,11:44:17,161.489790,Tamil,kk,578,1990-03-03T11:48:43,Senn Group,recusandae.docx,Wetzikon,1991-11-16,$340.39,af:39:fc:1e:ba:92
+CH,web-79.hunziker.com,75.775186,Dominican Republic,14:11:48,-46.438264,Sindhi,fur,74028950,2021-03-10T04:42:29,Herzog-Favre,voluptatibus.gif,Gossau,2000-11-03,$50.70,b2:66:da:ab:72:b4
+CH,desktop-69.schar-bucher.org,-66.696693,Russia,10:19:00,-116.337656,Gaelic,ss,9889,2004-03-13T09:03:35,Wagner LLC,eius.html,Thônex,1998-02-14,$928.77,59:be:88:9c:b3:51
+CH,web-77.forster-berger.com,-78.957065,Pakistan,04:28:47,-42.127111,Chichewa,tt,66890,2017-11-03T18:16:24,Schneider-Kälin,iusto.mp4,Reinach,1980-03-09,$622.95,80:ca:d4:39:4a:8d
+CH,srv-47.hasler.com,77.2835905,Belize,00:26:11,104.534486,Azerbaijani,lo,5958,1995-11-22T08:26:43,Lustenberger and Sons,sed.mp4,Allschwil,2003-11-07,$1.08,6a:29:f6:50:b2:11
+CH,web-67.bucher.org,83.7756235,Barbados,22:06:23,-151.629216,Yoruba,mt,1343781,1985-01-24T07:27:17,"Berger, Sutter and Hafner",inventore.mp4,Illnau-Effretikon,1989-04-11,$9.19,d2:e2:33:d2:be:c7
+CH,email-07.knecht.com,41.6697005,Nigeria,12:49:05,71.577916,Wolof,gv,610,1994-03-19T14:14:53,Schär PLC,necessitatibus.doc,Neuenburg,2010-06-25,$132.62,20:6e:19:0c:4b:cb
+CH,srv-53.erni.com,87.806454,Australia,10:19:23,9.897685,Galician,szl,59,2006-09-18T14:32:00,"Rey, Jost and Wyss",at.mov,Neuenburg,2018-12-24,$37.32,4b:39:78:42:8d:71
+CH,lt-81.sporri.com,-82.5210735,Turkmenistan,01:08:40,13.717837,Kazakh,de,778636,1985-11-14T16:56:12,Knecht-Mayer,dicta.xlsx,Chur,2011-01-20,"$44,965.37",32:73:0d:79:30:23
+CH,desktop-25.steffen.net,26.4410505,Uzbekistan,10:37:08,-88.700701,Armenian,ht,52287123,1985-03-03T14:17:44,Bianchi Group,accusamus.avi,Horw,1994-10-28,$3.08,f4:ae:fd:cb:f4:c9
+CH,desktop-87.muller-gerber.net,11.9595755,Trinidad and Tobago,21:36:53,-161.762478,Gujarati,fr,0,2005-07-31T15:47:51,"Favre, Schäfer and Braun",ut.jpeg,Ecublens,2014-01-30,"$7,015.41",5c:dc:55:b5:89:c5
+CH,desktop-56.walter.com,-61.363615,Venezuela,17:49:48,124.302406,Sardinian,ku,689554,1970-07-30T21:13:46,"Geiger, Egger and Mayer",laudantium.mov,Gland,2020-06-06,$73.56,6a:9d:e5:74:2a:ab
+CH,laptop-01.kung.com,-71.2221845,Georgia,17:47:07,173.878327,Armenian,tig,187737,1975-09-05T15:52:57,Herzog and Sons,molestias.mp3,Regensdorf,1990-03-14,$895.95,4b:f8:26:29:1e:5d
+CH,web-75.sporri.com,-87.643555,Norway,19:30:13,-103.570772,Slovak,ff,72,1998-08-19T12:16:58,"Hoffmann, Jäggi and Bader",magni.key,Martigny,1977-06-19,$1.84,49:5e:f5:37:26:88
+CH,desktop-26.fluckiger-lustenberger.com,68.360419,Peru,17:20:38,-50.916819,Hiri Motu,lg,9,1980-03-04T21:03:14,Furrer and Sons,deserunt.jpeg,Carouge,1991-03-18,"$5,593.34",3a:cf:75:37:db:a8
+CH,srv-35.forster.com,-16.419519,Turkey,03:58:21,100.025872,Romanian,fo,477212,2009-12-29T22:34:12,Imhof-Wolf,molestias.jpg,Flawil,1977-01-06,"$40,285.21",c5:bb:3b:b9:33:b2
+CH,lt-91.kuhn.biz,-6.038239,New Zealand,08:18:27,108.484209,Telugu,en,4,1977-10-18T05:39:07,"Hartmann, Zehnder and Maier",quisquam.js,Baar,1990-07-18,$810.32,72:d1:19:9f:12:86
+CH,lt-03.frey.net,-66.562243,Serbia,03:53:38,-77.262391,Slovenian,ak,5979,2004-01-12T04:55:19,"Bühler, Friedli and Burri",adipisci.json,Riehen,2022-01-01,$457.90,06:5c:ec:f0:17:f9
+CH,web-64.jenni.biz,-14.703548,Cape Verde,19:20:26,42.821492,Hungarian,csb,906,1990-04-23T15:43:42,"Mettler, Hug and Stucki",accusamus.avi,Ostermundigen,1995-12-31,$0.58,6c:c0:15:1a:2c:ec
+CH,srv-43.studer.com,2.161339,Italy,03:53:25,3.648690,English,bn,54379353,2007-05-02T03:28:37,"Lang, Aebi and Friedli",voluptates.mp4,Brig-Glis,2002-07-01,"$7,991.01",b8:20:34:c4:d3:cb
+CH,web-98.kunz.com,-27.7467865,Slovenia,17:11:58,-9.392240,Rundi,it,16392521,1994-03-24T10:59:15,Bauer Group,minus.jpg,Steinhausen,1993-11-25,"$38,507.50",9c:62:67:08:8d:d8
+CH,srv-39.blum.com,81.9371305,Nicaragua,18:47:05,96.182985,Uighur,wo,458384,1978-07-23T05:29:49,Senn-Meili,labore.tiff,Illnau-Effretikon,1989-08-18,"$4,893.89",ef:3b:3a:62:e6:20
+CH,db-35.friedli-wirth.com,49.0343405,Nauru,20:58:42,150.291258,Faroese,shs,9777339,2019-01-18T01:39:10,Merz-Baur,a.avi,Burgdorf,1978-08-21,$785.35,05:b1:2a:79:3a:37
+CH,email-64.meier-ferrari.com,-13.5346305,Sweden,02:10:34,96.606334,Turkmen,ha,5225,1974-05-13T11:29:26,Marti-Eichenberger,suscipit.jpg,Ostermundigen,2012-04-25,"$47,469.84",c3:b6:5e:b6:ab:bf
+CH,desktop-62.stocker.com,-41.7284335,CÃ´te d'Ivoire,22:38:09,-5.365005,Chichewa,zh,84080156,1983-01-03T13:46:48,Vogel PLC,pariatur.xls,Spreitenbach,1980-09-06,"$9,408.96",09:a2:11:09:e2:53
+CH,srv-25.sutter-kuhn.org,-76.189903,Mauritius,18:57:00,-118.003600,Hungarian,byn,281663,2007-07-14T21:19:48,Lustenberger-Zimmermann,nihil.css,Arth,1971-08-02,"$4,666.07",16:df:dc:2c:b0:0b
+CH,email-39.sidler-wolf.com,-16.9565325,Liberia,02:32:19,-92.893145,Sindhi,zh,242398630,1977-03-22T08:20:17,Aebi and Sons,amet.json,Muttenz,2003-06-29,$744.34,29:16:3e:31:7f:fb
+CH,desktop-56.hirt-betschart.com,89.4587465,Croatia,16:39:37,-170.481749,Guarani,kw,238,1981-08-02T19:05:35,Hermann Group,deleniti.jpeg,Schlieren,1991-09-10,$6.27,c4:58:24:61:f1:af
+CH,email-25.stettler.com,14.976640,Niger,08:33:23,-77.870402,Swati,fur,4,2001-04-30T11:17:46,"Eugster, Forster and Zimmermann",quibusdam.odp,Winterthur,1987-05-18,"$26,906.43",a5:48:2f:4d:16:95
+CH,laptop-92.zurcher.com,-47.3417755,Marshall Islands,19:52:04,-128.116155,Sinhala,fr,6,1987-01-31T10:35:13,Fuchs Ltd,deleniti.jpg,Bellinzona,2021-01-12,$321.00,5e:7e:09:68:58:08
+CH,laptop-18.mayer-kagi.com,-82.3820145,Spain,20:30:15,58.935925,French,gu,5178,2006-07-01T09:06:06,Wagner-Hoffmann,dolores.xlsx,Meilen,1986-02-23,"$10,512.70",f3:05:c4:df:29:99
+CH,db-71.baur.com,-31.481127,Lithuania,04:08:41,-5.749998,Latin,ne,548521791,1974-02-13T09:46:31,Weber Inc,similique.xls,Oftringen,1996-02-01,$46.61,80:cf:93:ab:0a:5a
+CH,email-98.kaiser-hartmann.com,-3.772559,Uzbekistan,05:47:12,-114.534773,Ossetian,aa,2,2001-10-14T05:04:32,Tobler-Peter,molestiae.txt,Lenzburg,1991-07-08,$0.70,d9:84:85:9a:b3:9a
+CH,lt-02.rey-widmer.net,89.9373385,Libya,01:10:46,84.749184,Greek,ve,93857,1981-04-18T04:39:16,"Meyer, Schaller and Eugster",at.mp4,Solothurn,2002-01-24,$90.04,20:ac:c9:68:af:bc
+CH,srv-29.weibel.info,42.5027405,Canada,05:04:55,132.550953,Hiri Motu,wae,330108,2017-05-02T12:35:34,Gerber-Ernst,sapiente.mov,Urdorf,2003-09-24,$621.85,1e:56:f0:75:df:ba
+CH,web-28.favre-ritter.com,56.704779,Haiti,13:05:14,-168.596754,Tswana,ur,901314625,2017-11-26T03:03:10,Braun-Steiger,ipsam.js,Freienbach,2006-11-05,"$85,755.84",73:4a:9c:69:42:ae
+CH,db-23.wenger-luscher.org,86.3402885,Nicaragua,14:25:18,-61.396835,Pali,kl,4898,1997-11-24T23:00:58,Bühler-Fankhauser,sed.ods,Thun,1998-03-10,$17.53,30:76:f6:23:50:a4
+CH,desktop-74.luscher.biz,43.1400945,Poland,17:01:05,26.234976,Arabic,lzh,8,1991-10-16T01:03:10,Widmer-Frick,delectus.gif,Lausanne,2002-12-01,$85.44,fa:7f:9e:41:ba:01
+CH,email-94.ferrari-eugster.com,-8.626691,Peru,05:07:56,75.909586,Corsican,gd,3710,2005-05-03T11:31:48,"Ackermann, Friedli and Friedli",ea.js,Münchenstein,1970-06-05,$8.69,c0:15:14:17:1f:ea
+CH,db-12.mettler-sidler.com,49.183737,Philippines,17:40:18,126.183794,Chechen,gl,398944203,1970-05-22T15:09:23,Meyer PLC,quaerat.mov,Wallisellen,2020-03-23,"$5,767.93",fd:86:2b:d0:07:dc
+CH,db-89.hunziker.com,-34.831700,Costa Rica,17:23:35,-137.496744,Fulah,fo,613118,1998-05-02T23:11:13,"Schmidt, Brun and Mäder",sed.png,Crans-Montana,2021-11-03,$0.21,e5:7d:53:3c:8c:c3
+CH,email-85.felder.com,-20.9455365,Equatorial Guinea,16:44:34,126.841301,Burmese,kl,403205,1970-01-15T00:10:51,"Bucher, Zürcher and Blaser",quaerat.webm,Birsfelden,2022-11-15,$666.72,d9:e4:99:c0:83:a4
+CH,email-32.ruegg.org,74.973184,Barbados,15:13:47,26.941980,Kannada,ff,73846,1983-04-02T15:22:39,Eugster-Ernst,earum.json,Muttenz,1986-06-13,$38.52,86:b1:b6:38:6a:3e
+CH,laptop-94.ammann.org,28.0781925,Sierra Leone,08:55:03,14.676822,Interlingua,byn,514077,2007-06-21T06:19:54,"Hofer, Hasler and Roth",vero.json,Flawil,2022-09-08,"$3,381.02",01:2a:bd:bb:85:8a
+CH,db-16.ammann-baumgartner.info,-26.1975865,Vatican City,22:14:05,-61.647785,Northern Sami,bem,110536,2008-09-24T08:47:58,Schnyder LLC,saepe.png,Montreux,1999-02-02,$363.27,90:07:fc:bd:bf:4e
+CH,lt-43.schweizer-isler.com,-79.513818,Panama,07:56:03,145.933468,Tagalog,vi,887098,1983-12-17T19:03:10,Hodel Group,voluptate.jpg,Payerne,2016-07-20,"$45,291.90",fe:98:89:c1:07:7a
+CH,web-11.hermann.com,20.3193935,Cameroon,18:45:18,-162.466779,Kazakh,ber,347447021,2002-04-03T05:19:44,"Friedli, Schaub and Zimmermann",dignissimos.txt,Zürich,1991-09-15,"$69,428.52",b5:5f:10:6e:d2:89
+CH,email-34.schar-wirz.net,-80.3501805,Jordan,15:40:06,-43.235370,Azerbaijani,ks,134,2003-11-11T03:25:11,Jost-Stocker,soluta.odt,Wettingen,1978-06-26,$744.41,63:6a:27:74:09:61
+CH,srv-27.lanz-iten.com,2.5032555,Russia,07:06:59,59.578136,Norwegian,cs,94,2003-07-28T13:16:08,Hess-Steffen,sit.tiff,Bassersdorf,2019-01-07,$97.33,93:22:e6:a0:5b:c5
+CH,web-76.suter.com,-59.036249,Trinidad and Tobago,04:06:16,-0.609923,Slovak,ne,941268,1999-06-02T17:25:59,Frick-Lüthi,pariatur.gif,Volketswil,1982-05-21,$62.55,08:09:17:c2:2e:37
+CH,laptop-11.gfeller.info,-45.651183,Angola,04:37:56,105.037878,Macedonian,mr,639,1988-08-19T11:48:24,Aebi LLC,quos.txt,Steffisburg,2018-02-02,$4.31,ab:c7:d0:de:a5:7e
+CH,lt-03.keller-stocker.com,22.112046,SÃ£o TomÃ© and PrÃ­ncipe,14:00:39,-81.573026,Kazakh,mn,94374446,1986-03-26T10:43:36,Bachmann-Furrer,eius.html,Wetzikon,2009-05-22,"$2,373.26",ff:6d:34:7a:e1:53
+CH,laptop-79.ernst-thommen.com,-86.553729,Bangladesh,02:14:08,-143.334383,Pushto,uk,784772,1994-03-29T00:09:46,Gfeller Ltd,sunt.json,Thônex,1982-10-22,$54.90,e4:42:80:40:51:6a
+CH,desktop-91.benz-zimmermann.net,-6.221550,Oman,06:49:48,-2.697738,Central Khmer,bs,701155,2010-09-29T16:20:42,Steiner Inc,dignissimos.mp4,Köniz,2001-05-14,$36.81,0f:4c:d9:51:a9:0d
+CH,laptop-58.favre.net,-73.054657,Senegal,05:19:14,-179.738346,Assamese,it,907140530,1970-04-03T18:04:49,"Meister, Lüthi and Bader",nisi.tiff,Aesch,2015-11-26,$483.23,99:f5:69:16:fc:7d
+CH,web-17.knecht.com,-65.4519905,Honduras,21:54:02,49.576538,Dutch,tig,2,1990-11-06T02:33:51,Bühler Group,eligendi.webm,Naters,2016-11-04,$596.56,f9:4f:e9:4e:29:43
+CH,email-01.scherrer.com,72.353906,Federated States of Micronesia,23:46:07,-175.230727,Bambara,pa,94978,1996-09-16T22:37:01,Rüegg Group,eveniet.xlsx,Einsiedeln,1982-01-04,$4.52,d6:dc:c3:3a:42:57
+CH,desktop-15.wirz-vogt.info,-35.094180,Iceland,22:46:50,-54.906820,Luxembourgish,mni,35,1985-05-07T06:32:43,"Imhof, Bühler and Giger",tempore.bmp,Neuhausen,1993-02-26,$51.71,d6:45:15:5c:84:2b
+CH,web-46.graf.com,66.876534,Italy,00:53:54,-42.934190,Malay,raj,4131,2017-12-31T14:00:27,Arnold LLC,quasi.jpg,Vernier,2022-09-16,"$4,056.33",ab:ba:b0:82:1e:9e
+CH,laptop-53.lutz-bauer.com,9.0593825,Vanuatu,17:33:06,-5.442203,Bambara,mg,540,1971-08-03T22:50:05,Knecht PLC,facilis.pages,Wallisellen,1973-03-25,$3.87,81:94:ee:8c:1c:cc
+CH,email-83.mader.com,70.3771575,Trinidad and Tobago,15:36:25,-35.593816,Xhosa,eo,7,2017-11-14T10:03:13,Hofer PLC,qui.css,Spreitenbach,2015-11-25,$7.14,a9:82:07:fc:9f:40
+CH,srv-94.burri.com,20.418790,Russia,21:58:20,84.244677,Sinhala,de,3,2001-03-27T04:37:33,"Michel, Wyss and Fuchs",cumque.mp3,Spiez,1984-05-19,"$5,628.59",e3:6c:f8:47:d5:59
+CH,laptop-69.hess.com,19.1594135,Paraguay,20:37:10,168.883708,Sardinian,sa,20,2012-03-27T13:20:10,Hermann LLC,quod.avi,Weinfelden,1973-01-02,"$5,182.16",a7:90:8f:29:79:dc
+CH,web-73.blum.info,59.7662675,Qatar,16:43:56,-10.098626,Swati,ha,98,2022-02-01T08:52:44,"Wagner, Furrer and Hasler",ipsam.mp3,Sitten,2021-03-05,$34.29,ef:c8:5c:1c:5b:30
+CH,web-97.scharer.net,-66.6574715,Albania,21:33:08,-108.854065,Welsh,wo,7767,2023-06-22T23:36:15,"Ackermann, Thommen and Schenk",maxime.mp3,Küssnacht,2001-10-15,$580.90,e1:95:6d:e6:cd:4b
+CH,desktop-87.schneider.com,11.912474,Ukraine,14:46:16,-20.399983,Croatian,fur,0,1985-11-30T21:44:19,Vogel-Bär,nobis.avi,Veyrier,2003-11-29,$8.22,c4:27:01:6a:7d:c9
+CH,lt-72.bianchi.com,-88.304681,Eritrea,10:04:25,-92.212272,Ukrainian,mi,607552,2021-10-30T19:42:03,Aebi-Rey,distinctio.doc,Lyss,2007-12-14,$80.87,d7:9c:af:bb:d5:30
+CH,srv-62.fluckiger.biz,-25.324696,CÃ´te d'Ivoire,14:00:39,-31.603265,Zulu,tn,4735,1972-06-03T20:07:30,Schnyder-Hess,vel.mp4,Binningen,2005-10-29,"$88,192.16",cb:8b:bc:14:ad:10
+CH,desktop-42.koch.com,46.427580,Saint Vincent and the Grenadines,13:21:31,-91.636737,Bambara,fo,0,2015-04-20T04:25:16,"Blum, Flückiger and Merz",illum.gif,Bassersdorf,2019-04-12,"$97,885.58",5a:6e:9b:39:b8:1d
+CH,db-57.stutz.net,29.0567625,Haiti,20:14:38,-107.415242,Romanian,mr,4374,1976-03-22T10:55:33,Egger-Zingg,enim.mp3,Gossau,1998-06-28,$817.92,e4:1c:8a:02:b6:00
+CH,laptop-86.naf-widmer.info,85.355915,New Zealand,12:03:57,-7.737153,Gaelic,mg,638972,1980-02-03T05:09:26,Hofer-Zimmermann,magni.wav,Münchenbuchsee,1997-01-24,"$54,493.37",ac:92:1f:df:93:c0
+CH,email-08.kaser.com,-0.221901,Guyana,21:50:01,28.291929,Faroese,nr,77899,1981-11-15T02:04:06,Kägi and Sons,quia.mp4,Zollikofen,2000-02-09,"$3,515.03",12:26:e2:4b:7c:2e
+CH,web-09.geiger-hodel.com,25.2289335,Turkey,14:39:22,13.435703,Marshallese,unm,3579728,2022-07-18T07:50:52,Schäfer-Wirz,corrupti.bmp,Glarus,1995-01-22,"$63,164.02",9b:03:2b:53:8f:b4
+CH,email-22.ott-wenger.biz,83.8751905,Costa Rica,21:53:21,-99.171992,Bislama,tig,1000573,2006-03-10T09:37:55,Wirth Ltd,inventore.wav,Mendrisio,1976-01-20,$4.38,f4:c3:cb:48:d5:d8
+CH,db-71.pfister.biz,11.7378865,Azerbaijan,19:33:15,14.301862,Turkish,pl,745,1975-12-29T12:33:00,Sutter Ltd,ipsa.html,Gland,1991-02-24,$549.65,dc:f4:2d:c6:c5:e6
+CH,desktop-52.fischer-jost.net,-63.8558075,Azerbaijan,09:25:54,122.050001,North Ndebele,os,5987,1981-12-11T05:20:41,Staub PLC,nam.csv,Rapperswil-Jona,2014-07-01,"$27,446.36",f0:3c:50:ac:f2:cb
+CH,web-42.wagner-probst.com,82.016024,CÃ´te d'Ivoire,18:59:08,141.721644,Aymara,tn,6,2012-12-19T03:12:56,Berger-Kaufmann,quas.png,Bellinzona,1987-09-06,"$1,242.85",7b:9b:fd:63:9b:88
+CH,web-70.hofmann.com,-63.6107285,Brazil,03:19:26,-45.517551,Serbian,fo,173,2008-02-03T16:56:33,"Weber, Flückiger and Wehrli",commodi.flac,Lausanne,1989-03-09,"$9,693.67",4e:ee:e1:ad:d1:ba
+CH,laptop-55.albrecht-haas.com,-3.7991245,New Zealand,09:13:32,91.955740,Kikuyu,ne,21,2003-05-27T04:03:16,"Bader, Schnyder and Bieri",vero.bmp,Basel,1970-06-22,"$49,886.29",8a:0e:40:ec:2c:f1
+CH,srv-92.mayer.com,-62.519346,Romania,18:21:38,151.021604,Bihari languages,lg,893337,2001-04-07T01:51:37,"Wehrli, Steiner and Scherrer",ipsa.html,Volketswil,2008-04-08,$56.91,43:a6:ef:c7:e8:3f
+CH,srv-98.bosshard.com,76.956621,Sierra Leone,07:05:10,68.611530,Hungarian,dz,38139231,1976-12-04T20:41:19,Tanner Group,architecto.avi,Veyrier,1990-03-13,"$8,619.49",47:d6:1c:0e:54:90
+CH,lt-24.rey-stockli.com,-51.042884,Slovenia,13:07:02,-103.278578,Tonga,ta,7828456,1975-03-05T06:15:14,"Bättig, Häfliger and Wenger",reprehenderit.csv,Oberwil,1972-10-19,$27.03,4b:01:7d:af:84:45
+CH,desktop-66.steiner-amrein.biz,-19.9103525,CÃ´te d'Ivoire,12:23:39,166.417195,Bulgarian,mi,180870723,2010-04-12T18:59:05,Hunziker-Steiner,sed.avi,Davos,2010-10-02,$24.06,48:99:63:9e:91:54
+CH,lt-67.kunz.com,-45.765161,Tuvalu,23:47:05,-125.427044,Aragonese,gu,2443384,1971-09-25T06:15:30,Bernasconi and Sons,illo.pages,Amriswil,1971-05-15,$66.98,ba:12:20:d5:72:ed
+CH,web-17.jost-siegrist.info,30.748051,Slovenia,03:44:38,115.998469,Urdu,kok,782101,1981-03-26T10:36:23,Felber-Kaiser,ut.pptx,Möhlin,2015-12-25,$1.99,88:c1:37:13:b0:ed
+CH,lt-18.tanner.com,-35.641431,Nicaragua,01:54:01,166.952316,Church Slavic,st,31085297,2023-07-15T05:02:33,Staub LLC,ea.wav,Le Grand-Saconnex,2016-10-14,"$54,356.93",34:13:0f:45:11:ed
+CH,laptop-69.gerber.info,-10.638277,Australia,22:11:22,123.951712,Kannada,nl,267,2008-09-14T23:17:18,"Ferrari, Wagner and Hess",eaque.mp4,Siders,1993-11-02,$3.65,c2:32:03:d6:f8:35
+CH,srv-13.meili.com,-21.317671,Bolivia,16:47:12,145.339040,Interlingue,sr,22,2013-01-08T04:38:07,"Eugster, Aebi and Hartmann",voluptate.docx,Suhr,2004-07-14,$32.58,39:97:b8:7f:23:d3
+CH,lt-08.berger.com,-51.7654565,San Marino,12:26:04,-96.692946,Russian,yo,254054,2022-04-19T14:44:40,"Häfliger, Wettstein and Häfliger",dolore.mp3,Adliswil,2015-12-14,$2.57,cd:63:50:ec:c6:01
+CH,laptop-31.staub-grob.com,-57.1673485,Nigeria,06:04:40,174.330565,Sundanese,pa,5,2007-08-24T18:37:32,"Baumann, Lang and Merz",ex.jpeg,Wettingen,1988-03-11,$738.00,c7:48:17:50:f1:03
+CH,desktop-01.meili.biz,61.893069,Russia,09:22:24,35.718353,Twi,ku,43,1978-01-05T06:14:04,"Bühler, Fischer and Schenk",nulla.js,Lugano,1997-11-22,"$33,139.38",6f:88:61:70:38:6d
+CH,laptop-52.wolf.net,53.688840,Eritrea,23:27:35,131.671467,Kikuyu,tg,72,1972-08-17T12:07:16,Sutter-Schlatter,ab.png,Biel/Bienne,2017-02-01,"$7,509.13",e6:67:a8:2f:e4:e9
+CH,db-07.buhlmann.net,-18.4756945,El Salvador,01:19:55,111.995623,Chechen,ff,6450737,1999-06-13T07:48:26,Imhof Inc,ullam.flac,Flawil,1997-01-26,$57.07,66:18:a8:8b:60:6a
+CH,srv-63.haas-hartmann.com,11.748639,Finland,10:03:53,110.296190,Chinese,ne,2,2002-03-26T03:23:45,Hirt-Walter,explicabo.flac,Aigle,1976-05-26,$1.21,59:56:17:fa:7a:37
+CH,email-00.jaggi-hug.com,66.061117,Romania,08:26:46,105.031797,Maori,ber,695187,1998-11-12T06:05:03,Kohler-Fankhauser,quis.json,Solothurn,1979-08-28,"$9,144.92",cf:47:6b:a5:03:35
+CH,desktop-82.imhof.com,43.3279415,Monaco,05:11:25,-6.451805,Tatar,csb,7156512,2019-06-03T12:46:38,"Hofmann, Käser and Wolf",adipisci.wav,Arbon,1970-04-08,$113.84,6a:ac:93:5d:13:04
+CH,srv-46.schwarz.com,-12.980064,Colombia,23:16:52,75.229853,Nepali,or,25491631,1984-08-27T10:59:00,"Rüegg, Stocker and Hofmann",dolore.tiff,Winterthur,1971-09-09,$768.58,c9:44:de:d0:fc:74
+CH,web-60.schneider-kohler.com,-8.248474,Greece,11:25:57,-63.365005,Kanuri,mt,567454072,1980-01-25T16:41:33,Baur LLC,reiciendis.avi,Thalwil,1973-01-10,"$9,504.21",da:14:72:04:79:86
+CH,email-11.ruegg.com,75.5114565,Kuwait,10:15:39,90.145078,Xhosa,hak,7938907,1979-05-19T10:29:45,"Gloor, Brunner and Roos",aliquid.bmp,Binningen,2011-10-12,$2.79,80:c1:c1:17:39:53
+CH,desktop-71.lang.info,-77.586295,Georgia,20:05:29,64.812878,Kazakh,mr,91868765,1973-01-31T06:23:15,Kohler PLC,incidunt.jpg,Ostermundigen,1978-05-08,$711.84,2d:6b:43:47:8d:30
+CH,srv-18.zehnder.com,62.218123,Norway,10:59:42,27.098440,Hausa,is,1455229,2019-10-19T23:00:55,"Brun, Thommen and Bachmann",porro.webm,Meyrin,1980-07-17,"$9,043.36",9a:82:76:33:b1:ae
+CH,desktop-92.meyer.com,-21.076924,Sierra Leone,14:09:33,26.065123,Basque,az,4,1987-02-23T10:24:00,Geiger-Herzog,minus.webm,Thalwil,1993-04-15,"$9,769.26",c7:eb:4c:48:38:bf
+CH,web-41.bianchi-fluckiger.com,-66.7973325,Zambia,00:00:07,122.841030,South Ndebele,li,34,1985-11-29T17:58:57,Lüscher-Mettler,assumenda.mp4,Pully,2013-10-05,$37.81,1c:37:72:36:41:7b
+CH,email-78.bucher.com,53.418793,Canada,14:54:25,123.878124,Gaelic,uk,2,1984-01-27T23:16:07,Müller-Hirt,quaerat.tiff,Allschwil,1973-06-18,$635.38,70:82:5a:e3:d6:df
+CH,srv-76.betschart.com,-15.627556,Antigua and Barbuda,07:08:13,-84.584715,Thai,br,33277,2010-09-17T18:36:31,"Rey, Kuhn and Seiler",cum.bmp,Münchenstein,1990-03-27,"$4,805.75",73:c8:34:83:07:8b
+CH,db-05.weibel.org,29.741291,Turkmenistan,00:05:15,-102.121785,Macedonian,yi,775297623,2014-05-13T18:13:06,"Wyss, Haas and Tanner",delectus.html,Zug,2021-01-23,"$10,910.13",59:93:95:aa:55:2d
+CH,lt-72.betschart.com,89.157605,Qatar,09:51:35,43.906904,Urdu,pt,4519285,1976-12-28T07:37:29,"Tobler, Sigrist and Isler",dolores.mov,Pfäffikon,2003-02-20,$86.93,1d:47:0c:b5:f4:bf
+CH,desktop-49.bar-ritter.net,-50.639606,Tonga,06:58:55,127.792159,Hindi,iu,101307,1978-05-23T03:41:33,"Felber, Thommen and Kuhn",nesciunt.tiff,Schaffhausen,1999-11-04,$42.11,f2:ed:23:ca:dc:f9
+CH,desktop-24.siegrist.com,66.4939135,Kuwait,05:49:32,175.135653,Dzongkha,ln,2,1984-01-15T01:23:25,"Ackermann, Vogel and Ott",ut.numbers,Bülach,1990-04-14,"$9,123.69",cd:af:8c:3d:66:b0
+CH,lt-58.steiger-kohler.info,-88.3851235,Israel,14:31:22,-14.346513,Sichuan Yi,ha,595681,1970-01-12T22:49:18,Braun-Braun,exercitationem.mp3,Bassersdorf,2002-09-16,"$17,930.73",88:f0:cb:59:c5:0b
+CH,email-40.buhlmann-beck.com,51.5942525,Eritrea,11:49:40,56.906591,Central Khmer,lg,52547,2001-06-17T22:04:52,"Bieri, Bühler and Hartmann",ullam.jpg,Birsfelden,1998-01-01,"$33,681.01",38:57:9e:fa:ee:b5
+CH,srv-04.kaiser.com,88.8974395,Fiji,18:08:24,26.000127,Kashmiri,hu,806898947,1972-06-05T06:16:14,Giger LLC,esse.flac,Zollikofen,2020-06-13,"$4,328.96",ce:0b:2f:98:91:17
+CH,db-59.frey.com,-19.732030,Maldives,03:43:16,4.200974,Estonian,ka,81,1975-08-09T04:43:17,Hunziker-Bauer,unde.wav,Wohlen,2019-11-23,$1.45,94:20:16:b3:ed:5d
+CH,web-72.herzog-hafner.com,60.255430,Czech Republic,23:04:27,136.219863,Ukrainian,tcy,23849,2022-04-10T23:56:47,"Bühlmann, Staub and Felder",commodi.flac,Maur,1978-07-01,$62.55,44:96:0c:97:fb:a6
+CH,lt-66.blum.com,-70.438699,Tuvalu,18:08:47,-73.243071,Twi,bem,368629460,2004-11-14T07:30:24,"Bernasconi, Benz and Zimmermann",maiores.xls,Neuenburg,1976-04-12,$0.60,51:91:f4:31:18:3f
+CH,desktop-44.hofstetter.com,-74.3650115,Sudan,08:48:32,72.007928,Faroese,te,2990,1977-05-21T09:03:41,"Leu, Baur and Fischer",et.jpeg,Monthey,1994-04-25,$2.22,d4:f7:ac:a8:26:e9
+CH,laptop-10.wuthrich.com,-36.7833925,Seychelles,12:05:15,-0.817064,Tahitian,mi,7,2002-12-29T09:39:18,Spörri-Friedli,beatae.flac,Baar,2001-01-07,"$9,746.43",8b:85:ee:45:15:ec
+CH,laptop-19.koch-eugster.net,-32.513966,Seychelles,01:48:26,145.293577,Azerbaijani,sv,674560854,1971-11-25T22:35:42,Stucki Ltd,fugiat.numbers,Bernex,2001-08-04,"$1,358.68",67:d3:44:33:1e:45
+CH,email-80.ernst.biz,48.105774,Sri Lanka,13:18:45,174.904546,Ossetian,os,213,2012-12-13T16:46:53,Hermann-Hotz,ab.wav,Bernex,1971-06-16,$63.94,fe:26:6f:fe:1e:25
+CH,web-61.stadelmann.org,-61.4569095,Samoa,09:37:59,12.014361,Estonian,sw,28314916,2019-05-07T15:30:47,Schumacher-Zürcher,at.csv,Oftringen,1992-12-24,"$74,376.79",5e:48:09:76:96:47
+CH,web-44.huber.com,-77.407182,Czech Republic,12:54:27,119.429147,Bengali,crh,2223200,1993-07-09T06:12:14,Zingg-Betschart,error.key,Buchs,2015-11-06,$12.83,6f:de:88:7e:a0:d2
+CH,db-52.jenni.info,27.2448905,Panama,10:19:17,-29.239773,Kannada,niu,97438813,2003-09-10T11:34:42,Häfliger-Näf,doloremque.jpeg,Le Grand-Saconnex,1972-03-29,"$25,174.56",d0:a4:2b:18:55:ab
+CH,lt-06.benz.com,-22.5449165,Lithuania,17:25:39,66.566263,Georgian,hne,3665,1980-03-27T00:35:21,Scherrer-Küng,sapiente.js,Affoltern,1971-04-13,$973.68,44:00:e6:41:b0:9c
+CH,laptop-05.schnyder-lehmann.com,45.9862785,Italy,06:05:05,34.120006,Lao,wal,52880,2020-12-22T23:11:25,"Spörri, Schnyder and Schweizer",eveniet.jpeg,Morges,1976-06-03,$60.78,69:70:9e:50:e9:5b
+CH,desktop-71.jenni.com,37.0915855,South Korea,21:49:18,-157.542989,Nepali,ug,1930,2017-11-17T09:37:55,Egli Inc,suscipit.doc,Volketswil,2009-12-24,"$36,235.53",0e:81:61:8c:34:9d
+CH,lt-91.hauser.com,-73.849894,Malaysia,16:47:15,153.047009,Interlingua,the,9850719,2021-09-29T01:09:56,"Jost, Forster and Probst",facilis.flac,Flawil,2002-08-06,"$56,969.21",fa:9e:65:1c:8c:e6
+CH,email-06.schaub.info,-73.150511,Norway,20:33:45,144.265898,English,szl,517,1982-10-20T06:04:00,"Wegmann, Lüthi and Jost",cupiditate.jpeg,Basel,2002-05-18,"$26,204.40",42:f9:39:83:7c:8b
+CH,web-47.eugster.com,9.9101245,Palau,16:25:50,-171.806451,Tibetan,si,1964771,2002-08-15T22:09:25,"Lehmann, Hofstetter and Flückiger",iusto.mp3,Naters,1982-01-13,"$47,949.80",80:ca:63:2e:db:f6
+CH,email-85.kagi.com,69.152717,Egypt,23:50:54,114.704825,Aymara,hy,711212,1988-06-24T23:19:24,Schuler-Bachmann,voluptate.webm,Kreuzlingen,2022-08-12,$486.47,2a:7c:95:db:5e:bd
+CH,db-94.kaufmann.com,79.240379,Bahamas,13:19:20,-46.538606,Bambara,zu,47,1974-03-07T17:58:56,"Zehnder, Egger and Furrer",et.tiff,Martigny,1971-02-01,$80.85,25:16:6d:0e:40:a2
+CH,desktop-18.stockli-schmidt.com,-56.695843,Cuba,04:53:01,103.648312,French,sv,382,2021-01-18T21:06:03,Gut-Spörri,rem.mp3,Thalwil,1985-06-05,$0.76,05:b9:f5:09:e6:0b
+CH,db-24.studer.org,6.824607,Liberia,22:03:40,-21.452667,Slovak,nl,6166,1972-01-24T07:03:15,Grob and Sons,laboriosam.json,Glarus,1993-01-03,"$6,277.11",48:10:c1:b5:49:5a
+CH,laptop-75.suter-steffen.com,-47.6225315,Rwanda,07:02:26,-150.952389,Ukrainian,ne,471537082,2009-09-17T22:40:55,"Fankhauser, Roth and Lanz",animi.js,Lancy,1984-01-13,"$65,737.42",69:2b:c6:11:d9:c6
+CH,email-03.benz.biz,-23.097215,Lebanon,04:40:03,125.353006,Javanese,eu,8,2009-10-16T06:29:52,Wolf Group,aspernatur.mp3,Lugano,1970-03-10,"$51,257.57",a3:7a:6c:47:f4:a8
+CH,db-33.frey-naf.com,-45.456239,Turkmenistan,12:26:57,-23.233517,Indonesian,ko,71286436,1987-07-16T05:00:00,Baur-Grob,aspernatur.css,Binningen,1977-12-10,$73.37,ba:ec:65:76:e5:0f
+CH,laptop-43.bianchi.info,-42.1549055,Jordan,10:53:09,-138.663684,South Ndebele,ug,492247,2000-12-22T02:50:23,"Schärer, Fankhauser and Peter",excepturi.js,Münsingen,2010-11-20,$602.14,0a:37:0a:c0:76:2e
+CH,laptop-28.zollinger-bar.com,33.0697205,Belarus,19:42:47,-101.076315,Corsican,km,6944,2009-08-01T02:23:22,Stöckli-Frei,magnam.mp3,Lenzburg,1982-08-03,"$1,315.94",b5:8d:cf:d3:0c:e1
+CH,desktop-67.kaufmann.com,74.9221715,Ghana,15:27:12,138.826851,Cree,csb,443435109,1986-10-17T20:06:41,Zingg Inc,est.avi,Ittigen,1997-02-06,"$4,306.80",d8:b5:87:f3:11:7b
+CH,lt-11.fuchs-battig.com,72.464036,Cambodia,06:44:12,158.343254,Rundi,mr,1019,1990-04-02T05:06:52,Leunberger-Albrecht,quidem.png,Zollikon,2021-11-18,"$1,824.74",e2:ef:dc:36:de:41
+CH,desktop-06.steiger.net,73.2357035,Andorra,14:50:36,-78.740593,Kirghiz,ayc,69432,1974-02-10T19:24:47,"Hürlimann, Wüthrich and Bühler",distinctio.mp4,Muttenz,1971-09-12,$92.97,4e:9d:da:7c:b2:97
+CH,lt-66.sigrist.com,27.0220255,Andorra,11:22:52,17.459555,Nepali,mn,320,2017-09-06T20:38:29,Hermann-Ammann,modi.wav,Winterthur,1993-02-03,$6.05,62:7e:dc:e3:19:0a
+CH,email-34.egli.com,-72.037762,Jamaica,14:29:22,-7.435525,Kikuyu,pl,7,2005-07-07T02:04:52,Häfliger LLC,ipsam.wav,Reinach,1972-01-24,$980.79,d2:e5:6c:c3:b9:95
+CH,db-13.meister-hartmann.com,56.8172625,Angola,16:41:11,162.623388,Church Slavic,gu,2386966,1970-08-02T08:40:07,Hofstetter-Stadelmann,harum.webm,Sitten,2023-01-18,"$80,689.28",cb:ed:ce:67:05:66
+CH,db-97.schwarz.com,73.394536,Somalia,23:23:40,37.302227,Armenian,sq,768122,2008-07-02T18:22:38,Zehnder LLC,numquam.webm,Freiburg,1971-11-12,$199.78,68:f3:40:05:ea:57
+CH,desktop-48.aebi.com,-11.6132325,Bolivia,05:56:20,98.397549,Finnish,apn,538685858,1996-07-01T06:29:33,"Bauer, Schwarz and Hodel",atque.numbers,Reinach,2012-05-27,$85.29,f3:c9:eb:b9:ef:91
+CH,laptop-76.zimmermann.com,68.3115475,Kenya,14:08:52,-59.033806,Occitan,nl,805314,2008-07-28T00:41:49,Kern Ltd,quaerat.mp3,Oftringen,1995-01-27,$7.06,7c:7e:d0:a8:88:dd
+CH,laptop-12.fehr-bader.biz,-7.212051,Vatican City,23:07:41,39.115860,English,tn,288640,2000-08-26T17:47:39,Christen PLC,veniam.js,Val-de-Travers,1999-10-22,$4.66,e5:c7:9b:1f:01:dc
+CH,web-71.schuler.com,-46.415024,Algeria,01:44:35,120.950878,Uighur,tig,309543,2011-02-18T22:30:31,Bühler LLC,consectetur.ppt,Illnau-Effretikon,2018-02-21,"$5,770.80",e6:0a:10:36:f8:35
+CH,db-83.mader.com,83.990777,Myanmar,04:50:02,-125.139634,Panjabi,ga,78479390,1982-03-07T00:18:19,"Stalder, Friedli and Schürch",eos.mp3,Naters,1976-04-25,$62.89,a8:3d:cc:49:21:1b
+CH,srv-56.eugster.biz,47.752397,Oman,15:08:15,0.009338,Cornish,li,2,2006-12-21T18:49:05,"Scheidegger, Favre and Weber",facere.js,Bülach,2013-03-21,$445.96,03:89:ea:80:4b:79
+CH,srv-08.senn.com,17.3739075,Canada,06:26:22,18.640305,Divehi,iu,31,2018-03-07T15:51:45,Gloor Inc,ratione.mp4,Sursee,1970-04-13,$69.14,e8:62:dc:10:31:3a
+CH,srv-16.naf.com,-2.591244,Kenya,22:23:45,-94.345468,Norwegian,ky,91300,1996-10-25T03:06:33,Hasler-Käser,quo.wav,Yverdon-les-Bains,2003-09-06,"$5,097.53",68:70:72:cf:46:a9
+CH,desktop-40.eichenberger.info,33.4082885,Tunisia,23:43:43,-8.942649,Serbian,iu,848912,2020-10-19T09:52:21,"Felder, Weibel and Lanz",autem.avi,Regensdorf,2015-10-18,"$1,153.22",12:c3:80:21:27:a5
+CH,db-45.lutz-hirt.com,-79.931244,Philippines,08:57:52,-159.077897,Norwegian,lij,1984878,1996-02-24T16:38:36,"Wettstein, Mettler and Wettstein",harum.gif,Buchs,2005-05-23,$74.38,41:03:69:53:83:8f
+CH,srv-15.wegmann.com,-21.153943,Sri Lanka,09:59:11,-77.039214,Maori,bho,314,1970-04-25T13:38:46,Hofstetter-Gross,excepturi.avi,Reinach,2003-08-31,$867.96,92:25:e7:58:08:1f
+CH,web-91.berger.com,-89.510003,Benin,09:31:59,117.611931,Xhosa,is,41,2011-02-12T05:14:15,Fischer-Merz,consequuntur.jpeg,Hinwil,1974-03-08,$219.93,73:8d:16:3c:3b:cb
+CH,laptop-48.geiger-benz.com,-47.688921,Botswana,08:58:27,-15.072046,Malagasy,ayc,79,1988-06-02T04:05:58,"Schuler, Schäfer and Gasser",vero.bmp,Hinwil,1971-07-05,$97.54,ae:b6:03:1a:4b:96
+CH,lt-46.erni.info,-18.6076995,Portugal,08:04:56,-110.544161,Faroese,nr,63761,1982-06-20T09:35:23,Wettstein-Küng,provident.wav,Veyrier,1993-02-28,"$6,504.48",91:3a:fc:3c:e6:98
+CH,email-69.sutter.biz,84.4366875,Mozambique,04:57:15,-3.896376,Xhosa,xh,89595,1986-02-15T09:44:01,Kälin PLC,eveniet.mp3,Neuhausen,1972-08-19,$3.27,80:05:f0:b1:3f:f1
+CH,lt-25.schweizer-arnold.com,-20.5737955,Saint Vincent and the Grenadines,13:10:49,-0.571594,Malay,hr,81964,2014-09-23T12:36:54,Ackermann Inc,quam.jpeg,Sarnen,1970-10-14,"$7,002.05",3e:0a:7c:3a:35:1b
+CH,db-89.frick-egger.com,-65.017630,Costa Rica,23:04:59,-32.970648,Chichewa,sa,2,1979-03-11T05:46:53,Hotz-Iten,magnam.css,Muri,2007-03-06,$487.24,42:c0:94:af:3f:5d
+CH,web-79.wettstein-fankhauser.com,31.7673145,Latvia,02:33:05,-168.002934,Galician,or,76518275,1973-04-11T14:39:12,Meister-Hoffmann,exercitationem.js,Opfikon,1990-10-17,$588.45,7c:c2:9b:cc:a7:4c
+CH,srv-53.iten.com,55.047935,Israel,11:43:48,-29.606745,Tamil,am,97644883,1998-12-14T19:37:34,Friedli-Schürch,fugit.mp3,Neuhausen,1976-04-28,$146.55,fe:2d:9c:6a:09:d1
+CH,db-08.bucher-merz.com,42.181270,Sierra Leone,16:54:55,-28.533339,Ojibwa,gu,10588,1996-01-30T21:59:19,Schnyder-Weibel,eligendi.jpeg,Aarau,1980-01-23,"$5,818.84",a4:c2:92:2f:4a:b2
+CH,desktop-87.roth.com,46.726058,Denmark,05:15:13,166.847837,Abkhazian,ce,5546702,1989-03-31T00:06:41,Schenk-Baumann,ipsa.bmp,Ostermundigen,2001-09-10,$115.91,e1:e4:2e:08:a4:5f
+CH,lt-27.mayer-ernst.com,-20.034629,Senegal,22:16:31,-79.433427,Macedonian,hu,5743269,2011-07-14T08:13:12,Blum Group,dolore.js,Risch,1995-08-15,$274.13,04:26:68:2e:3d:50
+CH,lt-77.naf.com,88.9442315,Georgia,09:24:08,97.780595,Zhuang,bem,7890,1988-02-18T13:57:45,Thommen-Bosshard,aspernatur.png,Uster,2002-01-14,$3.46,09:a2:da:bb:d1:44
+CH,desktop-23.haas-bieri.info,-11.911951,Mexico,23:16:59,-149.940931,Macedonian,mg,2087,2014-03-12T18:07:40,Häfliger-Hunziker,architecto.numbers,Meilen,2013-08-19,$4.80,ed:6c:ce:68:b3:1e
+CH,web-08.kuhn-peter.com,-87.9388255,Rwanda,17:18:19,154.830877,Interlingue,sk,97425,1981-06-23T18:51:18,"Lustenberger, Scheidegger and Staub",vitae.mp3,Volketswil,1994-06-12,$5.97,33:95:c9:b3:e3:2c
+CH,desktop-53.hafner.info,-57.140605,Russia,01:57:44,102.743582,Igbo,mt,863873979,1986-11-10T14:43:54,Roth-Tanner,voluptatem.flac,Versoix,1987-12-22,$124.37,1a:4e:e5:25:ea:f6
+CH,email-76.hunziker.com,-6.7448415,Chad,15:19:32,12.008378,Polish,sat,3868,2021-08-26T10:57:55,"Zbinden, Furrer and Mettler",minima.flac,Weinfelden,2011-02-08,$85.19,52:70:86:78:70:c1
+CH,lt-19.schurch-hafner.com,81.481151,Azerbaijan,01:44:21,13.637670,Turkish,si,18279234,1994-08-04T13:25:16,"Blaser, Blum and Brun",architecto.js,Buchs,2004-01-30,$6.55,59:f4:c5:6e:5a:94
+CH,lt-70.haas-benz.net,5.755694,Germany,09:49:44,56.225154,Galician,ur,5621631,1976-10-13T17:43:56,"Pfister, Steffen and Bader",eos.jpg,Urdorf,1972-06-22,"$45,330.80",d3:ae:45:04:8d:b4
+CH,email-97.schmidt.net,-16.3451205,Myanmar,07:08:45,-147.895378,Bulgarian,yo,3756,1981-08-14T00:20:10,Ackermann LLC,quam.flac,Dietikon,2015-03-16,"$99,744.36",48:c4:bf:b8:a9:8a
+CH,srv-10.kern.com,-75.825342,Cyprus,01:08:27,-95.750887,Igbo,ru,64951841,1983-02-11T00:38:00,Sigrist-Eichenberger,alias.jpg,Morges,2010-11-01,"$24,659.45",e4:29:40:13:72:13
+CH,email-52.ferrari-graf.com,-57.2845435,San Marino,04:04:46,46.822887,Icelandic,hi,91548,1974-08-25T18:41:46,Schaub-Kern,vitae.avi,Rapperswil-Jona,2016-06-01,$9.48,74:16:b4:30:38:f2
+CH,srv-54.huber.net,76.7404555,Tunisia,23:17:41,-146.418688,Czech,raj,8262334,1990-07-21T19:56:47,Schenk-Mäder,at.mp3,Thônex,2023-06-22,$299.45,f0:43:e5:6c:d9:de
+CH,web-65.steiner.com,-65.1979815,Oman,14:27:47,-45.312996,Kurdish,mi,943911757,1986-09-18T23:40:08,"Giger, Hirt and Haas",ratione.avi,St. Gallen,1971-09-13,"$8,643.08",34:bf:e5:e5:15:7d
+CH,email-93.wenger-imhof.com,53.0901665,Cape Verde,18:56:52,-143.013903,Igbo,gu,7470059,1981-05-29T16:42:21,"Pfister, Benz and Wenger",minus.png,Regensdorf,1972-10-14,"$76,502.48",65:99:7d:1c:a1:f1
+CH,desktop-96.felder.info,-54.763778,Mexico,16:16:47,66.482192,Pushto,uk,2033,2008-07-30T21:41:07,"Christen, Christen and Huber",ipsam.pages,Basel,2000-11-19,"$18,522.09",78:fb:fa:55:6a:6e
+CH,web-87.tanner.info,-52.4998495,Italy,00:23:15,-16.681983,Thai,tg,849672821,1970-06-08T02:12:56,Grob-Rey,aspernatur.wav,Thun,1982-03-29,"$2,942.54",bc:e6:5d:d9:18:6a
+CH,db-56.fischer.com,33.6743855,Lesotho,04:17:11,-41.254249,Italian,nhn,60936,1974-09-15T23:46:56,"Imhof, Müller and Schwab",laudantium.csv,Stäfa,1978-04-28,$66.27,a8:f9:74:05:62:9c
+CH,db-77.battig.com,-84.791754,Saudi Arabia,23:13:26,173.847119,Ido,ne,9,1980-07-31T20:28:10,Friedli Ltd,consectetur.mov,Bülach,1977-04-01,$144.88,cb:15:38:30:16:c2
+CH,desktop-75.lanz-hotz.com,44.071261,Chile,23:16:45,49.041022,Irish,ga,9110,1974-01-28T18:05:17,Seiler and Sons,vel.wav,Aarau,1986-09-11,$893.03,c0:96:67:29:0e:57
+CH,db-07.schar.com,-75.5823625,Mexico,15:16:19,-69.753419,Igbo,kl,83267632,1997-12-15T11:28:54,"Hartmann, Meyer and Mäder",quae.ods,Steinhausen,2021-11-20,$7.68,f2:ee:38:83:1a:e1
+CH,lt-98.imhof.com,-58.1382295,Vanuatu,20:44:54,1.657728,Irish,is,996806,1979-07-17T16:25:22,Martin-Frei,mollitia.pdf,Frauenfeld,1990-10-05,$8.30,5e:6b:4c:7b:fe:96
+CH,db-93.lustenberger.com,-70.3595835,CÃ´te d'Ivoire,22:06:08,122.540708,Thai,el,51995,2004-01-17T05:31:02,"Schumacher, Stocker and Gfeller",repellat.txt,Baden,1972-12-16,"$21,344.26",f3:65:37:b9:48:a9
+CH,desktop-14.hirt.biz,-31.394861,El Salvador,15:54:12,48.290394,Faroese,tn,6735,2003-09-18T00:36:02,Kaufmann Group,dicta.mov,Buchs,1995-05-03,$56.81,38:70:5c:b5:d4:32
+CH,laptop-00.schuler.com,-72.0990485,Belize,10:01:27,-31.620229,Dzongkha,my,125130,1997-11-16T02:01:28,"Sutter, Hess and Küng",cumque.mp4,Prilly,2001-01-29,$7.05,d4:a2:c0:8a:b7:37
+CH,srv-15.gasser.com,-21.881326,Saint Lucia,21:01:03,2.447530,Tajik,tg,1049,1984-06-04T18:10:27,Schwarz-Schwarz,impedit.mp3,Olten,2009-07-11,$8.69,a8:8e:41:8f:b9:fd
+CH,srv-79.baumgartner.com,-61.060487,Saint Vincent and the Grenadines,11:49:20,30.225447,Xhosa,kw,92754,1977-04-12T03:20:31,Baumgartner Ltd,cumque.mp3,Worb,2011-08-29,$496.33,5f:0b:94:82:3d:a7
+CH,srv-45.zingg-michel.com,-37.9846995,Saudi Arabia,07:19:47,37.516978,Kikuyu,ne,4,1995-02-24T22:22:38,Meyer-Spörri,soluta.jpg,Einsiedeln,1981-04-29,"$88,784.89",32:45:4f:85:3b:63
+CH,email-79.tobler-knecht.com,33.0467505,Guinea-Bissau,22:08:04,115.438715,Samoan,hsb,11604016,1994-09-01T22:02:11,"Lutz, Gloor and Scherrer",odit.mov,Spreitenbach,1989-07-19,$407.23,52:88:df:79:71:aa
+CH,desktop-06.bernasconi.biz,-72.9655535,Gabon,22:32:45,85.947033,Maori,ku,85948022,2011-04-25T16:02:17,Lüscher-Meier,velit.bmp,Schwyz,1996-03-15,$500.15,98:11:10:50:9c:15
+CH,email-44.hofer.info,-64.666675,Central African Republic,07:19:48,3.993987,Tatar,ve,8258,1981-02-23T14:14:38,Zimmermann Ltd,corrupti.odp,Maur,1973-04-20,$6.41,fa:aa:30:fa:86:5c
+CH,db-64.gross.info,-77.626506,Mozambique,16:27:41,-122.679477,Armenian,mt,3342076,2022-10-31T17:27:19,Schürch-Koch,perspiciatis.ppt,Altstätten,1999-04-29,$25.86,61:3e:af:0c:3f:13
+CH,desktop-96.suter.info,2.2670045,Paraguay,10:28:21,-166.335234,Amharic,an,96437512,1971-05-02T19:58:10,Zehnder-Schär,earum.pdf,Arbon,2005-04-01,$4.14,ac:25:43:c1:35:d9
+CH,db-73.hug-scheidegger.com,-86.661184,Comoros,02:56:36,-30.126960,Samoan,ky,9,1988-03-31T18:44:25,"Roos, Gerber and Maier",eligendi.png,Brig-Glis,1985-04-15,"$64,397.33",14:05:8c:8e:58:c8
+CH,web-98.egli.com,19.020706,Taiwan,18:56:02,-22.264860,South Ndebele,et,99974,1972-04-10T06:01:30,Stocker LLC,possimus.json,Horw,1978-01-06,$0.44,ac:da:ec:2f:cf:69
+CH,lt-81.stadelmann.com,-83.328969,Guyana,00:02:11,170.644910,Pali,nr,7318,1981-10-31T17:15:41,Frick and Sons,hic.csv,Spreitenbach,2005-12-19,$884.48,c6:64:b6:75:1f:1a
+CH,email-34.steffen.com,-29.742639,Malawi,23:14:31,-158.085702,Wolof,hak,79612933,2022-06-24T20:20:05,Moser Ltd,praesentium.json,Birsfelden,2023-02-14,"$7,193.47",b2:53:dc:97:e7:67
+CH,srv-69.roos.com,38.536020,Laos,15:53:04,154.118251,English,zu,3,2009-05-15T02:11:00,Beck-Maier,quidem.js,Zug,1985-01-03,"$81,285.36",1c:77:1b:75:14:9a
+CH,desktop-85.kung-schwarz.com,50.286877,Iraq,07:58:47,-65.440612,Bihari languages,mt,7,2005-12-11T05:28:18,Blaser-Lang,minima.mp4,Steinhausen,1973-09-05,"$64,457.17",14:c3:83:a1:46:f8
+CH,lt-08.koch.com,-31.1734775,Qatar,19:58:17,-176.306342,Tigrinya,sa,393061484,1990-02-11T02:50:09,Tanner-Spörri,incidunt.bmp,Le Grand-Saconnex,1978-03-11,$428.78,79:90:21:26:f2:0a
+CH,email-60.zbinden.com,-13.721031,Italy,05:03:26,-46.581640,Pali,yue,7631265,1971-08-23T05:35:24,"Schneider, Eugster and Bauer",impedit.flac,Worb,1988-08-12,$6.01,9d:0f:12:c1:28:c8
+CH,desktop-84.ammann.org,56.0202665,Palestine,11:26:22,56.093013,Bosnian,shs,303540624,1970-07-22T07:31:00,Zehnder-Gloor,exercitationem.mp3,Riehen,1996-09-09,"$3,705.91",c9:6d:f0:33:12:fb
+CH,lt-23.hafliger-probst.com,9.8605645,Nauru,03:04:06,140.503802,North Ndebele,bem,5,1996-05-02T04:39:59,Roos PLC,delectus.numbers,Muri,2016-05-21,$434.70,7f:be:99:f6:02:c5
+CH,lt-78.stauffer.com,-20.941350,Turkey,15:46:27,-173.460703,Serbian,iu,80767,2016-06-24T14:33:12,Hofmann Inc,distinctio.jpeg,Wallisellen,1992-12-02,"$23,518.18",5d:51:fd:e7:42:51
+CH,lt-39.fehr-bosshard.com,-58.738330,Kiribati,00:51:13,75.176330,Finnish,ur,936216756,1991-03-07T16:50:46,Frick Inc,quo.tiff,Zürich,1997-08-18,$18.99,30:04:2e:c0:13:66
+CH,db-58.bauer.com,8.205834,Oman,18:22:08,88.987473,Luba-Katanga,nb,280455,1988-09-20T13:44:30,Ziegler LLC,cum.mp3,Romanshorn,2000-11-04,"$51,518.11",7e:ac:97:c9:21:f0
+CH,laptop-07.schoch.com,35.111077,Luxembourg,09:42:47,62.516264,Walloon,te,7929,1982-11-07T04:48:55,"Lüscher, Steffen and Kunz",aliquid.flac,Bernex,1989-04-13,$48.97,96:84:1f:61:93:a8
+CH,laptop-20.koch.com,-5.590188,Kazakhstan,10:01:18,149.310425,Cree,li,34,2001-12-07T07:46:48,Bieri LLC,repudiandae.key,Dietikon,2000-10-11,$994.50,cf:49:f2:5b:6b:51
+CH,srv-44.schmidt-schmid.com,39.2952375,Republic of Ireland,02:05:31,-151.693655,Indonesian,lv,1620,2008-11-27T10:05:47,Schneider and Sons,corporis.mp3,Plan-les-Ouates,2006-12-19,$51.78,70:f8:b5:f6:3b:1b
+CH,srv-28.weibel-vogel.biz,43.3968535,Nepal,20:54:31,52.199661,Tibetan,lij,9514502,1976-10-19T04:35:17,"Stadelmann, Ernst and Weber",eos.wav,Renens,2005-05-13,$29.01,8b:d6:58:f4:d7:9d
+CH,email-55.braun-roth.net,-26.9054745,Belgium,04:44:26,171.652877,Tagalog,xh,11,1977-01-03T22:03:03,Blaser and Sons,illo.mov,Kreuzlingen,2021-09-04,"$67,759.58",c8:c4:0f:79:89:af
+CH,laptop-37.wirz-schaub.com,-26.689118,Brazil,00:51:38,0.938170,Romansh,th,13,1990-10-17T05:49:10,Bucher and Sons,culpa.key,Schlieren,1990-06-30,"$87,789.93",e2:61:fe:dd:2c:e2
+CH,laptop-13.muller.info,37.4881975,Denmark,22:26:30,-66.956702,Kanuri,wa,62,1996-10-25T20:50:42,"Bühler, Hoffmann and Wehrli",rerum.avi,Ecublens,2016-09-13,"$20,462.50",b7:ff:d7:48:d0:66
+CH,laptop-37.hermann.com,13.1377805,Latvia,01:49:50,5.642300,Portuguese,nr,817745,1981-12-22T09:50:44,Herzog PLC,eos.numbers,Crans-Montana,1990-08-16,$597.39,43:32:80:89:30:4f
+CH,db-12.haas.org,72.897612,Armenia,19:38:37,-51.281265,Kazakh,es,85549,1998-09-08T06:35:44,Betschart and Sons,voluptatem.csv,Villars-sur-Glâne,1999-01-20,$864.89,1b:3b:9e:4d:f5:af
+CH,lt-97.staub.com,21.441470,Finland,00:01:20,99.247205,Afrikaans,sid,394458,1973-06-17T09:00:05,Blum-Schaller,recusandae.tiff,Schwyz,1997-03-02,"$3,652.88",3b:a1:75:4f:c6:30
+CH,desktop-66.frey.net,-84.2209345,Uzbekistan,00:17:44,40.907352,Afrikaans,mn,96,1982-06-09T18:27:16,Hess-Lehmann,doloremque.txt,Volketswil,1974-10-20,"$32,568.93",09:77:41:8f:19:81
+CH,email-38.marti.com,5.604888,Hungary,06:13:36,141.813989,Maori,is,21,1982-09-05T20:33:16,"Steffen, Jäggi and Gloor",velit.json,Horw,2023-03-28,"$22,743.50",7f:42:93:1e:3f:f4
+CH,lt-17.frey.info,-42.129019,Malaysia,15:09:39,-115.900436,Uighur,ti,69235852,1991-03-26T07:07:41,Baumann-Sigrist,quam.docx,Zofingen,2011-06-21,"$42,293.18",5f:15:c4:66:e5:60
+CH,laptop-64.schoch-blum.biz,69.4690785,Oman,10:27:05,-64.243466,Kazakh,wae,37525,2006-08-25T05:46:38,"Mäder, Kälin and Zbinden",magni.flac,Rheinfelden,1975-02-18,"$9,903.70",f7:e0:a6:d3:b0:bf
+CH,srv-25.hoffmann-gut.com,-35.9218675,Tajikistan,22:42:54,-92.376864,Maori,wal,292,1976-10-08T09:01:15,"Christen, Furrer and Imhof",voluptatem.json,Mendrisio,2008-08-12,$811.36,18:34:8e:79:2c:5f
+CH,srv-74.koch.info,-17.9422685,Taiwan,16:35:32,-19.844111,Dzongkha,ckb,872,1991-06-02T11:45:57,Spörri-Zbinden,architecto.tiff,Wettingen,2017-08-28,$828.85,e0:8a:d0:b3:cd:a6
+CH,desktop-75.vogel.com,-28.9833745,South Africa,14:20:56,45.131138,Vietnamese,eu,9,2002-04-07T17:40:51,Bosshard Ltd,aspernatur.avi,Flawil,1978-01-12,$0.31,84:cf:23:66:0a:a6
+CH,email-43.amrein-hofmann.com,-44.093072,Bolivia,06:11:34,51.498759,English,tl,913183837,1977-08-20T03:32:45,Hunziker-Hermann,laborum.jpg,Burgdorf,2010-02-11,$68.18,f8:9c:21:1c:51:b4
+CH,web-26.gloor.com,-17.5218055,Myanmar,11:03:51,20.887441,Kashmiri,an,2334,1999-08-12T09:56:49,"Bättig, Bolliger and Aebi",ducimus.html,Arth,1973-05-06,$793.05,5d:94:a6:c8:74:d3
+CH,email-07.sigrist-favre.com,-6.122029,Norway,11:34:00,7.745727,Swedish,eo,330937,1997-08-07T12:57:16,Hauser Group,impedit.mp4,Steffisburg,1989-06-23,"$69,888.23",27:6f:3d:db:f8:51
+CH,email-51.zurcher.com,63.967876,Germany,14:41:47,130.972664,South Ndebele,ha,64,2023-04-14T15:55:10,Weber Group,laboriosam.wav,Martigny,1999-06-27,$7.32,78:18:15:f0:1a:77
+CH,db-00.luscher.com,-17.935757,Somalia,18:04:54,-85.070090,Dutch,rw,7258731,2018-06-25T00:05:39,"Senn, Zingg and Furrer",repellat.webm,Aarau,1988-05-11,$685.14,3e:41:ed:65:52:40
+CH,laptop-52.hermann.net,-65.1366425,Chile,17:12:26,-67.457969,Uighur,ht,9,2022-08-14T14:55:57,Frey-Schlatter,quod.pdf,Birsfelden,2018-12-27,"$68,795.88",30:a9:c4:2b:7d:fd
+CH,email-75.stalder-battig.com,-2.625125,El Salvador,05:31:45,38.485495,Ojibwa,af,6214969,1982-12-25T19:04:57,Stalder-Sutter,soluta.pages,Birsfelden,2014-04-17,$7.22,94:23:a7:d0:f6:df
+CH,srv-99.stalder.org,-1.3330575,South Korea,04:23:20,59.101891,Nauru,uk,31584,2016-05-18T05:52:13,Ferrari PLC,autem.html,Weinfelden,2012-05-17,"$6,685.81",6c:bc:9d:52:eb:1f
+CH,laptop-60.schenk-zimmermann.com,82.473121,France,17:15:19,122.946554,Mongolian,li,593399,1976-04-21T13:09:37,Zollinger-Spörri,harum.jpg,Münchenstein,2021-03-16,$118.77,1f:cc:39:50:52:a4
+CH,laptop-03.baumann.com,-75.8066495,India,13:03:13,55.743286,Armenian,ka,5,2014-07-22T19:00:34,"Rüegg, Christen and Lanz",odio.mp4,Grenchen,1975-02-24,$5.38,9e:92:ef:6e:f5:bf
+CH,web-03.gfeller.com,-88.866438,Mauritius,14:41:09,167.310679,Hebrew,kl,450113770,1970-11-08T08:47:39,Ackermann Group,eligendi.mp4,Küssnacht,1991-09-21,$93.64,73:f7:21:9f:3c:2f
+CH,db-68.stettler.com,-16.4040355,Republic of the Congo,08:33:42,-121.225163,Italian,szl,1994893,1985-04-17T05:09:59,"Schnyder, Vogt and Sidler",rerum.jpg,Köniz,2020-11-30,$1.88,b5:30:87:ac:8d:45
+CH,email-23.furrer-braun.biz,-16.540579,Sweden,19:36:51,87.843654,Inuktitut,ti,24802,1996-04-17T05:21:06,Schaub-Schumacher,quasi.mp4,Urdorf,1986-08-26,"$27,908.79",20:bd:9e:52:d7:92
+CH,web-16.blaser-kuhn.com,55.514658,Seychelles,08:43:03,89.236401,Persian,tt,364698,1979-11-08T01:11:21,"Stocker, Braun and Benz",veniam.wav,Ittigen,1981-01-21,$8.34,eb:80:64:40:a0:77
+CH,web-13.schaub.net,48.100387,Bosnia and Herzegovina,12:04:15,-144.001787,Nepali,ko,3066,1989-03-31T00:55:36,Lutz Inc,dolore.ppt,Aarau,1997-09-24,$605.31,f1:e1:b3:2e:e2:16
+CH,laptop-72.studer.net,-8.5438545,Australia,22:29:12,112.150734,Sardinian,ga,99031069,1982-09-28T18:42:07,"Rüegg, Bosshard and Steffen",voluptatum.webm,Steffisburg,1979-12-13,"$9,783.13",ac:74:bc:92:7b:bd
+CH,email-42.sutter.com,85.575714,Iraq,14:44:53,-28.510760,Avestan,sq,466966273,1989-02-21T20:49:10,Zürcher-Hess,voluptatem.json,Plan-les-Ouates,2011-08-17,$584.45,73:81:6a:34:c8:e7
+CH,laptop-35.probst-lustenberger.com,-43.563067,Indonesia,00:44:37,59.405728,Somali,mhr,7737,1986-08-04T13:31:00,"Benz, Betschart and Tobler",impedit.js,Arth,1982-07-13,$5.38,c8:49:e8:b4:5b:0b
+CH,email-69.hofmann.com,-62.2637455,Indonesia,23:32:06,52.013952,Corsican,cv,6,2014-06-30T11:25:57,Eugster PLC,ea.gif,Vernier,2020-11-18,$5.78,89:af:7b:7c:02:af
+CH,lt-33.schwarz-steffen.com,86.2138385,Bhutan,19:35:59,-132.861247,Pushto,ht,179019378,2009-06-29T19:56:33,Schweizer-Walder,et.mp3,Nyon,1985-03-11,$4.82,23:f9:77:d9:30:13
+CH,db-29.steiger.org,52.995224,Mauritania,13:26:12,40.436753,"Sotho, Southern",ha,8175459,1981-06-02T12:57:00,"Ott, Steffen and Wüthrich",soluta.json,Illnau-Effretikon,1983-07-03,$912.82,cd:57:35:9a:b7:7d
+CH,web-80.hasler-stutz.net,-30.307158,Sweden,18:04:16,105.997411,Japanese,gv,5,2001-09-07T13:59:46,Knecht Inc,nostrum.flac,Nyon,1991-05-10,$14.85,10:f8:89:c1:67:f7
+CH,desktop-03.forster.biz,-66.2973825,Venezuela,00:51:06,4.535678,Hindi,yue,25455181,1991-09-04T06:05:09,"Lang, Sidler and Frei",sequi.mp3,Lancy,1980-11-08,"$71,766.90",e8:c1:51:2e:89:97
+CH,srv-16.buhlmann-michel.com,-82.459664,Guinea-Bissau,12:29:16,146.956312,Sichuan Yi,sk,51425040,2005-05-04T17:36:09,"Wettstein, Bieri and Fehr",eius.html,Horw,2014-01-10,$36.71,37:e4:67:e5:ec:92
+CH,srv-15.beck.com,-43.386141,Croatia,23:39:23,69.078498,Hausa,sd,9004077,2019-09-25T06:46:30,Hirt PLC,qui.ods,Brig-Glis,2001-09-23,"$65,223.37",0d:e0:55:9d:bc:c2
+CH,lt-85.amrein.com,-77.313948,Mongolia,15:13:46,-149.661624,Bosnian,vi,8911,1989-10-12T05:09:51,Rey Group,nihil.avi,Burgdorf,2020-08-21,$97.24,17:28:7b:e9:8c:68
+CH,desktop-85.hafner.info,44.142421,Czech Republic,00:46:44,75.383159,Tajik,ti,82608,2015-11-08T18:12:04,Walter-Favre,quibusdam.mp3,Val-de-Ruz,1988-11-09,$33.55,08:97:e3:48:75:32
+CH,desktop-79.wagner-bosshard.net,19.887820,Cuba,20:46:51,123.093949,Northern Sami,ts,752,1973-01-01T02:22:29,Studer Group,natus.key,Altstätten,1980-02-20,"$6,488.79",23:e9:ca:69:73:b7
+CH,web-90.hartmann.com,75.439323,Bahrain,08:23:41,-96.835871,Cree,de,5,2006-08-28T16:55:07,Fuchs-Studer,sequi.pdf,Muttenz,2000-06-24,"$76,016.16",70:02:56:aa:a3:25
+CH,db-67.luthi.com,1.3479715,Kiribati,02:27:09,-54.185386,Tagalog,pt,1158146,2017-06-03T21:27:50,Bauer Ltd,voluptatem.mp4,Ittigen,2022-09-25,$98.57,2c:a0:90:2a:72:92
+CH,web-87.wehrli.com,11.6923025,Iceland,19:19:30,176.149127,Rundi,ru,56357340,1980-09-27T05:30:28,"Frei, Hofmann and Roos",minus.csv,Neuenburg,1985-04-25,$2.03,b3:5a:08:7b:be:53
+CH,web-32.favre-hofstetter.com,38.2344085,Armenia,01:29:53,-144.875523,Hindi,os,2008,1971-10-28T19:14:07,Stucki and Sons,accusamus.wav,Kriens,1978-05-10,"$7,130.39",ba:d7:b3:43:28:6b
+CH,email-79.stucki.info,3.578018,Sierra Leone,21:08:02,3.627974,Pushto,ayc,8724,1974-10-09T05:38:08,Felber-Friedli,quae.tiff,Morges,2014-02-11,$5.16,47:45:9f:58:8f:f2
+CH,laptop-47.roos.info,18.2502495,Austria,11:54:54,148.351041,Telugu,ku,88834,2013-11-22T13:58:40,Wagner-Bolliger,quasi.png,Bassersdorf,1993-05-18,"$8,009.79",9c:78:7a:3e:21:f6
+CH,laptop-78.knecht.com,-7.663232,Barbados,16:36:27,92.559766,Avaric,ku,4,2004-08-21T05:14:45,"Stettler, Winkler and Grob",odit.html,Binningen,1977-07-05,$204.35,c2:67:9e:ca:b2:72
+CH,web-74.meili-eugster.com,62.621267,New Zealand,18:19:57,-147.737492,Galician,mk,4,1999-11-29T04:53:25,Bühler-Lustenberger,deleniti.flac,Urdorf,1981-04-14,"$55,336.12",75:a2:7c:df:dc:00
+CH,web-45.scheidegger-wettstein.org,-64.481385,Serbia,08:33:54,179.001219,Haitian,ha,331651969,1996-10-10T23:03:58,"Moser, Walder and Widmer",sapiente.flac,Maur,1998-01-16,$87.90,6b:4f:0d:df:dc:ed
+CH,email-68.schmid.biz,-29.9323025,Mongolia,15:40:18,47.401566,Welsh,tk,3750,1996-07-09T03:39:38,Suter and Sons,hic.css,Vevey,1990-01-15,$39.93,75:7a:ea:88:6f:21
+CH,laptop-60.imhof-ferrari.biz,-72.015096,Burundi,12:57:30,142.623921,Fulah,ha,14,1972-11-09T11:13:08,Hofstetter and Sons,nam.avi,Oftringen,1998-03-10,$0.79,3e:ee:d0:f4:9a:0a
+CH,laptop-37.bolliger.com,-48.746396,Estonia,20:53:09,-140.348052,Bashkir,st,3971,1975-10-09T15:23:31,Kuhn-Forster,odio.jpeg,Zollikon,1990-05-31,"$9,778.84",3b:2a:7c:6e:86:30
+CH,db-31.probst.com,-71.7711655,Moldova,17:06:42,-158.923192,Pushto,sw,601312716,1994-07-05T12:11:30,Schoch-Schneider,excepturi.mov,Dübendorf,1986-05-14,"$77,510.49",73:43:b4:73:05:d9
+CH,email-48.frick.info,11.3314575,Montenegro,16:46:06,-30.566075,Esperanto,mr,8032,1972-07-24T18:54:55,Wirz-Lehmann,animi.mp3,Chur,2003-06-30,"$93,278.72",62:89:ba:12:dd:55
+CH,lt-71.buhler.com,7.287547,Eritrea,16:39:11,-140.008920,Azerbaijani,nan,45,1972-09-30T22:24:21,"Hafner, Lustenberger and Gasser",mollitia.html,Lenzburg,2005-11-24,"$5,085.49",c5:93:e5:4b:78:fe
+CH,laptop-51.probst.com,18.3383305,Afghanistan,08:56:27,144.202580,Swedish,id,636584,1980-10-10T13:50:07,Peter PLC,vel.flac,Solothurn,2017-02-20,$5.11,5d:25:8e:a8:69:a7
+CH,lt-79.ernst.com,71.016381,Saint Vincent and the Grenadines,10:05:46,18.332314,Azerbaijani,fo,988723,1982-12-20T22:41:16,Meier Ltd,provident.flac,Neuenburg,2014-12-02,$290.87,54:d9:eb:17:0a:4a
+CH,laptop-62.schmid-luscher.net,-24.735483,Russia,11:43:12,81.792913,Uighur,fi,27,1972-10-05T04:56:03,Wirth PLC,saepe.webm,Versoix,2008-02-03,$2.18,5d:7e:6a:6b:77:d6
+CH,email-45.giger-huber.info,14.3180595,Cyprus,21:30:05,-105.168718,Maltese,mi,46,1975-03-21T00:19:26,Merz-Schweizer,iusto.wav,Emmen,1975-11-19,"$1,276.39",04:c9:64:b4:13:d1
+CH,lt-53.sutter.com,-85.584630,Lesotho,05:52:42,168.184056,Slovenian,cv,1735582,1970-07-28T01:24:18,Schmidt Ltd,iste.webm,Kriens,1988-05-27,$61.09,08:68:43:ed:c5:3f
+CH,laptop-45.thommen-steinmann.com,-14.6608045,Bahamas,17:45:58,104.697122,Swedish,mhr,53457018,2007-06-20T01:30:59,"Schwab, Portmann and Ziegler",provident.mp3,La Chaux-de-Fonds,2014-10-22,$29.46,f3:a5:88:50:a4:7c
+CH,lt-00.portmann-kaser.com,-58.8679545,Mexico,19:48:04,152.968031,Igbo,tt,354,2020-08-27T06:15:33,Wirz Group,dolor.wav,Zollikon,1981-12-05,$311.04,37:23:ff:14:ea:9d
+CH,desktop-81.zollinger.biz,54.6610005,Palestine,19:20:28,-174.867536,Chinese,fi,1,2013-03-08T12:19:18,"Zimmermann, Stutz and Marti",animi.avi,Pratteln,1978-11-06,$609.46,9d:18:b6:3a:e1:60
+CH,srv-98.winkler.net,-82.6650395,United Arab Emirates,06:53:19,-57.619362,Manx,lg,35996639,2021-06-26T05:25:11,Schweizer Ltd,ad.mov,Payerne,2003-03-27,"$8,517.17",d0:88:88:a6:8b:bb
+CH,web-32.gloor.org,84.5363115,Nigeria,11:40:13,86.359221,Amharic,eu,1,1999-08-29T06:06:21,"Schärer, Lustenberger and Sidler",officiis.docx,Le Grand-Saconnex,2023-02-04,$729.64,0a:d7:0b:b0:58:79
+CH,web-70.weber.com,-47.5403885,Republic of Ireland,22:17:07,-57.661343,Korean,mi,21432,2016-04-06T20:26:55,Suter Group,odit.csv,Birsfelden,2003-06-18,"$1,253.62",a9:47:44:d3:ef:ee
+CH,desktop-78.widmer-zehnder.com,64.9021605,Nauru,11:09:55,-46.184473,Croatian,kk,12844234,1987-05-06T13:39:33,Stauffer PLC,iusto.mp4,Flawil,1975-04-03,$913.45,3b:c9:bb:d9:70:29
+CH,laptop-89.kessler.com,-82.816934,Belarus,12:18:06,-12.106369,Ojibwa,ur,415327,1979-12-17T07:56:00,Stadelmann Inc,expedita.webm,Spiez,1993-04-07,$140.52,ad:da:7d:cc:fd:4a
+CH,desktop-09.schlatter.com,-14.1003995,Palestine,02:18:05,-148.494048,Esperanto,tcy,15915208,2013-05-02T00:20:40,Schneider Inc,impedit.webm,Wetzikon,1982-11-21,"$1,289.27",09:ea:c7:26:e5:38
+CH,email-04.ott.com,16.2294295,Ghana,17:55:08,-79.195957,Yoruba,lt,6066313,1988-03-08T00:38:26,"Zehnder, Beck and Hoffmann",nesciunt.numbers,Wil,1985-02-01,"$8,894.98",4b:b0:83:98:92:98
+CH,laptop-10.wegmann.com,-15.6813505,Greece,12:47:51,58.727062,Hungarian,lij,66,1978-11-17T03:11:20,Maier Ltd,ipsa.flac,Rheinfelden,1981-02-23,$2.61,63:f1:7f:e7:52:6b
+CH,desktop-80.christen.com,-74.860138,Taiwan,17:41:06,117.585097,Esperanto,szl,85936,1972-07-21T06:22:28,Huber and Sons,odit.html,Crans-Montana,1996-08-28,$509.21,49:1b:da:7d:39:63
+CH,srv-45.haas.com,5.7702095,Fiji,09:35:14,-10.411035,Japanese,nn,289506081,1981-11-04T04:51:02,Ritter-Zbinden,maiores.csv,Villars-sur-Glâne,1984-02-07,$869.13,57:82:e6:9a:17:1f
+CH,web-62.schmidt.com,-24.1393215,Ethiopia,13:46:28,-88.240360,Quechua,lg,8986,2014-09-26T09:04:51,Baur-Gut,a.mov,Thalwil,1997-11-26,$7.52,4c:77:91:ce:53:a5
+CH,desktop-40.sporri.com,58.8689065,Denmark,21:48:06,8.717334,Hindi,bg,9,1991-10-20T04:31:13,Bosshard PLC,blanditiis.jpg,Vevey,1999-05-28,"$53,193.83",87:c2:bb:a9:e5:fd
+CH,web-42.zehnder.com,45.525458,Luxembourg,11:39:50,92.984578,Pali,vi,825186,2008-03-06T10:42:51,Maurer-Gut,minus.doc,Solothurn,1970-01-11,$3.57,43:4e:05:3f:81:12
+CH,web-49.hunziker-ruegg.com,-60.501353,Lebanon,11:17:55,76.620219,Chechen,ss,937885,1988-12-26T11:35:04,Egger-Maier,accusamus.txt,Crans-Montana,1977-12-17,"$5,623.25",51:96:c2:f1:89:81
+CH,db-86.vogt-friedli.com,-57.7072565,Eritrea,22:53:09,-55.364095,Northern Sami,pa,71,1981-08-27T20:19:00,Stocker-Berger,provident.mp3,Thalwil,2013-10-23,"$49,637.77",a3:8b:b5:9e:7c:4c
+CH,lt-92.bucher-seiler.net,-67.576338,Tanzania,18:44:55,-47.290194,Corsican,am,8313,1994-02-13T13:25:39,Christen-Probst,officia.mp4,Siders,1983-07-04,$29.83,b9:ec:d2:69:39:fb
+CH,lt-67.hermann.com,-14.342158,Nepal,13:04:20,-68.605215,Kikuyu,mk,6104,2017-04-03T23:27:06,Schumacher and Sons,cupiditate.tiff,Steffisburg,2004-06-24,"$21,292.43",80:15:3e:8f:12:dc
+CH,db-94.hofstetter.org,-20.347545,Nigeria,09:07:24,161.818597,Portuguese,ve,38277,1996-05-14T04:57:29,"Müller, Hermann and Spörri",inventore.txt,Risch,2009-12-10,$1.52,44:38:ad:19:3c:93
+CH,email-78.studer.info,2.9286565,Montenegro,19:07:34,-50.859435,Chuvash,fo,1,2013-03-11T14:45:15,"Brun, Rüegg and Walter",voluptas.webm,Volketswil,1998-05-23,$864.93,92:21:f0:4a:2f:da
+CH,email-02.scherrer-zingg.com,-0.063016,Guinea-Bissau,14:38:01,-68.691075,Lingala,et,260014,2007-10-28T20:19:30,"Vogel, Felder and Fuchs",veniam.jpeg,Lancy,2006-06-15,"$9,448.25",f9:e5:bf:4b:f7:2f
+CH,lt-56.bieri.biz,11.1096335,Zambia,08:26:21,97.750362,Icelandic,crh,30250,2016-12-31T13:40:32,"Häfliger, Albrecht and Hauser",distinctio.json,Lutry,1990-10-06,$132.54,d8:33:ae:33:93:db
+CH,desktop-07.bernasconi.net,16.7322115,Palestine,22:45:56,72.361593,Sardinian,cmn,2,2017-12-15T09:30:31,Bättig-Stadelmann,quos.bmp,La Tour-de-Peilz,2014-02-28,$0.51,4a:1b:fd:5d:1b:c5
+CH,desktop-26.ott.net,-73.3837085,Slovenia,04:04:48,48.203912,Pushto,tn,413,2021-12-09T23:34:18,Imhof-Maier,voluptas.json,Morges,2013-10-27,$37.79,fb:61:03:66:40:8e
+CH,email-57.sporri.org,-80.272087,Lebanon,03:22:06,-126.356232,Thai,unm,92,1983-04-12T02:32:06,Flückiger Ltd,quae.css,Möhlin,1979-11-23,$5.39,04:7f:60:04:54:19
+CH,desktop-46.sporri-steiner.org,-53.177394,Sri Lanka,02:36:54,-87.594406,Thai,gl,878,2018-10-02T08:07:14,Stucki Group,expedita.bmp,Ecublens,2005-12-27,$974.06,83:1f:bd:38:54:ef
+CH,web-17.kuhn-jost.com,48.444081,Uzbekistan,07:03:33,-137.792335,Avaric,ca,9,1994-09-14T18:46:46,Zollinger-Sutter,assumenda.css,Zofingen,2019-03-07,$718.33,9c:a6:5e:02:bc:93
+CH,db-04.furrer-blaser.com,28.3327995,Monaco,19:53:16,-153.526257,Burmese,eo,682257898,1999-01-01T09:57:48,"Eugster, Gerber and Fankhauser",corporis.mp3,Thalwil,1977-06-21,"$85,457.17",c5:94:5d:f1:65:eb
+CH,laptop-40.sutter.com,52.1958725,South Africa,04:00:39,71.912361,Ido,tg,8,2016-06-29T09:40:36,"Hofer, Gasser and Sigrist",eum.jpg,Sarnen,1979-05-08,"$76,067.62",d6:c5:c3:4a:15:14
+CH,lt-68.moser.com,-84.944593,Central African Republic,14:00:51,90.282623,Malay,mr,21130501,2000-01-27T05:17:29,"Meister, Hoffmann and Widmer",fugit.txt,Steinhausen,1993-02-06,$685.25,c0:36:25:8b:0d:57
+CH,desktop-13.ruegg.com,-64.0238555,Jordan,11:39:54,-54.555566,Bashkir,gez,93483184,1991-05-05T01:37:05,Felder LLC,nisi.doc,Monthey,1990-05-07,$91.44,24:85:2f:8d:70:d2
+CH,web-91.tanner.com,80.061737,Saint Lucia,13:18:18,168.389876,Esperanto,pap,594,1973-06-29T14:58:47,Siegrist-Benz,hic.wav,Thônex,1975-06-03,$1.90,3b:3b:21:16:99:97
+CH,laptop-96.steffen.com,42.4725035,Belgium,09:16:21,-118.802456,Kazakh,ln,9,2005-09-15T02:32:54,Wagner LLC,a.mp3,Crans-Montana,1985-07-13,"$7,673.92",cc:eb:86:62:b4:d4
+CH,lt-02.christen.net,19.7718755,Lithuania,11:53:14,65.620718,Avestan,as,3076,1971-07-04T15:23:48,Fuchs-Lüscher,asperiores.csv,Luzern,2021-02-03,$414.43,b3:28:e5:93:71:ca
+CH,desktop-86.steffen-hurlimann.biz,28.2922925,Vatican City,23:06:17,159.060393,Hindi,cs,8164602,1987-08-20T17:47:09,Hürlimann-Huber,enim.xls,Horw,1978-05-08,$412.11,52:71:dc:7e:7c:e2
+CH,laptop-06.wettstein-wettstein.com,-42.135783,Cambodia,21:01:21,5.688826,Xhosa,pa,13,1973-11-11T12:59:38,"Kunz, Ernst and Peter",deleniti.tiff,Veyrier,1973-05-27,$166.33,1f:7a:8b:3b:79:22
+CH,db-10.brunner.net,64.005175,Bahrain,05:31:04,92.052065,Tatar,ps,57865,2019-12-15T12:01:36,"Bauer, Baumgartner and Studer",illo.webm,Davos,2010-02-25,$825.75,34:70:a8:ab:eb:da
+CH,srv-91.wuthrich-hofstetter.info,-44.3710185,Costa Rica,03:33:15,87.948775,Ganda,nr,43354,1981-12-03T21:25:06,"Gloor, Meyer and Hasler",hic.json,Muri,1999-10-09,"$3,637.29",dd:57:83:24:cc:ec
+CH,srv-15.keller.biz,-13.443768,Bahrain,03:28:48,53.919196,Quechua,sc,9,1983-12-18T07:14:30,Baumann Inc,sunt.js,Langenthal,1982-08-25,$3.66,50:70:d3:b4:ca:5a
+CH,email-41.zbinden.net,46.5433185,Costa Rica,13:07:18,-171.058100,Tsonga,yi,297516,2002-07-25T09:23:27,Pfister Ltd,libero.json,Sursee,2001-04-10,"$89,039.72",d5:a8:37:db:29:7f
+CH,desktop-49.lustenberger.com,-45.549603,Haiti,11:24:02,-13.367763,Kirghiz,ky,2466,2001-07-31T15:45:17,"Felber, Schweizer and Schweizer",ullam.xls,Olten,1984-09-28,"$5,752.14",1e:e5:84:72:96:49
+CH,lt-69.michel-steinmann.info,8.906426,Equatorial Guinea,01:29:07,-3.798193,Arabic,apn,5,1992-09-12T19:41:16,Moser Group,voluptas.flac,Sarnen,2010-01-01,$62.15,35:c7:4a:bf:13:0e
+CH,srv-50.grob-hunziker.org,46.6379355,Afghanistan,01:11:26,-72.648024,Venda,ha,435878,1980-07-27T10:11:30,Fankhauser Inc,rerum.mp4,Thônex,2021-07-04,"$3,459.60",d7:56:67:1c:ee:f1
+CH,db-85.kuhn-friedli.com,-27.3840755,Mexico,11:47:00,56.910741,Quechua,be,3004430,2020-04-12T10:17:48,"Imhof, Kessler and Wirth",commodi.xlsx,Reinach,2022-07-12,$14.34,24:d6:bb:6a:3e:3f
+CH,email-51.naf.biz,-69.788040,Romania,04:58:22,172.198548,Indonesian,bo,197628886,1988-06-21T04:22:17,"Rey, Sutter and Stadelmann",similique.json,Aarau,2007-03-25,"$5,087.62",c4:25:ca:30:01:e9
+CH,db-54.zollinger.net,26.945988,Malaysia,01:07:47,-79.769735,Bihari languages,ha,522939,2009-04-04T17:55:50,Mäder Group,nam.js,Wetzikon,1972-10-30,"$3,076.56",27:c0:2b:3e:a3:5b
+CH,srv-23.furrer.com,85.0885075,Lithuania,07:35:29,-4.879409,Romansh,da,585079083,1989-03-16T03:10:43,Sutter Group,pariatur.pptx,Glarus,2000-08-30,"$17,171.69",90:c9:1b:dc:54:64
+CH,laptop-80.wettstein.com,-27.545012,Namibia,04:29:15,91.917714,Samoan,fo,33,1977-02-04T02:01:39,Schär and Sons,dolor.gif,Pfäffikon,2016-02-08,$724.90,59:7b:a4:b7:ba:89
+CH,web-37.kalin.org,-89.7706165,Myanmar,05:46:40,164.171421,Yoruba,crh,0,2019-12-16T06:00:22,Meili PLC,consectetur.mp4,Richterswil,2013-09-01,$8.36,0e:a2:b3:33:3c:c4
+CH,srv-51.peter-knecht.com,15.9823225,Saint Kitts and Nevis,03:48:32,151.151427,Danish,sw,33114286,1978-02-24T03:23:41,Zimmermann PLC,excepturi.mov,Pully,1992-03-24,"$58,013.65",09:95:4d:22:1e:f3
+CH,lt-94.lehmann-pfister.net,-77.3243005,Cuba,07:21:07,111.774838,Arabic,ta,2,1972-09-06T14:19:13,"Schwab, Bühlmann and Tobler",sed.html,Münchenbuchsee,1984-10-01,$98.70,75:34:21:bb:64:cc
+CH,email-80.schumacher.net,-82.0252655,Papua New Guinea,22:54:32,36.531434,Kurdish,de,4979,1988-04-05T18:18:21,Schumacher and Sons,totam.png,Amriswil,2017-09-01,"$3,626.61",01:eb:2f:da:3a:91
+CH,db-25.hodel.com,-2.3886075,Brunei Darussalam,12:48:49,-3.209409,Tagalog,fy,594258,2001-08-26T22:31:38,"Sigrist, Berger and Frei",sequi.mov,Glarus,1994-10-19,$207.64,9b:4b:af:9c:1f:24
+CH,db-11.frei-naf.com,24.1448495,Myanmar,09:38:16,-122.766237,Tajik,yo,431,1975-03-22T04:43:56,Christen-Hofmann,qui.numbers,Pully,2019-08-07,"$51,503.32",8d:d5:3a:b9:54:76
+CH,web-50.brunner-steiger.com,88.6542635,Equatorial Guinea,11:28:44,136.974622,Thai,quz,20855950,2022-03-23T21:43:31,Wirz Inc,cumque.flac,Wohlen,1974-11-24,"$6,010.68",9f:8a:71:62:26:35
+CH,laptop-06.hermann.org,53.795701,Myanmar,23:41:28,-1.316089,Oromo,mr,99607,2010-07-01T02:24:05,"Ackermann, Hess and Meyer",harum.bmp,Ecublens,1985-08-06,$11.12,c7:f6:c4:3c:36:63
+CH,lt-71.wehrli.com,5.5872015,Latvia,15:09:21,-53.503251,Guarani,da,346114,2004-08-18T02:16:03,Wirth-Lüscher,sunt.csv,Vevey,1975-11-06,"$5,296.75",ed:ef:26:df:f3:b6
+CH,db-17.lang-lustenberger.info,81.767052,Cambodia,21:47:46,-61.146273,Gaelic,an,1688,2023-03-30T17:28:21,Arnold-Wenger,deserunt.txt,Lyss,2022-04-08,"$9,308.51",6d:15:38:dd:86:e1
+CH,desktop-61.peter-schmidt.com,-6.030210,Republic of the Congo,11:34:44,48.508222,Kashmiri,it,672204718,1978-07-09T12:30:37,Bühlmann-Hürlimann,voluptatibus.odp,Wetzikon,1974-10-14,"$1,302.22",c1:f0:a6:85:3f:4f
+CH,email-40.mayer.com,-33.4836615,Egypt,10:22:32,-36.932456,Yoruba,sr,5298409,1988-07-23T00:14:04,Wagner-Käser,ipsa.mp4,Schaffhausen,2017-01-03,$500.57,0b:49:c0:c9:b3:e9
+CH,db-05.suter.com,-71.408989,Nigeria,03:42:34,-115.058160,Kinyarwanda,th,440662,2022-09-16T11:13:15,"Martin, Frey and Scherrer",recusandae.flac,Olten,1979-08-12,$821.38,f2:7d:b4:3a:a2:46
+CH,srv-64.felber.com,10.883779,Bosnia and Herzegovina,09:19:13,-108.336980,Amharic,dz,54,1970-07-09T02:07:02,Häfliger PLC,unde.csv,Sursee,2013-08-03,$4.37,e2:a5:74:e0:c9:c9
+CH,desktop-75.schafer.com,40.194010,Honduras,00:45:55,-88.721342,Divehi,pt,52,2005-07-27T02:18:54,Kälin and Sons,hic.js,Adliswil,1989-11-17,$3.47,75:45:12:d4:c7:71
+CH,email-22.hafner.com,36.056103,Dominican Republic,22:16:44,-150.211083,Tamil,kk,1,1995-06-29T09:28:52,Schär and Sons,aliquam.bmp,Lyss,1982-07-22,"$10,950.42",8a:c6:08:f9:f2:9d
+CH,db-97.meister-scharer.com,-44.0877215,Eritrea,05:48:57,113.748474,Avestan,fi,4,1972-04-22T15:05:15,Bolliger-Gasser,nobis.png,Oberwil,1992-07-14,$7.18,0e:f9:2f:0a:79:2d
+CH,laptop-82.winkler.org,-5.793771,Saint Kitts and Nevis,04:58:27,-144.030529,Latin,bhb,67024,2002-01-10T20:14:17,Schaub-Knecht,tempore.gif,Ecublens,2010-11-13,$6.26,50:52:78:91:26:b5
+CH,laptop-21.brun-rey.org,-14.1712255,Bangladesh,15:12:40,115.980336,Tahitian,nhn,10035487,1990-11-27T16:21:20,Egli-Bieri,explicabo.mp3,Monthey,1979-10-28,"$2,591.68",06:1f:2a:83:d1:78
+CH,lt-52.hodel-kaufmann.com,65.5961435,Iraq,12:52:03,-137.651160,Tigrinya,ia,83636,2012-08-11T20:45:00,Baumann-Ferrari,cumque.mp4,Le Grand-Saconnex,2022-08-01,$353.64,b6:77:04:30:94:99
+CH,laptop-39.schaller.com,-49.8377495,Botswana,13:10:38,-21.190908,Tonga,gv,809013,2004-03-15T08:32:56,Favre and Sons,atque.json,Siders,2003-04-11,"$87,118.04",19:67:a2:f0:9e:7b
+CH,db-17.schuler.org,30.625427,Mongolia,12:26:54,142.103839,Tsonga,ne,68721,1985-03-17T18:28:04,Wirz PLC,perspiciatis.jpeg,Aesch,2003-09-16,"$7,145.57",b1:cb:d6:0a:f6:df
+CH,desktop-75.wyss-wenger.com,-37.3992435,Slovakia,07:59:49,61.781869,Aragonese,yue,22231123,1987-09-27T14:25:12,Zürcher Inc,perspiciatis.png,Neuhausen,2010-06-01,$6.37,b0:83:43:03:e9:58
+CH,db-73.bauer.com,-51.447059,Togo,08:54:07,110.918463,Walloon,hne,9,1974-08-11T05:15:39,Steiger-Lüscher,fugiat.mp4,Frauenfeld,1983-01-26,$1.62,4a:2b:0d:4a:1e:49
+CH,laptop-58.michel.biz,-47.419658,Chile,18:01:19,5.989804,Ewe,bem,365279599,1988-11-05T00:33:53,Schürch Ltd,iusto.wav,Pratteln,2004-08-17,"$14,414.62",db:e9:51:93:79:b9
+CH,srv-91.vogt.com,38.1898565,Nicaragua,00:27:30,-83.170022,Uighur,mg,67341,2008-09-10T09:30:54,"Gerber, Furrer and Martin",excepturi.wav,Worb,2015-03-02,$9.74,ad:e6:4b:9d:0c:86
+CH,email-95.schoch.com,19.227286,Barbados,04:14:20,-159.016585,Belarusian,ga,7,1985-08-30T18:21:57,Stöckli-Stadelmann,dolore.flac,Rheinfelden,2022-08-13,"$17,436.97",00:ca:50:41:04:62
+CH,laptop-15.hoffmann.com,-76.3258035,Myanmar,22:10:01,32.098877,Kuanyama,ta,9402,1988-11-15T12:58:07,Schmid-Zehnder,et.json,Belp,2010-03-09,$406.27,7c:6e:4f:d5:fd:1c
+CH,laptop-10.gut-hasler.com,34.493422,Mexico,15:34:00,-80.770193,Arabic,sc,23761,2000-12-17T13:06:53,Zollinger and Sons,quia.mp3,Risch,2007-12-08,$2.98,17:52:be:eb:cb:c8
+CH,email-90.buhlmann.com,11.609292,Sri Lanka,17:29:27,-155.846008,Romansh,ht,785,1980-04-27T15:26:40,"Scherrer, Jost and Egli",blanditiis.webm,Urdorf,1976-04-18,$17.87,aa:2a:c0:1b:d4:69
+CH,web-87.blum.com,64.3141125,Mongolia,21:36:17,175.148013,Avestan,fur,68005,2017-12-30T00:42:03,Egli-Friedli,et.gif,Liestal,2008-08-06,"$5,312.64",de:a9:59:7c:af:ec
+CH,db-13.schweizer-ackermann.net,-31.0742025,San Marino,18:42:57,153.015326,Abkhazian,wae,598444627,2003-04-02T18:04:17,"Gerber, Mäder and Lüthi",minus.webm,Schwyz,1975-12-30,"$2,073.80",61:5b:a9:b0:9c:93
+CH,desktop-78.vogel.org,-85.952612,Senegal,12:29:34,-44.810369,Icelandic,km,912178,1981-10-22T15:56:10,Frei-Mayer,pariatur.png,Belp,1998-06-16,$88.75,c3:fb:a4:d5:e1:eb
+CH,db-97.giger.biz,-24.4062475,Bulgaria,18:51:47,-13.039877,Cree,ckb,3,2008-07-12T12:24:21,Bachmann-Baur,voluptatibus.wav,Uster,1988-02-29,$57.75,c7:33:8e:b1:56:72
+CH,desktop-23.friedli-eichenberger.com,15.8639005,New Zealand,02:08:40,87.112802,Hausa,ga,62562622,2011-03-15T19:38:40,Kern-Zürcher,ducimus.mp3,Baden,1994-02-06,$6.03,2f:04:b4:5f:d0:19
+CH,email-07.sidler.org,16.5202305,Ukraine,23:16:36,164.109857,Portuguese,fil,97,2007-07-17T11:56:54,Hoffmann-Schwab,facere.bmp,Stäfa,2015-08-12,$979.77,b8:c8:84:68:fe:50
+CH,db-58.kaser.com,-47.2233435,Norway,04:40:47,-5.796744,Croatian,lzh,78624,1988-06-07T13:01:28,Sidler-Stocker,soluta.tiff,Pfäffikon,1988-03-29,$461.38,ed:25:18:af:c6:f7
+CH,web-41.ziegler.com,-2.031127,Georgia,08:50:47,73.480463,Akan,rw,8620,2008-05-31T13:01:17,Zingg Group,ducimus.mp4,Morges,1977-12-20,"$61,699.51",7b:65:be:ca:3c:b4
+CH,email-34.frei.net,46.533867,Denmark,23:16:42,-135.577618,Kongo,hak,770,2021-01-15T11:48:55,Stocker and Sons,ipsa.mp4,Delsberg,2013-11-01,"$33,789.07",24:03:53:c6:c6:ed
+CH,email-38.ziegler.com,-18.174868,United Kingdom,12:07:47,-77.189230,Komi,my,7742006,1980-09-21T23:47:55,Betschart PLC,rerum.pptx,Affoltern,1972-08-28,$705.42,c7:9a:33:d4:93:a3
+CH,desktop-83.walter.net,-26.889012,Latvia,16:51:12,144.052783,Hiri Motu,ps,61628,2008-10-31T04:25:19,Wagner-Sidler,quisquam.png,Opfikon,1994-05-09,$2.83,b8:d1:89:8c:2b:5c
+CH,email-68.bucher.info,-45.0204895,Paraguay,21:35:41,124.190874,Afar,ln,7179,1980-08-11T05:38:14,"Fehr, Ritter and Gut",eius.ppt,Risch,2014-03-23,$77.06,84:0a:d0:43:63:fa
+CH,desktop-71.meister.com,74.4919995,Eritrea,21:25:33,84.124819,Ido,wae,821,2020-07-03T18:06:27,Rey LLC,eveniet.png,Lugano,1985-10-22,$80.39,3e:dd:7d:db:85:a8
+CH,laptop-45.roos-schurch.com,-59.762583,Jordan,13:31:59,-52.280012,Tatar,hi,1,2021-09-20T16:11:22,Schär Inc,incidunt.js,Birsfelden,1994-12-22,$2.23,26:33:4a:09:10:05
+CH,lt-42.gloor-ruegg.com,-30.700903,Angola,20:23:23,57.976115,Irish,de,459792617,1976-02-26T23:13:47,"Leu, Ritter and Bolliger",dolorem.jpeg,Sursee,2003-08-29,$557.77,ac:d9:00:55:3e:1b
+CH,desktop-26.herzog.info,-87.0395295,Germany,23:13:49,-65.264165,Romanian,gu,445546,2009-06-03T16:22:42,Rey LLC,voluptates.mp4,Versoix,1991-05-02,"$5,219.50",d2:b3:1e:37:ef:ad
+CH,db-73.stutz.info,-22.2734375,Greece,13:26:11,-174.552965,Hebrew,ko,6588,1996-11-16T20:56:49,Christen Inc,molestias.avi,Villars-sur-Glâne,1995-03-14,$82.19,b6:83:4c:be:3a:64
+CH,laptop-02.schnyder-zehnder.biz,-33.473706,Cuba,10:25:39,4.104118,Shona,iw,518685,1986-01-09T19:39:13,Kohler-Tanner,commodi.jpg,Chêne-Bougeries,1981-06-13,"$96,464.06",be:07:4e:e6:c2:43
+CH,email-24.eugster-stalder.info,-34.4743645,Serbia,22:30:29,-18.472660,Norwegian Nynorsk,kw,414,1994-10-19T06:30:34,Gross LLC,ducimus.json,Binningen,2016-01-02,$887.28,5e:81:0d:0b:8b:8f
+CH,srv-55.giger.com,-88.895309,Hungary,03:24:55,-52.990512,Avaric,cv,804834473,2002-02-04T10:47:18,"Gasser, Winkler and Schaller",accusantium.pages,Uzwil,1997-09-11,$270.28,c6:7a:60:37:ca:e3
+CH,web-21.eichenberger.biz,-77.2770385,Kiribati,13:35:48,143.701082,Tswana,fi,200474862,1985-12-26T23:58:57,Schwarz-Hirt,ipsum.odt,Thalwil,2006-05-08,"$80,882.71",ee:3a:4b:16:be:a4
+CH,laptop-78.lanz.com,65.6741235,North Korea,19:10:43,-115.297648,Tswana,lzh,60497,1994-03-03T05:06:35,Tanner LLC,nulla.odt,Burgdorf,2019-06-30,$383.56,52:62:b0:c3:35:9d
+CH,laptop-27.bieri-wehrli.com,21.5115855,People's Republic of China,09:38:43,118.730985,Finnish,ce,6412,2018-06-07T19:46:59,"Wirz, Kuhn and Lang",nobis.txt,Wetzikon,1983-05-20,$9.84,f2:0c:24:b7:a9:14
+CH,desktop-38.schaller.com,-17.2337105,Haiti,18:18:19,-29.647084,Danish,raj,2,2000-09-17T02:33:50,"Iten, Gross and Ferrari",pariatur.key,Meyrin,2019-02-27,"$6,383.90",42:9b:ce:8c:ed:20
+CH,email-04.arnold.com,-40.9340835,Honduras,03:09:18,-29.954884,Greek,tk,528,2014-02-07T13:19:30,Steiner-Baur,placeat.doc,Sarnen,1982-06-22,$32.90,2f:5c:cb:80:61:41
+CH,web-06.bolliger.com,15.596547,Thailand,18:49:18,-23.547453,Sardinian,mn,4066,1994-07-17T06:25:13,Zürcher-Favre,ut.avi,Kreuzlingen,2004-04-01,$245.04,dd:95:eb:92:97:9f
+CH,db-37.pfister-mader.org,-84.6596125,Malta,10:29:20,-90.591514,Gaelic,ku,9388076,1972-03-06T02:12:14,"Martin, Arnold and Lang",amet.odt,Thun,2009-09-09,$9.62,1b:94:69:0d:94:59
+CH,email-30.battig-steinmann.com,-75.8195925,Saint Lucia,07:48:41,-7.544861,Maltese,sl,855,2005-01-06T05:37:46,"Arnold, Gfeller and Roos",perferendis.docx,Baar,1976-08-27,$39.20,69:4b:b9:9d:67:f3
+CH,lt-13.luthi.net,-37.2495965,Monaco,03:03:24,152.847888,Vietnamese,nn,81793349,1999-05-09T22:17:23,Furrer-Leu,consequuntur.webm,Bernex,1995-08-05,"$1,575.45",06:25:ad:20:12:3d
+CH,desktop-39.mader.com,-76.1309975,Turkey,06:40:41,107.231785,Russian,kok,630144,1991-07-28T17:23:17,"Schenk, Keller and Winkler",nostrum.mp4,Rapperswil-Jona,2003-04-02,$2.74,55:b4:33:bd:93:2a
+CH,srv-91.haas.com,-34.776196,Solomon Islands,05:47:12,-46.106688,Assamese,quz,3573,1970-07-20T03:40:55,Schoch LLC,temporibus.ppt,Versoix,2022-02-25,$97.45,a9:6c:08:1b:a4:46
+CH,desktop-80.keller.com,-46.444115,Montenegro,05:29:45,-132.501418,Marshallese,pa,317304,1978-04-19T11:53:16,Ackermann-Jost,omnis.pages,Val-de-Travers,1978-03-01,$84.39,c2:2f:77:3d:39:a5
+CH,lt-96.seiler.com,64.751901,Tuvalu,02:19:07,34.106087,Bengali,wae,70101,2006-02-03T05:45:49,Zehnder-Ammann,quas.webm,Kreuzlingen,1977-01-22,$752.15,d0:9b:38:fb:14:a2
+CH,db-26.tanner-steinmann.com,-30.413725,Paraguay,04:37:50,-15.817131,Slovenian,nr,99008197,1971-09-18T18:08:07,Bieri Group,ex.flac,Thun,2020-03-29,$30.35,d1:b0:67:d3:f2:09
+CH,srv-27.ruegg-hunziker.org,80.120108,Saint Lucia,11:31:41,100.471551,Sindhi,lg,67,2006-04-06T14:57:13,Lutz LLC,dignissimos.wav,Luzern,1980-08-31,"$94,112.08",df:1e:30:30:c6:f7
+CH,srv-85.christen-mayer.org,-7.704801,Kiribati,14:50:59,-151.571483,Kinyarwanda,szl,405057,1979-09-11T17:58:07,"Keller, Felder and Hasler",dolore.jpeg,Payerne,1997-04-23,$25.76,c9:6b:f0:7b:68:b5
+CH,db-96.schweizer.net,20.6248975,Dominican Republic,22:09:22,27.121149,Fulah,doi,11,1980-01-30T20:09:56,"Bühler, Egger and Hermann",vitae.webm,Steinhausen,1970-01-14,$94.65,b4:2f:04:b0:37:38
+CH,db-70.vogt.com,-36.3146715,Guinea-Bissau,05:13:56,-95.699936,Zhuang,kk,45152237,1981-03-29T01:26:29,Beck-Stettler,delectus.webm,Kreuzlingen,2021-09-21,"$57,629.84",b1:a7:13:97:90:0d
+CH,db-44.weibel-hermann.info,-51.826696,Thailand,05:44:58,102.199907,Turkmen,ml,20850,2001-06-27T18:08:37,Schaller PLC,rem.xlsx,Le Grand-Saconnex,1994-04-19,$27.69,f0:1f:2c:19:d7:c7
+CH,desktop-89.christen.com,-48.830846,Saint Vincent and the Grenadines,04:36:57,-43.182262,Kuanyama,st,135,1988-09-18T18:55:05,Ernst and Sons,odit.pdf,Ecublens,2001-11-29,$87.60,69:7c:29:10:f0:73
+CH,email-06.bernasconi-probst.com,-33.6421155,San Marino,19:58:42,16.971669,Greek,hr,667,2006-12-22T09:15:26,Peter-Weber,doloribus.mp3,Martigny,2013-04-17,$45.60,fb:68:c2:6e:07:78
+CH,email-56.kaser-maier.net,-18.0548175,Mongolia,12:44:07,135.914655,Basque,rw,57291962,2004-07-10T05:05:31,Amrein-Schweizer,velit.mov,Uzwil,1976-11-11,$2.57,be:f1:2a:de:24:0d
+CH,web-75.marti.com,45.615928,Haiti,19:01:15,177.973122,Divehi,cy,6732,1975-05-23T22:28:17,"Bühlmann, Weber and Jäggi",at.json,Wohlen,1982-02-03,$2.59,c3:b8:f6:b2:ba:fc
+CH,lt-50.stadelmann-wegmann.com,-8.8015375,Lithuania,11:41:29,51.730797,Somali,ru,554705,1971-12-20T20:05:18,"Jenni, Wüthrich and Schlatter",quidem.doc,Baar,1984-01-14,$8.70,ac:30:2f:30:1d:df
+CH,web-39.graf.com,28.2167875,Iran,12:27:37,-110.392689,Luba-Katanga,eu,231829525,1985-09-14T22:22:02,"Fischer, Bucher and Kaufmann",repellat.flac,Gossau,1979-10-29,$8.92,f8:0e:d5:52:db:f9
+CH,laptop-24.buhler.biz,-66.7540335,People's Republic of China,19:13:42,87.440808,Irish,ts,7650,2011-02-19T11:46:13,Schmid Inc,quibusdam.pages,Ostermundigen,2010-05-30,$56.59,7c:81:ca:fa:2d:1f
+CH,desktop-39.baur.com,72.380829,Jamaica,06:39:23,132.880060,Dzongkha,ko,7934,1996-12-23T10:20:49,Meyer Group,molestias.mp3,Thalwil,1993-04-01,"$80,971.83",ce:36:ad:7b:98:43
+CH,laptop-90.zingg.com,-75.2023225,Nepal,20:02:37,29.304189,Uzbek,my,2601341,2005-03-04T16:24:51,Wettstein Inc,numquam.odt,Liestal,2002-12-21,$75.35,bc:7a:b6:d0:fc:3d
+CH,db-94.fehr-schnyder.net,53.788239,Libya,21:49:00,119.214047,French,ha,933,2019-08-16T20:45:26,Lutz-Jost,iste.mp3,Bassersdorf,1997-01-12,$341.09,3e:c8:2d:8e:20:69
+CH,lt-16.betschart.info,0.343990,Kyrgyzstan,21:45:55,8.538518,Divehi,crh,26444,1982-01-28T20:42:49,Felder LLC,laudantium.webm,Luzern,1974-04-17,"$3,788.73",1d:16:3e:27:de:94
+CH,db-95.furrer.com,-50.9805525,El Salvador,08:02:06,-63.155140,Georgian,nb,5805031,2011-04-07T02:13:33,Jäggi-Favre,voluptate.mp4,Gland,1972-09-22,$1.48,1b:96:14:f3:03:47
+CH,lt-04.schar-schumacher.biz,80.1290285,Kenya,21:00:51,175.568213,Cree,st,9523174,1976-08-21T00:28:48,"Kohler, Scheidegger and Felder",nam.csv,Regensdorf,1987-01-08,$15.03,13:10:44:0d:38:21
+CH,desktop-49.bianchi.com,-18.344272,Cameroon,01:34:55,-95.802390,Sundanese,sk,2010888,1984-08-15T22:28:52,Felder-Gasser,vero.css,Aarau,1973-09-18,$334.42,bb:dd:d4:2b:76:e5
+CH,srv-68.stauffer-stalder.com,38.373422,Niger,13:26:49,-5.742461,Estonian,raj,87584099,2000-07-12T19:17:06,"Kunz, Fuchs and Scheidegger",minus.flac,Wohlen,1981-03-27,$5.69,e4:12:6e:2b:02:41
+CH,email-60.moser-steiner.info,-61.9227785,The Gambia,18:30:51,142.982565,Norwegian Nynorsk,ht,6836931,2000-06-18T13:30:14,Wolf Inc,eius.gif,Veyrier,1990-05-30,$452.75,6d:2f:1d:72:ca:a0
+CH,lt-63.studer-wolf.com,21.3954475,Costa Rica,18:12:20,128.139582,Kinyarwanda,wae,23098,2013-11-01T15:35:09,Arnold-Wehrli,impedit.css,Cham,1996-08-28,$57.48,25:c9:88:22:a8:01
+CH,laptop-73.kalin.com,77.500426,Botswana,09:12:38,141.002269,Sardinian,ms,934755221,1983-06-17T04:39:14,Zingg-Schweizer,iste.txt,Buchs,1994-04-24,$99.02,46:66:82:56:e6:8b
+CH,email-42.haas.com,-30.394993,Poland,22:48:08,-87.512215,French,gv,690197910,1989-04-18T00:48:53,"Benz, Erni and Frick",iste.mov,Brugg,2018-02-01,"$61,442.45",86:d0:56:7d:1f:1a
+CH,laptop-71.michel.net,-10.8484715,Republic of the Congo,01:06:38,3.831311,Vietnamese,ber,299463709,1972-12-23T22:20:21,"Bühlmann, Moser and Näf",cumque.wav,Val-de-Ruz,2021-04-07,"$56,542.40",79:b4:9d:4d:18:4b
+CH,email-31.bucher.com,-47.223600,Albania,02:07:22,-46.715038,Maori,wae,457,1990-01-04T20:33:42,Hafner Ltd,odit.csv,Küssnacht,2006-04-27,"$40,087.34",c2:b6:d7:81:aa:b7
+CH,email-43.hasler.net,11.648885,Saint Lucia,22:19:40,-145.537665,Croatian,oc,99654,1972-04-23T01:12:01,"Gfeller, Frey and Mettler",quis.key,Köniz,2022-10-08,"$3,142.60",61:dd:47:ea:8e:6d
+CH,db-59.knecht-probst.net,-40.9424255,Turkey,14:46:48,111.709753,Bosnian,sr,462106,1976-05-31T22:15:13,Mettler Group,voluptatibus.html,Münchenbuchsee,1986-01-07,$6.69,5c:d5:00:8d:05:46
+CH,email-86.martin.info,-47.1048035,Vanuatu,01:57:48,-53.540524,Greek,se,2909,2020-12-28T00:57:18,Wehrli-Jäggi,ut.ods,Burgdorf,2015-05-18,$738.93,6a:0b:ef:a7:65:7a
+CH,web-20.suter.biz,-3.1993655,North Korea,18:15:01,-116.662706,Marathi,te,10097806,1985-05-28T17:51:11,Schumacher Group,nam.tiff,Emmen,2022-11-15,"$4,263.82",52:3d:ce:e3:62:18
+CH,db-71.christen-stockli.com,-16.864894,Estonia,06:59:12,-75.292082,Hausa,gd,71910,1974-08-17T20:52:02,Schmidt-Scheidegger,beatae.webm,Naters,2017-03-26,"$4,732.36",74:fb:5b:3f:28:7c
+CH,laptop-48.meyer.com,4.995486,People's Republic of China,17:37:18,8.966661,Slovenian,lij,838,1989-05-21T15:02:23,Wehrli Group,similique.png,Kloten,1988-07-04,$89.07,cd:6d:eb:9c:d5:63
+CH,web-83.amrein.net,26.445598,Grenada,15:38:43,-26.207282,Icelandic,tl,834096,2000-07-28T23:53:16,"Maurer, Schaller and Zürcher",praesentium.gif,Freienbach,1972-02-09,$3.80,01:08:c9:4d:12:31
+CH,srv-40.graf-grob.biz,40.187206,Romania,01:00:44,-164.585118,Sindhi,vi,2060634,2006-01-23T00:11:38,"Martin, Hug and Zingg",facilis.mp3,Sursee,1986-01-22,"$8,123.61",5a:7c:1b:67:e8:1d
+CH,laptop-87.baumann-stucki.org,40.0063695,Nepal,01:01:07,89.593060,Gaelic,raj,896315,1975-09-14T21:12:06,"Flückiger, Gut and Keller",dicta.wav,Herisau,1992-09-02,"$35,457.46",74:bf:09:2d:d2:2c
+CH,email-23.gasser.info,-18.701813,Seychelles,04:53:16,-49.822103,Luxembourgish,el,17608,2007-11-09T00:02:36,"Blum, Hodel and Käser",quidem.pdf,Sarnen,1976-02-24,$4.29,9b:c1:24:69:bf:ee
+CH,srv-87.zbinden.org,63.177543,Sudan,18:33:10,-129.096952,Sichuan Yi,hsb,244525097,2016-07-01T01:54:48,Kuhn-Mäder,illum.pptx,Prilly,2010-03-24,"$56,396.17",ca:af:71:20:35:52
+CH,lt-12.koch.com,29.3825845,Dominican Republic,12:32:09,157.000971,Chichewa,br,5965,2013-05-03T08:44:07,Arnold PLC,qui.txt,Küsnacht,1995-09-01,$36.99,4d:ea:af:82:ca:26
+CH,srv-97.frei.com,81.2756775,Israel,11:04:57,66.980709,Kannada,ne,20787,2012-11-23T04:09:30,Stadelmann-Spörri,similique.csv,Val-de-Travers,1993-09-17,$67.85,3f:2d:e4:65:9f:67
+CH,laptop-85.hug.com,-37.614676,Mexico,16:54:14,51.933605,Uzbek,shs,866329,2003-08-04T17:35:06,"Lehmann, Blaser and Lüthi",porro.webm,Bernex,2018-10-04,"$8,554.41",2b:f4:82:cb:dc:46
+CH,db-71.keller.com,-64.3036475,Czech Republic,16:40:39,-143.184858,Igbo,mag,1085,1972-03-09T19:53:05,Huber-Portmann,itaque.jpeg,Brugg,2022-05-15,"$8,215.37",d3:9d:52:35:36:f4
+CH,lt-85.muller-benz.com,-85.345197,Bolivia,06:40:05,116.257549,Herero,oc,4,2001-10-03T18:23:03,"Wirth, Walder and Baur",ab.bmp,Ebikon,2011-05-24,"$1,868.81",95:6f:6d:27:b0:1f
+CH,db-93.bachmann.net,80.160074,Luxembourg,04:09:48,75.473420,Spanish,om,658635,2020-04-12T14:04:34,Felber and Sons,consequuntur.odt,Morges,1976-07-18,$534.46,18:07:d2:da:5b:f5
+CH,email-40.hirt.org,-20.0391145,Ghana,01:38:23,-2.249916,Bihari languages,mhr,2649,1987-09-26T01:19:51,"Meyer, Wehrli and Leu",eum.avi,Monthey,1997-02-23,$599.32,5a:aa:87:4c:8a:9b
+CH,srv-63.geiger-blaser.com,-4.2992135,Spain,01:19:04,82.250604,Tamil,ik,4201,2008-06-25T21:54:27,Wirz Inc,aliquam.mov,Pratteln,2008-04-30,"$50,172.26",f8:c5:f1:54:a2:6e
+CH,web-53.bauer.com,11.510343,Sweden,08:48:18,-171.933887,Divehi,an,80875335,1994-11-06T22:29:44,"Sidler, Studer and Albrecht",eaque.mov,Muttenz,2012-11-18,$639.02,8e:11:1f:47:08:65
+CH,laptop-23.moser.biz,-32.0751585,Venezuela,03:22:28,-152.902519,Tajik,he,9322,1973-05-18T07:39:47,Schürch Inc,distinctio.mp3,Bülach,1991-06-21,$451.91,97:ce:a6:91:23:b3
+CH,laptop-98.braun-hofstetter.com,-19.847691,Spain,01:51:09,64.933324,Nauru,sw,974432124,1996-01-25T09:28:24,Hauser-Brunner,molestiae.wav,Thun,1979-12-26,"$7,769.58",13:8e:c2:3f:f4:a6
+CH,email-07.steffen.com,62.887389,Australia,02:19:42,-88.207284,Tonga,tn,198,1988-12-11T15:28:53,Braun-Spörri,facilis.html,Aigle,1999-08-14,$0.18,88:0b:23:40:33:db
+CH,desktop-30.scheidegger-buhler.org,3.2595975,Bosnia and Herzegovina,08:42:10,76.454863,Tsonga,ve,1,1974-12-21T17:31:25,Geiger and Sons,eligendi.wav,Emmen,1982-07-26,"$6,191.90",43:ca:72:58:57:f5
+CH,srv-43.probst.com,48.8090765,South Africa,03:11:10,172.226431,Armenian,raj,29755854,2004-08-03T17:14:45,"Lüthi, Gloor and Gloor",quam.jpeg,Chur,1994-04-09,$51.27,ab:0e:77:2a:ce:a7
+CH,email-95.jenni.org,-65.586136,Serbia,17:41:10,-55.731682,Herero,ak,874512804,2015-05-02T21:22:04,"Senn, Walter and Felder",quidem.pptx,Zürich,1978-04-16,$39.57,12:58:b5:01:2b:51
+CH,srv-70.stadelmann.com,17.833124,Kingdom of the Netherlands,01:26:55,-12.450681,Bosnian,zu,993113016,1987-05-03T11:38:18,"Egger, Hofstetter and Bosshard",ullam.ppt,Neuhausen,1984-12-28,$17.31,ed:35:ea:28:38:61
+CH,srv-08.wuthrich.com,64.6918195,Dominican Republic,00:31:04,-100.747024,Shona,st,235,2010-06-30T01:31:56,Scheidegger-Blum,vel.json,Küsnacht,1988-04-19,"$9,243.12",41:f2:8c:7d:bb:58
+CH,db-14.suter-leunberger.com,64.8012385,Philippines,21:05:28,163.164142,Turkmen,mt,20789158,1983-01-31T19:18:42,Christen Group,quidem.xls,Richterswil,1996-09-07,$39.20,d1:1b:e3:85:41:29
+CH,desktop-53.stucki-ruegg.com,44.9069135,Honduras,16:41:12,-42.361790,Icelandic,an,9,1994-03-16T08:42:54,"Hug, Baur and Thommen",quis.txt,Gossau,1976-01-10,$0.94,a7:50:27:a8:d3:9f
+CH,web-26.ernst.com,19.9901795,Lebanon,08:07:44,51.464700,Sundanese,aa,343,2020-07-06T18:49:50,Küng-Tobler,non.html,Opfikon,1987-03-25,$88.03,b5:fa:6f:d1:2a:57
+CH,desktop-57.wehrli.com,78.444885,Zambia,18:15:11,-155.311981,Nepali,cv,2,2021-02-25T17:13:29,Kaiser LLC,consequuntur.tiff,Steffisburg,2011-07-24,$2.07,c9:db:3d:72:21:e1
+CH,desktop-29.koch.com,73.3210695,Lebanon,22:54:38,-123.109338,Macedonian,om,93972,1973-10-23T00:34:55,Küng PLC,suscipit.json,Aigle,1981-11-01,$514.00,e7:35:e0:f6:43:55
+CH,email-18.hug-wettstein.com,79.5307475,Ecuador,23:37:47,-84.648010,Kannada,de,77721348,1985-06-05T17:36:59,"Hauser, Blum and Ziegler",aperiam.odt,Spreitenbach,1974-11-11,"$41,705.37",60:3b:48:73:74:16
+CH,desktop-02.amrein-bucher.com,-58.6133315,Tuvalu,08:35:25,59.237287,Marathi,pap,4019824,1975-01-04T02:05:25,Steinmann and Sons,non.js,Spreitenbach,2009-05-20,$0.20,f2:08:87:c7:8f:e7
+CH,laptop-33.schneider.info,-54.161838,Japan,12:56:30,54.664276,Finnish,ber,2528,1993-08-09T23:52:33,"Amrein, Lüscher and Felber",maiores.mp3,Kriens,1991-04-06,$597.55,c5:4d:df:51:01:23
+CH,desktop-65.vogt-wolf.net,51.241984,Kiribati,23:23:36,-104.966696,Sundanese,szl,1015981,1992-02-17T12:51:11,Berger and Sons,consequatur.wav,Münchenstein,1996-03-28,$1.74,b0:ad:67:e0:67:8b
+CH,laptop-28.maier.com,75.174855,Andorra,18:43:28,150.095296,Swedish,et,588588,2002-08-13T12:11:02,Stauffer Ltd,rerum.html,Prilly,2003-07-16,$81.74,cc:39:5b:9c:11:b2
+CH,srv-26.wagner.com,-79.5129115,Saint Vincent and the Grenadines,22:02:03,149.405452,Burmese,mt,55870729,1986-08-03T20:15:30,Geiger-Merz,reprehenderit.flac,Adliswil,1985-08-08,$58.52,51:78:8e:2f:0a:68
+CH,srv-36.felber.com,88.1609825,Republic of the Congo,02:38:10,-11.624285,Slovak,ca,558,1999-04-25T03:59:43,Wenger LLC,eveniet.key,Le Grand-Saconnex,2007-11-18,$34.78,b7:a6:6e:9c:9a:35
+CH,email-45.mettler.net,-25.369736,Honduras,22:07:20,-45.052277,Georgian,csb,8813854,1982-12-17T22:01:51,Hotz-Bucher,aut.css,Wald,2004-10-10,$9.13,24:51:71:6e:4c:d1
+CH,srv-94.amrein.com,72.741145,Belgium,12:16:57,-7.628180,Northern Sami,dv,9,2015-02-21T03:17:44,Blum Ltd,fugit.avi,Payerne,2020-04-02,"$48,877.50",fa:cc:87:21:9f:bf
+CH,email-66.hoffmann-lutz.com,41.493394,Cape Verde,00:44:25,133.781472,Ewe,tcy,802281,1981-11-16T08:02:04,"Schmid, Wettstein and Hürlimann",necessitatibus.odp,Hinwil,1971-05-20,"$1,575.83",7e:f1:40:b4:76:66
+CH,lt-27.walder.info,18.109645,San Marino,17:32:01,143.921543,Greek,yi,66035712,2006-10-13T13:52:07,Schmidt Inc,eveniet.bmp,Ittigen,1993-09-30,"$3,008.81",46:5a:65:61:98:db
+CH,db-80.schenk.biz,80.149723,Singapore,07:22:57,151.826988,Faroese,shs,4,1972-03-29T15:14:44,Lüthi LLC,voluptatem.mov,Brugg,2014-08-16,$37.01,a1:e7:1a:0f:0e:61
+CH,srv-79.baumgartner.com,64.596030,Federated States of Micronesia,16:43:59,47.704555,Shona,et,28670457,2005-06-04T00:35:00,Braun-Mäder,quae.flac,Pfäffikon,2004-03-09,$6.08,37:1a:b6:5c:d7:9d
+CH,web-01.kohler.net,54.0275805,Saudi Arabia,17:52:55,-56.876688,Faroese,mr,48868,2012-03-30T04:46:32,"Gross, Gerber and Benz",eos.tiff,Regensdorf,2018-11-01,$900.50,ba:19:93:2e:77:43
+CH,desktop-42.grob-koch.net,25.3613195,Bosnia and Herzegovina,07:30:40,177.581063,Tsonga,tl,1147312,2022-12-22T14:16:00,"Ernst, Benz and Steiger",ratione.css,Onex,1974-09-01,"$2,812.64",d3:0d:80:61:9a:d8
+CH,lt-10.leu.com,-86.8711335,Panama,05:19:15,26.391548,Finnish,nan,5099,2003-06-09T14:56:48,"Ernst, Vogt and Ferrari",sit.wav,Allschwil,1991-11-03,$48.07,34:4d:12:28:e7:7c
+CH,lt-87.zollinger.com,87.210229,Laos,03:12:42,144.349477,Haitian,wa,389,2008-03-19T10:32:39,Brunner-Schumacher,assumenda.webm,Onex,2006-10-10,$0.67,10:d8:35:5a:3a:33
+CH,lt-17.blaser.org,59.1469935,Ukraine,03:20:57,-81.489892,Bambara,ks,345620709,2016-01-03T05:35:19,Schwarz Ltd,architecto.csv,Pfäffikon,1970-10-05,$101.08,ee:84:17:61:0c:4a
+CH,laptop-93.ott.com,-9.6292945,Belarus,03:19:12,49.170595,Kanuri,mai,222153,1996-03-04T08:14:20,"Schaub, Wenger and Wenger",perspiciatis.jpg,Kriens,1978-03-15,"$8,253.16",54:d3:e9:77:dc:bc
+CH,srv-25.hess.info,73.801697,Jamaica,15:04:29,-37.978803,Serbian,is,29,2023-01-29T07:53:40,"Vogt, Blaser and Baumann",nemo.json,Sursee,1971-06-27,$2.85,a3:65:a7:be:67:dd
+CH,desktop-23.hirt-walder.com,3.123843,Central African Republic,18:55:44,-67.028799,Hindi,ga,4058,2007-11-19T22:56:05,"Egli, Flückiger and Weber",laboriosam.html,Steffisburg,1994-01-19,$1.41,fe:f4:bd:5d:72:dc
+CH,web-57.hurlimann.com,-56.2738185,North Macedonia,14:18:18,136.341613,Romansh,nhn,94703387,1993-06-23T17:20:35,Brun-Schenk,voluptatum.webm,Adliswil,2022-06-24,"$90,235.93",bc:67:1b:e9:39:64
+CH,db-94.kalin.com,79.7828655,Bangladesh,14:58:09,-177.322994,Finnish,mn,3,2000-05-13T13:59:25,"Müller, Gerber and Lang",officia.wav,Kriens,2015-11-20,$65.64,46:c3:8c:92:58:78
+CH,email-91.frey.com,-57.8019345,Vietnam,09:25:49,139.681184,Tajik,ta,20520,2004-06-14T14:03:26,Schürch Ltd,officia.flac,Arbon,2022-06-07,$26.95,48:dc:05:2d:cb:65
+CH,srv-49.merz-blum.com,80.0204705,Uzbekistan,19:06:41,74.541090,Finnish,el,6441692,2013-04-12T13:36:46,"Fankhauser, Knecht and Kern",debitis.js,Männedorf,2002-06-06,"$2,664.80",d0:bc:c9:c8:8a:1a
+CH,email-35.schaller.net,-61.711291,Zambia,20:32:06,146.986334,Kashmiri,aa,961,1991-06-11T19:55:36,Käser Group,quos.gif,Bern,1977-02-04,$494.77,f3:52:bf:4a:ce:9c
+CH,lt-50.peter.biz,-10.6369135,Moldova,03:01:32,-104.771872,Fijian,ms,1855122,2015-12-26T19:08:30,Wirz-Schmid,nostrum.css,Bulle,1988-03-08,$39.84,7d:bd:52:2e:d0:b9
+CH,web-88.kaiser.com,51.0955375,Vietnam,14:51:33,-122.382863,Avestan,as,514,1993-09-03T21:36:43,Walter-Häfliger,a.webm,Volketswil,2015-11-11,$161.69,ac:7c:37:a2:1f:01
+CH,lt-66.steinmann.biz,31.7001925,Latvia,06:48:55,50.485209,Greek,ca,20904602,2014-01-19T21:45:22,Hartmann-Vogt,quasi.mov,Payerne,1985-02-11,$19.22,17:27:69:78:d1:db
+CH,laptop-97.schoch-staub.com,57.5235615,Zimbabwe,06:40:27,-172.789873,Norwegian Nynorsk,ko,1,1991-05-03T10:15:33,Grob Inc,illo.css,Wald,1997-07-30,$0.14,68:d2:17:59:19:96
+CH,email-66.aebi.com,34.771557,Eritrea,20:56:14,-117.876092,Sanskrit,tn,651612,2012-10-20T19:43:49,"Schmidt, Probst and Steiger",exercitationem.webm,Lutry,2023-07-01,$1.67,57:00:42:54:9e:f0
+CH,db-36.wettstein-bader.biz,-27.9608485,Samoa,07:07:19,-151.862983,Greek,cmn,183503161,1974-02-12T06:14:39,Kunz-Gerber,ut.mov,Chur,1994-12-20,"$6,417.42",63:07:09:0b:b2:e1
+CH,desktop-62.zimmermann-gasser.com,67.646032,Papua New Guinea,01:16:19,-92.714208,Interlingue,si,7,1992-07-29T07:45:35,Ritter-Schmid,earum.wav,Amriswil,1993-01-23,$246.87,3a:1e:93:c5:ba:2b
+CH,laptop-69.haas-schafer.biz,-75.861724,Thailand,17:38:14,-85.584595,Komi,ta,44809,1985-07-16T15:15:57,Arnold Group,minima.wav,Regensdorf,2004-09-25,$4.03,70:d3:e3:0e:f6:43
+CH,db-21.mayer-hauser.com,-21.1636945,Guyana,17:12:00,122.184517,Abkhazian,ky,8,1999-06-30T10:42:32,Bosshard LLC,accusamus.png,Thônex,1981-06-27,$147.85,b6:aa:a5:83:c3:8e
+CH,srv-44.forster.com,22.1186165,Palau,13:44:35,-91.549725,Tatar,nan,0,1993-07-19T02:43:45,"Schlatter, Scherrer and Betschart",adipisci.png,Hinwil,1985-07-23,$74.34,7d:b8:48:cb:68:f6
+CH,desktop-05.steiner-zbinden.com,-66.619858,Latvia,08:07:17,157.967752,Corsican,lij,3739842,1971-11-21T05:52:50,Hoffmann-Gut,omnis.json,Bern,1995-12-19,"$76,466.74",ad:70:cc:89:b2:97
+CH,email-91.hurlimann.com,42.2006615,Singapore,00:35:14,105.757856,Dutch,lzh,95269,1997-05-04T02:10:36,Ackermann-Bieri,sapiente.mov,Basel,1993-10-23,"$1,816.89",47:4f:7c:c6:ab:0c
+CH,db-00.schafer.org,-6.883926,Argentina,17:05:14,-98.892341,Akan,se,804407,2017-06-12T03:24:27,Blum Group,magnam.mov,Emmen,1977-01-18,$272.96,45:cc:ee:41:11:74
+CH,laptop-84.stucki-zurcher.org,-6.2717275,Algeria,13:08:54,66.307747,Swati,doi,864008892,2004-07-05T08:20:14,Probst PLC,temporibus.js,Kreuzlingen,2023-03-13,$18.20,06:40:fc:61:e4:e0
+CH,lt-84.wolf-hofer.com,-8.5582005,Hungary,09:01:06,146.490276,Korean,iu,322,2002-03-05T03:48:08,Baumgartner-Albrecht,aliquid.bmp,Münsingen,2021-10-10,$7.10,e9:9e:69:a6:d7:16
+CH,lt-59.albrecht-arnold.com,48.006840,Papua New Guinea,02:49:31,30.782515,Fijian,brx,211062,1997-11-12T09:03:49,Kaufmann Group,voluptatem.wav,Bülach,1972-03-19,$3.55,00:a6:72:c1:6d:c3
+CH,laptop-96.luscher.com,42.2049875,Slovenia,22:14:31,-32.120037,Limburgan,ce,553,1998-07-10T16:36:57,Schäfer Ltd,nesciunt.png,Oftringen,2014-11-24,"$6,346.05",2e:f9:73:ed:63:4f
+CH,laptop-21.imhof.org,-45.4071105,Niger,05:15:48,2.730795,Herero,id,711,1998-04-06T09:39:15,Pfister Group,quam.avi,Villars-sur-Glâne,1988-12-08,$15.17,b9:3a:a5:8c:5a:e3
+CH,db-53.senn-hess.org,80.3384595,Malaysia,13:33:31,-136.126344,Marshallese,nhn,7,1983-12-21T10:52:22,"Lüscher, Kohler and Erni",asperiores.tiff,Rüti,2014-12-21,$74.04,99:b7:6a:52:ab:48
+CH,web-95.hodel.com,22.8583355,Algeria,02:09:55,3.865037,Yiddish,byn,9657808,1985-12-15T13:17:16,Bucher-Müller,sapiente.wav,Buchs,1998-04-26,$7.42,b8:5a:9f:d9:6f:e9
+CH,srv-46.wolf-schafer.org,63.609654,South Korea,03:34:14,-109.142899,Amharic,mni,9992,1993-02-22T15:26:18,"Wüthrich, Mayer and Mettler",deleniti.webm,Thalwil,1974-08-20,"$9,781.40",98:01:3f:7b:f3:18
+CH,web-07.bosshard.com,25.8757905,Thailand,00:05:44,-64.715788,Danish,lv,263820784,2005-03-13T03:58:26,"Felder, Steiner and Steiger",ex.jpeg,Baden,1986-11-03,$2.87,07:36:03:7c:3c:f3
+CH,web-48.schar.com,-74.1975125,Kiribati,02:34:05,58.930034,Haitian,tt,96,1985-03-12T05:46:44,Fuchs PLC,quam.mp3,Lutry,2016-11-13,$1.22,da:0a:fa:00:94:5e
+CH,desktop-93.kohler.org,15.0153535,Togo,04:06:56,2.347270,Azerbaijani,th,82948,2018-02-27T13:15:11,"Staub, Schürch and Eugster",architecto.mov,Veyrier,1985-07-27,$430.20,ff:fc:62:35:c3:45
+CH,email-59.gross.org,-73.184851,Dominican Republic,09:25:57,-71.841815,Limburgan,nr,5065,1995-11-30T00:35:08,Bosshard-Widmer,quae.odp,Mendrisio,2007-11-24,$915.82,50:0f:60:21:5a:10
+CH,lt-56.baur.com,62.9454925,Burundi,03:58:19,163.528102,Hungarian,cs,7,1995-01-24T02:16:57,"Maier, Pfister and Baur",modi.txt,Zofingen,1994-07-28,"$41,928.60",e8:5b:8a:34:87:d9
+CH,srv-34.peter.biz,-80.3057315,Barbados,16:04:48,-11.834062,Nepali,nl,59,1976-11-22T15:43:08,Egger-Sigrist,sit.pptx,Thun,2016-12-11,$31.07,3d:80:98:58:ab:2e
+CH,email-52.fehr.com,61.262963,Egypt,22:14:11,119.958427,Interlingua,so,3020610,2010-11-05T22:46:07,Forster Inc,architecto.xls,Wettingen,1978-03-29,"$8,868.26",65:2c:2f:87:cc:e8
+CH,srv-35.iten.com,-3.1238785,Cuba,14:27:17,113.054094,Norwegian,pt,725944347,2011-06-01T04:37:48,Zbinden-Leu,a.jpg,Kriens,2011-11-09,$46.83,44:e7:66:0a:81:6f
+CH,srv-53.hofstetter.com,63.620406,North Macedonia,13:50:39,-65.485230,Italian,ss,2044,1978-11-27T03:37:12,Peter Inc,magnam.mp3,Herisau,1999-03-31,$520.71,3e:d3:70:ce:bf:06
+CH,srv-92.jaggi.org,-83.324851,Uruguay,15:14:46,98.622653,Uighur,ur,6910,1972-10-24T00:41:31,"Lang, Stucki and Lang",repellat.jpg,Münsingen,2015-03-24,$57.48,28:c4:f5:b9:ce:aa
+CH,laptop-50.bader.com,34.0080485,San Marino,21:00:59,-7.450850,Zhuang,ml,77401,1970-06-11T18:19:47,Schmid and Sons,aliquam.ppt,Möhlin,2008-09-15,$56.55,fb:65:d7:34:26:23
+CH,lt-88.frei.net,32.721108,Portugal,18:46:54,12.524406,Tibetan,ca,493786,2009-02-19T05:58:00,Bachmann PLC,autem.xls,Altstätten,1977-03-10,$47.31,bc:b7:ec:a8:ad:73
+CH,lt-16.seiler.com,8.975449,Mozambique,11:33:11,170.203380,Sango,ml,103,1976-08-07T05:22:40,Pfister and Sons,minima.json,Arbon,2022-09-29,$97.66,6e:03:98:21:81:17
+CH,email-84.bernasconi.info,78.836787,Sri Lanka,06:42:22,114.044359,Tibetan,mr,6,2016-02-14T03:11:29,"Siegrist, Fuchs and Stöckli",ipsam.mp3,Zollikofen,1998-08-20,"$79,817.64",08:45:a1:3e:5d:fd
+CH,desktop-78.lehmann.com,-79.527897,Czech Republic,15:20:17,132.521190,Irish,lt,75260408,1975-11-15T22:40:50,"Schmidt, Wolf and Ziegler",sunt.docx,Muri,2015-11-15,$907.03,70:e6:66:28:95:62
+CH,srv-48.isler.com,-15.4776715,France,02:50:55,-179.345342,Bulgarian,shs,5410044,1982-04-09T21:09:44,Jenni Group,nam.mov,Delsberg,1992-10-04,"$63,120.60",d4:6d:16:ee:2c:27
+CH,laptop-81.ammann.biz,-21.8050745,Grenada,18:09:16,80.921137,Latin,kl,9,1980-01-13T14:02:14,Lüthi-Stauffer,facilis.wav,Risch,2017-03-08,"$82,997.41",93:24:29:4a:e3:d2
+CH,email-54.merz-betschart.org,42.205231,Nicaragua,11:52:30,75.957150,Ukrainian,ha,7037849,2002-11-10T17:20:30,"Stalder, Widmer and Kägi",at.jpeg,Payerne,2018-04-26,"$39,431.71",2a:63:74:43:e6:79
+CH,email-93.hafner.com,61.151930,Tanzania,22:22:37,-165.448215,Malagasy,nb,0,2008-06-09T23:30:40,Steiger Inc,at.wav,Vernier,2010-10-02,"$7,162.54",3c:af:2e:fb:11:22
+CH,srv-90.marti.com,13.0345445,Trinidad and Tobago,03:33:40,101.077120,Navajo,ayc,3185,1979-10-30T19:14:22,Stalder-Brunner,labore.css,Thônex,2022-11-07,$8.01,ac:d8:41:4e:c8:da
+CH,laptop-99.leunberger.com,77.9567215,Ecuador,04:35:07,84.136851,Gujarati,zh,497145827,2017-05-23T01:55:18,Mayer-Gloor,ex.bmp,Lyss,1973-01-12,"$4,684.23",52:39:4b:2e:e5:c6
+CH,laptop-74.imhof.info,-87.4445355,Mozambique,17:40:34,176.950161,Croatian,sr,19853064,2014-02-17T12:13:23,Wyss Ltd,fugit.txt,Renens,1976-08-08,$1.77,c3:4c:e8:76:a9:ae
+CH,lt-79.berger.org,-68.1895545,Italy,14:15:53,119.681908,Luba-Katanga,ru,343197049,2010-08-05T11:22:00,"Steiger, Bieri and Lüthi",at.mov,Locarno,1982-04-28,$883.53,77:e0:4b:34:a7:2c
+CH,web-31.stockli.com,78.233302,Paraguay,09:23:22,95.309629,Irish,bho,696,2000-09-26T07:44:47,Hartmann Inc,voluptatem.xls,Pfäffikon,2014-01-15,$7.77,f8:74:9d:36:c1:f3
+CH,db-71.roos-schmidt.org,-63.897605,United States,09:29:40,175.189994,Aymara,bg,722573,1979-08-08T03:39:53,Erni-Leu,laudantium.wav,Romanshorn,2002-10-28,$72.13,fe:76:dd:d4:a9:ce
+CH,laptop-43.keller.com,64.2761175,Eritrea,06:21:53,-133.451332,Tamil,as,69993,2020-08-18T06:55:35,"Lanz, Roos and Betschart",voluptatem.avi,Horw,1984-12-10,$9.35,96:ed:87:ea:17:48
+CH,laptop-75.zimmermann.info,83.338245,Mexico,07:25:58,4.831542,Tibetan,ga,3,1973-04-24T09:40:13,Jost and Sons,inventore.csv,Veyrier,1992-06-13,"$19,657.00",d3:46:6f:a4:6e:d1
+CH,lt-26.weibel.com,-24.592279,Denmark,03:54:03,47.969103,Thai,lv,61842781,1988-07-25T09:36:26,Jost-Leunberger,quibusdam.css,Buchs,1979-01-26,"$2,143.01",f7:e7:1a:1b:d2:58
+CH,srv-43.bieri.com,68.964852,Burundi,05:21:04,37.172992,Sango,ik,5810456,1998-09-02T12:40:29,"Jost, Leunberger and Rüegg",laboriosam.txt,La Tour-de-Peilz,2016-08-03,$920.79,4b:30:6d:1e:ef:e5
+CH,desktop-59.wettstein-mettler.com,-36.4452545,Belarus,10:26:21,-7.600761,Avaric,crh,63646,1999-01-08T04:09:40,Scheidegger PLC,autem.key,Meyrin,2017-01-01,$487.86,c5:b9:0c:d7:b4:42
+CH,lt-43.hafliger-vogt.com,55.1913645,Egypt,02:05:17,153.780642,Chuvash,tcy,42644580,1998-02-02T11:09:04,Ott-Furrer,exercitationem.gif,La Tour-de-Peilz,1982-12-04,$38.86,6e:62:19:7e:9c:5f
+CH,lt-91.ferrari.com,-79.616457,Jamaica,10:36:30,-131.937551,Greek,bhb,32232,1995-04-24T04:09:09,"Meili, Näf and Eichenberger",temporibus.mov,Romanshorn,1976-09-24,"$4,492.24",0b:f0:c6:8e:40:3b
+CH,lt-24.sutter.com,-14.8692415,Uganda,17:21:53,79.634209,"Sotho, Southern",kk,5,1981-06-11T00:23:19,Kägi-Meili,ducimus.doc,Amriswil,2002-09-24,$25.73,99:ff:e5:70:f1:94
+CH,email-93.lang-stocker.com,30.349624,Zimbabwe,23:37:46,-65.618111,"Sotho, Southern",ig,9335,2010-07-15T15:12:28,"Mettler, Bühler and Probst",autem.wav,Ecublens,1986-01-20,"$1,295.60",9e:68:85:44:ef:c7
+CH,db-63.michel-frick.com,-61.9246835,Bangladesh,04:19:03,125.972610,Dzongkha,bem,369071,1981-11-26T03:21:52,"Schärer, Baur and Albrecht",porro.png,Pfäffikon,1996-06-15,"$1,054.85",94:c8:be:3c:77:56
+CH,email-87.buhlmann.com,23.7839645,CÃ´te d'Ivoire,18:14:52,-4.555741,Kongo,ti,7,1986-03-08T15:39:38,Wegmann-Schnyder,nisi.flac,Chur,1989-06-30,$644.63,e5:bd:85:31:c7:3f
+CH,srv-71.stucki.info,-36.411745,Palestine,19:00:18,59.863536,Tigrinya,lv,3,1988-09-04T12:23:01,Studer Group,voluptas.tiff,Rapperswil-Jona,2019-02-24,"$62,142.07",7c:a1:a6:9f:ad:17
+CH,email-52.furrer-lustenberger.com,5.0365825,Nicaragua,17:44:40,-8.850012,French,ks,376408482,1987-08-31T16:02:27,Kaufmann and Sons,molestias.pptx,Schlieren,2004-02-24,$65.54,96:67:fe:c8:fb:46
+CH,desktop-57.staub-albrecht.net,88.776864,Comoros,17:52:39,-0.797493,Armenian,lo,21032,1983-05-14T12:57:19,"Sutter, Martin and Ritter",fugit.mov,Aesch,1977-06-21,$9.81,4e:75:81:e2:69:23
+CH,laptop-85.weibel.com,60.0558905,Seychelles,19:07:05,-71.549346,Xhosa,oc,33,1978-10-05T09:10:18,"Egger, Küng and Bianchi",fugit.flac,Wettingen,2000-04-24,"$4,075.16",95:34:ab:51:0a:93
+CH,email-78.schafer.info,58.656868,New Zealand,05:29:32,-107.647010,Marshallese,ur,51235700,2002-07-18T00:13:41,Wüthrich-Müller,enim.doc,Bernex,1999-10-14,"$1,749.51",80:cd:0b:0d:62:31
+CH,web-51.berger-wegmann.biz,-16.504380,Slovenia,07:00:27,124.769179,Venda,eo,13958123,1981-06-03T05:13:39,Wehrli-Wirz,enim.odt,Glarus,1998-12-24,"$4,484.28",83:a1:3c:e3:46:c2
+CH,db-78.kaufmann.com,75.614675,Latvia,08:26:32,36.706985,Luba-Katanga,dv,464649972,1978-07-22T11:38:36,"Stadelmann, Portmann and Hauser",dignissimos.pptx,Carouge,1994-07-22,"$6,009.57",ae:8c:82:95:df:81
+CH,email-73.hofmann.net,86.3407535,Mali,21:35:11,165.096495,Kanuri,raj,34263,1996-08-19T22:10:33,"Frick, Spörri and Bucher",tempora.gif,Bellinzona,2016-12-02,"$8,701.78",b9:c5:c6:86:5c:7e
+CH,desktop-65.gut.biz,38.031711,Botswana,04:39:57,-92.230091,Esperanto,mi,7569938,1999-06-09T08:56:13,Hunziker PLC,quae.json,Kloten,1994-04-13,$68.98,32:80:f3:ae:6e:12
+CH,lt-77.walder-rey.com,78.0878295,Japan,06:21:26,-116.988345,Aymara,bn,99,1996-07-15T00:05:58,"Weibel, Wüthrich and Scherrer",sit.webm,Pratteln,2007-05-10,"$41,596.41",68:97:79:4b:a1:0b
+CH,desktop-36.hurlimann-amrein.biz,-73.651178,Kuwait,06:39:39,157.254693,Yoruba,the,107672,2001-01-17T14:36:49,"Schmidt, Koch and Wettstein",id.mov,Birsfelden,1980-01-25,"$72,724.98",ac:34:d2:86:4f:3e
+CH,db-51.gfeller-steinmann.com,43.116564,Kingdom of the Netherlands,17:58:31,-111.666912,Japanese,lo,482861710,2009-11-18T18:40:28,"Schmid, Christen and Näf",modi.css,Steinhausen,1977-01-31,$39.40,aa:74:77:ad:cd:6a
+CH,desktop-91.fischer-koch.com,-20.668876,Fiji,12:38:58,-82.404878,Chamorro,el,139392,2008-09-06T01:06:46,"Felder, Frick and Mäder",porro.mp3,Brig-Glis,2005-03-04,$36.19,93:d2:7f:13:d5:66
+CH,email-67.frick-stutz.biz,14.7518205,Russia,22:29:58,59.017165,Latvian,nl,1472630,2008-10-29T05:33:23,"Frick, Zingg and Ammann",totam.mov,Zollikon,2011-09-22,"$88,943.03",37:54:fd:be:1a:82
+CH,srv-52.geiger.com,-57.6489655,Laos,21:27:26,111.446675,Armenian,si,33413154,1970-04-11T22:13:14,Hotz-Frick,exercitationem.avi,Köniz,1994-05-24,"$8,767.85",64:13:0c:d2:f3:82
+CH,desktop-93.michel-kessler.biz,78.9672465,East Timor,23:13:11,-150.850472,Fijian,fa,740,2005-05-17T23:44:59,"Weibel, Grob and Kälin",at.bmp,Wil,1989-12-23,$9.82,b0:da:6f:7c:e9:79
+CH,desktop-61.egli-schwab.com,-55.553520,Portugal,05:29:09,77.839282,Afar,af,15040628,1999-03-28T21:50:51,Senn-Ammann,neque.mp4,Belp,1986-10-26,$0.84,76:c2:29:33:24:4a
+CH,srv-10.martin.com,-9.566030,Thailand,20:06:21,32.331935,Avaric,vi,27411,1983-01-01T03:24:38,Lüscher PLC,commodi.bmp,Lugano,1991-07-31,$47.12,3d:02:48:a0:47:0e
+CH,db-25.isler.com,-84.4041505,CÃ´te d'Ivoire,19:34:25,60.197180,Lingala,ht,7,1999-08-10T18:31:54,Arnold LLC,in.png,Möhlin,1997-01-29,$162.44,23:c6:4f:2c:ea:bf
+CH,laptop-50.vogel.com,71.952506,Turkey,22:52:37,120.721107,Tswana,ga,1790756,2005-10-30T23:53:41,Wüthrich LLC,magnam.csv,Wald,1971-05-05,$57.73,45:1c:e9:90:1a:59
+CH,db-93.baur-schumacher.com,35.725721,North Korea,06:31:35,16.412089,Xhosa,ht,928,1998-07-14T12:47:44,Kern and Sons,fuga.avi,Belp,1984-12-04,$6.00,61:e1:d1:63:11:4b
+CH,laptop-02.mettler.com,89.2789495,Niger,05:52:12,17.485076,Nepali,ar,9686660,2016-12-11T21:39:04,Wagner-Bättig,omnis.png,Basel,1986-12-25,"$47,430.28",5c:ee:ad:e8:07:51
+CH,srv-49.luthi.info,73.398616,Guinea,07:47:18,25.666183,Tagalog,id,17658,1990-02-02T22:07:02,Tanner Group,illo.avi,Möhlin,1991-05-02,$700.11,b4:84:34:dc:0f:7a
+CH,laptop-84.buhler.org,-80.7556075,Tuvalu,07:56:31,-67.011439,Bislama,tg,662515,2020-05-24T01:37:57,"Lustenberger, Egger and Felber",voluptates.xlsx,Pully,1985-12-17,$8.67,46:c6:55:d6:f0:c8
+CH,db-57.fluckiger.com,30.2233835,Guinea,06:44:53,-41.182586,Afrikaans,lzh,965,2019-04-26T12:44:18,Mettler LLC,vel.mov,Renens,2002-03-08,$284.95,f6:58:7e:84:61:f4
+CH,srv-14.walter.net,-2.1709165,Malaysia,10:38:45,144.928530,Luxembourgish,ku,68658,1981-03-07T11:29:47,Ott-Brun,ullam.json,Buchs,1971-01-10,$892.60,81:de:63:43:b6:7f
+CH,srv-49.braun.com,18.652448,Norway,23:43:37,44.863424,Ukrainian,am,893896,1970-04-17T17:18:25,Zbinden-Schwab,dignissimos.tiff,Naters,1973-01-24,"$8,616.31",19:7e:7e:d0:44:82
+CH,lt-65.eugster.net,37.9208675,Thailand,07:02:04,28.785935,Ojibwa,ik,293,1982-01-13T03:02:14,Hug-Geiger,dolor.flac,Chêne-Bougeries,1996-06-28,$8.37,6d:73:65:81:e3:80
+CH,email-28.zingg.com,-44.226634,Czech Republic,10:07:44,-24.628735,Central Khmer,be,73473,2013-05-20T14:44:53,Michel-Sigrist,sapiente.gif,Hinwil,1979-03-07,"$83,256.48",d6:b9:5c:8c:d0:9a
+CH,web-61.wegmann-kaufmann.com,2.6626315,United Kingdom,11:25:10,123.285405,Swati,it,4,1990-03-20T16:47:58,Thommen Group,porro.png,Wettingen,1991-08-09,$4.64,b4:9a:5f:9a:a3:08
+CH,email-87.wyss-beck.com,75.060504,Liberia,08:36:17,-77.685810,Tagalog,cy,331,2013-07-23T18:59:57,Zürcher-Steinmann,quasi.wav,Lyss,1979-11-18,$71.59,f3:2e:cb:e7:7d:51
+CH,email-95.studer.com,59.8257635,Paraguay,13:14:39,-101.211187,Pushto,oc,939400,2005-07-13T17:22:11,Berger Ltd,dolore.jpg,Liestal,1999-11-19,$181.37,da:cb:1f:19:c4:f5
+CH,email-53.eugster.com,-77.619840,Mongolia,07:05:24,-127.520103,Limburgan,sid,75899566,2003-05-20T12:43:13,"Ott, Stocker and Schumacher",esse.pdf,Val-de-Ruz,2015-10-27,"$94,276.85",20:d5:52:d5:b9:72
+CH,email-31.stalder.com,63.6716745,Vanuatu,21:35:49,-135.080096,Javanese,nan,93128061,2002-05-12T12:54:34,Bühlmann Inc,nihil.pages,Aesch,1999-07-31,$58.19,55:87:21:f0:70:0c
+CH,laptop-43.isler-ferrari.com,-81.2639145,Morocco,03:05:44,141.832780,Samoan,mai,829398,1987-08-02T00:08:32,Martin-Senn,voluptatum.html,Wald,2020-05-03,$99.07,1c:15:aa:b3:9a:ce
+CH,email-97.wirth.org,-75.145478,Oman,17:29:07,60.041285,Romansh,om,56,1990-11-23T14:14:49,Probst LLC,vel.pptx,Vernier,1972-02-04,"$95,273.40",ea:d8:8b:29:a2:a8
+CH,email-95.kaiser-tanner.net,-37.3388015,Dominican Republic,04:50:48,-13.408901,Kinyarwanda,ps,245491229,1983-12-21T13:18:52,"Jäggi, Vogel and Lang",quidem.jpg,Lancy,1988-05-12,$59.91,be:e5:7e:06:df:0b
+CH,web-54.schumacher.com,-85.110914,Colombia,15:33:03,-78.943643,Ojibwa,sid,43,2009-08-06T06:49:39,Lang Inc,ipsam.js,Aesch,1996-10-29,$909.63,d9:e4:59:7e:bf:a6
+CH,db-90.hartmann.com,68.316817,Oman,15:38:56,146.923885,Uzbek,kn,982128,1984-01-14T16:57:09,Baur Group,maiores.html,Val-de-Ruz,2001-12-12,"$61,928.08",1c:46:98:56:d9:63
+CH,email-07.walter-muller.net,-19.131272,Jordan,17:24:36,-46.040508,Kirghiz,yi,551403804,1980-05-31T13:22:13,Wegmann PLC,ipsa.mp3,Dübendorf,1973-07-02,$9.16,07:51:c1:4a:54:6c
+CH,web-92.bader.com,-33.476586,Sweden,13:10:49,-43.090265,Armenian,mni,6793352,2001-07-19T06:54:17,Lüthi-Hess,vero.mp3,Vevey,2017-03-04,$5.74,22:92:9d:5c:4e:b9
+CH,desktop-15.hess.com,3.9357075,Albania,17:23:20,161.650598,Divehi,uz,331732,2001-12-25T03:50:47,"Bauer, Hess and Hürlimann",laborum.xlsx,Pfäffikon,1984-10-12,"$10,817.08",5a:3d:8e:7a:e2:34
+CH,web-74.sutter.net,-49.6857935,Belarus,03:16:52,-8.077472,Lingala,bho,5,2004-09-03T11:32:06,"Eichenberger, Koch and Merz",reiciendis.ppt,Steinhausen,2022-11-17,$82.84,3b:f4:70:35:d2:49
+CH,email-44.blaser-kagi.net,75.2909825,Nepal,06:05:56,-161.456888,Irish,ku,8,1997-11-18T03:17:26,Häfliger PLC,sapiente.css,Villars-sur-Glâne,2005-11-22,$1.16,12:40:e7:ab:17:5c
+CH,db-14.albrecht.net,73.9495305,Bosnia and Herzegovina,11:17:31,-147.333271,Chamorro,csb,1614829,2008-04-21T17:45:39,"Merz, Kessler and Ackermann",quos.mp4,Weinfelden,2023-06-06,"$33,368.89",b1:1e:d6:ea:db:4c
+CH,srv-47.forster.com,19.395730,Botswana,01:53:00,13.598067,Slovak,bhb,31982006,2007-09-29T04:24:55,Herzog Inc,excepturi.avi,Monthey,2009-07-20,$62.65,03:a7:85:9e:92:9d
+CH,email-39.portmann.biz,47.2849465,India,20:37:12,60.509591,Interlingua,fi,259754960,1992-01-28T14:19:51,Schnyder-Ritter,natus.css,Wallisellen,1978-03-19,$477.47,45:e1:82:e3:18:3a
+CH,email-04.stockli.com,9.406090,Tunisia,22:55:53,42.189212,Kannada,tig,64784672,1998-11-23T15:29:04,Hug Ltd,nulla.tiff,Aesch,2006-02-20,"$9,207.64",cd:8d:02:e6:8f:38
+CH,email-40.imhof.info,57.2093865,Czech Republic,06:44:03,-66.613769,Marathi,ckb,37814416,1997-03-28T18:51:39,"Bauer, Lanz and Lutz",dolor.odt,Wetzikon,2020-10-01,$8.40,e5:56:5d:4b:57:f0
+CH,web-42.fehr.biz,30.444737,Venezuela,19:00:24,-1.541263,Faroese,fy,1410290,2022-12-31T03:36:09,Kaiser-Iten,dolore.numbers,Plan-les-Ouates,2003-08-31,$229.55,f3:fd:aa:43:38:f5
+CH,srv-79.staub.com,-26.804080,Vatican City,12:08:34,9.698834,Chechen,quz,91645536,1978-12-20T17:52:57,Wagner PLC,ipsum.jpg,Schwyz,1999-08-07,$8.32,f5:66:b2:82:47:6a
+CH,lt-12.ziegler.com,46.620271,Guinea,20:49:29,116.520221,Chinese,sv,606,1980-12-15T10:33:25,"Zürcher, Kägi and Hofstetter",quidem.mov,Freienbach,2008-12-29,$16.66,3d:a1:86:96:32:4e
+CH,web-19.benz.net,34.396905,New Zealand,19:03:23,-71.229161,Somali,lzh,69452454,2022-01-25T05:13:59,Scherrer-Kägi,unde.mov,Aigle,1989-03-27,"$46,878.91",4a:26:2e:aa:f1:20
+CH,db-98.hartmann-michel.com,87.9838555,People's Republic of China,20:35:03,-48.572583,Japanese,lzh,6582,1989-10-23T04:36:58,Vogt-Martin,debitis.wav,Volketswil,2002-11-09,$7.18,f9:c0:ba:24:6b:07
+CH,email-81.ruegg-jenni.biz,-82.5137565,Moldova,01:38:14,13.471661,Spanish,tk,861189218,1983-09-09T18:00:41,"Keller, Steiger and Wirth",doloremque.html,Steinhausen,1972-07-14,$229.50,2f:95:c7:06:3a:50
+CH,laptop-97.bieri-bachmann.com,-66.536619,Rwanda,20:20:04,160.623440,Navajo,ku,442,1988-07-24T05:56:57,Schnyder-Jäggi,explicabo.html,Glarus,1996-03-27,"$3,342.76",15:a6:cd:a8:06:85
+CH,web-54.favre.com,-78.382226,Mauritania,06:33:27,178.594224,Italian,ga,3934,1993-07-21T04:34:28,Schuler-Schär,est.html,Villars-sur-Glâne,2019-09-14,$89.62,b5:6e:1a:a4:fa:59
+CH,web-35.hodel.com,-31.8485165,Thailand,04:03:58,22.668611,Shona,byn,679197406,1992-01-28T09:51:16,"Lutz, Jäggi and Isler",voluptatibus.bmp,Ostermundigen,2010-12-20,$4.14,e9:eb:8c:7e:b1:fc
+CH,db-38.christen.info,-81.171349,United Arab Emirates,20:45:00,-97.860729,Albanian,he,81146664,1972-06-11T10:44:33,"Probst, Haas and Graf",ad.bmp,Pratteln,2016-09-08,"$52,467.23",ef:1f:6d:1f:2e:16
+CH,lt-17.stalder.com,-84.112808,Myanmar,05:33:25,103.684768,Kannada,lg,36,1988-01-22T08:53:06,Schneider and Sons,necessitatibus.webm,Emmen,1982-09-09,$33.06,c4:cf:d5:3e:2a:bb
+CH,db-34.schafer.info,-58.850575,Mali,06:07:41,-93.776438,Macedonian,vi,115265,2018-12-31T22:35:52,Stalder-Schaller,id.tiff,Brugg,1994-01-28,$0.37,c1:a4:b3:05:99:3b
+CH,desktop-36.keller-fehr.net,-1.325134,Vatican City,13:31:16,46.847724,Xhosa,lb,579740476,1974-06-25T23:54:01,Lanz LLC,eligendi.tiff,Amriswil,2022-08-26,$64.89,78:58:0f:21:35:32
+CH,laptop-02.knecht-schaller.com,-56.226737,El Salvador,11:24:23,-3.980572,Oromo,tcy,22679202,1974-03-15T05:33:17,"Schär, Baumgartner and Martin",pariatur.wav,Vevey,1977-05-07,"$41,049.94",8c:c5:08:0c:14:68
+CH,lt-47.keller.com,46.420785,Switzerland,20:07:07,-160.835388,Ndonga,it,1,2021-04-28T08:00:47,Berger-Senn,aliquid.key,Prilly,2007-11-06,$61.08,8e:bd:d1:2d:8c:89
+CH,web-24.muller.biz,-73.7992905,Slovenia,08:54:13,-69.214887,Danish,is,5,2006-12-07T11:31:39,"Friedli, Beck and Steffen",ab.mp4,Volketswil,2018-03-13,$2.52,da:34:61:11:23:21
+CH,lt-49.kung.com,-59.4399555,Portugal,17:08:28,-160.275527,Uighur,km,165,1978-10-21T03:37:09,Steinmann Group,eligendi.csv,Arbon,1992-07-19,$2.31,6a:24:65:96:3c:5a
+CH,db-97.friedli.com,-65.733684,Tonga,01:16:38,119.207156,Welsh,hi,47,1989-05-01T04:27:22,Wolf Inc,nobis.bmp,Naters,2001-05-14,$5.68,60:ba:9f:65:c8:42
+CH,web-22.lehmann-widmer.com,-70.8955355,Palestine,10:27:23,-174.973568,Tsonga,shs,4,2008-08-12T23:31:46,Roth and Sons,fugit.avi,Thônex,2014-08-18,$556.86,fd:8f:17:0c:60:46
+CH,desktop-81.ernst-kunz.com,42.8765475,Costa Rica,12:57:28,83.917071,Latin,da,8,1971-11-05T09:20:22,"Kessler, Schumacher and Näf",occaecati.js,Münchenstein,2023-06-22,$10.71,a1:54:a8:82:5f:85
+CH,desktop-49.schaub.com,-68.420760,Slovakia,01:23:05,20.327211,Chamorro,ht,89053630,2020-04-26T17:51:28,"Seiler, Ritter and Thommen",ea.mov,Schaffhausen,1989-05-04,$8.70,f8:19:26:af:59:f9
+CH,email-69.hofmann-zollinger.com,-40.8139095,Russia,19:32:29,-155.168272,Bosnian,pt,2447,1990-05-10T16:03:24,"Sutter, Fankhauser and Winkler",a.wav,Horw,1999-01-11,"$58,381.99",31:d5:ab:2d:0a:6d
+CH,email-74.naf.com,83.869786,Azerbaijan,23:46:07,-76.966228,Occitan,wal,2,2016-07-20T05:47:21,Gut-Schwab,velit.wav,Affoltern,2005-01-02,"$43,684.90",92:31:83:e3:c6:38
+CH,db-02.weber.com,31.7970325,United Kingdom,06:13:40,129.800338,Fulah,the,2346334,2015-05-17T14:31:15,Kägi LLC,numquam.numbers,Schaffhausen,1990-12-02,"$8,129.70",b2:36:5c:05:b3:68
+CH,laptop-94.wolf.info,53.248360,Spain,12:23:08,138.581234,Basque,th,7,1979-01-29T00:27:42,"Bolliger, Häfliger and Arnold",necessitatibus.html,Morges,1994-10-17,"$58,174.03",5e:d5:90:4f:7a:2a
+CH,db-75.luscher-schuler.com,-27.2412045,Latvia,17:11:12,111.283682,Zulu,ha,423821434,1979-09-16T04:06:34,Hafner PLC,labore.ppt,Gossau,2009-09-03,"$31,585.41",8a:de:35:45:d8:95
+CH,email-55.kaufmann.org,42.780373,Indonesia,14:25:35,-111.887360,Afar,hak,1900,2008-02-23T04:43:29,"Imhof, Gut and Kessler",architecto.flac,Baden,1977-06-27,$659.61,47:2a:59:6c:77:a1
+CH,desktop-93.kalin.org,-61.6206685,Mozambique,18:36:48,52.073654,Afar,ts,437678,1995-01-29T03:21:33,"Hartmann, Hürlimann and Favre",dicta.ods,Lausanne,1983-12-27,$26.78,b5:0f:71:f2:43:54
+CH,srv-52.lutz.com,34.993964,Uzbekistan,16:49:36,-25.577388,Ukrainian,el,945990,2006-12-15T11:02:29,Bosshard Inc,aliquid.mp4,Brig-Glis,1997-10-24,$54.20,05:30:96:7a:9f:aa
+CH,desktop-29.scherrer.com,11.451370,Cape Verde,08:24:01,-50.942889,Armenian,hne,52,1996-06-23T16:23:17,Hafner Ltd,suscipit.gif,Buchs,1988-06-03,$83.64,2f:53:17:c9:07:6c
+CH,lt-69.studer.com,48.7010525,Brunei Darussalam,16:48:37,56.614235,Fijian,dv,887011854,2022-08-17T06:03:23,"Sutter, Seiler and Forster",repellat.png,Lausanne,2010-08-18,$94.92,e4:7b:32:1b:93:e3
+CH,web-36.lustenberger-roth.biz,-78.2753785,South Africa,02:23:25,-9.722191,Oriya,ast,391519691,2016-07-12T15:00:06,Ackermann Ltd,blanditiis.html,Neuhausen,1985-10-15,"$30,319.94",77:2b:8a:9a:2e:dc
+CH,db-94.kern.com,-62.4086085,Venezuela,16:58:56,97.756825,Azerbaijani,ve,4,1985-12-16T17:19:45,Schär-Iten,exercitationem.mp4,Flawil,2007-07-04,"$37,563.15",cc:69:f3:16:13:32
+CH,db-61.lehmann.net,72.8232975,Myanmar,16:13:27,-88.065634,"Sotho, Southern",bn,9,1988-06-23T14:41:46,Lustenberger-Wolf,odio.xls,Siders,2015-03-26,$552.88,ef:78:91:3e:a9:d0
+CH,laptop-50.gfeller.info,-11.7285455,Denmark,19:31:54,81.205683,Ukrainian,mag,43831439,1981-06-11T21:26:47,Schnyder-Ackermann,nihil.csv,Olten,1970-12-17,"$24,418.79",ea:93:5f:48:46:16
+CH,laptop-47.hermann.com,-65.957366,Uganda,23:36:02,97.033181,Swedish,tt,8378,2015-10-29T10:46:03,Hodel-Portmann,dignissimos.txt,Grenchen,1999-09-24,$350.53,da:6f:5b:70:53:d2
+CH,srv-54.schnyder.com,58.915380,Sri Lanka,08:34:09,75.275032,Faroese,tn,90096031,1991-04-02T00:37:35,"Staub, Hug and Meier",minus.jpg,Versoix,1980-01-17,$284.55,c7:54:47:c8:25:f0
+CH,srv-32.herzog.com,37.4786185,Saint Vincent and the Grenadines,07:24:19,-66.239990,Chinese,nl,25,2011-12-16T17:33:32,Meister and Sons,architecto.mp3,Worb,1996-06-14,$0.72,06:ba:28:20:71:dd
+CH,srv-79.hoffmann.org,45.509136,Haiti,11:57:08,97.661295,Aymara,fr,7884,1990-09-04T05:26:00,Küng-Pfister,iste.css,Muttenz,1976-10-31,$34.06,34:ac:ea:3d:2e:c3
+CH,lt-02.schaller.com,-69.3662465,Latvia,16:35:27,-89.772482,Tonga,vi,47,1992-08-04T07:27:12,"Huber, Stutz and Leunberger",culpa.jpg,Wohlen,2011-04-22,"$6,898.99",4b:13:cb:a8:43:c7
+CH,srv-13.herzog.com,26.3193255,Uzbekistan,23:42:43,156.829097,Nauru,yi,1261,1997-09-09T05:06:08,"Kaiser, Hotz and Furrer",enim.csv,Thun,1980-12-18,"$2,521.48",1f:56:c4:35:98:53
+CH,srv-51.kalin.com,43.690744,Qatar,06:07:41,41.836141,Kannada,quz,3,1979-05-26T10:14:18,"Kälin, Frei and Knecht",eius.wav,Solothurn,2005-01-06,$47.21,3e:8b:b3:cc:59:9f
+CH,laptop-66.isler.com,52.995724,Mauritius,09:37:40,145.237911,Russian,tl,11164152,2000-10-22T16:30:09,Fehr Group,officiis.js,Arbon,1984-05-15,$9.55,0d:d5:03:a8:d7:be
+CH,desktop-29.gross.com,8.9983215,Nauru,06:35:20,178.810884,Azerbaijani,ur,432,2012-09-22T22:11:45,Friedli-Rüegg,consectetur.ods,Thalwil,2002-05-10,"$62,535.57",8a:6b:28:8b:a5:c7
+CH,db-00.probst-schneider.com,14.1436105,Greece,19:08:27,58.140275,Norwegian,ka,27,1975-04-12T23:23:17,Kaufmann-Staub,et.mp3,Frauenfeld,2009-12-23,$7.29,87:04:6e:fd:f4:a7
+CH,db-90.zollinger-jaggi.com,65.7165585,Japan,10:17:35,-102.011514,Walloon,mi,1511894,1970-03-31T19:58:59,"Ammann, Koch and Graf",nostrum.flac,Küssnacht,2004-12-29,$97.19,6f:b2:bf:2f:89:e0
+CH,srv-20.blum.com,-9.589207,Vatican City,13:13:37,-31.602147,Swati,om,392,1980-01-02T12:33:22,Wegmann-Wettstein,eius.jpeg,Basel,2003-06-18,"$7,802.51",ea:1a:2e:f0:f6:b9
+CH,email-11.weibel.net,-27.0819255,Mongolia,16:05:22,-152.986402,Afar,da,5358,2006-09-09T08:22:13,Steinmann-Eugster,expedita.gif,La Tour-de-Peilz,1986-12-27,$871.61,6c:44:ee:1d:53:45
+CH,email-17.ziegler.com,-66.883702,Marshall Islands,01:44:46,-49.142460,Abkhazian,az,7,1971-03-22T14:30:13,Gut-Gloor,eius.numbers,Kriens,1989-05-14,$498.19,50:14:1c:8b:33:3c
+CH,lt-88.luscher.com,-82.051435,Eritrea,23:29:28,170.442635,Hiri Motu,ayc,5881451,1986-02-24T19:13:38,Amrein and Sons,possimus.avi,Maur,1995-08-24,"$7,073.99",b1:8a:4b:4c:bf:4e
+CH,desktop-20.muller-wegmann.com,-78.6812315,Nauru,23:55:16,75.574440,Ganda,si,9,2014-07-10T13:43:34,Weibel and Sons,fugit.webm,Romanshorn,1975-04-08,$175.54,82:41:48:56:1d:8d
+CH,email-72.hodel.info,37.657168,Montenegro,12:14:07,133.230086,Tswana,wo,2446385,1974-09-10T00:18:27,Zehnder Ltd,occaecati.mp3,Aesch,2002-12-05,$48.38,50:7d:ff:11:0b:1f
+CH,db-13.frei.info,50.6719465,San Marino,05:14:38,-68.907490,Ossetian,mn,74,2011-05-29T15:26:15,Stadelmann-Hürlimann,animi.csv,Nyon,1993-02-06,$8.92,e9:f3:00:7f:57:b5
+CH,email-37.portmann-wirth.com,32.7579025,Saint Lucia,17:43:20,-118.251067,Avestan,ta,37,2015-09-10T05:25:06,Erni-Zimmermann,reprehenderit.pages,Urdorf,2009-08-02,$62.15,bf:59:34:cf:b1:fa
+CH,db-84.scherrer-forster.org,33.978901,Iraq,10:20:48,-161.128211,Church Slavic,hsb,65307,2011-04-10T00:11:43,"Schnyder, Berger and Gasser",in.wav,Val-de-Travers,1976-04-18,$3.01,f5:d6:1a:1f:6a:60
+CH,db-94.hauser-hurlimann.org,44.1634495,Czech Republic,04:42:08,-141.648412,Bashkir,ia,4,1983-04-13T01:26:04,Lutz LLC,quam.jpg,Winterthur,1986-08-05,$278.48,c5:ee:34:72:b2:8f
+CH,srv-92.bernasconi.net,44.7678765,Armenia,11:28:26,40.319847,Inupiaq,mai,311,1978-11-29T09:38:27,Hartmann-Berger,unde.mp3,Neuenburg,1997-09-16,"$10,069.38",a1:0c:b1:0d:84:a9
+CH,web-01.eugster.com,-14.3889975,Jamaica,10:38:50,-118.175693,German,zu,7,1985-08-02T06:13:15,Geiger-Hermann,esse.docx,Riehen,2016-09-13,"$5,032.44",f4:d3:c3:f0:bb:57
+CH,srv-85.steiner.com,-60.253358,Bosnia and Herzegovina,03:36:39,178.906968,Portuguese,st,21,2015-04-01T04:24:03,Ott-Brunner,quis.webm,Yverdon-les-Bains,2023-09-01,"$96,542.48",9f:ee:6f:cc:17:80
+CH,lt-88.forster-giger.org,17.5123525,Fiji,07:17:06,-49.773123,Walloon,ka,6907890,1976-02-10T11:35:10,Lehmann-Lanz,numquam.mp4,Dietikon,1982-04-15,$6.09,3a:d9:7f:1a:49:26
+CH,db-47.gloor.com,22.2546835,Eritrea,11:15:17,-77.852476,Tajik,zu,435,2002-10-13T22:57:07,Probst Group,eos.mov,Altstätten,1989-05-09,"$6,587.51",be:9e:7d:ed:de:3f
+CH,laptop-75.schwab.org,-2.1716075,Mongolia,13:27:47,-172.912351,Chamorro,sk,338,1973-07-19T19:57:58,"Graf, Maurer and Fankhauser",tenetur.ppt,Bellinzona,1986-06-13,$512.52,4a:fc:2c:89:f3:c4
+CH,lt-67.baumann-hartmann.biz,68.677272,Australia,13:51:24,-141.745159,Walloon,sd,189,2011-02-07T18:15:11,Hunziker-Hess,eum.gif,Weinfelden,1997-01-12,$8.28,c3:c5:dc:68:f8:3b
+CH,db-17.sutter-merz.com,26.9379445,Yemen,06:22:55,36.403096,Urdu,or,20,1974-09-20T10:44:45,"Stauffer, Merz and Lehmann",iure.mp4,Liestal,1979-05-10,$3.54,af:b1:13:f1:1e:4a
+CH,laptop-78.fehr-bachmann.net,-17.881529,Oman,13:16:47,-79.351879,Kikuyu,he,694,2014-05-02T23:21:35,Herzog-Gloor,deserunt.mp3,Bassersdorf,1988-02-26,$41.91,a2:7d:e9:31:cc:64
+CH,laptop-89.scherrer-siegrist.com,-15.6439375,Nigeria,03:25:35,-14.882937,Haitian,bem,3,2012-12-10T20:47:22,"Kunz, Bühler and Steinmann",libero.js,Belp,1998-03-31,$881.42,59:fc:79:88:a2:bd
+CH,db-07.favre-graf.org,-51.4910705,Belgium,02:35:16,-75.931527,Albanian,the,8377994,2019-06-19T21:23:11,"Lang, Giger and Braun",quibusdam.tiff,Bern,1981-04-30,$90.83,0c:f0:62:a3:34:00
+CH,laptop-41.ernst-bucher.com,22.7990215,Liberia,01:20:37,-130.665367,Czech,ta,6912951,1971-12-19T03:42:38,"Kuhn, Gloor and Stocker",temporibus.mov,Gossau,2019-07-15,$31.97,e0:f1:d9:ba:d5:3a
+CH,web-49.steiger.com,-78.794695,Eritrea,11:11:23,-132.600213,Japanese,the,8885,2013-08-20T06:15:39,Tanner-Thommen,consequatur.odt,Wohlen,1990-12-24,"$5,466.12",61:fe:48:24:40:ae
+CH,laptop-95.wehrli.com,74.2156545,Uruguay,21:01:52,116.417190,Quechua,tl,892,1997-04-17T13:19:37,Käser-Steffen,accusamus.gif,Risch,1979-05-28,$6.50,39:d3:f6:e3:82:dd
+CH,email-23.iten.com,-44.141882,Gabon,22:21:02,88.824040,Ojibwa,ve,63,1996-06-13T17:48:08,Schmidt-Scherrer,nisi.webm,Montreux,1976-04-12,"$18,729.02",3d:9e:16:b6:f5:89
+CH,db-50.mettler.org,-54.183596,Laos,19:59:12,-52.607534,Belarusian,uk,35,1986-11-04T12:49:12,Benz-Zollinger,vitae.gif,Uzwil,2017-11-03,$260.47,d6:06:f2:eb:b6:cb
+CH,email-36.ackermann.biz,-32.019952,Guinea-Bissau,21:17:30,-139.763480,Latin,mi,72560,2005-07-01T06:05:16,Gfeller Group,corporis.tiff,Freiburg,1993-09-04,"$7,706.65",3a:c5:1a:96:c2:e3
+CH,lt-95.luthi.org,-59.5667345,Sri Lanka,04:24:48,143.346591,Malayalam,sc,0,1987-04-24T22:16:50,Gut Ltd,sint.css,Uzwil,1994-01-12,"$15,829.38",9c:b4:35:d9:94:0f
+CH,laptop-65.bieri-siegrist.biz,61.099303,Uzbekistan,09:41:59,-149.292029,Indonesian,bho,2911,2015-11-09T05:54:21,Mäder-Fehr,nemo.wav,Zofingen,1999-08-13,"$4,252.26",e5:4e:a0:fb:d0:86
+CH,laptop-60.huber.com,29.115012,Palestine,10:35:05,45.730066,Lingala,shs,555851487,1987-11-24T06:12:59,"Stucki, Wenger and Probst",doloremque.mp4,Horgen,2019-02-15,"$65,059.01",0a:cf:35:eb:d6:3d
+CH,email-89.meili-kaufmann.com,70.9147685,Cameroon,13:38:23,167.396033,Kinyarwanda,sid,798118,1988-09-22T06:57:09,"Stettler, Steinmann and Schwarz",quasi.mp3,Buchs,1995-02-24,$99.78,6a:e5:73:79:a4:27
+CH,db-49.blum.biz,75.2576025,Kyrgyzstan,19:51:29,15.150907,Malay,iw,365,1971-03-22T14:03:09,Marti-Flückiger,nemo.bmp,Glarus,1996-10-26,$31.54,79:0a:41:c7:57:e4
+CH,desktop-73.hofer.info,48.4584065,Samoa,10:53:47,53.260819,Northern Sami,pt,80,2020-08-29T09:06:29,Moser-Ernst,mollitia.jpeg,Glarus,1992-05-27,$53.03,be:94:11:63:89:4b
+CH,web-67.hartmann.org,18.773574,Samoa,20:02:02,-142.152016,Western Frisian,raj,659638030,1988-12-17T02:31:28,Meister-Schuler,doloribus.html,Olten,1998-11-29,"$96,178.06",4a:2a:ea:c8:48:52
+CH,laptop-19.gloor.com,7.305985,Ecuador,09:52:14,86.049898,Bashkir,hne,3768876,2011-02-18T20:25:01,Isler-Lutz,sed.js,Renens,2000-11-15,"$93,267.75",9a:68:a7:8f:ef:f3
+CH,desktop-81.bolliger-zehnder.com,59.3914775,Georgia,01:44:37,61.709354,Telugu,mr,155422,2013-12-08T18:24:35,Bernasconi Group,corporis.pages,Villars-sur-Glâne,1970-07-19,$968.17,87:31:9e:c2:54:56
+CH,db-39.lehmann.com,82.631068,Democratic Republic of the Congo,17:24:30,-25.243610,Bengali,ig,618452299,1995-05-02T13:13:58,Stalder Ltd,cumque.csv,Einsiedeln,1987-01-11,"$56,104.66",98:20:ec:21:1a:c8
+CH,laptop-49.friedli-tanner.com,62.152848,Sierra Leone,19:47:02,53.305745,Romanian,ky,805178,2002-07-18T13:38:26,"Ott, Egger and Bättig",quia.wav,Grenchen,1975-04-04,"$52,262.03",62:85:a7:71:1f:67
+CH,web-56.thommen.com,-43.5150765,Russia,09:03:34,-138.264714,Spanish,nso,435119867,1979-06-08T04:01:01,"Meier, Bosshard and Friedli",inventore.mp4,Münchenbuchsee,1975-12-17,$0.30,d4:6b:27:1a:ef:ce
+CH,laptop-53.wirth.org,-56.507395,Sierra Leone,06:09:35,-177.910072,Aragonese,quz,3092,1981-07-06T18:18:46,Mettler LLC,nulla.js,Sitten,1970-04-13,$885.65,48:f3:0e:b1:3e:6e
+CH,srv-55.scherrer.com,35.5376825,Guyana,12:06:16,149.964007,Shona,ia,27103,2006-01-17T08:19:18,Favre-Michel,libero.json,Kloten,1984-08-06,$79.91,2e:3c:65:85:6e:35
+CH,desktop-45.ernst.com,-15.101191,Vatican City,15:26:02,33.902435,Venda,nr,554999,2001-03-07T07:40:08,Kaufmann and Sons,enim.mp4,Binningen,1984-08-02,$90.87,a9:32:b0:5d:f2:fe

@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>EyeDB - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6NjY1LCJpc3MiOiJjb3VudGVyOnN5c3RlbSIsIm5iZiI6MTY5NDYxNDIwOH0.etSHkTzFw3xysQOkbUWK1NSl2LnCXaLKniEve8Ax68k">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/eyedb" />
+<meta name="twitter:url" content="https://dbdb.io/db/eyedb" />
+<meta property="og:title" content="Database of Databases &mdash; EyeDB" />
+<meta property="og:description" content="EyeDB is an object-oriented DBMS written for Java and C++ applications." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/eyedb.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; EyeDB" />
+<meta name="twitter:description" content="EyeDB is an object-oriented DBMS written for Java and C++ applications." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/eyedb.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/eyedb/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+EyeDB
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<p class="card-text">
+<p>EyeDB is an object-oriented DBMS written for Java and C++ applications.</p>
+</p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>The original prototype (IDB) was developed in 1992 at Genethon Laboratories. The project was rewritten and renamed to EyeDB in 1994.</p>
+<p>The last update to the source code was made in 2014.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://www.eyedb.org/history/">http://www.eyedb.org/history/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=object-oriented">Object-Oriented</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=custom-api">Custom API</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/eyedb/revisions/" title="View All Revisions for EyeDB">
+<div class="card-body">
+Revision #1
+&nbsp;|&nbsp;
+<time datetime="2019-06-07T20:53:39.873000-04:00">
+Updated 06/07/2019 8:53 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/paradise" title="Paradise">
+<img src="/static/core/images/database-nologo.svg" alt="Paradise" /> Paradise
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/objectdatabase" title="ObjectDatabase++">
+<img class="logo-recommendation" src="/media/logos/odbpp.png.200x50_q85.png" alt="ObjectDatabase++" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/neodatis-odb" title="NeoDatis ODB">
+<img class="logo-recommendation" src="/media/logos/neodatis.png.200x50_q85.png" alt="NeoDatis ODB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/coreobject" title="CoreObject">
+<img class="logo-recommendation" src="/media/logos/coreobject.svg" alt="CoreObject" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/eyedb.png"><img class="logo-thumbnail" src="/media/logos/eyedb.png.280x250_q85.png" style="border:none;" alt="EyeDB Logo" title="EyeDB"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="http://www.eyedb.org/">http://www.eyedb.org/</a></p>
+<h6 class="card-title">Source Code</h6>
+<p class="card-text"><a href="http://sourceforge.net/projects/eyedb">http://sourceforge.net/projects/eyedb</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="http://www.eyedb.org/documentation/">http://www.eyedb.org/documentation/</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">Genethon Laboratories</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=FR" title="View other systems from France">
+<i class="flag-sprite flag-f flag-_r"></i>
+FR
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">1992</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://www.eyedb.org/history/">http://www.eyedb.org/history/</a></li>
+</ul>
+</cite>
+<h6 class="card-title">
+End Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2014</p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+<h6 class="card-title">Former Name</h6>
+<p class="card-text">IDB</p>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=academic" title="View other Academic systems">Academic</a>, <a class="card-title" href="/browse?type=open-source" title="View other Open Source systems">Open Source</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=cplusplus" title="View other systems that are written in C++">C++</a>
+</p>
+<h6 class="card-title">Supported languages</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?supported=cplusplus" title="View other systems that support C++">C++</a>, <a class="card-title" href="/browse?supported=java" title="View other systems that support Java">Java</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=lgpl-v2" title="View other systems that use LGPL v2">LGPL v2</a>
+</p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/eyedb/revisions/" title="View All Revisions for EyeDB">
+<div class="card-body">
+Revision #1
+&nbsp;|&nbsp;
+<time datetime="2019-06-07T20:53:39.873000-04:00">
+Updated 06/07/2019 8:53 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/paradise" title="Paradise">
+<img src="/static/core/images/database-nologo.svg" alt="Paradise" /> Paradise
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/objectdatabase" title="ObjectDatabase++">
+<img class="logo-recommendation" src="/media/logos/odbpp.png.200x50_q85.png" alt="ObjectDatabase++" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/neodatis-odb" title="NeoDatis ODB">
+<img class="logo-recommendation" src="/media/logos/neodatis.png.200x50_q85.png" alt="NeoDatis ODB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/coreobject" title="CoreObject">
+<img class="logo-recommendation" src="/media/logos/coreobject.svg" alt="CoreObject" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#b8d5d9d1d4f8dcdadcda96d1d7" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="74c4d4ff146009956c71a984-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="74c4d4ff146009956c71a984-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="74c4d4ff146009956c71a984-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="74c4d4ff146009956c71a984-text/javascript"></script>
+<script type="74c4d4ff146009956c71a984-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="74c4d4ff146009956c71a984-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="74c4d4ff146009956c71a984-text/javascript"></script>
+<script type="74c4d4ff146009956c71a984-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="74c4d4ff146009956c71a984-text/javascript"></script>
+<script src="/static/core/js/system.js" type="74c4d4ff146009956c71a984-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="74c4d4ff146009956c71a984-|49" defer></script></body>
+</html>

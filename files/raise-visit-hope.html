@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>OrientDB - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6MjQzLCJpc3MiOiJjb3VudGVyOnN5c3RlbSIsIm5iZiI6MTY5NDYxNDQwMX0.LL3KLh2144CIQuehsbSzOcdZVTTMov_9nSx3qQ90GEA">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/orientdb" />
+<meta name="twitter:url" content="https://dbdb.io/db/orientdb" />
+<meta property="og:title" content="Database of Databases &mdash; OrientDB" />
+<meta property="og:description" content="OrientDB is a multi-model NoSQL DBMS that supports of graph, documents, key-value, and object-oriented storage. Instead of just implementing another layer with an API, OrientDB integrates those models.  It also supports both disk-oriented and in-memory storages. Moreover, OrientDB supports SQL synt…" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/orientdb.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; OrientDB" />
+<meta name="twitter:description" content="OrientDB is a multi-model NoSQL DBMS that supports of graph, documents, key-value, and object-oriented storage. Instead of just implementing another layer with an API, OrientDB integrates those model…" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/orientdb.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/orientdb/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+OrientDB
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<p class="card-text">
+<p>OrientDB is a multi-model NoSQL DBMS that supports of graph, documents, key-value, and object-oriented storage. Instead of just implementing another layer with an API, OrientDB integrates those models. It also supports both disk-oriented and in-memory storages. Moreover, OrientDB supports SQL syntax with few differences from standard SQL and extends SQL syntax to support graph concepts. It is also an ACID compliant DBMS and able to handle transactional workloads. OrientDB supports a multi-master distributed architecture.</p>
+</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/misc/Overview.html">http://orientdb.com/docs/3.1.x/misc/Overview.html</a></li>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/gettingstarted/Tutorial-SQL.html">http://orientdb.com/docs/3.1.x/gettingstarted/Tutorial-SQL.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>OrientDB was originally developed by Luca Garulli in 2010. Luca rewrote the fast persistent layer of OrientDB ODBMS in Java as OrientDB. Starting from 2012, OrientDB is sponsored by OrientDB LTD, whose founder and CEO is Luca. OrientDB LTD is a for-profit company, whose former is called Orient Technologies LTD. Andrey Lomakin redeveloped the storage engine of OrientDB, called plocal, from 2012 to 2014. In 2013, Andrey joined the company as the co-owner and the leader of R&amp;D department of OrientDB LTD. On Sep. 19 2017, Callidus Software Inc., also called CallidusCloud acquired OrientDB LTD. On January 30 2018, CallidusCloud and consequently OrientDB was acquired by SAP SE.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://en.wikipedia.org/wiki/OrientDB">https://en.wikipedia.org/wiki/OrientDB</a></li>
+<li><a target="_blank" href="https://orientdb.com/calliduscloud-acquires-orientdb-the-leading-multi-model-database-technology/">https://orientdb.com/calliduscloud-acquires-orientdb-the-leading-multi-model-database-technology/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="checkpoints" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Checkpoints
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?checkpoints=consistent">Consistent</a>
+</p>
+<p><p>OrientDB supports full checkpointing. It is a simple disk cache flush, which means it flushes all the content in disk cache to the disk when full checkpointing is invoked. Users can set custom time stamps to perform full checkpointing in those scenarios during the configuration of storage engine.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/internals/plocal-storage-engine.html">http://orientdb.com/docs/3.1.x/internals/plocal-storage-engine.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="compression" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Compression
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?compression=naive-record-level">Naïve (Record-Level)</a>
+</p>
+<p><p>OrientDB supports record-level compression. The records will be decompressed when they are loaded from the storage engine. The compression includes two types of algorithms: gzip and snappy. The default is no compression. Users can set compression choices using SQL syntax or in the configuration of storage engine. Users can also define custom compression algorithms.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/sql/SQL-Alter-Cluster.html">http://orientdb.com/docs/3.1.x/sql/SQL-Alter-Cluster.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=multi-version-concurrency-control-mvcc">Multi-version Concurrency Control (MVCC)</a>
+</p>
+<p><p>OrientDB applies Multi-version Concurrency Control and checks integrity constraints on commit. It is optimistic and OrientDB does not support pessimistic transactions. When a transaction has a conflict with another, OrientDB will throw an exception and the application can determine whether to abort it or not. With Graph, OrientDB provides three consistency mode. The first mode, which is default, maintains consistency using transactions while the other two does not use transactions. They use a database repair operation. One runs the repair operation synchronously to the application, but the other runs the repair operation asynchronously to the application.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/internals/Transactions.html">http://orientdb.com/docs/3.1.x/internals/Transactions.html</a></li>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/java/Graph-Consistency.html">http://orientdb.com/docs/3.1.x/java/Graph-Consistency.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=keyvalue">Key/Value</a>
+<a class="badge badge-info" href="/browse?data-model=document-xml">Document / XML</a>
+<a class="badge badge-info" href="/browse?data-model=graph">Graph</a>
+<a class="badge badge-info" href="/browse?data-model=object-oriented">Object-Oriented</a>
+</p>
+<p><p>OrientDB is a multi-model DBMS. It supports graph, document, key-value and object-oriented models. It combines all the features of the four models into the engine rather than just implement an additional layer of APIs to support them. The <strong>graph model</strong> represents a network structures including vertices representing entities and edges showing connections among vertices. Apart from necessary properties to define vertices and edges, OrientDB allows user-defined properties for both vertices and edges. For <strong>document model</strong>, OrientDB introduces the concept "LINK" as the relationship among documents. Hence, when users refer a document, all "LINK"s defined with that document are resolved by OrientDB automatically instead of done by developers in most document DBMS.
+For <strong>key/value model</strong>, OrientDB organizes key-value pairs similar to common key-value models. The difference is that OrientDB supports richer types of values: it allows graph elements and documents as values. The <strong>object-oriented model</strong> is derived from the concept of object-oriented programming. OrientDB directly uses the concept of class in object-oriented programming to define records. It supports inheritance and polymorphism among classes.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/datamodeling/Tutorial-Document-and-graph-model.html">http://orientdb.com/docs/3.1.x/datamodeling/Tutorial-Document-and-graph-model.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="indexes" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Indexes
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?indexes=btree">B+Tree</a>
+<a class="badge badge-info" href="/browse?indexes=hash-table">Hash Table</a>
+<a class="badge badge-info" href="/browse?indexes=inverted-index-full-text">Inverted Index (Full Text)</a>
+</p>
+<p><p>OrientDB supports five index algorithms, which belong to three categories. Moreover, OrientDB allows users to define custom index engines by asking them to implement specific classes. <strong>SB-Tree index</strong> The SB-tree index is a variant of B-tree index with optimizations focusing on data insertion and long range queries. It is the default index type of OrientDB. <strong>Hash index</strong> OrientDB supports two hash index algorithms, regular hash index and auto sharding index, an implementation of distributed hash table based on Murmur3 hash function. Both index applies extendible hashing algorithm and do not support range queries. <strong>Lucene engine</strong> Apache Lucene Core is an implementation of inverted index. OrientDB provides full-text and spatial index using Lucene engine.
+OrientDB uses SQL syntax to manage indexes using a specific prefix representing indexes. OrientDB can update indexes automatically and manually. The default is manual.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/indexing/Indexes.html">http://orientdb.com/docs/3.1.x/indexing/Indexes.html</a></li>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/internals/Custom-Index-Engine.html">http://orientdb.com/docs/3.1.x/internals/Custom-Index-Engine.html</a></li>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/indexing/Auto-Sharding-Index.html">http://orientdb.com/docs/3.1.x/indexing/Auto-Sharding-Index.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="isolation-levels" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Isolation Levels
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?isolation-levels=read-committed">Read Committed</a>
+<a class="badge badge-info" href="/browse?isolation-levels=repeatable-read">Repeatable Read</a>
+</p>
+<p><p>OrientDB supports two isolation levels: Read Committed and Repeatable Reads. The default isolation level is Read Committed. Read Committed is the only available isolation level when transactions are performed on remote databases. Repeatable Reads is allowed only when transactions are perform on local databases and consumes more memory than Read Committed. Users can change the isolation level using Java API.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/internals/Transactions.html">http://orientdb.com/docs/3.1.x/internals/Transactions.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="joins" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Joins
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?joins=not-supported">Not Supported</a>
+</p>
+<p><p>OrientDB does not support join syntax. It introduces the concept <code>LINKS</code> to represent relationships among entities. <code>LINKS</code> refers to the record ID and is defined as a pointer to the record. Users can traverse <code>LINKS</code> in order to achieve the same goal as join.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/sql/SQL-Introduction.html#no-joins">http://orientdb.com/docs/3.1.x/sql/SQL-Introduction.html#no-joins</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="logging" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Logging
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?logging=physical-logging">Physical Logging</a>
+</p>
+<p><p>OrientDB applies Write Ahead Logging (WAL). It performs physical logging by recording changes done in pages. For every changes in each page, OrientDB records offset and length of bytes changed with before and after values in the log.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/internals/Write-Ahead-Log.html">http://orientdb.com/docs/3.1.x/internals/Write-Ahead-Log.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-compilation" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Compilation
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-compilation=jit-compilation">JIT Compilation</a>
+</p>
+<p><p>The execution planner of query engine in OrientDB generates execution plans consisting of components (objects) in Java. It does not directly compile queries into Java bytecode. Then, OrientDB uses JVM JIT compilation. Besides, execution plans are cached to avoid regeneration for the same query.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://community.orientdb.org/t/questions-on-information-of-orientdb/102">https://community.orientdb.org/t/questions-on-information-of-orientdb/102</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-execution=tuple-at-a-time-model">Tuple-at-a-Time Model</a>
+<a class="badge badge-info" href="/browse?query-execution=vectorized-model">Vectorized Model</a>
+</p>
+<p><p>OrientDB is originally designed to use iterator model. However, OrientDB allows some fetching strategies to use vectorized model. Some components in execution plans pre-fetch records in a single call and then do batch processing e.g aggregations and <code>ORDER BY</code>. This pattern can be considered as vectorized model.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://community.orientdb.org/t/questions-on-information-of-orientdb/102">https://community.orientdb.org/t/questions-on-information-of-orientdb/102</a></li>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/java/Fetching-Strategies.html">http://orientdb.com/docs/3.1.x/java/Fetching-Strategies.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=sql">SQL</a>
+<a class="badge badge-info" href="/browse?query-interface=stored-procedures">Stored Procedures</a>
+<a class="badge badge-info" href="/browse?query-interface=graphql">GraphQL</a>
+<a class="badge badge-info" href="/browse?query-interface=gremlin">Gremlin</a>
+<a class="badge badge-info" href="/browse?query-interface=http-rest">HTTP / REST</a>
+</p>
+<p><p>OrientDB supports SQL syntax with some differences from SQL standard. It also extends SQL to support graph functionality. For example, it does not support joins or HAVING keyword. OrientDB also has its own concept similar to stored procedures of RDBMS. It also supports many other APIs to do queries for other data models.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/apis-and-drivers/">http://orientdb.com/docs/3.1.x/apis-and-drivers/</a></li>
+<li><a target="_blank" href="https://orientdb.com/docs/3.0.x/sql/SQL-Introduction.html#orientdb-sql-dialect">https://orientdb.com/docs/3.0.x/sql/SQL-Introduction.html#orientdb-sql-dialect</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=hybrid">Hybrid</a>
+</p>
+<p><p>OrientDB supports in-memory and disk-oriented databases. It has corresponding abstractions to memory and disk storage in order to support both storage architectures. OrientDB also supports larger-than-memory databases. JVM is responsible for allocating extra space from swap.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/internals/Memory-storage.html">http://orientdb.com/docs/3.1.x/internals/Memory-storage.html</a></li>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/internals/Paginated-Local-Storage.html">http://orientdb.com/docs/3.1.x/internals/Paginated-Local-Storage.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=n-ary-storage-model-rowrecord">N-ary Storage Model (Row/Record)</a>
+</p>
+<p><p>OrientDB uses page as a basic unit to store records. It is the N-ary storage model. Records are usually stored in two kinds of pages. The first kind of pages store metadata about records including record ID and pointers to the actual content. Each entry in the first kind of pages has fixed size. The other kind of pages store actual content of records. Each record is stored as key/value pairs in the second kind of pages.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/internals/Paginated-Local-Storage.html">http://orientdb.com/docs/3.1.x/internals/Paginated-Local-Storage.html</a></li>
+<li><a target="_blank" href="https://community.orientdb.org/t/questions-on-information-of-orientdb/102">https://community.orientdb.org/t/questions-on-information-of-orientdb/102</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-organization" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Organization
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-organization=heaps">Heaps</a>
+</p>
+<p><p>The pages are unordered and the size of a page is 64KB. Actual content of records are stored in pages. If the size of a record exceeds that of a page, it will be stored in multiple pages.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://community.orientdb.org/t/questions-on-information-of-orientdb/102/3">https://community.orientdb.org/t/questions-on-information-of-orientdb/102/3</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="stored-procedures" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Stored Procedures
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?stored-procedures=supported">Supported</a>
+</p>
+<p><p>OrientDB introduces the concept <code>Functions</code> similar to Stored Procedure. Users can write <code>Functions</code> in SQL and JavaScript. OrientDB can execute <code>Functions</code> in SQL, Java and REST API.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/admin/Functions.html">http://orientdb.com/docs/3.1.x/admin/Functions.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-nothing">Shared-Nothing</a>
+</p>
+<p><p>OrientDB supports multi-master and shared-nothing distributed architecture. OrientDB integrates the Hazelcast project in its distributed architecture. It uses Hazelcast to maintain the lifecycle of every nodes in the distributed system. OrientDB also uses Hazelcast plugin for the configuration of distributed system.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/distributed/Distributed-Architecture.html">http://orientdb.com/docs/3.1.x/distributed/Distributed-Architecture.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=materialized-views">Materialized Views</a>
+</p>
+<p><p>OrientDB supports materialized views. It uses the SQL syntax to create or drop views. OrientDB supports read-only and updatable materialized views. The default is read-only. For updatable materialized views, users can define time intervals to update views every certain period. Users can also manually modify views and the modification will be reflected in corresponding records. Updatable views cannot be created from aggregation.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://orientdb.com/docs/3.1.x/datamodeling/Concepts.html">http://orientdb.com/docs/3.1.x/datamodeling/Concepts.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/orientdb/revisions/" title="View All Revisions for OrientDB">
+<div class="card-body">
+Revision #19
+&nbsp;|&nbsp;
+<time datetime="2022-06-27T23:02:20.160000-04:00">
+Updated 06/27/2022 11:02 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+Derivative Systems
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/arcadedb" title="ArcadeDB">
+<img class="logo-recommendation" src="/media/logos/arcadedb.png.200x50_q85.png" alt="ArcadeDB" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/arangodb" title="ArangoDB">
+<img class="logo-recommendation" src="/media/logos/arangodb.svg" alt="ArangoDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/couchdb" title="CouchDB">
+<img class="logo-recommendation" src="/media/logos/apache-couchdb.svg" alt="CouchDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/agensgraph" title="AgensGraph">
+<img class="logo-recommendation" src="/media/logos/agensgraph2023.png.200x50_q85.png" alt="AgensGraph" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/jena" title="Jena">
+<img class="logo-recommendation" src="/media/logos/jena.png.200x50_q85.png" alt="Jena" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/orientdb.svg"><img class="logo-thumbnail" src="/media/logos/orientdb.svg" style="border:none;" alt="OrientDB Logo" title="OrientDB"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="https://orientdb.org/">https://orientdb.org/</a></p>
+<h6 class="card-title">Source Code</h6>
+<p class="card-text"><a href="https://github.com/orientechnologies/orientdb">https://github.com/orientechnologies/orientdb</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="https://orientdb.org/docs/">https://orientdb.org/docs/</a></p>
+<h6 class="card-title">Twitter</h6>
+<p class="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" /></svg> <a target="twitter" href="https://twitter.com/OrientDB"> @OrientDB</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">OrientDB LTD</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=GB" title="View other systems from United Kingdom">
+<i class="flag-sprite flag-g flag-_b"></i>
+GB
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2010</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://en.wikipedia.org/wiki/OrientDB">https://en.wikipedia.org/wiki/OrientDB</a></li>
+</ul>
+</cite>
+<h6 class="card-title">
+Acquired By
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">SAP SE</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://orientdb.com/calliduscloud-acquires-orientdb-the-leading-multi-model-database-technology/">https://orientdb.com/calliduscloud-acquires-orientdb-the-leading-multi-model-database-technology/</a></li>
+</ul>
+</cite>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=commercial" title="View other Commercial systems">Commercial</a>, <a class="card-title" href="/browse?type=open-source" title="View other Open Source systems">Open Source</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=java" title="View other systems that are written in Java">Java</a>
+</p>
+<h6 class="card-title">Supported languages</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?supported=c" title="View other systems that support C">C</a>, <a class="card-title" href="/browse?supported=csharp" title="View other systems that support C#">C#</a>, <a class="card-title" href="/browse?supported=cplusplus" title="View other systems that support C++">C++</a>, <a class="card-title" href="/browse?supported=clojure" title="View other systems that support Clojure">Clojure</a>, <a class="card-title" href="/browse?supported=elixir" title="View other systems that support Elixir">Elixir</a>, <a class="card-title" href="/browse?supported=go-lang" title="View other systems that support Go">Go</a>, <a class="card-title" href="/browse?supported=groovy" title="View other systems that support Groovy">Groovy</a>, <a class="card-title" href="/browse?supported=java" title="View other systems that support Java">Java</a>, <a class="card-title" href="/browse?supported=javascript" title="View other systems that support JavaScript">JavaScript</a>, <a class="card-title" href="/browse?supported=perl" title="View other systems that support Perl">Perl</a>, <a class="card-title" href="/browse?supported=php" title="View other systems that support PHP">PHP</a>, <a class="card-title" href="/browse?supported=python" title="View other systems that support Python">Python</a>, <a class="card-title" href="/browse?supported=ruby" title="View other systems that support Ruby">Ruby</a>, <a class="card-title" href="/browse?supported=scala" title="View other systems that support Scala">Scala</a>
+</p>
+<h6 class="card-title">Operating Systems</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?os=all-os-with-java-vm" title="View other systems that support All OS with Java VM systems">All OS with Java VM</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=apache-v2" title="View other systems that use Apache v2">Apache v2</a>
+</p>
+<h6 class="card-title">Wikipedia</h6>
+<p class="card-text"><a target="wikipedia" href="https://en.wikipedia.org/wiki/OrientDB">https://en.wikipedia.org/wiki/OrientDB</a></p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/orientdb/revisions/" title="View All Revisions for OrientDB">
+<div class="card-body">
+Revision #19
+&nbsp;|&nbsp;
+<time datetime="2022-06-27T23:02:20.160000-04:00">
+Updated 06/27/2022 11:02 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+Derivative Systems
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/arcadedb" title="ArcadeDB">
+<img class="logo-recommendation" src="/media/logos/arcadedb.png.200x50_q85.png" alt="ArcadeDB" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/arangodb" title="ArangoDB">
+<img class="logo-recommendation" src="/media/logos/arangodb.svg" alt="ArangoDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/couchdb" title="CouchDB">
+<img class="logo-recommendation" src="/media/logos/apache-couchdb.svg" alt="CouchDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/agensgraph" title="AgensGraph">
+<img class="logo-recommendation" src="/media/logos/agensgraph2023.png.200x50_q85.png" alt="AgensGraph" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/jena" title="Jena">
+<img class="logo-recommendation" src="/media/logos/jena.png.200x50_q85.png" alt="Jena" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#f994989095b99d9b9d9bd79096" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="1c7a7d102557c8c6516842d7-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="1c7a7d102557c8c6516842d7-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="1c7a7d102557c8c6516842d7-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="1c7a7d102557c8c6516842d7-text/javascript"></script>
+<script type="1c7a7d102557c8c6516842d7-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="1c7a7d102557c8c6516842d7-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="1c7a7d102557c8c6516842d7-text/javascript"></script>
+<script type="1c7a7d102557c8c6516842d7-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="1c7a7d102557c8c6516842d7-text/javascript"></script>
+<script src="/static/core/js/system.js" type="1c7a7d102557c8c6516842d7-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1c7a7d102557c8c6516842d7-|49" defer></script></body>
+</html>
