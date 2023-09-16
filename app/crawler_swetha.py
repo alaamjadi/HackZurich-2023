@@ -219,3 +219,40 @@ def markdown_to_text_file(input_filename, output_filename):
 input_filename = 'world-southern-feel-personal-benefit.md'
 output_filename = 'output.txt'
 markdown_to_text_file(input_filename, output_filename)
+
+
+
+
+
+## XML TO TXT CONVERSION
+
+import xml.etree.ElementTree as ET
+import re
+
+def convert_xml_to_txt(input_xml_filename, output_txt_filename):
+    try:
+        # Parse the XML file
+        tree = ET.parse(input_xml_filename)
+
+        # Convert the parsed XML to plain text without newlines
+        notags = ET.tostring(tree.getroot(), encoding='utf-8', method='text')
+        text_content = notags.decode('utf-8').replace('\n', '')  # Remove newlines
+
+        # Remove excess whitespace (spaces, tabs, and multiple consecutive spaces)
+        text_content = re.sub(r'\s+', ' ', text_content)
+
+        # Write the text to the output file
+        with open(output_txt_filename, 'w', encoding='utf-8') as txt_file:
+            txt_file.write(text_content.strip())  # Strip leading/trailing spaces
+
+        print(f"XML file '{input_xml_filename}' successfully converted to '{output_txt_filename}'")
+
+    except ET.ParseError as e:
+        print(f"Error parsing XML: {e}")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+# Usage
+input_xml_filename = 'marriage-management.xml'
+output_txt_filename = 'output.txt'
+convert_xml_to_txt(input_xml_filename, output_txt_filename)
