@@ -191,3 +191,31 @@ def extract_text_from_html(input_html_file, output_text_file):
 input_html_file = "add-make-manager.html"
 output_text_file = "output.txt"
 extract_text_from_html(input_html_file, output_text_file)
+
+
+
+
+## MD TO TXT FILE CONVERSION
+
+from bs4 import BeautifulSoup
+from markdown import markdown
+
+def markdown_to_text_file(input_filename, output_filename):
+    # Read Markdown content from the input file
+    with open(input_filename, 'r', encoding='utf-8') as input_file:
+        markdown_content = input_file.read()
+
+    # Convert Markdown to HTML
+    html = markdown(markdown_content)
+
+    # Use BeautifulSoup to extract text from HTML
+    text = ''.join(BeautifulSoup(html, "html.parser").findAll(text=True))
+
+    # Write the text to the output file
+    with open(output_filename, 'w', encoding='utf-8') as text_file:
+        text_file.write(text)
+
+# Usage
+input_filename = 'world-southern-feel-personal-benefit.md'
+output_filename = 'output.txt'
+markdown_to_text_file(input_filename, output_filename)
