@@ -1,6 +1,15 @@
 FROM python:3.11
 COPY app /app
 WORKDIR /app
-RUN pip3 install --upgrade pip
-RUN pip3 install -r requirements.txt
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+ENTRYPOINT ["tail", "-f", "/dev/null" ]
 CMD ["python", "crawler.py"]
+
+
+# update: added instructions
+# docker build -t crawler .
+# docker run -v ./files:/files -v ./results:/results --network none crawler
+
+# get shell
+# docker exec -it crawler /bin/bash

@@ -22,7 +22,7 @@ import os
 from pathlib import Path
 import pickle
 ### Use the magic library for classifying files by their signatures
-import magic
+#import magic
 
 
 
@@ -39,24 +39,20 @@ def save_dict_as_pickle(labels, filename):
     # df.to_csv('../results/prettyResults.csv')
 
 def im2text(im):
-    import pytesseract
     from PIL import Image, ImageEnhance, ImageFilter
+    import pytesseract
 
     im = Image.open(im)
     im = im.filter(ImageFilter.MedianFilter())
     enhancer = ImageEnhance.Contrast(im)
     im = enhancer.enhance(2)
     im = im.convert('1')
-    im.save('tmp.jpg')
-    text = pytesseract.image_to_string(Image.open('tmp.jpg'))
-    print(text)
+    im.save("temp.jpg")
+    text = pytesseract.image_to_string(Image.open('temp.jpg'))
+    return text
 
 
 def classifier(file_path):
-    
-    m=magic.open(magic.MAGIC_NONE)
-    m.file(file_path)
-
     # Check the data type
     if file_path.suffix == ".txt":
         # Open the file to read out the content
@@ -82,10 +78,11 @@ def main():
     if os.path.exists(file_dir_path):
         # Initialize the label dictionary
         labels = {}
-
         # Loop over all items in the file directory
         for file_name in os.listdir(file_dir_path):
             file_path = file_dir_path / file_name
+            if file_path.suffix == ".png":
+                im2text(file_path)
             labels[file_name] = classifier(file_path)
 
         output_dir = script_dir_path_parent / 'results'
