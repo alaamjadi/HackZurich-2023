@@ -1,0 +1,500 @@
+(pdftex.def)             Requested size: 418.25368pt x 191.55013pt.
+[   1899640] [assets-church]
+[   1899640] [loading-screen]
+[   1899656] [op-phone]
+
+  Process: hFritiofCaptureAtRest
+
+---------------------------------------------------
+                           Hadronic Processes for anti_neutron
+                        ==  Championship/NNP-8    INS    $0.377  [I]
+12:32:05 T:7432  NOTICE: Additional mode: 1600x1024@ 60.00 #2 - Full Screen
+fdo#52547 New Firefox image clipboard causes "paste as link" in LibreOffice - paste directly is preferred [Miklos Vajna]
+<09:34AM cavalier> It will be back online shortly, I've gotta fix a few things.
+     Additional Information   : (multiple lines)
+-- [download 2% complete]
+-- [download 3% complete]
+-- [download 4% complete]
+[   1965156] overriding handle for mp_f_freemode_01/task_diff_006_c_uni.ytd (was 4cd05f2) -> 2c6
+switch_root (SWITCH_ROOT) [Y/n/?] y
+uevent (UEVENT) [Y/n/?] y
+umount (UMOUNT) [Y/n/?] y
+  Support option -a (FEATURE_UMOUNT_ALL) [Y/n/?] y
+unshare (UNSHARE) [N/y/?] n
+*
+* Common options for mount/umount
+*
+Support loopback mounts (FEATURE_MOUNT_LOOP) [Y/n/?] y
+  Create new loopback devices if needed (FEATURE_MOUNT_LOOP_CREATE) [Y/n/?] y
+Support for the old /etc/mtab file (FEATURE_MTAB_SUPPORT) [N/y/?] n
+*
+* Filesystem/Volume identification
+*
+bcache filesystem (FEATURE_VOLUMEID_BCACHE) [N/y/?] n
+btrfs filesystem (FEATURE_VOLUMEID_BTRFS) [N/y/?] n
+cramfs filesystem (FEATURE_VOLUMEID_CRAMFS) [N/y/?] n
+exFAT filesystem (FEATURE_VOLUMEID_EXFAT) [Y/n/?] y
+Ext filesystem (FEATURE_VOLUMEID_EXT) [Y/n/?] y
+f2fs filesystem (FEATURE_VOLUMEID_F2FS) [Y/n/?] y
+fat filesystem (FEATURE_VOLUMEID_FAT) [Y/n/?] y
+hfs filesystem (FEATURE_VOLUMEID_HFS) [N/y/?] n
+iso9660 filesystem (FEATURE_VOLUMEID_ISO9660) [N/y/?] n
+jfs filesystem (FEATURE_VOLUMEID_JFS) [N/y/?] n
+linuxraid (FEATURE_VOLUMEID_LINUXRAID) [N/y/?] n
+linux swap filesystem (FEATURE_VOLUMEID_LINUXSWAP) [N/y/?] n
+luks filesystem (FEATURE_VOLUMEID_LUKS) [N/y/?] n
+nilfs filesystem (FEATURE_VOLUMEID_NILFS) [N/y/?] n
+ntfs filesystem (FEATURE_VOLUMEID_NTFS) [N/y/?] n
+ocfs2 filesystem (FEATURE_VOLUMEID_OCFS2) [N/y/?] n
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.security.auth.login.LoginFilter.doFilter(LoginFilter.java:127) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+-- [download 14% complete]
+ [93m*** Warning: The clock 'clock_SetX02' is declared but never used in the model; it is therefore removed from the model. Use option -no-var-autoremove to keep it.[0m
+ [93m*** Warning: The clock 'clock_Enter3' is declared but never used in the model; it is therefore removed from the model. Use option -no-var-autoremove to keep it.[0m
+ [93m*** Warning: The clock 'clock_SetX03' is declared but never used in the model; it is therefore removed from the model. Use option -no-var-autoremove to keep it.[0m
+    [0mThis model is an L/U-PTA:[0m
+    [0m- lower-bound parameters {Delta}[0m
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice on adapter 0
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:155) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+instanceKlass com/android/dx/cf/code/BytecodeArray$Visitor
+[     46969] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking audNorthAudioEngine INIT_CORE init (8 out of 52)
+[   1957343] instrumented function 0x1408f8ae0 (49) took 6msec
+socorro+caro	01.08.2009 18:49:18	http://www.google.com/search?q=soccoro+caro&rls=com.microsoft:*:IE-Address&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7SKPB_en	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	67.171.33.35
+socorro+caro	01.08.2009 18:49:21	http://www.google.com/search?q=soccoro+caro&rls=com.microsoft:*:IE-Address&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7SKPB_en	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	67.171.33.35
+-- [download 29% complete]
+-- [download 30% complete]
+      4    26.180479
+      5    23.548161
+tdf#90834 Turn in-line version control history comments into meaningful good comments [Gökhan Gurbetoğlu]
+tdf#91106 1st Hierarchical level in Styles and Formatting is not alphabetically sorted [Michael Stahl]
+tdf#108523 Remove @author annotations from source code [Manuj Vashist]
+tdf#108556 Start center welcome text should respect window width [heiko tietze]
+tdf#108580 Cannot run LibreOffice, api-ms-win-crt-runtime-l1-1-0.dll is missing (for local solution see comment 7) [Mike Kaganski]
+tdf#108608 EDITING: Draw file be unresponsive if a large text is pasted into a textbox [Noel Grandin]
+tdf#108894 Update Office version in file format confirmation dialog to not refer to Office 2013 [Adolfo Jayme Barrientos]
+tdf#113621 FILESAVE XLSX Conditional formatting range is lost if it is applied to a whole column [Markus Mohrhard]
+tdf#113624 Wrong position and size of the characters in EMF/EMF+ dual mode [Bartosz Kosiorek]
+tdf#113651 UI Edit - Track Changes submenu item names inconsistent with ones in Writer [Yousuf Philips]
+tdf#113688 Cannot set data series filling to pattern [Katarina Behrens]
+tdf#113715 Customize dialog: .uno:EditAnnotation visible in functions list [Maxim Monastirsky]
+tdf#113788 ActiveX controls' text color is not saved back to DOCX file [Bán Róbert]
+tdf#113805 Insert->Footnote/Endnote , choose character [Caolán McNamara]
+tdf#113854 Cross-reference "above" and "below" in Swedish should trade places [sleepingpillow]
+tdf#113856 Navigator: Bad behaviour of controllers when changing slides [martinb214]
+tdf#113860 Selecting a recent or favorite special character is not applied by OK in bullets and numbering dialog [Mark Vecsernyes]
+tdf#113861 Chart data regions reduced in favor of labels [Eike Rathke, Vasily Melenchuk]
+tdf#113876 Parsing outline level only setted in english language on docsh2.cxx:1026 [Ahmed GHANMI]
+tdf#113877 Importing a document with numbered bullet points messes up numbering [Serge Krot]
+tdf#113901 UI: Comments for distant rows and columns are drawn shifted [Vasily Melenchuk]
+tdf#113907 Remove StartModuleCommands.xcu completely [Stephan Bergmann]
+tdf#113911 UI Text Language "More" button does not work [Henry Castro]
+tdf#113918 1bpp non-B&W PNG images are mishandled on Linux in all vcl "backends" ("plugins") [Vasily Melenchuk]
+tdf#113925 Paragraph dialog: Doubleclick on ruler should open "tabs" instead of "Indents & Spacing" [Nickson Thanda]
+tdf#113928 Read-only checkbox/toggle UNO command [Maxim Monastirsky, Gulsah Kose]
+tdf#113959 svxlo-FrameDirectionListBox should be used rather than GtkComboBox for text direction drop down list [Gabor Kelemen]
+tdf#113979 Paste unformated text does not ignore empty cells [Eike Rathke, Laurent BP]
+tdf#114013 Compound strings in Writer: "Text Format " + "(Search)" or "(Replace)" [Gabor Kelemen]
+tdf#114117 draw: page shadow issue. [Stephan Bergmann]
+tdf#114122 Double click in special character dialog inserts a character into the document, even when the dialog is only opened to select a single character [Mark Vecsernyes]
+tdf#114132 Tiling bitmaps does not work for charts (Format Wall) [Katarina Behrens]
+
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+tdf#98212 RTL: 'Text Direction' drop down menu doesnt update preview in alignment tab of paragraph dialog [Jim Raykowski]
+tdf#98505 Pressing ENTER in SIDEBAR combobox/spinbox cause it to press ENTER in the document [Jim Raykowski]
+tdf#98931 Insert images into cells in Calc [Samuel Mehrbrodt]
+tdf#99363 SMTP over SSL on port 465 (mailmerge on your Google Account: smtp.gmail.com) [Justin Luth]
+tdf#99386 Undo with merged cell, needs hard recalculate, no automatic update [Zdeněk Crhonek]
+tdf#116841 FILEOPEN: Bullet list has no identation [Miklos Vajna]
+tdf#116842 Adding spreadsheets or slides crashes android viewer [Mert Tümer]
+tdf#116848 opening OTT blocks writer [Miklos Vajna]
+tdf#116874 PDF: FILESAVE: Any text left in 'Sign with watermark' 'text' appears even if 'Sign with watermark' is no longer checked [Xisco Fauli]
+tdf#116890 Firebird: empty columns gone with prepared statement [Julien Nabet]
+tdf#116925 Automatic text color in textbox does not consider fill style of shape [Miklos Vajna]
+tdf#116928 EDITING Calc crashes after long file name is supplied in the insert hyperlink dialog [Caolán McNamara]
+tdf#116929 FILEOPEN: Transparent mask imported incorrectly [Noel Grandin]
+tdf#116944 Firebird-migration must happen only after user consent and advise to backup data prior to migration at 6.1 [Tamas Bunth]
+tdf#116951 LibreOffice crashed when inserted "−" (minus, U+2212) character on Gnome on Wayland [Caolán McNamara]
+tdf#116954 EDITING: firebird: migration: View definitions are lost on conversion from embedded hsql files [Tamas Bunth]
+tdf#116965 EDITING: firebird: migration: Relationships lost when database converted to firebird [Tamas Bunth]
+tdf#116976 DOCX import: bitmap does not consume its relative size [Miklos Vajna]
+tdf#116981 EDITING: Libo6.1 crash when deleting table column [Noel Grandin]
+tdf#116982 FIREBIRD : Migration : import of table with autoincrement leads to integrity violation when attempting to add new record [Tamas Bunth]
+tdf#116985 DOCX import, shape with textbox: incorrect text area size when shape size is relative [Miklos Vajna]
+tdf#116990 FILESAVE Unwanted line breaks if ODS Document gets exported to XHTML [Andreas Brandner]
+    [0m
+    Abstract model built after 0.005 second.[0m
+    [0mMemory for abstract model: 871.996 KiB (i.e., 223231 words)[0m
+    [0m[0m
+    [0m  [BC (full coverage with learning-based abstraction)] Starting running cartography…
+    [0m
+    [0m
+    **************************************************[0m
+    [0m START THE BEHAVIORAL CARTOGRAPHY ALGORITHM[0m
+    [0m**************************************************[0m
+    [0m Parametric rectangle V0: [0m
+    [0m  delta = 1..10
+    & Delta = 1..10[0m
+Package hyperref Info: Link coloring OFF on input line 90.
+Package caption Info: listings package is loaded.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+i#696969 colibre icons: use for font icons [andreas kainz]
+ofz#4746 invalid-bool-value [Caolán McNamara]
+ofz#4753 bad-cast, check all open tables [Caolán McNamara]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [catalina.jar:9.0.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [catalina.jar:9.0.34]
+  <h>King Edward_VIII abdicated on the 10th_of_December_,_1936 .</h>
+</SimpleProblem>
+<MANLIResult id="RTE2_dev.100.p0" score="15.372" normscore="0.427">
+
+ [103]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.enterprise.registration.RegistrationFilter.doFilter(RegistrationFilter.java:79) [magnolia-module-enterprise-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+12:32:05 T:6472  NOTICE:         m_sampleRates     : 48000
+12:32:05 T:6472  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+12:32:05 T:6472  NOTICE: Enumerated WASAPI devices:
+12:32:05 T:2676   DEBUG:   Frame Samples   : 1322
+12:32:05 T:2676   DEBUG:   Frame Size      : 8
+12:32:06 T:6224   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - channel update id:485978368, name:CNN Int.
+tdf#104792 FILESAVE: PPTX: Corrupted File after RT (The element has incomplete child element) [Szymon Kłos]
+tdf#104861 When navigating the Extension manager with the keyboard, it is not possible to focus the list of extensions [Katarina Behrens]
+             1974 Mar 21 2100     -              NASA 15.123GM                  NASA 15.123GM                     Arcas                  NASA 15.123GM    CSG ALFS                 0.0
+             1974 Mar 22 0645     -              NASA 10.421GM                  NASA 10.421GM                     Nike Cajun             NASA 10.421GM    CSG ALFS               119.0
+             1974 Mar 22 0931     -              NASA 10.422GM                  NASA 10.422GM                     Nike Cajun             NASA 10.422GM    CSG ALFS               121.0
+             1974 Mar 22 1445     -              NASA 15.124GM                  NASA 15.124GM                     Arcas                  NASA 15.124GM    CSG ALFS                89.0
+             1974 Sep 12          -              NO-II-2                        NO-II-2                           Centaure 2C            (ESRO) C99/1     CSG ALFS               140.0
+
+[22:42:48] eBay: [-] 8132/8467 download failed (Return: -) - http://myphamtunhien.info/dau-dua-duong-toc.html?ref_ucid=ad157a02027a15ad0001027a15ad&start=70
+Installing hl7.terminology.r4#3.1.0 to the package cache
+  Fetching:
+
+Installing hl7.terminology.r4#3.1.0 done.
+Installing hl7.fhir.us.core#4.0.0 to the package cache
+  Fetching:
+
+Installing hl7.fhir.us.core#4.0.0 done.
+Installing hl7.fhir.uv.bulkdata#1.0.1 to the package cache
+  Fetching:
+
+Installing hl7.fhir.uv.bulkdata#1.0.1 done.
+Installing us.nlm.vsac#0.3.0 to the package cache
+  Fetching:
+
+Installing us.nlm.vsac#0.3.0 done.
+Installing us.cdc.phinvads#0.10.0 to the package cache
+  Fetching:
+
+Installing us.cdc.phinvads#0.10.0 done.
+Installing us.nlm.vsac#0.7.0 to the package cache
+  Fetching:
+
+     [xslt] Loading stylesheet /scratch/ig-build-temp-JHXSGN/repo/template/scripts/onGenerate.genJson.xslt
+
+onGenerate.processIncludes:
+     [copy] Copying 17 files to /scratch/ig-build-temp-JHXSGN/repo/temp/pages/_includes
+
+onGenerate.processIg:
+     [xslt] Processing /scratch/ig-build-temp-JHXSGN/repo/template/onGenerate-ig-working.xml to /scratch/ig-build-temp-JHXSGN/repo/template/onGenerate-ig-working.1.xml
+NeutronHP: /Elastic file for Z = 6, A = 13 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Elastic/CrossSection/6_nat_Carbon
+NeutronHP: /Inelastic file for Z = 6, A = 13 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/CrossSection/6_nat_Carbon
+NeutronHP: /Capture file for Z = 8, A = 18 is not found and CrossSection set to 0.
+NeutronHP: /Elastic file for Z = 8, A = 18 is not found and CrossSection set to 0.
+NeutronHP: /Inelastic file for Z = 8, A = 18 is not found and CrossSection set to 0.
+[     27312] rage::gameSkeleton::RunInitFunctions: Invoking 0xc90b32b2 INIT_CORE init (18 out of 21)
+[     27343] rage::gameSkeleton::RunInitFunctions: Invoking UI3DDrawManager INIT_CORE init (19 out of 21)
+[     27359] rage::gameSkeleton::RunInitFunctions: Invoking 0x4f916676 INIT_CORE init (20 out of 21)
+[     27390] rage::gameSkeleton::RunInitFunctions: Invoking 0x71cb65d7 INIT_CORE init (21 out of 21)
+[     27406] rage::gameSkeleton::RunInitFunctions: Done running INIT_CORE init functions!
+[   1960890] rage::gameSkeleton::RunInitFunctions: Invoking MeshBlendManager INIT_AFTER_MAP_LOADED init (28 out of 29)
+[   1960937] rage::gameSkeleton::RunInitFunctions: Invoking CProceduralInfo INIT_AFTER_MAP_LOADED init (29 out of 29)
+[   1961015] rage::gameSkeleton::RunInitFunctions: Running functions of order 2 (2 total)
+[   1961031] rage::gameSkeleton::RunInitFunctions: Invoking CVisualEffects INIT_AFTER_MAP_LOADED init (1 out of 2)
+[   1961531] rage::gameSkeleton::RunInitFunctions: Invoking CPedModelInfo INIT_AFTER_MAP_LOADED init (2 out of 2)
+[   1961593] rage::gameSkeleton::RunInitFunctions: Done running INIT_AFTER_MAP_LOADED init functions!
+[   1961609] rage::gameSkeleton::RunInitFunctions: Running INIT_SESSION init functions
+[   1961640] can't register compcache:/assets-church/_manifest.ymf: no streaming module (does this file even belong in stream?)
+[   1961656] overriding handle for hi@kt1_06_0.ybn (was 2a10002) -> 46
+[   1961672] overriding handle for kt1_06_0.ybn (was 2a10005) -> 47
+[   1961687] overriding handle for kt1_06_church.ydr (was 2a1000b) -> 48
+[   1961734] can't register compcache:/assets-civ-imports/skyline_livery0.bak: no streaming module (does this file even belong in stream?)
+[   1961750] can't register compcache:/assets-civ-imports/skyline_livery28.bak: no streaming module (does this file even belong in stream?)
+[   1961781] overriding handle for mp_f_freemode_01/accs_002_u.ydd (was 4cd008f) -> 1da
+[   1961797] overriding handle for mp_f_freemode_01/accs_003_u.ydd (was 4cd0090) -> 1db
+[   1961812] overriding handle for mp_f_freemode_01/accs_006_u.ydd (was 4cd0093) -> 1dc
+[   1961828] overriding handle for mp_f_freemode_01/accs_007_u.ydd (was 4cd0094) -> 1dd
+[   1961843] overriding handle for mp_f_freemode_01/accs_008_u.ydd (was 4cd0095) -> 1de
+[   1961875] overriding handle for mp_f_freemode_01/accs_009_u.ydd (was 4cd0096) -> 1df
+[   1961890] overriding handle for mp_f_freemode_01/accs_010_u.ydd (was 4cd0097) -> 1e0
+[   1961906] overriding handle for mp_f_freemode_01/accs_diff_002_a_uni.ytd (was 4cd00bd) -> 1e1
+[   1961922] overriding handle for mp_f_freemode_01/accs_diff_003_a_uni.ytd (was 4cd00be) -> 1e2
+[   1961953] overriding handle for mp_f_freemode_01/accs_diff_004_a_uni.ytd (was 4cd00bf) -> 1e3
+[   1961968] overriding handle for mp_f_freemode_01/accs_diff_004_b_uni.ytd (was 4cd00c0) -> 1e4
+[   1961984] overriding handle for mp_f_freemode_01/accs_diff_004_c_uni.ytd (was 4cd00c1) -> 1e5
+[   1962000] overriding handle for mp_f_freemode_01/accs_diff_004_d_uni.ytd (was 4cd00c2) -> 1e6
+[   1962015] overriding handle for mp_f_freemode_01/accs_diff_004_e_uni.ytd (was 4cd00c3) -> 1e7
+[   1962031] overriding handle for mp_f_freemode_01/accs_diff_004_f_uni.ytd (was 4cd00c4) -> 1e8
+[   1962047] overriding handle for mp_f_freemode_01/accs_diff_004_g_uni.ytd (was 4cd00c5) -> 1e9
+[   1962062] overriding handle for mp_f_freemode_01/accs_diff_004_h_uni.ytd (was 4cd00c6) -> 1ea
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+./Metallica/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge
+./Metallica/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge%20-%20CD%201
+./Metallica/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge%20-%20CD%202
+./Metallica/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge/Metallica%20-%201993%20-%20Live%20Shit,%20Binge%20And%20Purge%20-%20CD%203
+./Metallica/Metallica%20-%201996%20-%20Load
+./Metallica/Metallica%20-%201997%20-%20Acoustic%20Metal
+./Metallica/Metallica%20-%201998%20-%20Garage%20Inc
+./Metallica/Metallica%20-%201998%20-%20Garage%20Inc/Metallica%20-%201998%20-%20Garage%20Inc%20-%20CD%201
+./Metallica/Metallica%20-%201998%20-%20Garage%20Inc/Metallica%20-%201998%20-%20Garage%20Inc%20-%20CD%202
+./Metallica/Metallica%20-%201998%20-%20The%20Complete%20Garage%20Days
+./Metallica/Metallica%20-%202003%20-%20St.%20Anger
+./Metallica/Reload
+./Metallica/Ride%20the%20Lightning%20[1984]
+./Metallica/S&M%20[1999]
+./Metallica/S&M%20[1999]/CD%201
+./Metallica/S&M%20[1999]/CD%202
+./Dragon_Force
+./Era
+./Era/Era%20-%202010%20-%20The%20Essential
+./Era/Era%20-%20The%20Mass
+./Era/Era%20-%20The%20Very%20Best%20Of
+./Era/Era%20-%20Vol.%201
+./Era/Era%20-%20Vol.%202
+./Era/Era%20vol%201
+./Era/Era,%20Vol.%202
+./Film
+./Film/Game_of_Thrones
+./Film/Kill_Bill_1
+./Film/Pirates_des_Caraibes
+./Film/Back_to_the_Future
+    + -Werror,-Wignored-qualifiers (clang-cl) [Stephan Bergmann]
+21:38:12 T:139832867932032  NOTICE: load settings...
+21:38:12 T:139832640640768  NOTICE: Thread FDEventMonitor start, auto delete: false
+21:38:12 T:139832867932032  NOTICE: Found 1 Lists of Devices
+21:38:12 T:139832867932032  NOTICE: Enumerated ALSA devices:
+21:38:12 T:139832867932032  NOTICE:     Device 1
+21:38:12 T:139832867932032  NOTICE:         m_deviceName      : hdmi:CARD=HDMI,DEV=0
+21:38:12 T:139832867932032  NOTICE:         m_displayName     : HDA Intel
+21:38:12 T:139832867932032  NOTICE:         m_displayNameExtra: DEL DELL U2413 on HDMI #0
+21:38:12 T:139832867932032  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+21:38:12 T:139832867932032  NOTICE:         m_channels        : FL,FR
+21:38:12 T:139832867932032  NOTICE:         m_sampleRates     : 32000,44100,48000,88200,96000
+21:38:12 T:139832867932032  NOTICE:         m_dataFormats     : AE_FMT_LPCM,AE_FMT_S32NE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_DTSHD,AE_FMT_TRUEHD,AE_FMT_EAC3,AE_FMT_DTS,AE_FMT_AC3,AE_FMT_AAC
+21:38:12 T:139832867932032  NOTICE:     Device 2
+21:38:12 T:139832867932032  NOTICE:         m_deviceName      : hdmi:CARD=HDMI,DEV=1
+21:38:12 T:139832867932032  NOTICE:         m_displayName     : HDA Intel
+21:38:12 T:139832867932032  NOTICE:         m_displayNameExtra: HDMI #1
+21:38:12 T:139832867932032  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+21:38:12 T:139832867932032  NOTICE:         m_channels        : FL,FR,LFE,FC,BC,BL,BR,FLOC,FROC,BLOC,BROC,TFC,TC,TFL,TFR,UNKNOWN1
+21:38:12 T:139832867932032  NOTICE:         m_sampleRates     : 32000,44100,48000,88200,96000,176400,192000
+21:38:12 T:139832867932032  NOTICE:         m_dataFormats     : AE_FMT_S32NE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_LPCM,AE_FMT_DTSHD,AE_FMT_TRUEHD,AE_FMT_EAC3,AE_FMT_DTS,AE_FMT_AC3,AE_FMT_AAC
+21:38:12 T:139832867932032  NOTICE:     Device 3
+21:38:12 T:139832867932032  NOTICE:         m_deviceName      : hdmi:CARD=HDMI,DEV=2
+21:38:12 T:139832867932032  NOTICE:         m_displayName     : HDA Intel
+21:38:12 T:139832867932032  NOTICE:         m_displayNameExtra: HDMI #2
+21:38:12 T:139832867932032  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+                                              <musiclibrary>
+                                                <hideallitems>false</hideallitems>
+                                              </musiclibrary>
+                                              <splash>false</splash>
+                                              <!-- <cputempcommand>echo "$(cat /sys/devices/platform/coretemp.0/temp*_input | awk '{ sum += $1/1000; count += 1 } END { printf "%i\n", sum/count }') C"</cputempcommand>
+ofz#3002 speed up cymk conversion a tad [Caolán McNamara]
+ofz#3004 timeout [Caolán McNamara]
+ofz#3005 timeout [Caolán McNamara]
+     Serial Number            : 4437237723
+     Firmware Version         : 1.1-5
+     Elevation Cutoff Setting : (deg)
+instanceKlass com/android/dx/util/ToHuman
+instanceKlass com/android/dx/cf/cst/ConstantPoolParser
+instanceKlass com/android/dx/cf/code/BytecodeArray$Visitor
+instanceKlass com/android/dx/cf/iface/Attribute
+instanceKlass com/android/dx/util/ByteArray
+ PROC_COUNT He3 : He3Inelastic = 50
+Initializing hand-weighted classifier with threshold 0.00000...
+Doing alignment for problem 10
+<SimpleProblem id="RTE2_dev.10.p0">
+  <answer>?</answer>
+  <p>In Nigeria , by far the most populous country in sub-Saharan_Africa , over 2.7_million people are infected with HIV .</p>
+  <h>2.7_percent of the people infected with HIV live in Africa .</h>
+</SimpleProblem>
+<MANLIResult id="RTE2_dev.10.p0" score="13.350" normscore="0.431">
+                        ==  2.7_percent/CD-0      INS    $0.377  [I]
+               In/IN-0  ==                        DEL    $0.429  [D]
+         Nigeria/NNP-1  ==                        DEL    $0.429  [D]
+                        ==  of/IN-1               INS    $0.377  [I]
+                 ,/,-2  ==                        DEL    $0.429  [D]
+               by/IN-3  ==                        DEL    $0.429  [D]
+              far/RB-4  ==                        DEL    $0.429  [D]
+              the/DT-5  ==  the/DT-2              SUB    $0.866  [E, sim, Esz, d:0.063]
+            most/RBS-6  ==                        DEL    $0.429  [D]
+         populous/JJ-7  ==                        DEL    $0.429  [D]
+          country/NN-8  ==                        DEL    $0.429  [D]
+               in/IN-9  ==  in/IN-8               SUB    $0.860  [E, sim, Esz, d:0.326]
+  sub-Saharan_Afric...  ==                        DEL    $0.429  [D]
+                ,/,-11  ==                        DEL    $0.429  [D]
+            over/RB-12  ==                        DEL    $0.429  [D]
+     2.7_million/CD-13  ==                        DEL    $0.429  [D]
+         people/NNS-14  ==  people/NNS-3          SUB    $0.857  [E, sim, Esz, d:0.437]
+            are/VBP-15  ==                        DEL    $0.429  [D]
+       infected/VBN-16  ==  infected/VBN-4        SUB    $0.917  [E, sim, Esz, d:0.442, nTM]
+            with/IN-17  ==  with/IN-5             SUB    $0.979  [E, sim, Esz, d:0.395, pTM, nTM]
+             HIV/NN-18  ==  HIV/NN-6              SUB    $0.920  [E, sim, Esz, d:0.347, pTM]
+[-2.000] Location.mismatch: no clear info of matching: live(X, prep_in)
+socorro+caro	01.08.2009 18:13:17	http://www.google.com/search?q=socorro+caro&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GGLG_en	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322; MSN Optimized;US; .NET CLR 2.0.50727; MSN Optimized;US)	75.47.148.247
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+coverity#1430061 silence Unchecked return value [Caolán McNamara]
+tdf#91106 1st Hierarchical level in Styles and Formatting is not alphabetically sorted [Michael Stahl]
+tdf#91292 FORMATTING: DOCX, Paragraph background color set to 'No Fill' not persisted on save [Justin Luth]
+tdf#91362 wrong defaults for format/orientation in printsettingsdialogs of printerdrivers [Vasily Melenchuk]
+tdf#91781 (Writer-Menus) [META] Reorganization of the menu bar for Writer [Yousuf Philips]
+tdf#92069 LOCALHELP: write help page for Calc ENCODEURL function [Dmitri Kharchev]
+tdf#92430 LOCALHELP: Use URI instead of URL in help pages for WEBSERVICE and FILTERXML spreadsheet functions [Olivier Hallot]
+tdf#92685 Add PageNumber Header option ... [Gulsah Kose]
+tdf#92825 (Help-Menu-Updates) [META] Update help for all menu changes [Olivier Hallot]
+tdf#93068 UI: Crash when Character dialogue opened [Zdeněk Crhonek]
+tdf#93120 Flickering of Thumbnails in Start Center while Moving the Mouse Pointer (without GPU hardware acceleration) [Mike Kaganski]
+tdf#93173 Allow line spacing proportionally to over 200% [Mike Kaganski]
+tdf#94017 WIKIHELP: Imported heading 1 entries should be embedded as heading 2 [Olivier Hallot]
+tdf#94055 Sorting rows makes autofilter disappear (EDITING) [Zdeněk Crhonek]
+tdf#94265 bootstrap exception when running C# application with LibreOffice API [Mike Kaganski]
+tdf#94300 Fill gradients dont work in area content panel of chart sidebar [Katarina Behrens]
+tdf#94341 Total record number overwritten in record toolbar control on form [Mike Kaganski]
+tdf#94438 Duplicates of IDs in help files [Olivier Hallot]
+tdf#94498 UI: Ctrl+Shift+F does not repeat search in Basic IDE [tagezi]
+tdf#95024 Support for new Hungarian orthography [László Németh]
+tdf#104658 Chart bars shrink and jump up on applying bitmap fill [Katarina Behrens]
+tdf#104668 FORMATTING: Difference between MS Word and Writer text alignment. [Vitaliy Anderson]
+tdf#104707 FILESAVE DOCX: URL in comment is not saved to docx format [Justin Luth]
+tdf#104734 FIREBIRD: Add those field types that are not available with FB while they are available with Hsqldb [Tamas Bunth]
+tdf#104786 FILESAVE: PPTX: Corrupted File after RT (The element has invalid child element) [Szymon Kłos]
+tdf#104792 FILESAVE: PPTX: Corrupted File after RT (The element has incomplete child element) [Szymon Kłos]
+tdf#104861 When navigating the Extension manager with the keyboard, it is not possible to focus the list of extensions [Katarina Behrens]
+tdf#104942 Conversion HSQLDB to Firebird, Table design issues [Julien Nabet]
+tdf#104986 Firebird: Function EXTRACT doesn't work with WEEKDAY, YEARDAY, MILLISECOND [Lionel Elie Mamane, Tor Lillqvist]
+tdf#105075 Firebird: Limit of query-GUI isn't supported [Tamas Bunth]
+tdf#105225 Color palette cannot be chosen in various places [Jim Raykowski]
+2016-02-23 15:45:25,614  INFO Injector:68 org.matsim.core.router.util.TravelTime @com.google.inject.multibindings.Element(setName=,uniqueId=60, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,614  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.util.TravelTime, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=60, type=MAPBINDER, keyType=java.lang.String)], provider=Key[type=org.matsim.core.trafficmonitoring.TravelTimeCalculatorModule$ObservedLinkTravelTimes, annotation=[none]]}
+PSG	ALASKA	PETERSBURG JAMES A. JOHNSON	afd	al_168_25OCT2007.png
+PNP	ALASKA	PILOT POINT	afd	al_168_25OCT2007.png
+UGB	ALASKA	PILOT POINT UGASHIK BAY	afd	al_169_25OCT2007.png
+0AK	ALASKA	PILOT STATION	afd	al_169_25OCT2007.png
+CYPK	ALASKA	PITT MEADOWS	afd	al_170_25OCT2007.png
+PTU	ALASKA	PLATINUM	afd	al_170_25OCT2007.png
+KPB	ALASKA	POINT BAKER SEAPLANE	afd	al_170_25OCT2007.png
+PHO	ALASKA	POINT HOPE	afd	al_171_25OCT2007.png
+PIZ	ALASKA	POINT LAY LRRS	afd	al_171_25OCT2007.png
+AK11	ALASKA	POINT McINTYRE	afd	al_171_25OCT2007.png
+A14	ALASKA	PORTAGE CREEK	afd	al_172_25OCT2007.png
+AHP	ALASKA	PORT ALEXANDER SEAPLANE	afd	al_172_25OCT2007.png
+16K	ALASKA	PORT ALICE SEAPLANE	afd	al_173_25OCT2007.png
+AK51	ALASKA	PORT ALSWORTH WILDER-NATWICK LLC	afd	al_173_25OCT2007.png
+NOW	ALASKA	PORT ANGELES, WA PORT ANGELES CGAS	afd	al_173_25OCT2007.png
+CLM	ALASKA	PORT ANGELES, WA WILLIAM R. FAIRCHILD INTL	afd	al_173_25OCT2007.png
+KPY	ALASKA	PORT BAILEY SEAPLANE	afd	al_174_25OCT2007.png
+KPC	ALASKA	PORT CLARENCE CGS	afd	al_174_25OCT2007.png
+PGM	ALASKA	PORT GRAHAM	afd	al_174_25OCT2007.png
+CYZT	ALASKA	PORT HARDY	afd	al_175_25OCT2007.png
+PTH	ALASKA	PORT HEIDEN	afd	al_175_25OCT2007.png
+HIO	ALASKA	PORTLAND, OR PORTLAND-HILLSBORO	afd	al_176_25OCT2007.png
+PDX	ALASKA	PORTLAND, OR PORTLAND INTL	afd	al_177_25OCT2007.png
+TTD	ALASKA	PORTLAND-TROUTDALE	afd	al_178_25OCT2007.png
+ORI	ALASKA	PORT LIONS	afd	al_178_25OCT2007.png
+Cold Bay	ALASKA	PORT MOLLER	afd	al_178_25OCT2007.png
+19P	ALASKA	PORT PROTECTION SEAPLANE	afd	al_179_25OCT2007.png
+0S9	ALASKA	PORT TOWNSEND, WA JEFFERSON CO INTL	afd	al_179_25OCT2007.png
+PWR	ALASKA	PORT WALTER SEAPLANE	afd	al_179_25OCT2007.png
+CYPW	ALASKA	POWELL RIVER	afd	al_180_25OCT2007.png
+fdo#75757 remove inheritance to std::map and std::vector [Miklos Vajna]
+		
+ Version 1.23.0 (28 MAY 2018)
+	New feature
+		- Add 3rd,4th foreman into project page.
+		- Add English language into welcome email when user created. 
+		
+ Version 1.24.0 (19 JUNE 2018)
+	Modify
+		- Edit minimum length of code from 4.0 to 4.6
+		
+ Version 1.25.0 (7 JULY 2018)
+	New feature
+		- Add new PG transportation report
+		
+ Version 1.26.0 (14 JULY 2018)
+	New feature
+		- Add new PG transportation report for original and copy document
+		
+ Version 1.27.0 (22 JULY 2018)
+	New feature
+		- Add grouping for PG transportation report
+		- Add warning message when user didn't input transport date
+		
+ Version 1.28.0 (27 AUGUST 2018)
+	New feature
+		- Add email notify sending when user upload new file
+		- Add option collapse all project when first load in calendar screen
+		- Add color option when transportation status is true then floor color will change light blue color
+		
+ Version 1.28.1 (28 AUGUST 2018)
+12:32:06 T:7432    INFO: Loading skin file: DialogKaiToast.xml, load type: LOAD_ON_GUI_INIT
+12:32:06 T:7432    INFO: Loading skin file: DialogMuteBug.xml, load type: LOAD_ON_GUI_INIT
+MZJ	ARIZONA	MARANA PINAL AIRPARK	afd	sw_19_25OCT2007.png
+L41	ARIZONA	MARBLE CANYON	afd	sw_20_25OCT2007.png
+[22:42:43] Cooking TIPS: [-] 0202/7845 no engine matches (HTTP-Status: 400) - https://www.newscorpaustralia.com
+12:32:05 T:7432  NOTICE: Additional mode: 1280x720@ 75.00 #2 - Full Screen
+12:32:05 T:7432  NOTICE: Previous line repeats 2 times.
+A29	ALASKA	SITKA SEAPLANE	afd	al_201_25OCT2007.png
+SGY	ALASKA	SKAGWAY	afd	al_201_25OCT2007.png
+./Indochine
+[22:42:39] Injury Lawyers: [+] 7870/7969 matches engine Wordpress Article - http://www.prohamontachel.be/74-2/
+[22:42:39] Amazon: [+] 3684/7825 matches engine Wordpress Article - http://febi.iainpurwokerto.ac.id/
+[22:42:39] Injury Lawyers: [+] 7870/7969 new URL - https://www.prohamontachel.be/wp-login.php
+[22:42:39] Amazon: [+] 3684/7825 new URL - http://febi.iainpurwokerto.ac.id
+[22:42:39] Injury Lawyers: [+] 7870/7969 new URL - https://www.prohamontachel.be/wp-login.php
+[22:42:39] Amazon: [+] 3684/7825 new URL - http://febi.iainpurwokerto.ac.id?action=register
+[22:42:39] Injury Lawyers: [-] 7870/7969 no form at all - https://www.prohamontachel.be/wp-login.php
+[22:42:39] Amazon: [-] 3684/7825 no form at all - http://febi.iainpurwokerto.ac.id?action=register
+[22:42:39] Amazon: [+] 3685/7825 matches engine Wordpress Article - http://kchesanek.blog.usf.edu/?attachment_id=72
+[22:42:39] Amazon: [+] 3685/7825 new URL - https://kchesanek.blog.usf.edu/wp-login.php?action=register
+[22:42:39] Amazon: [+] 3685/7825 new URL - https://kchesanek.blog.usf.edu/wp-login.php?action=register
+[22:42:39] Amazon: [-] 3685/7825 no form at all - https://kchesanek.blog.usf.edu/wp-login.php?action=register
+[22:42:39] Insurance: [+] 8211/8262 matches engine Wordpress Article - http://proseminar.berlin/referenzen-2/
+[22:42:39] Insurance: [+] 8211/8262 new URL - http://proseminar.berlin/wp-login.php?registration=disabled
+[22:42:39] Insurance: [-] 8211/8262 registration failed (zurzeit ist die benutzer-registrierung nicht erlaubt.) - http://proseminar.berlin/wp-login.php?registration=disabled
+[22:42:39] Travels: [-] 8125/8261 download failed (Return: -, SockError: Connection reset by peer) - https://www.intrepidtravel.de/reisethemen/expedition
+[22:42:40] Justice degree: [+] 8018/8289 matches engine Wordpress Article - http://gavinguem148blog.suomiblog.com
+[22:42:40] Justice degree: [+] 8018/8289 new URL - http://suomiblog.com/login
+[22:42:40] Justice degree: [+] 8018/8289 new URL - http://suomiblog.com/login?action=register
+[22:42:43] Travels: [+] 8127/8263 matches engine Joomla K2 - http://absorbentesdecolombia.com/?option=com_k2&view=itemlist&task=user&id=8751
+[22:42:43] Internet VOIP: [-] 0123/8096 no engine matches (HTTP-Status: 503) - http://bioreports.net/news/pdp-chieftain-12-others-shot-dead-in-benue/
+[22:42:43] Amazon: [+] 3690/7825 matches engine Drupal - Blog - http://www.yessbackpack.org/user
+[22:42:43] Precious metals: [-] 0099/8003 no engine matches (HTTP-Status: 503) - http://www.amrumc.ru/?p=1
+[22:42:43] Mesothelioma: [-] 0526/7981 no engine matches (HTTP-Status: 503) - http://blog.aba.org/
+[22:42:43] Health: [-] 8182/8339 no engine matches (HTTP-Status: 503) - http://www.jerj.be/photoblog/index.php?popup=comment&showimage=222
+[22:42:43] Currency: [-] 7909/8085 no engine matches (HTTP-Status: 503) - http://www.glenbrittlekennels.com/kennels-cattery-merseyside/customer-feedback
+[22:42:43] Travels: [+] 8127/8263 new URL - http://absorbentesdecolombia.com/index.php/component/users/?view=registration
+[22:42:43] Web Design T2: [-] 4918/8453 no engine matches (HTTP-Status: 503) - http://immersiveatlanta.com/migos-pipe-it-up/
+[22:42:43] Amazon: [+] 3690/7825 registration successful - http://www.yessbackpack.org/?q=node/add
+[22:42:43] Mesa DUI lawyer: [-] 8180/8414 no engine matches (HTTP-Status: 503) - http://fox-network.net
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+unexpand (UNEXPAND) [N/y/?] n
+expr (EXPR) [Y/n/?] y
+  Extend Posix numbers support to 64 bit (EXPR_MATH_SUPPORT_64) [Y/n/?] y
+)
+\@linkdim=\dimen284
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]

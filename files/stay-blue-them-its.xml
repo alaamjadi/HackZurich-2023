@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    
+    <employee id="1">
+        <firstname></firstname>
+        <lastname>Brun</lastname>
+        <address></address>
+        <iban></iban>
+    </employee>
+    
+    <employee id="2">
+        <firstname>Arda</firstname>
+        <lastname></lastname>
+        <address></address>
+        <iban></iban>
+    </employee>
+    
+    <employee id="3">
+        <firstname></firstname>
+        <lastname></lastname>
+        <address></address>
+        <iban>CH7833074785533822098</iban>
+    </employee>
+    
+    <employee id="4">
+        <firstname></firstname>
+        <lastname>Wirth</lastname>
+        <address></address>
+        <iban></iban>
+    </employee>
+    
+    <employee id="5">
+        <firstname>Janina</firstname>
+        <lastname></lastname>
+        <address></address>
+        <iban></iban>
+    </employee>
+    
+    <employee id="6">
+        <firstname></firstname>
+        <lastname></lastname>
+        <address>Herzogstrasse 31 6859 Wil</address>
+        <iban></iban>
+    </employee>
+    
+    <employee id="7">
+        <firstname></firstname>
+        <lastname></lastname>
+        <address>Lehmannstrasse 89 3023 Schaffhausen</address>
+        <iban></iban>
+    </employee>
+    
+    <employee id="8">
+        <firstname></firstname>
+        <lastname>Hauser</lastname>
+        <address></address>
+        <iban></iban>
+    </employee>
+    
+    <employee id="9">
+        <firstname></firstname>
+        <lastname></lastname>
+        <address></address>
+        <iban></iban>
+    </employee>
+    
+    <employee id="10">
+        <firstname></firstname>
+        <lastname></lastname>
+        <address></address>
+        <iban></iban>
+    </employee>
+    
+    <employee id="11">
+        <firstname></firstname>
+        <lastname></lastname>
+        <address></address>
+        <iban>CH7522821917947142526</iban>
+    </employee>
+    
+    <employee id="12">
+        <firstname></firstname>
+        <lastname></lastname>
+        <address></address>
+        <iban></iban>
+    </employee>
+    
+    <employee id="13">
+        <firstname>Arianna</firstname>
+        <lastname></lastname>
+        <address></address>
+        <iban></iban>
+    </employee>
+    
+</employees>

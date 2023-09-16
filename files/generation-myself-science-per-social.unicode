@@ -1,0 +1,505 @@
+build	14-Jul-2020 09:19:57	[DEBUG] Configuration: <?xml version="1.0" encoding="UTF-8"?>
+ciInstanceKlass com/android/dx/rop/cst/CstLong 1 1 80 7 10 10 10 100 10 8 10 10 8 10 10 10 9 8 10 10 9 9 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 1 12 1 12 100 12 1 12 12 12 100 12 1 100 12 12 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1
+staticfield com/android/dx/rop/cst/CstLong VALUE_0 Lcom/android/dx/rop/cst/CstLong; com/android/dx/rop/cst/CstLong
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 80
+LogDevObjectVersion:   FortniteNC (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 10
+2016-02-23 15:45:25,619  INFO Injector:68 org.matsim.analysis.TravelDistanceStats 
+friendship+quotes	01.08.2009 18:52:10	http://www.google.com/search?q=funny+friendship+sayings&hl=en&rlz=1T4HPNN_enOM313OM313&start=70&sa=N	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	82.178.4.124
+<images/datadriven/Nodes_cc.png, id=1816, 1156.32pt x 939.51pt>
+File: images/datadriven/Nodes_cc.png Graphic file (type png)
+ofz#4531 bad-cast [Caolán McNamara]
+unix2dos (UNIX2DOS) [Y/n/?] y
+staticfield com/android/dx/rop/type/Type INT Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type LONG Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type SHORT Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type VOID Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type KNOWN_NULL Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type RETURN_ADDRESS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type ANNOTATION Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type CLASS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type CLONEABLE Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type OBJECT Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type SERIALIZABLE Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type STRING Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type THROWABLE Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type BOOLEAN_CLASS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type BYTE_CLASS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type CHARACTER_CLASS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type DOUBLE_CLASS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type FLOAT_CLASS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type INTEGER_CLASS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type LONG_CLASS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type SHORT_CLASS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type VOID_CLASS Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type BOOLEAN_ARRAY Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type BYTE_ARRAY Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type CHAR_ARRAY Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type DOUBLE_ARRAY Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type FLOAT_ARRAY Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type INT_ARRAY Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type LONG_ARRAY Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type OBJECT_ARRAY Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+.config:1072:warning: trying to assign nonexistent symbol FEATURE_BASH_IS_NONE
+i#72503 remove hedabu procedure [Stephan Bergmann]
+[     14937] somefunc found dlc_patchday9NG:/!
+[   1920484] ResourceCacheDevice: downloaded resource.rpf in 184 msec (size 26624)
+[   1920531] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 4a5aa5110355a20f71c6750c48d255c1f26e36fa) from http://139.99.125.59:30124/files/webadmin/resource.rpf
+[   1920687] ResourceCache::AddEntry: Saved cache:v1:4a5aa5110355a20f71c6750c48d255c1f26e36fa to the index cache.
+[   1920703] ResourceCacheDevice: downloaded resource.rpf in 173 msec (size 6144)
+[   1920765] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 03944a15dfabd50fe168322fff86c87f8913f978) from http://139.99.125.59:30124/files/assets-interiors/resource.rpf
+[   1920937] ResourceCache::AddEntry: Saved cache:v1:03944a15dfabd50fe168322fff86c87f8913f978 to the index cache.
+[   1920968] ResourceCacheDevice: downloaded resource.rpf in 187 msec (size 6144)
+[   1921047] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 58ed2c291dd08fc30932315bfa8c75970234f877) from http://139.99.125.59:30124/files/assets-civ-imports/resource.rpf
+[   1923000] ResourceCache::AddEntry: Saved cache:v1:58ed2c291dd08fc30932315bfa8c75970234f877 to the index cache.
+[   1923015] ResourceCacheDevice: downloaded resource.rpf in 1974 msec (size 1361920)
+[   1923093] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 60a657f6daa76c3139b140f3060cd544729d826f) from http://139.99.125.59:30124/files/assets-handlings/resource.rpf
+[   1924765] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Friends.asmx/GetFriends
+[   1925687] ResourceCache::AddEntry: Saved cache:v1:60a657f6daa76c3139b140f3060cd544729d826f to the index cache.
+[   1925703] ResourceCacheDevice: downloaded resource.rpf in 2610 msec (size 1724416)
+[   1926187] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 294da5fe58255bb7a027735eb38147540290c58d) from http://139.99.125.59:30124/files/assets-eup/resource.rpf
+[   1926359] ResourceCache::AddEntry: Saved cache:v1:294da5fe58255bb7a027735eb38147540290c58d to the index cache.
+[   1926375] ResourceCacheDevice: downloaded resource.rpf in 191 msec (size 6144)
+[   1926437] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash ad170671ed73e53ce880ebb30020eb725802fda7) from http://139.99.125.59:30124/files/op-base/resource.rpf
+[   1926765] ResourceCache::AddEntry: Saved cache:v1:ad170671ed73e53ce880ebb30020eb725802fda7 to the index cache.
+[   1926797] ResourceCacheDevice: downloaded resource.rpf in 355 msec (size 198656)
+[   1926843] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash d39a8dd2eb8555d4af1a3d0f7a4ece1b808cb198) from http://139.99.125.59:30124/files/assets-lafuenteblanca/resource.rpf
+[   1927000] ResourceCache::AddEntry: Saved cache:v1:d39a8dd2eb8555d4af1a3d0f7a4ece1b808cb198 to the index cache.
+[   1927015] ResourceCacheDevice: downloaded resource.rpf in 173 msec (size 6144)
+[   1927062] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash c8db9426df1efdb3b2fa2eedd66b4a25642ac7cd) from http://139.99.125.59:30124/files/chat/resource.rpf
+[   1927328] ResourceCache::AddEntry: Saved cache:v1:c8db9426df1efdb3b2fa2eedd66b4a25642ac7cd to the index cache.
+[   1927343] ResourceCacheDevice: downloaded resource.rpf in 273 msec (size 147456)
+[   1927390] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 467efa7dbebc1e3ccc4bf5b07325fa62c49d865b) from http://139.99.125.59:30124/files/op-banking/resource.rpf
+[   1927734] ResourceCache::AddEntry: Saved cache:v1:467efa7dbebc1e3ccc4bf5b07325fa62c49d865b to the index cache.
+[   1927750] ResourceCacheDevice: downloaded resource.rpf in 353 msec (size 258048)
+[   1927797] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 9b103363bfe74254f99bfeb82c1f6489416005f4) from http://139.99.125.59:30124/files/op-cad/resource.rpf
+2000-081     2000 Dec 20 0026     2000-081D      Astra 2D                       Astra 2D                  S26641  Ariane 5G              V138 (508)       CSG ELA3                 0.0
+                                  2000-081B      GE 8                           -                         S26639
+<use images/ceulogo-eps-converted-to.pdf>
+Package pdftex.def Info: images/ceulogo-eps-converted-to.pdf  used on input line 97.
+(pdftex.def)             Requested size: 98.16035pt x 65.43974pt.
+ [1
+Non-PDF special ignored!
+<special> header=psfrag.pro
+
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/natera/Dropbox/PhD/thesis/images/ceulogo-eps-converted-to.pdf>]
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 131.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+) [2] [3
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4] [5] [6
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 4.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 4.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 4.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 4.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 4.
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-heart-rate|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-lab|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-occupation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancyintent|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancystatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-screening-assessment|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-sexual-orientation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-pulse-oximetry|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-respiratory-rate|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-simple-observation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-smokingstatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-vital-signs|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/head-occipital-frontal-circumference-percentile|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-bmi-for-age|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-weight-for-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-blood-pressure|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-bmi|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-temperature|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-weight|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-head-circumference|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-heart-rate|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-lab|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-occupation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancyintent|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancystatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-screening-assessment|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-sexual-orientation|6.1.0]
+  <MemoFn>Loading memos from /u/nlp/rte/natlog/memos/lex/WNHypernymy.memos.ser.gz...</MemoFn>
+  <MemoFn>Loaded 13706 memos: 13706 added, 0 changed, 0 matched.</MemoFn>
+</ActivateLexScorer>
+     [xslt] Loading stylesheet /scratch/ig-build-temp-JHXSGN/repo/template/scripts/onLoad.xslt
+
+12:32:05 T:7432  NOTICE: Additional mode: 1440x900@ 75.00 - Full Screen
+12:32:05 T:7432  NOTICE: Additional mode: 1600x1200@ 60.00 #2 - Full Screen
+Starting configure run at Tue, 20 Aug 2019 01:40:57 -0500
+2021-10-26T21:51:41.622Z,52.622738,4337000,19 [DFLog::NetworkAudit] RakNet Socket Close: 127.0.0.1|58243
+2021-10-26T21:51:42.412Z,53.412579,4337000,7 [FLog::Network] Client:Disconnect
+2021-10-26T21:51:42.418Z,53.418182,4337000,6 [FLog::Output] Closing Fmod (as 279, ml 0, sl 0).
+2021-10-26T21:51:42.499Z,53.499496,4337000,6 [FLog::Output] Fmod Closed.
+2021-10-26T21:51:42.503Z,53.503677,4337000,7 [FLog::Network] NetworkClient:Remove
+2021-10-26T21:51:42.575Z,53.575031,ab3bf380,6 [FLog::Output] Hello to all (CLI-46686)
+2021-10-26T21:51:42.575Z,53.575085,ab3bf380,6 [FLog::Output] hello from a happy cactus (:
+2021-10-26T21:51:42.575Z,53.575104,ab3bf380,6 [FLog::Output] Hello (smiling bashfully)!
+2021-10-26T21:51:42.602Z,53.602955,ab3bf380,6 [FLog::SurfaceController] SurfaceController[_:1]::start dataModel(0x7f97a14bae00)
+2021-10-26T21:51:42.603Z,53.603020,ab3bf380,6 [FLog::SurfaceController] SurfaceController::RenderJob[_:2]::RenderJob
+2021-10-26T21:51:42.603Z,53.603046,ab3bf380,6 [FLog::SurfaceController] SurfaceController::RenderJob[_:1]::~RenderJob
+2021-10-26T21:51:42.604Z,53.604496,ab3bf380,6 [FLog::SurfaceController] SurfaceController[_:1]::run dataModel(0x7f97a14bae00)
+2021-10-26T21:51:42.670Z,53.670212,4337000,6 [FLog::SurfaceController] SurfaceController::RenderJob::stepDataModelJob: No DM yet. Continue...
+2021-10-26T21:51:42.672Z,53.672443,ab3bf380,6 [FLog::SurfaceController] SurfaceController::RenderJob::scheduleRender: No data model. Bind workspace now...
+2021-10-26T21:51:42.724Z,53.724926,ab3bf380,6 [FLog::Graphics] LayeredClothingMode updated: LC=0 SkeletonAPI=0 HSR=0 TC2=0
+2021-10-26T21:51:42.806Z,53.806831,ab3bf380,6 [FLog::Graphics] Loaded 620 shaders from pack metal_osx variant default (4412629 bytes)
+2021-10-26T21:51:42.806Z,53.806881,ab3bf380,6 [FLog::Graphics] Compiled 620 shaders in 78 ms
+2021-10-26T21:51:42.838Z,53.838192,4337000,7 [FLog::Network] NetworkClient:Create
+2021-10-26T21:51:42.838Z,53.838688,4337000,6 [FLog::LocalStorage] LocalStorage flushing (blocking)
+2021-10-26T21:51:42.838Z,53.838860,4337000,6 [FLog::LocalStorage] LocalStorage writing to file: /Users/studioagain/Library/Roblox/LocalStorage/memProfStorage11138.json
+2021-10-26T21:51:42.838Z,53.838913,4337000,6 [FLog::LocalStorage] LocalStorage will flush 5326 bytes to /Users/studioagain/Library/Roblox/LocalStorage/memProfStorage11138.json
+2021-10-26T21:51:42.839Z,53.839439,4337000,6 [FLog::LocalStorage] LocalStorage: Wrote 5326 bytes to disk
+2021-10-26T21:51:42.843Z,53.843349,4337000,6 [FLog::Output] ! Joining game 'cf7fb9dd-c769-dbdb-f16d-d4f084555e4e' place 4996049426 at 128.116.28.145
+2021-10-26T21:51:42.843Z,53.843479,4337000,6 [FLog::GameJoinLoadTime] Report game_join_loadtime: sid:6dc13002-5740-4ea3-bd22-ebcd8659c8b0, clienttime:1635285102.7200000286, join_time:0, referral_page:, placeid:4996049426, userid:3520967, universeid:1720936166, 
+2021-10-26T21:51:42.844Z,53.844318,4337000,7 [FLog::Network] Client will attempt to connect following server endpoints with threadSleepTime(-1)
+2021-10-26T21:51:42.844Z,53.844360,4337000,7 [FLog::Network] Server Address = 128.116.28.145, Port = 49574
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+2021-10-26T21:51:54.837Z,65.837608,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 1, url: https://gamejoin.roblox.com/v1/join-reserved-game
+tim+hack+and+kelly+drew	01.08.2009 19:10:47	http://www.google.com/search?q=kelly+drew+and+timothy+hack&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 3.5.30729)	68.118.99.186
+friendship+quotes	01.08.2009 19:11:17	http://www.google.co.in/search?hl=en&ei=G5B0Sr7wGpKYkQWLwcmfDA&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=friendship+day+betrayal+quotes&spell=1	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	202.63.109.89
+sayville+summerfest	01.08.2009 19:27:32	http://www.google.com/search?hl=en&q=summerfest+sayville&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)	74.249.53.128
+For [4mClassique[24m: [01;33m0[01;37m photos, [01;35m6[01;37m subdirs.
+For [4mDivers[24m: [01;33m0[01;37m photos, [01;35m4[01;37m subdirs.
+For [4mDjiboutep - Chants de Marins[24m: [01;33m22[01;37m photos, [01;35m0[01;37m subdirs.
+ciMethod java/lang/Math min (II)I 3233 1 16810 0 -1
+ciMethod java/util/Arrays copyOf ([CI)[C 1033 1 6305 0 -1
+2016-02-23 15:45:25,616  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@3c3d9b6b[Scopes.SINGLETON]
+2016-02-23 15:45:25,616  INFO Injector:68 org.matsim.core.scoring.ScoringFunctionsForPopulation 
+2016-02-23 15:45:25,616  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@7e6f74c[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.core.events.EventsManagerModule$EventHandlerRegistrator 
+2016-02-23 15:45:25,617  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@7530ad9c[Scopes.SINGLETON]
+    + add description about NoLabel property... (i#126658) [Kay Schenk]
+    + add description and @since LibreOffice 5.2 [Eike Rathke]
+    + add EDB-39395-1 test-case [Caolán McNamara]
+Build BusyBox as a static binary (no shared libs) (STATIC) [N/y/?] n
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/find-atm' with error code: 'null'.
+2.7_percent          ==> _
+of                   ==> _
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//7_15_Nitrogen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//8_16_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//8_17_Oxygen.z
+build	14-Jul-2020 09:19:57	  <outputDirectory default-value="${project.build.outputDirectory}"/>
+build	14-Jul-2020 09:19:57	  <reportDirectory default-value="${project.reporting.outputDirectory}"/>
+build	14-Jul-2020 09:19:57	  <skip default-value="false">${clean.skip}</skip>
+31       ! _____________________
+32         
+33         Pull off the records with trades.
+34         ___________________________________________________________________________________________________
+34       ! _____________________;
+35         data trades;	*	Put the values in a new dataset;
+36         	set this.myTicker;
+37         	where price^=.;
+59         	var size;
+60         	id date time ex cond;
+61         	by symbol;
+62         run;
+
+NOTE: The PROCEDURE UNIVARIATE printed page 4.
+NOTE: PROCEDURE UNIVARIATE used (Total process time):
+      real time           0.01 seconds
+      cpu time            0.01 seconds
+      
+
+63         
+64         
+65         *__________________________________________________________________________________________________
+65       ! _____________________
+66         
+67         Plot trade prices - fancy
+68         
+69         This procedure routes graphic output to an rtf file. The rtf file can be read in Microsoft Word and
+69       !  other programs.
+70         ___________________________________________________________________________________________________
+70       ! _____________________;
+Sushi:   Line: 19                                                                (04:18.777)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+[22:42:43] Insurance: [-] 8214/8262 registration failed (registration=disabled) - http://www.inktippitchsummit.com/wp-login.php?registration=disabled
+-- The CXX compiler identification is GNU 4.7.2
+-- Check for working C compiler: /usr/bin/gcc
+-- Check for working C compiler: /usr/bin/gcc -- works
+* DONE
+Status: OK
+Arguments: 
+  /Users/nicoelzer/.nvm/versions/node/v12.22.6/bin/node /usr/local/Cellar/yarn/1.22.15/libexec/bin/yarn.js
+
+PATH: 
+  /Users/nicoelzer/.nvm/versions/node/v12.22.6/bin:/usr/local/opt/openjdk/bin:/usr/local/opt/openjdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/opt/openjdk/bin
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  12.22.6
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://sya-439396124657.d.codeartifact.eu-central-1.amazonaws.com/npm/flooz-trade-sdk/@0x%2fcontracts-utils: Unauthenticated: request used expired credentials. Please renew your credentials.
+      at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.22.15/libexec/lib/cli.js:67031:18)
+      at Request.self.callback (/usr/local/Cellar/yarn/1.22.15/libexec/lib/cli.js:140885:22)
+      at Request.emit (events.js:314:20)
+      at Request.<anonymous> (/usr/local/Cellar/yarn/1.22.15/libexec/lib/cli.js:141857:10)
+      at Request.emit (events.js:314:20)
+      at Gunzip.<anonymous> (/usr/local/Cellar/yarn/1.22.15/libexec/lib/cli.js:141779:12)
+      at Object.onceWrapper (events.js:420:28)
+      at Gunzip.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+TEST configureSharedLibraries from PETSc.options.sharedLibraries(/sandbox/petsc/petsc.next/config/PETSc/options/sharedLibraries.py:52)
+TESTING: configureSharedLibraries from PETSc.options.sharedLibraries(/sandbox/petsc/petsc.next/config/PETSc/options/sharedLibraries.py:52)
+  Checks whether shared libraries should be used, for which you must
+Importing K2 items...
+                                              <musiclibrary>
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [catalina.jar:9.0.34]
+Visualization Manager deleting...
+ GmAnalysisMgr::~GmAnalysisMgr( bNormalizeToNEvents 1 doseHistos.e:NormalizeToNEvents
+PROC_CREATOR_COUNT C10 : protonInelastic = 28
+PROC_CREATOR_COUNT C11 : He3Inelastic = 2
+PROC_CREATOR_COUNT C11 : neutronInelastic = 15
+PROC_CREATOR_COUNT C11 : protonInelastic = 446
+PROC_CREATOR_COUNT C12 : He3Inelastic = 2
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+--2017-06-13 11:59:01--  https://busybox.net/downloads/busybox-1.26.2.tar.bz2
+Resolving busybox.net (busybox.net)... 140.211.167.122
+           games/NNS-8  ==                        DEL    $0.429  [D]
+             than/IN-9  ==                        DEL    $0.429  [D]
+         Miller/NNP-10  ==  Miller/NNP-0          SUB    $0.854  [E, sim, Esz, d:0.588]
+simple	14-Jul-2020 09:21:05	Finished building EPDG-EPWBD-JOB1-16.# Launch     Launch Date (UTC)    COSPAR         PL Name                        Orig PL Name              SATCAT LV Type                LV S/N          Site                 Apo/km
+Not activating NewStructure featurizer
+     Serial Number            : 4933K63128
+     Firmware Version         : 4.03
+build	14-Jul-2020 09:19:57	[DEBUG] Style:   Regular
+build	14-Jul-2020 09:19:57	[DEBUG] -----------------------------------------------------------------------
+build	14-Jul-2020 09:19:57	[DEBUG] Project: com.XXXXXX.eps.epdg:epdg-app-war:war:1.0.16-SNAPSHOT
+build	14-Jul-2020 09:19:57	[DEBUG] Tasks:   [clean, install]
+build	14-Jul-2020 09:19:57	[DEBUG] Style:   Regular
+build	14-Jul-2020 09:19:57	[DEBUG] -----------------------------------------------------------------------
+build	14-Jul-2020 09:19:57	[DEBUG] Project: com.XXXXXX.eps.epdg:epdg-app-ear:ear:1.0.16-SNAPSHOT
+build	14-Jul-2020 09:19:57	[DEBUG] Tasks:   [clean, install]
+build	14-Jul-2020 09:19:57	[DEBUG] Style:   Regular
+build	14-Jul-2020 09:19:57	[DEBUG] =======================================================================
+build	14-Jul-2020 09:19:57	[INFO]                                                                         
+build	14-Jul-2020 09:19:57	[INFO] ------------------------------------------------------------------------
+build	14-Jul-2020 09:19:57	[INFO] Building epdg-app Aggregator Project 1.0.16-SNAPSHOT
+build	14-Jul-2020 09:19:57	[INFO] ------------------------------------------------------------------------
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle default -> [validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy]
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle clean -> [pre-clean, clean, post-clean]
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle site -> [pre-site, site, post-site, site-deploy]
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle default -> [validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy]
+build	14-Jul-2020 09:19:57	[DEBUG] Lifecycle clean -> [pre-clean, clean, post-clean]
+build	14-Jul-2020 09:19:57	  <pluginArtifacts>${plugin.artifacts}</pluginArtifacts>
+build	14-Jul-2020 09:19:57	  <project>${project}</project>
+build	14-Jul-2020 09:19:57	  <sourceRoot>${sourceRoot}</sourceRoot>
+build	14-Jul-2020 09:19:57	  <target>
+build	14-Jul-2020 09:19:57	    <copy todir="D:\BambooAgent\xml-data\build-dir\EPDG-EPWBD-JOB1\epdg-app-aggregator\target\classes" failonerror="false" overwrite="true">
+build	14-Jul-2020 09:19:57	      <fileset dir="D:\BambooAgent\xml-data\build-dir\EPDG-EPWBD-JOB1\epdg-app-aggregator\target\classes">
+build	14-Jul-2020 09:19:57	        <exclude name="**/*.class"/>
+build	14-Jul-2020 09:19:57	      </fileset>
+build	14-Jul-2020 09:19:57	      <mapper from="^(.*)-LOCAL\.(.*)$$" to="\1\.\2" type="regexp"/>
+build	14-Jul-2020 09:19:57	    </copy>
+build	14-Jul-2020 09:19:57	  </target>
+\@cmidlb=\count347
+\@aboverulesep=\dimen298
+[22:42:47] Hindu temples T2: [-] 4075/4573 download failed (Return: -) - http://feedproxy.google.com/~r/MichaelGreth/~3/CG7kWjc08jE/
+[22:42:47] Social Media: [-] 0500/7976 download failed (Return: -) - http://fieldtec.blogspot.com/2012/05/walk-by-faith.html
+[22:42:46] eBay: [-] 8131/8467 no form at all - http://badpeople.co.za/wp-login.php?action=register
+[22:42:47] Mesothelioma: [+] 0534/7981 matches engine Drupal - Blog - http://data.agaric.com
+[22:42:47] Hollywood: [-] 8230/8544 download failed (Return: -) - https://moodle.pthsd.k12.nj.us
+[22:42:47] Structured Settlement: [-] 8357/8547 download failed (Return: -) - https://999lotterybookstore34.com/?attachment_id=110
+[22:42:47] Currency: [-] 7916/8085 no engine matches (HTTP-Status: 503) - http://jnsrfd.org
+[22:42:47] Agriculture: [-] 0011/7854 download failed (Return: -) - http://www.ustinovforum.com/topic/current-concern
+[22:42:47] Mortgage: [-] 7945/8168 no engine matches (HTTP-Status: 502) - http://dev8.romeii.com
+[22:42:47] Win News Time: [-] 7752/7826 no engine matches (HTTP-Status: 501) - https://www.pacificunionpress.com/
+[22:42:47] Computer: [+] 0319/8028 matches engine Wordpress Article - http://blog.chapterthirtyseven.com/10-month-check-up/
+[22:42:47] Agriculture T2: [-] 3874/8565 download failed (Return: -) - http://www.jamilazzaini.com/melepaskan/
+[22:42:47] Justice degree: [-] 8026/8289 download failed (Return: -) - http://treffpunkt-leben-noerdlingen.de/index.php/component/k2/item/73-veranstaltungen?start=30
+[22:42:47] Dwi Attorney: [-] 2917/7988 download failed (Return: -) - http://pegasusdirectory.com
+[22:42:47] Internet VOIP: [-] 0129/8096 download failed (Return: -) - http://www.itsg.at/?p=781
+[22:42:47] Mesa DUI lawyer T2: [-] 4202/8439 download failed (Return: -) - https://www.hubpic.com/
+[22:42:47] Sports: [+] 8087/8698 new URL - http://mwm-zahid.com.ua/index.php/component/users/?view=login
+[22:42:47] Sai: [-] 8094/8249 no engine matches (HTTP-Status: 500) - https://chemringmarine.com/__media__/js/netsoltrademark.php?d=fitnessloss.at.ua
+[22:42:47] Online Degree: [+] 7901/8073 matches engine Drupal - Blog - http://china.as.uky.edu
+[22:42:47] Social Media: [+] 0501/7976 matches engine Wordpress Article - http://www.anallievent.com/
+[22:42:47] Insurance: [-] 8220/8262 no engine matches - http://pasulukanlokagandasasmita.com/janji-hakiki-renungan-hikmah/
+[22:42:47] Hindu temples T2: [-] 4076/4573 download failed (Return: -) - http://wssservices.co.ug/index.php/component/k2/item/35-lorem-ipsum-dolor-sit-amet?start=60
+[22:42:47] Precious metals: [-] 0107/8003 download failed (Return: -) - https://dragomanov.fio.npu.edu.ua/index.php/ecscursion
+[22:42:47] Mesa DUI lawyer: [-] 8189/8413 download failed (Return: -) - http://lorenzooxcgm.tribunablog.com/how-much-you-need-to-expect-you-ll-pay-for-a-good-happiness-guide-4037230
+[22:42:47] Mesothelioma: [+] 0534/7981 registration successful - http://data.agaric.com/?q=node/add
+[22:42:47] Agriculture T1: [-] 0905/1000 download failed (Return: -) - http://universaltvlive.net
+[22:42:47] Amazon: [-] 3700/7825 download failed (Return: -) - http://xn----7sbaavncwxt5byi.xn--p1ai
+[22:42:47] Structured Settlement: [-] 8358/8547 download failed (Return: -) - http://www.gamechup.com/the-next-zelda-is-in-development-already-aonuma/
+[22:42:47] Currency: [+] 7917/8085 matches engine Wordpress Article - http://www.aeroporttransport.com/khouribga/
+[22:42:47] Computer: [+] 0319/8028 new URL - http://blog.chapterthirtyseven.com/wp-login.php?action=register
+          Trying FC for PIC code without any compiler flag
+-- [download 32% complete]
+2016-02-23 15:45:25,613  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.RoutingModule, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=54, type=MAPBINDER, keyType=java.lang.String)], provider=org.matsim.core.router.Teleportation@161479c6}
+2016-02-23 15:45:25,614  INFO Injector:68 org.matsim.core.router.RoutingModule @com.google.inject.multibindings.Element(setName=,uniqueId=56, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,614  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.RoutingModule, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=56, type=MAPBINDER, keyType=java.lang.String)], provider=org.matsim.core.router.Teleportation@75329a49}
+2016-02-23 15:45:25,614  INFO Injector:68 org.matsim.core.router.RoutingModule @com.google.inject.multibindings.Element(setName=,uniqueId=58, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,614  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.RoutingModule, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=58, type=MAPBINDER, keyType=java.lang.String)], provider=org.matsim.core.router.Teleportation@1e802ef9}
+2016-02-23 15:45:25,614  INFO Injector:68 org.matsim.core.router.util.TravelTime @com.google.inject.multibindings.Element(setName=,uniqueId=60, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,614  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.util.TravelTime, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=60, type=MAPBINDER, keyType=java.lang.String)], provider=Key[type=org.matsim.core.trafficmonitoring.TravelTimeCalculatorModule$ObservedLinkTravelTimes, annotation=[none]]}
+2016-02-23 15:45:25,615  INFO Injector:68 org.matsim.core.router.costcalculators.TravelDisutilityFactory @com.google.inject.multibindings.Element(setName=,uniqueId=62, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,615  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.costcalculators.TravelDisutilityFactory, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=62, type=MAPBINDER, keyType=java.lang.String)], provider=ConstantFactory{value=org.matsim.core.router.costcalculators.RandomizingTimeDistanceTravelDisutility$Builder@6f03482}[Scopes.SINGLETON]}
+2016-02-23 15:45:25,615  INFO Injector:68 org.matsim.analysis.IterationStopWatch 
+2016-02-23 15:45:25,615  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@305b7c14[Scopes.SINGLETON]
+2016-02-23 15:45:25,616  INFO Injector:68 org.matsim.core.controler.OutputDirectoryHierarchy 
+2016-02-23 15:45:25,616  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@bccb269[Scopes.SINGLETON]
+2016-02-23 15:45:25,616  INFO Injector:68 org.matsim.core.scoring.EventsToActivities 
+2016-02-23 15:45:25,616  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@7d8704ef[Scopes.SINGLETON]
+2016-02-23 15:45:25,616  INFO Injector:68 org.matsim.core.scoring.EventsToLegs 
+2016-02-23 15:45:25,616  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@3c3d9b6b[Scopes.SINGLETON]
+2016-02-23 15:45:25,616  INFO Injector:68 org.matsim.core.scoring.ScoringFunctionsForPopulation 
+2016-02-23 15:45:25,616  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@7e6f74c[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.core.events.EventsManagerModule$EventHandlerRegistrator 
+2016-02-23 15:45:25,617  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@7530ad9c[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.core.router.SingleModeNetworksCache 
+2016-02-23 15:45:25,617  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@394df057[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.core.replanning.StrategyManager 
+2016-02-23 15:45:25,617  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@65d09a04[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.core.replanning.ReplanningContextImpl 
+2016-02-23 15:45:25,617  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@3a52dba3[Scopes.SINGLETON]
+2016-02-23 15:45:25,617  INFO Injector:68 org.matsim.analysis.CalcLinkStats 
+2016-02-23 15:45:25,618  INFO Injector:69    -> com.google.inject.internal.ConstructorBindingImpl$Factory@6a2f6f80[Scopes.SINGLETON]
+2016-02-23 15:45:25,618  INFO Injector:68 org.matsim.analysis.LinkStatsControlerListener 
+6A7	ALASKA	BROCKER LAKE SEAPLANE	afd	al_31_25OCT2007.png
+L95	ALASKA	JONES LANDING SEAPLANE	afd	al_32_25OCT2007.png
+CLF	ALASKA	CLEAR SKY LODGE	afd	al_51_25OCT2007.png
+Z86	ALASKA	CLEARWATER	afd	al_52_25OCT2007.png
+KCC	ALASKA	COFFMAN COVE SEAPLANE	afd	al_52_25OCT2007.png
+ PART_COUNT: N12 = 37
+ PART_COUNT: N13 = 63
+ PART_COUNT: N14 = 436
+carlos+justo	01.08.2009 18:56:08	http://www.google.com/search?hl=en&q=Carlos+Justo&aq=f&oq=&aqi=g6g-s1g2	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; YPC 3.0.1; .NET CLR 1.1.4322; yplus 4.1.00b)	75.2.220.38
+socorro+caro	01.08.2009 18:56:13	http://www.google.com/search?hl=en&q=Socorro+Caro+&btnG=Google+Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; MDDR; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	12.35.111.162
+2021-10-26T21:51:37.822Z,48.822769,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 8, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:51:37.822Z,48.822845,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.41 seconds
+2021-10-26T21:51:38.335Z,49.335609,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=405cc706-a41d-4d4f-b250-4b6784555e4e","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-status-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-heart-rate|6.1.0]
+[22:42:48] Sports: [-] 8088/8698 download failed (Return: -) - http://www.cheapbreitlingsale.com/a-breitling-watch/
+[22:42:48] Social Media: [-] 0502/7976 download failed (Return: -) - https://v-g.me.uk/blog/?p=139
+[22:42:48] Currency: [-] 7918/8085 download failed (Return: -) - http://www.chimyen.biz
+[22:42:48] Digital Marketing: [-] 0142/7912 no engine matches - http://www.cameraaxe.com/wiki/index.php?title=Main_Page
+[22:42:48] Win News Time: [+] 7755/7826 matches engine Wordpress Article - http://ikwro.org.uk/2011/12/nearly-3000-cases-of-honour-violence-every-year-in-the-uk/
+[22:42:48] Structured Settlement: [-] 8360/8547 no engine matches (HTTP-Status: 502) - http://www.rybarimb.cz
+[22:42:48] Cooking TIPS: [-] 0208/7845 download failed (Return: -) - http://marlins.blog.palmbeachpost.com/2015/03/10/miami-marlins-shortstop-adeiny-hechavarria-to-throw-on-backfield-return-to-lineup-wednesday/
+[22:42:48] Mesa DUI lawyer: [-] 8191/8413 download failed (Return: -) - http://www.crackingleaks.com.htmlserialize.co/
+[22:42:48] Travels: [-] 8132/8261 download failed (Return: -) - http://diondee.com@clash-of-clans-hack-tool.net/
+[22:42:48] Injury Lawyers: [+] 7883/7969 matches engine Wordpress Article - https://www.expertinsurancereviews.com/insurance-company-reviews/auto-owners-insurance-review/
+[22:42:48] Health: [-] 8195/8339 download failed (Return: -) - http://bukbu.nodong.org/zbxe/?document_srl=10724108&mid=freeboard
+[22:42:48] Amazon: [-] 3702/7825 submission failed (wp-login.php?redirect_to=) - http://ed.gotway.com/wp-login.php?redirect_to=http%3A%2F%2Fed.gotway.com%2Fwp-admin%2F&reauth=1
+[22:42:48] Precious metals: [-] 0110/8003 download failed (Return: -) - http://www.it-corp.com/index.php/component/users/?view=login
+[22:42:48] Hindu temples T2: [-] 4078/4573 download failed (Return: -) - https://europeangaming.eu/thecompany/
+[22:42:48] Justice degree: [-] 8028/8289 download failed (Return: -) - https://sathyasaibaba.wordpress.com/2007/03/22/tony-oclery-caught-posting-as-sucked-by-baba/
+[22:42:48] Sports: [-] 8089/8698 download failed (Return: -) - http://teamcenterpin.sitemix.jp/2011/03/20/smart-cover-%E3%81%A7-ipad-2-%E3%82%92%E5%86%B7%E8%94%B5%E5%BA%AB%E3%81%AB%E8%B2%BC%E3%82%8A%E3%81%A4%E3%81%91/
+[22:42:48] Digital Marketing: [-] 0143/7912 download failed (Return: -) - http://www.arnaschoemans.nl/?attachment_id=413
+[22:42:48] Win News Time: [+] 7755/7826 new URL - http://ikwro.org.uk/wp-login.php?action=register
+[22:42:48] eBay: [-] 8133/8467 download failed (Return: -) - http://instagrafite.com/img_0704/
+[22:42:48] Cooking TIPS: [-] 0209/7845 download failed (Return: -) - https://www.piratde.de
+[22:42:48] Agriculture: [-] 0013/7854 download failed (Return: -) - http://un.derg.i.rdpax.t@jouwonlinecasinobonus.nl/
+[22:42:48] Mesa DUI lawyer: [-] 8192/8413 download failed (Return: -) - https://www.cybrary.it/0p3n/types-of-hackers/
+[22:42:48] Travels: [-] 8133/8261 download failed (Return: -) - http://www.luisrosamusic.com/playing-edited-2/
+[22:42:48] Injury Lawyers: [+] 7883/7969 new URL - https://www.expertinsurancereviews.com/wp-login.php?action=register
+[22:42:48] Online Degree: [-] 7902/8073 download failed (Return: -) - http://www.librus.ru/user/Kevinkeemn/
+[22:42:48] Justice degree: [-] 8029/8289 download failed (Return: -) - https://irritablebowelremedies.wordpress.com/2014/10/15/managing-irritable-bowel-syndrome/
+[22:42:48] Sports: [-] 8090/8698 download failed (Return: -) - https://healthyfitnessmeals.com/recipes/yogurt-berry-parfait/
+[22:42:48] Digital Marketing: [+] 0144/7912 matches engine Wordpress Article - http://palmerhistory.biz
+[22:42:48] Win News Time: [+] 7755/7826 new URL - http://ikwro.org.uk/wp-login.php?
+[22:42:48] Insurance: [-] 8223/8261 download failed (Return: -) - http://wessexlaboratories.com/donec-tempor-libero/
+EAA	ALASKA	EAGLE	afd	al_65_25OCT2007.png
+ the Gaussian 86(TM) system (copyright 1986, Carnegie Mellon
+<09:59AM CNN_news> aftershock in LA now
+Executing: uname -s
+stdout: Linux
+Executing: mpicc -V
+Alignment ------------------------------------------------
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.34]
+
+---------------------------------------------------
+     Primary Contact
+       Contact Name           :
+       Telephone (primary)    :
+initialization.  Edit the file "news" in the "misc/base" directory to
+display site-specific news and information in the program log.
+The command line option "-nonews" will prevent this display.
+
+
+
+
+NOTE: SAS initialization used:
+      real time           0.29 seconds
+      cpu time            0.03 seconds
+      
+1          *
+2          ________________________________________________________________________________________________________________________
+3          
+4          analyzeTrades.sas
+5          Joel Hasbrouck
+6          September 2011
+7          
+8          This program runs on rnd.stern.nyu. It builds a dataset of transactions for one ticker symbol, plots the trade prices,
+9          and computes descriptive statistics.
+10         _______________________________________________________________________________________________________________________
+11         ;
+12         options source nodate nocenter nonumber ps=max ls=110 orientation=landscape;
+13         libname taq '/homedir/fin/fac/jhasbrou/public_html/ftp/phd2011Fall';
+NOTE: Libref TAQ was successfully assigned as follows: 
+      Engine:        V9 
+      Physical Name: /homedir/fin/fac/jhasbrou/public_html/ftp/phd2011Fall
+14         libname this '.';
+NOTE: Libref THIS was successfully assigned as follows: 
+      Engine:        V9 
+tdf#111739 Selecting a custom character as a bullet symbol inserts the symbol into the document [Tamás Zolnai, Caolán McNamara]
+tdf#111747 Selecting position protection disables rotation settings only after reopening the dialog [Kshitij Pathania]
+tdf#111781 Wrong rendering of selection highlight in animation effect list [Bán Róbert]
+tdf#111785 PPTX: Hatch fill background color is not exported to PPTX [geri1245]
+tdf#111786 PPTX export: Shape's line transparency is not exported [Tamás Zolnai]
+tdf#111789 TextBox shadow propeties are not saved to PPTX [Tamás Zolnai]
+tdf#111790 Shadow imported from a PPTX file is not overriden by the settings while saving back to PPTX [martinb214]
+tdf#111801 No hover effect in table design sidebar tab [Kshitij Pathania]
+tdf#111837 Navigator: Lag in navigator selection update when clicking on next slide [Kshitij Pathania]
+tdf#111846 Find & Replace: Rename diacritics and kashida search options [Eike Rathke]
+tdf#112118 When using page-border, size of margins increases every time file is saved as DOC(X) (see comment 3) [Mike Kaganski]
+tdf#112140 Android Viewer - NPE at org.libreoffice.LOKitThread.updateCalcHeaders (LOKitThread.java:362) [Christian Lohmaier]
+tdf#112155 Help for "Save a Copy" missing [Olivier Hallot]
+tdf#112211 FILEOPEN: RTF: Incorrect horizontal bullet position [Miklos Vajna]
+tdf#112221 LOCALHELP Update Customize dialog documentation to the new design [Olivier Hallot]
+tdf#112239 Icons missing for the not yet used commands in the new customize dialog [Jim Raykowski]
+tdf#112323 Category list should be sorted alphabetically in Customize dialog [Muhammet Kara]
+tdf#112343 Consider porting to gdbus. [Arkadiy Illarionov]
+tdf#112356 LOCALHELP Document the Watermark dialog [Gabor Kelemen, Olivier Hallot]
+tdf#112373 cleanup SpellChecker [abstatic]
+tdf#112384 Chapter Numbering: Allow line breaks for "separator, after" in the Chapter Numbering dialog [Adolfo Jayme Barrientos, Nithin Kumar Padavu]
+tdf#112448 FILEOPEN, DOCX spurious blank line in text [Serge Krot]
+tdf#112474 Statusbar: Clicking on page number section should open go to dialog [Jim Raykowski]
+tdf#112481 Ability to add sheets on Calc on Android Viewer [Mert Tümer]
+tdf#112482 Ability to add slides on Impress on Android Viewer [Mert Tümer]
+tdf#112571 FILESAVE XLSX New named range is created every time an Excel made spreadsheet that contains print ranges is saved as XLSX [Eike Rathke]
+tdf#112656 selected text is truncated in Calc sort dropdown [Zdeněk Crhonek]
+tdf#112689 Replace chained O(U)StringBuffer::append() with operator+ [Shubham Verma]
+tdf#112755 [NEWHELP] Reorder module Icons in top of the page [Olivier Hallot]
+tdf#112757 [NEWHELP] Improvements required in index search [Ilmari Lauhakangas]

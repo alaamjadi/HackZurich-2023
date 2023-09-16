@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>BigchainDB - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6MjcsImlzcyI6ImNvdW50ZXI6c3lzdGVtIiwibmJmIjoxNjk0NjE0MDg1fQ.bLm_TWInTMzl6wkiXwQrXawMSgUuKIKGVrHVv0udWXA">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/bigchaindb" />
+<meta name="twitter:url" content="https://dbdb.io/db/bigchaindb" />
+<meta property="og:title" content="Database of Databases &mdash; BigchainDB" />
+<meta property="og:description" content="BigchainDB is an open-source blockchain database. It is a NoSQL database that has blockchain properties such as immutability, decentralization and owner-controlled asset.
+Immutability is the property that once the data is stored in BigchainDB, it can’t be modified or erased. Decentralization means…" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/bigchaindb.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; BigchainDB" />
+<meta name="twitter:description" content="BigchainDB is an open-source blockchain database. It is a NoSQL database that has blockchain properties such as immutability, decentralization and owner-controlled asset.
+Immutability is the propert…" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/bigchaindb.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/bigchaindb/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+BigchainDB
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<a class="badge badge-secondary" style="font-size: 12px;" href="/browse?tag=blockchain">Blockchain</a>
+<p class="card-text">
+<p>BigchainDB is an open-source blockchain database. It is a NoSQL database that has blockchain properties such as immutability, decentralization and owner-controlled asset.
+Immutability is the property that once the data is stored in BigchainDB, it can’t be modified or erased. Decentralization means there is no single point of failure in the control and storage process of the data. The owner-controlled asset is the property that only the owner of the asset can transfer the asset. The database provides the user with Byzantine Fault Tolerance (BFT) with no more than one-third arbitrary node failures. There are two main layers in BigchainDB, the consensus layer based on Tendermint the and storage layer based on MongoDB.</p>
+</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>The first version of BigchainDB was published in February 2016. However, there were many issues with the initial version. For example, the system was not Byzantine Fault tolerant, and there was a single point of failure in the underlying storage database and the system supported only one logical database, which means once got the control of the database the adversary could delete the whole database. BigchainDB 2.0 was published in 2018 and solved all the issues above.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="checkpoints" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Checkpoints
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?checkpoints=consistent">Consistent</a>
+<a class="badge badge-info" href="/browse?checkpoints=blocking">Blocking</a>
+</p>
+<p><p>The consensus layer is based on Tendermint.
+Tendermint uses LevelDB as blockchain storage.
+LevelDB builds checkpoints in a blocking manner, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB.
+MongoDB builds consisten checkpoints, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+<li><a target="_blank" href="https://tendermint.com/docs/">https://tendermint.com/docs/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=two-phase-locking-deadlock-prevention">Two-Phase Locking (Deadlock Prevention)</a>
+<a class="badge badge-info" href="/browse?concurrency-control=optimistic-concurrency-control-occ">Optimistic Concurrency Control (OCC)</a>
+</p>
+<p><p>The consensus layer is based on Tendermint. Tendermint uses LevelDB as blockchain storage.
+LevelDB uses Two-Phase Locking with Deadlock Prevention, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer on each node is based on MongoDB.
+MongoDB uses Two-Phase Locking with Deadlock Prevention and Optimistic Concurrency Control, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+<li><a target="_blank" href="https://tendermint.com/docs/">https://tendermint.com/docs/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=keyvalue">Key/Value</a>
+<a class="badge badge-info" href="/browse?data-model=document-xml">Document / XML</a>
+</p>
+<p><p>The consensus layer is based on LevelDB, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.
+The main data model is Document/XML.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="indexes" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Indexes
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?indexes=btree">B+Tree</a>
+<a class="badge badge-info" href="/browse?indexes=skip-list">Skip List</a>
+<a class="badge badge-info" href="/browse?indexes=log-structured-merge-tree">Log-Structured Merge Tree</a>
+</p>
+<p><p>The consensus layer is based on LevelDB, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.
+The B+Tree is the index for main storage.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="isolation-levels" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Isolation Levels
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?isolation-levels=read-uncommitted">Read Uncommitted</a>
+<a class="badge badge-info" href="/browse?isolation-levels=snapshot-isolation">Snapshot Isolation</a>
+</p>
+<p><p>The consensus layer is based on LevelDB, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.
+LevelDB guarantees snapshot isolation for blockchain storage.
+MongoDB guarantees read uncommitted isolation level for main storage.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="joins" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Joins
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?joins=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="logging" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Logging
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?logging=logical-logging">Logical Logging</a>
+<a class="badge badge-info" href="/browse?logging=physiological-logging">Physiological Logging</a>
+</p>
+<p><p>The consensus layer is based on LevelDB, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.
+MongoDB uses physiological logging, LevelDB uses logical logging.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-compilation" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Compilation
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-compilation=jit-compilation">JIT Compilation</a>
+</p>
+<p><p>The consensus layer is based on LevelDB, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.
+MongoDB supports JIT Compilation, but there is not enough information about LevelDB.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-execution=tuple-at-a-time-model">Tuple-at-a-Time Model</a>
+</p>
+<p><p>The consensus layer is based on LevelDB, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=http-rest">HTTP / REST</a>
+</p>
+<p><p>BigchainDB officially provides the users with multiple programming languages including Python, JavaScript/Node.js, and Java. And there are also many community driven libraries and tools available including Haskell transaction builder, Golang and Ruby driver.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf">https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf</a></li>
+<li><a target="_blank" href="https://docs.bigchaindb.com/en/latest/">https://docs.bigchaindb.com/en/latest/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=disk-oriented">Disk-oriented</a>
+</p>
+<p><p>The consensus layer is based on LevelDB, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.
+MongoDB supports both in-memory and disk-oriented storage, while LevelDB only supports disk-oriented storage.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.bigchaindb.com/en/latest/">https://docs.bigchaindb.com/en/latest/</a></li>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/">https://www.bigchaindb.com/whitepaper/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=n-ary-storage-model-rowrecord">N-ary Storage Model (Row/Record)</a>
+<a class="badge badge-info" href="/browse?storage-model=custom">Custom</a>
+</p>
+<p><p>The consensus layer is based on LevelDB, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.
+MongoDB supports custom storage model. LevelDB uses N-ary Storage Model.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/">https://www.bigchaindb.com/whitepaper/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-organization" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Organization
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-organization=log-structured">Log-structured</a>
+</p>
+<p><p>The consensus layer is based on LevelDB, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.
+There is not enough information about MongoDB. LevelDB uses log-structured storage organization.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/">https://www.bigchaindb.com/whitepaper/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="stored-procedures" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Stored Procedures
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?stored-procedures=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/">https://www.bigchaindb.com/whitepaper/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-nothing">Shared-Nothing</a>
+</p>
+<p><p>BigchainDB 2.0 has two layers, the consensus layer, and the storage layer. Each node runs its own MongoDB database as the storage layer and uses Tendermint consensus protocol to communicate with each other. Each node maintains its own MongoDB database to store the structured data and handle queries, it also maintains a LevelDB key-value store to keep the blockchain and support the consensus protocol.</p>
+<p>Each transaction is proposed by the proposer in each round, and the changes are not committed to the underlying MongoDB until it is settled on the blockchain. The Tendermint protocol can guarantee the BFT under at most one-third arbitrary node failures.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/">https://www.bigchaindb.com/whitepaper/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=virtual-views">Virtual Views</a>
+</p>
+<p><p>The consensus layer is based on LevelDB, see <a href="https://dbdb.io/db/leveldb">LevelDB</a> for more details.
+The storage layer is based on MongoDB, see <a href="https://dbdb.io/db/mongodb">MongoDB</a> for more details.
+MongoDB supports virtual views. LevelDB does not support views.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/whitepaper/">https://www.bigchaindb.com/whitepaper/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/bigchaindb/revisions/" title="View All Revisions for BigchainDB">
+<div class="card-body">
+Revision #21
+&nbsp;|&nbsp;
+<time datetime="2022-06-26T23:56:16.576000-04:00">
+Updated 06/26/2022 11:56 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/bayesdb" title="BayesDB">
+<img class="logo-recommendation" src="/media/logos/bayesdb.png.200x50_q85.png" alt="BayesDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/codernitydb" title="CodernityDB">
+<img class="logo-recommendation" src="/media/logos/CodernityDB.png.200x50_q85.png" alt="CodernityDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/covenantsql" title="CovenantSQL">
+<img class="logo-recommendation" src="/media/logos/covenantsql.png.200x50_q85.png" alt="CovenantSQL" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/rethinkdb" title="RethinkDB">
+<img class="logo-recommendation" src="/media/logos/rethinkdb.svg" alt="RethinkDB" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/bigchaindb.svg"><img class="logo-thumbnail" src="/media/logos/bigchaindb.svg" style="border:none;" alt="BigchainDB Logo" title="BigchainDB"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="https://www.bigchaindb.com/">https://www.bigchaindb.com/</a></p>
+<h6 class="card-title">Source Code</h6>
+<p class="card-text"><a href="https://github.com/bigchaindb/bigchaindb">https://github.com/bigchaindb/bigchaindb</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="https://docs.bigchaindb.com/en/latest/">https://docs.bigchaindb.com/en/latest/</a></p>
+<h6 class="card-title">Twitter</h6>
+<p class="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" /></svg> <a target="twitter" href="https://twitter.com/BigchainDB"> @BigchainDB</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">BigchainDB GmbH</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=DE" title="View other systems from Germany">
+<i class="flag-sprite flag-d flag-_e"></i>
+DE
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2015</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.bigchaindb.com/about/">https://www.bigchaindb.com/about/</a></li>
+</ul>
+</cite>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=commercial" title="View other Commercial systems">Commercial</a>, <a class="card-title" href="/browse?type=open-source" title="View other Open Source systems">Open Source</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=python" title="View other systems that are written in Python">Python</a>
+</p>
+<h6 class="card-title">Supported languages</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?supported=javascript" title="View other systems that support JavaScript">JavaScript</a>, <a class="card-title" href="/browse?supported=python" title="View other systems that support Python">Python</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=apache-v2" title="View other systems that use Apache v2">Apache v2</a>
+</p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/bigchaindb/revisions/" title="View All Revisions for BigchainDB">
+<div class="card-body">
+Revision #21
+&nbsp;|&nbsp;
+<time datetime="2022-06-26T23:56:16.576000-04:00">
+Updated 06/26/2022 11:56 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/bayesdb" title="BayesDB">
+<img class="logo-recommendation" src="/media/logos/bayesdb.png.200x50_q85.png" alt="BayesDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/codernitydb" title="CodernityDB">
+<img class="logo-recommendation" src="/media/logos/CodernityDB.png.200x50_q85.png" alt="CodernityDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/covenantsql" title="CovenantSQL">
+<img class="logo-recommendation" src="/media/logos/covenantsql.png.200x50_q85.png" alt="CovenantSQL" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/rethinkdb" title="RethinkDB">
+<img class="logo-recommendation" src="/media/logos/rethinkdb.svg" alt="RethinkDB" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#7419151d1834101610165a1d1b" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="a590e03199ecf033fa9e00d7-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="a590e03199ecf033fa9e00d7-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="a590e03199ecf033fa9e00d7-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="a590e03199ecf033fa9e00d7-text/javascript"></script>
+<script type="a590e03199ecf033fa9e00d7-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="a590e03199ecf033fa9e00d7-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="a590e03199ecf033fa9e00d7-text/javascript"></script>
+<script type="a590e03199ecf033fa9e00d7-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="a590e03199ecf033fa9e00d7-text/javascript"></script>
+<script src="/static/core/js/system.js" type="a590e03199ecf033fa9e00d7-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="a590e03199ecf033fa9e00d7-|49" defer></script></body>
+</html>

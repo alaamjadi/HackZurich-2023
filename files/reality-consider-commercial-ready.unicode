@@ -1,0 +1,100 @@
+0 posts imported
+21:38:12 T:139832867932032    INFO: Loading special://xbmc/system/keymaps/joystick.Interact.AxisPad.xml
+21:38:12 T:139832867932032    INFO: Loading special://xbmc/system/keymaps/joystick.Logitech.RumblePad.2.xml
+21:38:12 T:139832867932032    INFO: Loading special://xbmc/system/keymaps/joystick.Microsoft.Xbox.360.Controller.xml
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:492) ~[guava-28.2-jre.jar:?]
+21:38:12 T:139832867932032  NOTICE:         m_dataFormats     : AE_FMT_LPCM,AE_FMT_S32NE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_DTSHD,AE_FMT_TRUEHD,AE_FMT_EAC3,AE_FMT_DTS,AE_FMT_AC3,AE_FMT_AAC
+21:38:09 T:139832867932032  NOTICE: Running on Gentoo/Linux 0.0, kernel: Linux x86 64-bit version 4.1.15-gentoo-r1
+21:38:09 T:139832867932032  NOTICE: FFmpeg version: 2.8.5
+tdf#116029 [UI] Help button should be on the left of dialog (iii) [heiko tietze]
+tdf#116043 Searching in the customize dialog makes the icons go away [Jim Raykowski]
+mandir = $(datarootdir)/man
+CXX = /usr/bin/g++
+PGA	ARIZONA	PAGE MUNI	afd	sw_22_25OCT2007.png
+P20	ARIZONA	PARKER AVI SUQUILLA	afd	sw_23_25OCT2007.png
+PAN	ARIZONA	PAYSON	afd	sw_23_25OCT2007.png
+L37	ARIZONA	PEACH SPRINGS GRAND CANYON CAVERNS	afd	sw_23_25OCT2007.png
+1G4	ARIZONA	PEACH SPRINGS GRAND CANYON WEST	afd	sw_24_25OCT2007.png
+
+     dst='/data/richards/NBRTT/build/Geant4/build/data/G4PII1.3'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- [download 6% complete]
+-- [download 7% complete]
+-- [download 8% complete]
+-- [download 9% complete]
+-- [download 10% complete]
+-- [download 11% complete]
+-- [download 12% complete]
+-- [download 13% complete]
+-- [download 14% complete]
+-- [download 15% complete]
+-- [download 16% complete]
+-- [download 17% complete]
+-- [download 18% complete]
+-- [download 19% complete]
+-- [download 20% complete]
+-- [download 21% complete]
+-- [download 22% complete]
+-- [download 23% complete]
+-- [download 24% complete]
+-- [download 25% complete]
+-- [download 26% complete]
+-- [download 27% complete]
+-- [download 28% complete]
+-- [download 29% complete]
+-- [download 30% complete]
+Sushi: warn  Sliced element Condition.category is being accessed via numeric index. Use slice names in rule paths when possible. (04:18.607)
+Sushi:   File: /scratch/ig-build-temp-JHXSGN/repo/input/fsh/instances/us-ph-condition-encounter-diagnosis-diabetes.fsh (04:18.608)
+lark+voorhies	01.08.2009 21:57:10	http://www.google.com/search?hl=en&safe=off&client=safari&rls=en-us&q=Lark+Voorhies+nude&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	86.26.238.197
+sayville+summerfest	01.08.2009 21:57:29	http://www.google.com/search?hl=en&client=safari&rls=en-us&q=sayville+chamber+of+commerce+summerfest&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.18 (KHTML, like Gecko) Version/4.0.1 Safari/530.18	24.47.45.57
+sayville+summerfest	01.08.2009 21:57:36	http://www.google.com/search?hl=en&client=safari&rls=en-us&q=sayville+summerfest&aq=f&oq=&aqi=g1	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1	69.112.65.164
+jerry+garcia+birthday	01.08.2009 21:58:19	http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=VyM&q=jerry+garcia%27s+birthday+bash+in+austin&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.20) Gecko/20081217 Firefox/2.0.0.20	70.116.15.179
+fedex+field	01.08.2009 21:58:34	http://www.google.com/search?client=safari&rls=en-us&q=concert+parking+at+fedex+field&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	98.169.79.35
+instanceKlass java/lang/invoke/ConstantCallSite
+ciInstanceKlass java/lang/invoke/CallSite 0 0 322 10 10 9 10 10 100 100 10 100 10 10 10 100 100 10 10 10 8 10 10 10 9 10 10 10 10 100 8 10 10 10 100 10 9 10 10 10 10 9 9 10 10 9 10 10 10 10 10 10 100 10 10 10 10 10 10 100 100 8 10 10 10 10 10 100 100 8 10 10 100 8 10 100 10 10 10 8 10 10 8 10 10 100 10 8 10 10 100 100 10 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 100 1 1 1 1 1 100 100 100 100 100 100 100 1 1 1 1 1 1 1 1 100 100 1 1 12 12 12 12 12 1 1 12 1 12 12 12 1 1 100 12 12 1 12 12 12 12 12 100 12 12 1 1 12 12 1 12 12 12 12 12 100 12 100 12 12 100 12 12 100 12 12 12 12 12 100 12 12 1 12 12 12 12 12 12 1 1 1 12 12 100 12 12 1 1 1 12 1 1 12 1 12 12 100 12 12 12 12 12 1 12 12 12 1 1 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ciInstanceKlass java/lang/invoke/ConstantCallSite 0 0 42 10 9 10 100 10 9 100 10 10 100 100 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 12 12 12 1 12 12 1 12 1 1 1 1 1 1
+ciInstanceKlass java/lang/invoke/MutableCallSite 0 0 57 10 10 9 10 10 10 9 10 10 100 10 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 100 12 1 12 1 1 1 1 1 1 1 1 1 1 1 1 1
+ciInstanceKlass java/lang/invoke/VolatileCallSite 0 0 33 10 10 10 10 10 10 100 100 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 1 1 1 1 1 1 1
+    Support killing processes that have been removed from inittab (FEATURE_KILL_REMOVED) [Y/n/?] y
+
+NeutronHP: .3.2/Alpha/Inelastic file for Z = 1, A = 2 is not found and CrossSection set to 0.
+coverity#1426737 uninitialized scalar field [Caolán McNamara]
+coverity#1426738 dereference null return value [Caolán McNamara]
+<09:27AM DrStupid> I get no records available for nbc.com
+<09:27AM KFWB> nbc.com?  unknown host
+<09:27AM KNBC> damn
+(Sea-Marie/#earthquake) unknown host, nbc.com
+<09:28AM cavalier> nbc.com doesnt exist, it's a mail server.
+<09:28AM cavalier> [supposedly]
+<09:28AM DrStupid> ABC - showing you animation of a thrust fault
+<09:28AM KNBC> Well someone told me that it was a direct telnet connection.. guess not
+<09:28AM cavalier> Could someone please test my INFO auto? I wanna make sure it works.
+<09:28AM tasm> knbc: can email
+(WildEep/#earthquake) cav: you are away
+<09:28AM KNBC> info
+<09:28AM KFWB> Network update: enss.sdsc.edu (198.17.47.2) still blocking on traceroutes to Cal State Northridge
+<09:29AM cavalier> WildEep: not anymore, try now.
+<09:29AM DrStupid> KCMP24 Chico Redding - 4.1 quake near Santa Rosa (north bay area northern california)
+(WildEep/#earthquake) not doing anything in response to /msg cavalier info
+<09:29AM KFWB> Network update: cerfnet routes partially open to LA / blocking at UXV
+<09:29AM KFWB> err USC
+<09:29AM cavalier> Wild: hmm
+<09:30AM cavalier> ok try again
+<09:30AM KNBC> EmilyC: Where are you loacted? I cant get through to nbc.com
+*** Netsplit at 09:30:27 (polaris.ctr.columbia.edu eff.org)
+--> "+v EmilyC" mode change by KNBC on #earthquake
+(WildEep/#earthquake) got it, cav.
+(WildEep/#earthquake) it works
+(Sea-Marie/#earthquake) cav:  Nothing, here.
+<09:31AM cavalier> think it works now :)
+(Sea-Marie/#earthquake) cav:  Got it!
+--> "+v Zaq" mode change by KNBC on #earthquake
+<09:31AM EmilyC> KNBC can you see this?
+-rrhs system_data_binary/two_hole_nocrack_vec.bin
+[      2688] [    GTAProcess]             MainThrd/ pre-gameload component citizen:resources:gta
+[      2688] [    GTAProcess]             MainThrd/ pre-gameload component font-renderer
+[   1946953] instrumented function 0x140909d14 (1) took 0msec
+[   1947500] instrumented function 0x140d92098 (2) took 519msec

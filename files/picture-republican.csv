@@ -1,0 +1,620 @@
+language_code,date,bank_country,date_time,time,random_number,city,hostname,company,iso8601
+km,1972-01-02,DE,1970-04-11 21:45:55,03:27:52,40,Lübben,srv-19.paffrath.de,Gunpf Kohl GmbH,1975-07-03T04:37:51
+lij,2020-10-06,DE,2017-01-15 15:40:43,00:00:54,64233601,Bernburg,lt-62.jaentsch.de,Wilms AG,1986-12-23T06:14:18
+wo,1977-04-04,DE,1982-06-12 11:23:32,15:14:33,720542100,Bitterfeld,lt-64.wernecke.de,Eberhardt Koch II KGaA,2012-07-11T12:54:18
+pl,1971-12-18,DE,2000-02-15 09:41:49,13:46:39,539401,Bad Langensalza,web-59.scholz.com,Hande Heser GmbH,1973-02-27T13:03:18
+iw,2011-07-19,DE,1972-03-20 21:23:43,13:57:55,65738,Günzburg,db-06.bloch.de,Beier Stumpf KG,2007-01-23T13:46:50
+eu,1984-10-27,DE,1981-07-13 22:04:15,16:24:47,12726653,Brandenburg,db-31.tintzmann.com,Wulff Davids AG & Co. KG,2003-01-23T09:04:00
+brx,2022-06-26,DE,2005-08-14 11:36:28,10:26:34,7,Gießen,lt-41.sauer.de,Ortmann GmbH & Co. KG,1970-02-25T22:25:56
+hr,1985-01-16,DE,2009-04-29 04:20:53,02:06:45,22447713,Kronach,laptop-20.martin.org,Killer,2003-07-24T12:36:18
+dz,1983-02-23,DE,1982-11-30 08:46:08,19:26:33,756389,Feuchtwangen,web-80.wagner.com,Kabus,2015-10-28T04:10:06
+es,1987-11-04,DE,1983-04-17 20:06:04,02:00:22,156932563,Lemgo,email-41.pechel.com,Werner Peukert OHG mbH,2021-03-02T02:18:49
+crh,2022-12-25,DE,1976-06-15 02:38:32,00:28:17,894480,Gadebusch,lt-67.killer.com,Rörricht KG,1982-07-07T16:31:52
+ht,1996-11-23,DE,1991-07-02 02:34:59,12:43:32,6,München,laptop-98.eckbauer.de,Etzold AG,1985-08-29T08:11:20
+he,2012-03-20,DE,1989-06-02 23:08:26,01:41:27,14463138,Scheinfeld,email-22.hauffer.de,Bolnbach AG & Co. KG,1984-05-18T05:46:03
+oc,2015-09-21,DE,2016-12-14 20:23:48,13:20:19,29301755,Sternberg,email-61.meyer.com,Werner Briemer AG,1998-02-22T23:51:26
+te,1995-09-21,DE,1984-04-08 10:47:11,04:32:56,174431,Altentreptow,lt-59.hahn.com,Siering Schmidt GmbH,1978-08-02T00:24:24
+fr,2012-08-11,DE,1973-12-28 16:31:58,13:46:28,577,Hannover,desktop-70.waehner.net,Schäfer,2014-09-24T14:02:37
+ja,1974-11-02,DE,2013-02-18 23:00:29,04:13:28,2475886,Iserlohn,web-20.fiebig.de,Jessel Karz e.V.,2019-05-01T13:39:35
+nl,2021-01-12,DE,1997-09-24 01:20:04,07:40:00,876,Heiligenstadt,srv-78.hoefig.com,Bähr Klemt AG,2018-10-12T18:10:46
+lt,1981-07-14,DE,2002-02-07 16:08:17,03:38:28,88548,Arnstadt,db-20.renner.de,Börner Vogt GmbH & Co. KGaA,1983-08-01T21:10:02
+fy,2013-06-15,DE,1978-05-10 17:34:48,03:31:17,966,Hildesheim,web-88.wulf.com,Mosemann Barkholz GmbH,2002-12-28T22:59:11
+lt,1987-09-14,DE,1971-09-11 00:01:14,06:45:51,620269484,Herzberg,email-39.junken.com,Eckbauer,2011-02-24T21:18:33
+oc,1994-07-04,DE,1977-03-13 04:36:35,05:09:17,85,Roding,laptop-77.jacob.com,Liebelt GmbH,2016-01-16T12:34:09
+pa,2014-12-13,DE,1971-12-24 03:47:19,13:50:00,1,Vohenstrauß,web-76.jaehn.de,Paffrath,1999-03-16T17:42:41
+ayc,2003-02-11,DE,2006-05-31 23:15:00,03:13:40,5,Neustadtner Waldnaab,email-27.buchholz.de,Meyer,1972-09-16T13:12:39
+ha,2021-05-17,DE,2018-11-07 03:32:03,18:23:45,6378770,Cloppenburg,laptop-73.heinrich.de,Heß AG,1996-08-06T22:39:31
+mai,2001-08-18,DE,1994-04-24 14:27:46,08:09:44,78,Tecklenburg,email-28.bohnbach.de,Bloch KGaA,1973-04-16T01:13:21
+it,2023-03-10,DE,2023-01-31 03:44:01,19:07:19,23,Herzberg,db-55.radisch.com,Ruppersberger,1988-01-13T13:30:55
+pa,2021-09-02,DE,2017-09-30 03:34:54,05:09:56,26786,Jessen,lt-71.bruder.com,Blümel Fechner AG,2020-10-29T20:54:51
+st,2014-04-26,DE,2005-09-18 21:22:22,02:38:16,1273358,Fürstenwalde,email-63.ullrich.de,Köhler,1972-05-11T07:03:41
+tt,1972-05-15,DE,1976-07-15 18:38:09,09:43:01,50,Luckenwalde,laptop-05.fischer.de,Holsten AG,2004-11-25T16:08:23
+bem,1998-12-20,DE,2007-04-19 11:32:13,02:16:07,4,Apolda,email-22.ladeck.de,Hertrampf Warmer e.V.,2007-04-16T13:13:35
+fa,1992-04-16,DE,1989-06-05 20:52:50,03:44:54,77,Apolda,web-55.rose.de,Riehl Meyer AG,2007-02-02T03:40:43
+hak,1988-12-25,DE,1973-12-06 19:56:24,20:58:10,24009,Gütersloh,db-82.giess.de,Bruder AG & Co. OHG,1990-04-20T21:26:31
+mg,1990-02-25,DE,1972-07-25 00:56:36,17:53:39,565649416,Duderstadt,srv-00.heinrich.de,Hölzenbecher,1988-03-24T00:27:27
+sq,2017-06-15,DE,1992-04-06 19:34:40,06:47:19,354483477,Gransee,lt-71.kensy.net,Preiß,1991-01-26T08:38:55
+os,1980-03-18,DE,1993-11-14 01:13:26,09:40:36,572129989,Euskirchen,laptop-17.killer.de,Schomber Heydrich AG,2012-12-04T17:05:54
+ti,1975-09-03,DE,1998-08-05 00:32:38,15:38:55,456,Wismar,web-90.hartung.com,Möchlichen,2001-03-24T20:16:58
+bo,2000-01-26,DE,2019-07-02 17:04:21,01:34:19,1208,Recklinghausen,web-85.schottin.net,Schuster,2016-01-06T06:23:54
+cmn,1998-01-17,DE,2015-06-14 19:53:52,23:33:57,80326,Pegnitz,web-31.sorgatz.de,Zahn OHG mbH,2014-05-12T17:55:48
+bs,1979-09-20,DE,1990-12-21 17:59:40,21:18:53,3,Roding,laptop-58.aumann.de,Metz,1971-02-24T23:48:16
+os,1983-01-31,DE,1981-05-18 12:23:28,00:31:54,5,Steinfurt,srv-95.sontag.com,Karz,1975-11-24T05:32:01
+bo,1991-04-02,DE,1999-04-22 06:10:21,06:14:29,532154013,Badibling,lt-87.segebahn.org,Johann AG,1971-11-07T13:50:22
+sk,1977-05-13,DE,1972-08-22 13:39:12,00:07:16,4344,Lübeck,lt-22.heuser.com,Austermühle Höfig GmbH,1979-05-18T23:46:07
+zh,1972-01-09,DE,2017-04-10 18:59:02,13:01:19,965,Darmstadt,email-07.hering.de,Weiß Ullrich KG,2010-08-21T17:58:45
+de,2011-03-24,DE,2008-06-17 10:21:38,08:42:13,46,Bützow,web-30.moechlichen.de,Reinhardt,1987-02-07T09:15:02
+bo,2002-01-16,DE,1987-05-15 21:27:57,06:35:06,5366730,Bernburg,srv-44.naser.de,Rogner Weitzel KGaA,2002-07-10T16:09:31
+st,2021-12-01,DE,2003-02-07 02:30:22,11:33:30,88,Parchim,db-45.hornich.de,Pechel GmbH & Co. OHG,2003-05-24T22:39:05
+sr,1983-09-04,DE,1995-10-21 22:20:47,06:18:02,4913,Wittenberg,db-94.karz.com,Jüttner AG,1980-12-02T09:35:45
+vi,2020-08-19,DE,2018-09-17 13:59:38,08:30:08,6,Gerolzhofen,db-57.schleich.com,Kabus,1979-09-08T13:30:39
+iu,1978-07-18,DE,1972-05-10 09:28:44,18:32:43,4596633,Sebnitz,desktop-46.hornich.com,Weinhage,1974-03-24T07:32:10
+zh,2000-10-04,DE,1973-10-21 04:39:55,13:24:09,220704,Kyritz,web-13.henk.net,Kranz,2008-12-10T05:59:00
+wae,2008-06-17,DE,1991-07-16 08:07:17,00:36:07,534472497,Einbeck,laptop-79.jaehn.net,Wilmsen Beer GmbH,2001-07-28T15:44:06
+kok,1992-09-20,DE,2014-01-08 12:00:56,10:38:24,347790129,Senftenberg,db-04.geisler.de,Bauer,1979-02-12T14:58:52
+szl,1984-04-17,DE,2005-11-15 14:40:40,22:03:43,214,Oranienburg,db-82.tlustek.org,Kreusel GmbH,2018-01-07T13:25:54
+lg,2014-03-08,DE,1971-03-13 16:37:02,17:46:59,5,Borna,srv-16.kreusel.com,Jüttner,1989-11-09T11:13:12
+bho,2007-11-30,DE,1985-05-24 09:06:18,14:42:23,861,Wismar,desktop-81.becker.net,Cichorius Wende GmbH,1990-07-05T07:52:10
+zu,1993-09-18,DE,2020-06-01 21:45:09,14:36:59,76,Vechta,db-10.beckmann.net,Killer Weinhage KGaA,2018-12-01T07:55:28
+tl,2005-07-13,DE,1988-11-22 00:52:39,23:53:21,2636056,Uelzen,web-40.striebitz.net,Röhricht,1993-01-12T20:39:49
+ln,2013-11-21,DE,2018-08-20 07:59:59,09:07:16,56760078,Mettmann,web-98.dietz.de,Schomber GmbH,1978-05-19T08:34:30
+tn,2017-06-19,DE,1996-11-23 15:46:50,13:37:58,776715056,Bad Freienwalde,email-82.hentschel.de,Rogge,2015-03-28T15:15:34
+da,1994-09-15,DE,1982-07-13 05:17:19,12:06:44,44303,Sangerhausen,srv-25.eigenwillig.org,Bruder AG,1994-10-08T19:58:50
+sk,2004-08-07,DE,1978-03-06 03:09:35,22:46:05,67883,Amberg,desktop-16.trub.org,Trüb Gehringer GmbH,2016-03-28T22:58:43
+lo,1981-10-17,DE,2007-08-10 05:59:12,22:17:47,1950,Pegnitz,email-13.loewer.de,Schmidt AG,1971-12-24T02:01:29
+sl,1977-08-04,DE,1991-03-05 11:11:15,22:55:54,58,Deggendorf,lt-88.trommler.com,Pergande Meyer AG & Co. KGaA,1986-08-25T15:20:59
+bhb,2015-09-20,DE,1970-04-22 04:50:58,00:02:02,790926448,Goslar,laptop-50.jacob.com,Drub,2009-03-29T19:48:06
+he,2007-08-13,DE,2011-11-23 12:11:47,03:41:13,48203712,Soltau,lt-72.seidel.de,Gierschner Faust GmbH & Co. KG,1989-03-17T17:12:56
+tn,1997-06-21,DE,2023-09-07 23:27:01,14:07:52,414840,Strausberg,desktop-42.mohaupt.org,Beckmann Stiftung & Co. KGaA,2021-06-19T09:43:57
+gez,2004-03-22,DE,2013-01-22 00:32:07,00:38:52,68433,Malchin,email-74.mosemann.net,Plath GmbH,2020-12-31T21:59:56
+tg,2006-07-25,DE,1988-02-08 15:40:21,05:53:00,155279,Wunsiedel,lt-83.austermuehle.de,Drub GmbH & Co. KG,2010-06-21T07:24:15
+vi,2010-02-15,DE,2011-07-02 23:12:12,15:25:47,7961544,Marktheidenfeld,laptop-71.jessel.org,Davids Kuhl AG,2022-10-09T10:08:37
+ps,1985-11-06,DE,2015-06-11 20:57:56,11:22:56,17766084,Celle,lt-95.butte.de,Klapp,1982-05-26T18:28:47
+ast,2018-11-01,DE,1988-09-17 13:18:03,20:39:50,116,Stuttgart,srv-03.paertzelt.de,Dussen van e.V.,2013-03-31T07:32:58
+shs,1979-04-20,DE,1975-07-04 05:57:38,02:38:23,826097,Regen,lt-65.barkholz.de,Mangold GmbH,1997-07-30T04:18:32
+so,1998-09-16,DE,1974-09-17 07:50:17,15:40:04,1323855,Rottweil,lt-09.hornich.com,Hornig Wagenknecht KGaA,2014-03-24T02:01:08
+ky,1996-01-03,DE,2015-03-19 02:34:59,04:30:08,18493952,Norden,laptop-11.jacob.org,Fritsch,1996-06-10T08:57:12
+sc,2013-02-21,DE,2004-05-22 15:03:35,05:47:16,85940973,Wolfratshausen,srv-45.butte.de,Langern,2010-12-07T18:32:11
+byn,2002-12-04,DE,2010-01-31 09:51:56,16:25:39,12719,Rosenheim,lt-00.weller.de,Dehmel GmbH,1981-01-16T09:25:06
+mag,1982-06-13,DE,1995-09-06 10:54:29,10:18:45,16738,Lüdinghausen,web-38.krause.org,Winkler,2019-02-09T14:22:33
+ru,1993-09-28,DE,1981-05-15 07:44:21,02:20:00,7476,Diepholz,desktop-89.bolander.de,Kühnert Stiftung & Co. KG,1999-07-15T09:39:37
+ar,2014-07-04,DE,2010-12-11 05:37:53,17:26:46,21526347,Wolfratshausen,desktop-02.schaaf.org,Lorch,1985-12-09T03:33:39
+uz,2016-04-24,DE,2014-10-27 23:13:01,18:53:57,7,Regensburg,laptop-42.hoelzenbecher.com,Buchholz GmbH & Co. KG,2011-06-04T08:41:06
+ja,2003-05-21,DE,2013-12-07 06:48:05,17:26:13,39102632,Angermünde,email-06.schinke.net,Christoph,1994-01-06T01:37:07
+niu,2017-12-07,DE,1974-09-25 09:48:40,16:30:25,533695,Wurzen,laptop-40.weihmann.net,Dippel KGaA,2005-07-18T21:36:27
+mhr,1981-04-04,DE,1986-09-30 02:47:53,04:44:24,38299,Stuttgart,email-44.scholz.com,Hoffmann Junitz AG & Co. KG,1972-04-10T22:23:33
+tk,1997-07-06,DE,1986-04-07 17:53:13,11:49:50,6,Havelberg,desktop-74.kranz.de,Steckel GmbH & Co. OHG,2008-02-07T06:36:41
+nb,1979-04-25,DE,1984-09-27 09:33:52,21:01:41,286485833,Schongau,lt-54.siering.com,Gotthard AG & Co. KG,2014-11-27T03:26:22
+sk,1999-10-15,DE,1977-06-11 03:17:25,16:31:48,142446,Rochlitz,srv-45.kostolzin.com,Holsten Hecker KG,2021-10-29T21:20:43
+nl,1980-02-01,DE,1987-06-11 02:59:20,02:47:29,245425608,Staßfurt,desktop-48.schleich.net,Vogt,1992-04-23T17:20:41
+aa,2023-04-06,DE,1984-10-28 00:01:40,02:42:24,28901265,Wertingen,laptop-28.weihmann.de,Fritsch Wernecke AG & Co. KG,1991-08-24T04:46:13
+byn,1979-12-09,DE,2021-09-28 10:18:20,13:26:47,9333496,Rehau,laptop-13.pruschke.net,Beckmann,1979-05-11T03:14:57
+ur,2004-01-03,DE,2008-02-04 15:49:58,08:23:15,166069428,Marienberg,web-11.baehr.de,Johann,2013-05-04T06:50:17
+ne,1977-06-07,DE,2011-10-17 14:17:35,17:58:33,592707442,Erkelenz,web-68.bender.net,Löchel AG,2018-03-06T02:34:06
+li,2003-08-06,DE,2014-05-17 00:47:44,15:17:41,71705,Nördlingen,desktop-00.kraushaar.com,Weitzel,1982-08-02T03:32:23
+lg,2005-06-26,DE,2009-08-28 19:32:45,02:43:47,6,Lübeck,srv-83.wirth.de,Kobelt Kroker GmbH & Co. KGaA,1982-04-22T20:42:40
+my,2003-03-21,DE,2010-11-26 19:17:13,09:47:03,3,Nauen,srv-39.ditschlerin.com,Jüttner GmbH & Co. KG,1983-11-05T02:02:27
+gd,2011-01-11,DE,2015-12-01 11:17:53,09:08:30,529,Peine,laptop-50.wohlgemut.com,Scheuermann Schmidtke GmbH & Co. KG,1972-06-02T08:27:19
+ro,1993-01-22,DE,2008-06-09 11:48:22,11:05:58,36,Pirmasens,srv-61.niemeier.com,Schinke,1999-05-28T21:34:20
+ln,1976-08-10,DE,1997-02-10 02:31:32,04:33:26,72632169,Rudolstadt,web-42.hoerle.net,Benthin Sauer KG,1976-02-16T06:08:33
+gu,2001-09-11,DE,2017-12-09 13:22:48,03:26:21,19023,Mittweida,desktop-06.beyer.net,Liebelt,1987-11-18T19:08:33
+brx,2013-02-21,DE,2008-12-16 12:00:14,11:51:42,87,Pfaffenhofen an der Ilm,web-78.matthaei.com,Dörschner,2023-06-08T14:04:23
+mg,2010-07-12,DE,1985-05-15 20:41:35,11:42:37,4859506,Iserlohn,desktop-32.radisch.org,Davids,1984-02-22T05:33:14
+ta,1984-10-26,DE,1971-02-12 03:17:09,19:19:12,155785,Passau,srv-14.kramer.com,Holt GbR,1988-04-17T03:24:42
+mni,2008-07-20,DE,2023-05-30 05:48:46,04:07:37,316,Büsingen am Hochrhein,lt-92.hoelzenbecher.de,Dietz,1994-08-22T19:45:59
+dz,1981-04-22,DE,2006-01-10 06:32:36,03:31:39,2,Rostock,email-67.schoenland.com,Zirme Vogt e.G.,1994-01-01T21:49:28
+fur,2011-11-28,DE,1972-02-05 20:10:11,23:45:34,80,Viersen,email-12.sager.de,Pölitz,2022-02-28T07:50:00
+ku,1990-03-20,DE,2011-09-13 19:58:56,16:59:44,274,Malchin,srv-26.froehlich.de,Hesse,1992-08-06T22:18:23
+te,1996-01-20,DE,2002-06-05 02:50:47,17:18:27,572,Hohenmölsen,web-75.hoffmann.com,Schlosser Henschel GbR,1980-10-27T03:56:09
+so,1976-05-17,DE,1975-12-25 18:05:25,03:27:19,99,Angermünde,email-53.bachmann.de,Matthäi Dippel AG & Co. KGaA,1974-03-10T04:35:28
+pap,2009-09-17,DE,1996-10-02 07:59:27,02:41:22,3658,Düren,db-52.wesack.de,Jäkel Vogt KG,2021-08-02T16:56:45
+bo,1980-12-15,DE,2014-01-13 03:17:30,16:02:05,7,Passau,desktop-34.jessel.com,Karz GmbH & Co. KG,1970-06-05T08:12:50
+bg,1996-05-14,DE,2011-01-14 12:19:13,19:16:46,200020467,Querfurt,desktop-07.fliegner.com,Möchlichen,2014-05-31T08:31:45
+pt,1989-07-22,DE,1972-12-13 11:45:36,08:43:56,255,Kyritz,web-85.gehringer.org,Trubin AG,2009-10-15T09:07:31
+lb,1997-03-21,DE,1974-03-23 01:57:12,06:58:13,4460,Saulgau,web-05.winkler.de,Jessel AG & Co. OHG,1974-10-22T16:52:27
+is,2006-09-03,DE,1987-05-27 05:44:10,10:55:44,79,Kusel,email-92.roskoth.org,Plath e.V.,1984-08-01T07:12:39
+niu,2012-11-21,DE,2018-11-23 23:27:30,01:07:19,48224661,Arnstadt,srv-32.grein.org,Hande GmbH & Co. KG,1986-10-28T04:20:47
+tr,2009-09-29,DE,2006-08-13 17:53:46,20:22:26,39200529,Iserlohn,web-99.henck.com,Krein KG,1990-02-13T06:32:25
+af,2007-05-31,DE,1993-07-27 00:08:41,08:15:29,1,Tecklenburg,desktop-19.mans.de,Kobelt,1977-04-14T03:11:57
+mag,1972-09-07,DE,2002-11-20 20:17:46,18:14:49,9117654,Freising,lt-39.kuhl.de,Wieloch Schweitzer GmbH & Co. KG,2013-10-05T03:08:56
+ja,1979-04-08,DE,1980-10-18 01:30:15,15:23:06,334,Illertissen,srv-36.trapp.com,Scheibe,2017-06-05T06:08:25
+ik,2019-05-29,DE,2000-05-02 17:49:26,02:29:02,195946,Tübingen,srv-91.johann.com,Benthin Naser GmbH & Co. KG,1981-06-06T06:13:21
+uk,2016-04-09,DE,2008-05-14 15:19:21,13:04:03,641,Sternberg,lt-53.rust.org,Weihmann Schmiedecke KG,2003-11-19T19:59:43
+ayc,2012-05-06,DE,1983-02-27 19:02:23,21:03:38,961950,Starnberg,email-94.anders.net,Lübs,1975-01-31T13:00:40
+nso,1998-11-22,DE,2008-11-26 10:29:56,11:04:49,670,Pasewalk,desktop-44.zorbach.com,Nohlmans Hamann AG,2005-12-25T14:40:47
+ms,1987-06-23,DE,2005-01-16 13:49:49,14:25:07,332,Badalzungen,desktop-38.zaenker.net,Hande,2001-10-23T20:07:33
+ln,1990-02-19,DE,1989-02-03 20:14:27,05:58:32,545860,Perleberg,desktop-54.dowerg.com,Trubin,1999-10-21T13:42:48
+or,2003-11-03,DE,1976-12-01 18:18:47,22:24:01,89336,Wolfratshausen,email-85.dussen.com,Rörricht AG,1994-11-11T23:23:37
+an,1984-09-26,DE,1994-12-05 01:41:50,21:17:06,575158,Sankt Goarshausen,srv-74.trub.com,Kallert Rust KG,1997-07-22T06:56:37
+vi,1996-06-16,DE,1994-05-08 23:04:31,16:07:53,5739324,Bischofswerda,web-55.gnatz.com,Juncken KGaA,2021-09-26T16:10:11
+fil,2013-05-29,DE,1976-03-01 23:04:19,02:37:42,92,Schweinfurt,desktop-17.ritter.org,Pärtzelt,1989-08-17T18:00:38
+tk,1972-10-28,DE,2014-08-12 19:14:45,04:46:22,51894,Calau,desktop-29.warmer.com,Junck Berger AG,1977-05-17T02:29:01
+li,1994-10-21,DE,2012-08-30 17:59:49,20:56:39,53,Lüdenscheid,laptop-88.kohl.de,Lorch AG,1971-06-15T09:08:54
+ky,1996-11-07,DE,2012-06-15 04:12:57,10:52:26,37920982,Lübeck,web-28.ritter.de,Rörricht AG,2004-11-08T14:20:18
+gez,2014-01-30,DE,2006-10-07 23:16:01,03:22:34,37,Nordhausen,desktop-11.baum.de,Trüb Meyer GbR,2006-07-31T21:03:27
+lo,1970-10-05,DE,2016-12-20 12:00:54,13:06:59,79,Euskirchen,lt-89.keudel.com,Patberg,1976-03-25T05:54:37
+doi,2005-01-05,DE,1997-04-16 01:28:02,09:32:21,260,Neuss,desktop-93.krein.de,Steinberg KG,1977-12-29T11:05:32
+sw,1979-03-03,DE,2018-08-02 08:33:28,12:54:51,310419545,Strausberg,db-13.schleich.de,Jessel Hentschel e.V.,2007-05-10T11:42:12
+bn,1971-05-11,DE,2002-05-26 02:19:30,03:34:03,43185,Aurich,srv-27.froehlich.com,Seip,1971-03-05T16:24:19
+br,1977-11-21,DE,2006-07-17 01:28:37,18:16:45,90,Eisenach,desktop-27.mentzel.com,Zahn,2004-05-01T02:58:10
+uz,1976-07-07,DE,2008-07-21 05:02:56,06:09:29,1,Konstanz,desktop-86.kusch.org,Franke,2012-10-05T09:40:42
+ja,1997-04-21,DE,2022-01-13 11:34:48,09:36:08,7001,Osterode am Harz,srv-84.wagner.com,Wilmsen KG,1990-07-17T23:15:13
+ml,1979-07-22,DE,1998-09-08 02:13:02,09:41:33,436527467,Ueckermünde,desktop-21.hartung.com,Siering GmbH & Co. OHG,2006-10-24T05:29:18
+cy,2014-07-27,DE,1983-11-22 15:47:29,08:24:58,886,Viechtach,lt-87.schottin.de,Schleich,1978-04-06T07:55:55
+fr,1989-04-01,DE,2006-12-24 09:09:05,05:46:37,6484986,Wetzlar,desktop-40.heidrich.de,Fröhlich,1990-09-23T16:43:08
+ps,1982-01-22,DE,2015-02-23 21:07:31,03:02:04,442823,Wanzleben,srv-58.kambs.com,Kade,1990-11-18T18:23:23
+ps,1984-05-15,DE,1992-08-25 00:55:04,04:05:03,59141271,Schwandorf,db-63.lindner.com,Briemer,1998-12-23T21:34:17
+zh,1983-12-28,DE,2018-06-05 08:04:20,05:30:58,60,Schwäbisch Gmünd,laptop-00.stroh.net,Schuster KG,2005-03-01T21:13:02
+da,2005-10-07,DE,2015-11-01 08:21:53,20:35:19,91343,Tuttlingen,email-51.taesche.de,Hesse AG & Co. KGaA,2015-08-14T20:47:01
+ve,2009-10-18,DE,1986-08-08 11:25:16,23:01:57,22,Waldmünchen,web-17.koehler.de,Sauer,2012-02-03T00:12:02
+nr,2021-12-24,DE,1990-07-25 11:48:32,00:54:16,6,Berchtesgaden,srv-67.zaenker.de,Scholtz Ziegert e.G.,2010-07-30T21:37:54
+an,1987-08-18,DE,2010-01-30 06:23:55,15:52:53,94,Grimmen,db-81.nette.com,Riehl Tröst AG & Co. KG,1997-09-15T18:58:50
+hu,2023-05-29,DE,1988-05-28 09:15:16,15:25:43,7,Nauen,email-64.wernecke.net,Niemeier,2010-11-10T13:11:13
+tig,2014-04-15,DE,1972-01-03 23:47:02,22:31:19,280005415,Beilngries,desktop-17.becker.de,Herrmann,2012-12-29T08:55:57
+sat,2005-03-29,DE,2000-09-09 05:45:52,16:32:51,18692,Mayen,lt-68.bloch.com,Wiek Hermann GbR,1982-09-16T21:56:50
+hy,2002-01-25,DE,1973-08-11 11:38:02,00:29:59,47,Jülich,web-92.schottin.de,Weihmann Herrmann OHG mbH,1987-07-31T03:06:08
+hu,1984-11-17,DE,1975-09-26 23:21:15,18:45:31,969472545,Beeskow,web-93.weitzel.com,Kade Siering GmbH & Co. OHG,2005-03-11T19:42:10
+an,1985-03-21,DE,2008-07-31 09:18:01,17:25:22,439140038,Kusel,desktop-98.gierschner.de,Gierschner,2013-03-10T17:19:08
+kw,2000-11-13,DE,2014-11-12 23:19:46,00:58:42,53465,Dresden,lt-02.gutknecht.de,Liebelt AG,2014-02-01T06:12:01
+nn,1975-06-08,DE,1978-07-24 05:28:08,09:56:18,3,Auerbach,lt-05.hornich.de,Wulff AG & Co. OHG,1984-04-25T20:43:38
+cmn,2001-04-03,DE,2020-06-02 23:59:27,03:49:08,686531364,Kelheim,lt-61.siering.de,Steckel,1974-10-12T00:57:55
+fil,1971-05-06,DE,1999-11-28 09:44:14,22:41:51,10,Karlsruhe,email-49.juettner.de,Karge e.V.,2010-02-20T03:12:28
+hy,2002-02-15,DE,1980-04-28 20:58:57,03:53:35,424,Freising,lt-67.krause.com,Gute,2005-11-16T03:12:24
+ha,1972-04-09,DE,1990-12-24 08:03:24,20:22:12,900932594,Roding,laptop-61.heintze.com,Hornich Reichmann AG,1992-07-11T13:03:04
+ku,1996-10-29,DE,1970-01-04 11:58:19,16:53:44,92327962,Kleve,lt-35.poelitz.com,Döring KG,1988-03-06T10:30:40
+mag,2005-11-07,DE,1975-05-18 09:18:43,12:55:53,860407,Lüneburg,desktop-08.loechel.com,Winkler KG,1995-06-09T01:05:40
+wae,1970-05-31,DE,1970-03-12 00:34:07,17:44:11,3091379,Rathenow,lt-73.eigenwillig.org,Dippel Hübel GmbH & Co. KG,2023-01-24T09:31:52
+am,2014-01-26,DE,1981-11-30 05:23:53,18:47:56,12059502,Nabburg,srv-43.gotthard.net,Täsche Täsche GmbH & Co. KG,2002-07-09T03:08:10
+mi,1991-02-01,DE,2015-05-01 06:12:04,13:03:36,63,Füssen,lt-20.bolzmann.com,Henk,1978-03-21T15:29:50
+fy,1989-12-09,DE,1970-11-03 10:10:04,17:34:47,6001236,Bremen,lt-28.karge.com,Rogner,2017-10-31T14:59:09
+nb,2004-08-21,DE,2000-04-15 18:16:29,11:46:17,675506,Waren,web-76.kroker.com,Söding KGaA,1978-09-19T18:05:38
+ha,2000-01-17,DE,2013-06-13 18:03:41,03:13:45,28239,Kitzingen,srv-55.trapp.com,Schaaf Bender AG,1995-08-31T14:17:19
+ik,2010-12-14,DE,2006-01-31 14:49:11,11:16:03,4,Hainichen,db-92.huhn.com,Pechel Stiftung & Co. KG,1989-09-14T08:45:36
+fa,2023-03-27,DE,1985-02-05 14:15:27,08:48:46,9,Siegen,srv-43.sontag.de,Reising AG & Co. OHG,2010-04-20T04:28:39
+ka,1974-07-16,DE,2001-01-30 15:06:28,20:33:37,230883,Einbeck,srv-93.patberg.de,Vogt Benthin AG,2007-01-01T21:50:05
+ber,2016-06-11,DE,1992-03-26 15:52:06,00:49:20,74424,Koblenz,laptop-68.weimer.com,Henck AG,1985-05-20T11:19:21
+yue,2003-09-15,DE,1985-12-31 16:16:06,15:27:26,7,Neuruppin,web-84.gumprich.com,Eimer GmbH & Co. KG,2018-05-06T06:23:54
+pt,1990-10-19,DE,1970-11-22 23:03:17,20:01:16,1643947,Kemnath,desktop-54.froehlich.com,Wesack KG,1979-02-01T05:05:31
+ta,1977-08-21,DE,1978-03-30 11:15:51,18:39:02,8256,Hannoversch Münden,lt-66.linke.com,Tschentscher,2002-06-05T23:17:40
+mn,2021-05-23,DE,1975-09-05 10:58:07,16:42:14,172719282,Pirmasens,email-38.schottin.de,Aumann Weimer AG,2023-02-08T18:30:12
+hak,1988-11-17,DE,1980-01-25 17:11:49,01:26:44,80815,Gütersloh,db-21.franke.de,Käster,1993-06-26T09:48:52
+or,1994-03-19,DE,1995-02-13 05:29:58,12:41:12,303,Jena,email-59.vogt.com,Hermann Stiftung & Co. KGaA,2005-09-03T04:03:17
+tn,1973-07-01,DE,1990-01-06 13:24:04,12:37:44,3113,Burgdorf,desktop-18.trub.de,Sauer,1995-08-23T14:48:40
+id,1989-05-06,DE,1991-09-13 08:36:05,15:48:56,9,Bruchsal,lt-24.reinhardt.de,Weimer KG,2023-04-08T14:39:56
+sq,2011-04-18,DE,1997-01-31 09:35:33,22:27:32,67535,Neustrelitz,web-58.spiess.de,Sauer,2021-08-28T19:57:14
+ne,1997-09-22,DE,1994-12-04 05:23:26,23:00:06,6,Kaiserslautern,email-12.hecker.com,Krebs,1989-11-30T06:06:04
+ro,2013-01-06,DE,1976-03-05 13:42:19,13:53:03,5,Husum,desktop-79.hettner.com,Schweitzer AG,1995-01-23T06:44:45
+es,2016-03-12,DE,1983-06-24 19:59:37,22:02:40,95662,Grevenbroich,srv-14.muelichen.net,Margraf,1987-07-27T14:50:22
+iw,2009-04-18,DE,2013-04-06 03:12:32,06:32:17,4559490,Merseburg,lt-19.zimmer.com,Schlosser Briemer GmbH,2021-11-04T20:08:02
+ha,2013-05-27,DE,1999-03-11 08:21:09,06:34:58,5997,Havelberg,db-72.mentzel.de,Röhrdanz,2011-10-09T20:21:11
+aa,2017-01-25,DE,2017-10-08 03:14:27,16:37:11,24,Finsterwalde,srv-69.sager.net,Eberth GmbH & Co. OHG,2023-07-14T21:43:24
+km,1978-09-19,DE,1979-06-18 09:38:59,05:09:22,9765925,Osterode am Harz,email-54.foerster.com,Jähn GmbH,2006-01-31T04:45:17
+bs,1990-01-31,DE,1971-09-15 01:59:59,08:26:29,69153190,Anklam,lt-28.dehmel.de,Haering Mentzel AG,2001-10-15T23:48:34
+br,2013-09-17,DE,2009-08-17 10:13:09,20:16:19,28784,Bad Kreuznach,web-23.hiller.com,Reising,1987-12-06T07:06:05
+ss,1973-12-11,DE,1996-04-03 22:56:26,14:45:30,6457098,Weißwasser,srv-99.walter.net,Zahn GmbH & Co. KGaA,2004-03-07T18:20:51
+id,2017-11-06,DE,2010-01-01 14:01:40,16:21:57,9668493,Höxter,desktop-24.reichmann.com,Noack Trüb KGaA,2013-06-01T13:15:13
+uz,2023-07-15,DE,1993-10-27 01:20:21,11:25:19,0,Spremberg,srv-24.schottin.com,Pruschke e.V.,1973-04-15T06:25:09
+lij,1973-11-01,DE,1977-04-29 10:31:55,04:53:01,841,Klötze,srv-56.kaester.de,Pechel,1973-11-22T14:32:02
+gez,2016-12-20,DE,1996-05-06 17:13:58,01:27:26,83482,Schongau,laptop-27.krein.com,Kreusel GmbH & Co. KGaA,2022-12-24T00:12:46
+zu,1972-06-30,DE,2008-02-29 05:52:26,05:22:28,17800386,Böblingen,web-90.beckmann.de,Hettner AG,2018-10-28T13:44:59
+hne,1986-08-29,DE,2006-03-17 14:46:38,18:17:09,47805589,Kusel,web-11.beckmann.com,Buchholz GmbH,2021-06-23T09:41:59
+lo,1984-02-17,DE,2006-05-03 08:19:29,03:52:47,394,Erfurt,db-52.muehle.de,Schmiedt Seip KGaA,2006-10-08T04:43:32
+fil,2015-09-15,DE,1993-09-01 14:45:22,10:34:21,92953779,Celle,desktop-68.bolander.de,Naser e.V.,2003-03-15T22:08:25
+mhr,1992-03-10,DE,2019-11-28 07:03:15,20:26:01,242,Bogen,lt-10.noack.com,Seidel Bohlander Stiftung & Co. KG,1985-07-10T03:15:25
+el,1996-09-07,DE,2022-09-07 02:58:50,18:13:41,750878,Angermünde,email-93.lorch.de,Roht Ortmann KG,2003-02-14T02:45:30
+cs,2001-04-20,DE,2016-10-07 08:13:59,06:00:02,73,Schwerin,email-99.finke.com,Fliegner Junck GmbH & Co. KGaA,1998-06-12T22:06:06
+hu,1995-09-05,DE,1988-04-20 03:00:20,19:14:17,962646926,Vechta,srv-58.tlustek.de,Bohlander,1996-01-18T06:41:39
+nhn,2017-07-25,DE,2015-10-23 10:13:34,16:51:34,2399,Ravensburg,db-62.wesack.de,Henck,1990-02-25T20:07:45
+tr,2019-02-07,DE,1980-12-13 07:03:52,00:37:13,19227282,Gotha,db-22.matthaei.com,Carsten Kallert GmbH,2005-07-09T06:21:48
+km,1992-06-19,DE,1996-08-30 22:23:13,23:01:21,4577,Torgau,db-27.henck.org,Bolzmann,2009-11-07T09:38:39
+iu,1996-08-25,DE,2009-11-14 20:46:12,12:39:49,529780,Mettmann,web-56.doerschner.de,Drub AG & Co. OHG,2010-12-15T06:09:58
+fa,1986-09-29,DE,1997-03-20 17:56:32,22:23:13,557741,Meißen,srv-82.luebs.de,Hahn Mielcarek AG,2009-07-07T10:04:38
+mi,1984-07-08,DE,1999-02-15 11:09:27,10:04:12,25,Bremen,web-13.adler.com,Karge GmbH & Co. KG,2017-02-04T07:28:25
+iw,1974-03-21,DE,1999-10-07 20:55:08,12:21:04,57248466,Klötze,email-38.salz.net,Tröst e.G.,2015-02-08T18:52:47
+ug,2010-04-20,DE,2013-07-12 12:04:24,16:24:34,49,Bremervörde,srv-56.hornich.de,Schulz Linke e.G.,1970-09-07T00:49:57
+th,2012-09-23,DE,2011-02-04 02:09:43,01:26:58,156,Lüdenscheid,db-16.pruschke.com,Eberhardt,2018-03-18T04:56:31
+id,1981-12-28,DE,1975-03-19 18:45:03,20:19:23,7494607,Ludwigslust,srv-08.niemeier.com,Losekann GmbH,1991-06-21T15:30:15
+be,2002-08-20,DE,2008-09-20 23:10:02,06:37:29,569262700,Schmölln,laptop-96.johann.de,Barth Dehmel GmbH & Co. KG,2020-11-06T16:59:42
+pap,1974-07-30,DE,2022-05-09 17:55:30,21:10:49,0,Beilngries,web-53.krebs.de,Holzapfel GmbH & Co. KG,2019-11-19T21:22:50
+gez,2001-04-20,DE,2015-02-01 20:07:28,03:19:43,4062,Halberstadt,desktop-25.zorbach.org,Sorgatz GmbH & Co. OHG,2017-05-26T17:41:53
+om,1978-12-07,DE,1990-11-28 13:18:13,00:31:35,744,Rastatt,srv-63.kramer.com,Etzler,1988-01-07T06:23:16
+tcy,2004-03-19,DE,2023-03-07 08:14:38,15:49:51,1174,Erfurt,desktop-14.karz.org,Wirth GmbH,2008-06-27T20:15:55
+ig,2002-03-25,DE,2022-08-08 14:31:18,16:53:42,348,Bitterfeld,email-56.weimer.net,Juncken KG,1979-08-03T14:04:01
+brx,1975-11-13,DE,1992-12-27 15:02:53,09:09:58,613607216,Tirschenreuth,srv-96.stumpf.net,Häring,1998-05-14T17:04:33
+rw,2023-02-02,DE,1977-03-21 23:09:35,01:45:37,59,Wunsiedel,laptop-42.gnatz.de,Rogge KG,1991-07-30T20:03:55
+de,1988-12-14,DE,2021-11-04 02:29:00,01:28:15,9668176,Halberstadt,laptop-97.drub.de,Patberg e.V.,1996-12-10T23:36:48
+apn,2020-10-11,DE,1984-05-17 18:16:16,05:41:42,628274408,Auerbach,web-36.naser.com,Eckbauer,1989-09-23T15:07:45
+gu,2009-02-18,DE,2009-06-14 18:11:06,01:33:29,53461,Neu-Ulm,laptop-67.eberhardt.com,Adler Schlosser AG & Co. OHG,2021-10-05T01:10:46
+or,1974-11-26,DE,2021-07-20 18:40:41,05:03:46,831772336,Finsterwalde,laptop-50.maelzer.org,Mülichen GbR,2018-11-22T00:30:37
+om,2003-05-24,DE,1982-09-27 16:39:41,19:13:36,3657,Worbis,laptop-71.ruppersberger.de,Kobelt e.G.,1984-07-25T01:05:40
+fa,2018-10-31,DE,2019-09-29 05:31:24,01:39:22,386,Soltau,srv-18.heinrich.com,Schäfer,1973-05-31T15:55:16
+nb,1979-02-03,DE,1989-04-24 05:23:37,23:15:21,574476339,Wiedenbrück,web-91.roehricht.com,Barkholz,2021-12-12T23:07:16
+cmn,2016-09-15,DE,1979-06-24 10:45:31,03:12:32,615,Eisenach,desktop-14.walter.org,Seip GmbH,2010-03-22T16:22:09
+eo,1995-12-02,DE,2020-06-14 13:48:34,11:28:36,76296722,Berlin,lt-96.fliegner.com,Tlustek,1970-09-21T14:59:33
+my,1993-09-02,DE,1974-06-24 07:20:12,23:57:33,80,Bremervörde,laptop-69.holzapfel.org,Mans GmbH,2007-07-04T09:32:55
+sk,2022-01-31,DE,2012-07-19 19:41:10,20:48:07,695633,Artern,db-19.suessebier.com,Wilms Köster GmbH,1973-03-30T17:04:48
+yi,2021-07-27,DE,1977-07-14 10:11:37,05:55:45,9,Hohenmölsen,web-60.hahn.com,Ruppersberger Sauer AG & Co. KGaA,2022-09-27T19:03:10
+gu,1987-09-10,DE,1982-10-09 02:42:36,09:33:45,73,Cuxhaven,db-50.sauer.de,Bien Rörricht GbR,2000-10-12T22:29:47
+ff,1976-10-06,DE,1971-03-06 10:22:51,09:32:24,50,Oberviechtach,db-80.seip.com,Scholl Margraf Stiftung & Co. KG,2022-10-30T02:34:48
+gd,1974-07-13,DE,2023-03-03 18:59:55,14:35:43,4,Celle,email-35.schwital.net,Mude,2002-12-11T01:52:36
+fy,2011-05-18,DE,1996-11-25 10:32:54,15:53:02,193,Parchim,email-86.bien.net,Weinhage GmbH,1986-06-05T18:08:43
+apn,2005-11-06,DE,1970-03-12 07:21:19,19:21:36,1579,Rothenburg ob der Tauber,db-74.jockel.com,Hertrampf,2023-01-18T12:28:04
+hr,1987-03-30,DE,1985-08-08 17:29:17,01:50:52,1537,Kulmbach,web-98.seifert.de,Tröst,2005-10-02T08:12:57
+lt,1971-09-05,DE,1970-01-25 18:00:47,22:48:27,61200787,Rehau,srv-74.kuhl.de,Freudenberger,1998-05-10T04:57:39
+zh,2008-06-03,DE,1988-07-15 17:02:10,22:49:34,72,Eisleben,email-00.langern.de,Rudolph,2014-12-21T07:27:50
+ht,1998-01-18,DE,1984-05-16 13:58:35,20:36:35,37,Stollberg,laptop-64.trueb.com,Haase,1975-12-22T01:35:15
+zu,1980-04-09,DE,2008-02-26 14:19:08,20:09:59,5335090,Wismar,srv-36.salz.de,Ring,2020-12-19T16:46:45
+bs,2001-02-20,DE,1981-03-20 13:47:32,05:14:35,1,Wolfach,laptop-13.junken.com,Wernecke AG & Co. KGaA,2000-03-19T19:14:46
+mr,1982-04-07,DE,1988-10-31 21:46:01,15:15:24,8,Eutin,laptop-16.seifert.com,Henschel Fechner AG & Co. KG,2005-11-24T13:19:23
+ln,2012-08-20,DE,2005-01-05 02:52:10,03:18:47,322,Wernigerode,email-19.klemm.com,Heydrich GbR,2010-04-30T02:12:33
+fr,1998-07-02,DE,1976-05-19 19:38:46,13:14:29,918,Hettstedt,lt-23.naser.org,Sontag,2016-12-06T00:09:19
+bo,1974-01-04,DE,1984-05-01 02:53:20,11:07:39,826377208,Celle,laptop-11.bolander.net,Stumpf,1994-05-26T01:14:08
+br,2022-12-17,DE,1990-01-06 17:37:37,02:43:56,80,Waldmünchen,srv-63.kaul.de,Ritter Neureuther KG,2018-09-23T03:09:06
+ks,2019-06-18,DE,1984-06-18 01:57:33,01:36:20,6162909,Suhl,lt-60.eigenwillig.de,Hiller,1989-06-12T22:49:50
+tk,1976-03-04,DE,1976-11-04 14:57:49,15:06:57,73397179,Moers,web-76.boucsein.com,Baum KG,1976-07-02T15:26:31
+nr,1971-03-25,DE,1991-11-27 02:24:41,14:57:32,2147315,Füssen,email-19.metz.org,van der Dussen,1983-05-14T06:59:37
+unm,1982-02-28,DE,1994-05-19 05:53:34,08:01:43,3,Stuttgart,email-71.hiller.de,Hornich Krause GmbH & Co. KG,1980-03-30T19:29:43
+da,1990-12-10,DE,2001-01-05 05:44:47,01:54:53,62395729,Querfurt,web-71.spiess.de,Etzold,1998-10-18T04:28:57
+en,1972-09-28,DE,1976-04-16 23:07:17,01:35:25,52716,Backnang,laptop-62.schwital.com,Schenk Kambs GmbH,1983-04-16T01:20:31
+ber,1996-04-26,DE,2022-09-27 01:54:28,21:18:50,292033041,Finsterwalde,web-69.suessebier.org,Plath Metz Stiftung & Co. KGaA,2002-06-07T10:09:07
+pa,2017-03-05,DE,1995-01-19 22:11:20,03:09:21,82263,Prenzlau,desktop-85.birnbaum.de,Holsten Dowerg e.V.,2019-07-24T10:01:10
+is,1977-04-05,DE,2012-03-01 01:52:17,02:43:03,67544899,Nordhausen,db-42.fechner.com,Hornich GmbH & Co. KG,2017-08-10T21:17:32
+dv,2016-10-16,DE,1982-04-10 10:48:45,02:17:05,410,Zerbst,db-21.ladeck.de,Hofmann GmbH & Co. KG,1980-07-04T07:21:54
+ast,1984-11-18,DE,1976-04-27 18:11:25,20:56:33,41005582,Erding,email-92.jacobi.de,Hecker,2017-09-25T12:19:06
+ia,2007-10-21,DE,2019-08-06 21:13:54,14:08:23,202195,Bautzen,lt-40.juncken.net,Ladeck Stiftung & Co. KG,2003-01-06T07:10:48
+vi,1990-04-16,DE,1997-05-16 01:12:12,22:41:36,3291,Eilenburg,lt-41.werner.com,Gumprich GmbH & Co. KGaA,1970-11-30T09:43:40
+ik,2004-09-14,DE,1982-12-22 16:52:24,14:46:01,7,Reutlingen,laptop-64.bluemel.net,Dietz GmbH & Co. KG,1992-10-26T00:14:48
+my,1978-11-26,DE,1978-04-10 09:07:20,20:37:08,721665,Saarbrücken,web-70.beyer.de,Hecker Neuschäfer AG & Co. KG,1984-03-08T13:49:28
+unm,2019-06-18,DE,1993-06-06 20:10:28,20:33:16,72223724,Saulgau,email-79.holt.de,Trüb Plath GmbH,1990-03-18T08:17:15
+nds,1980-11-18,DE,1985-10-28 23:36:07,14:02:24,2,Ahaus,web-52.bloch.de,Täsche Eberth GbR,1996-04-07T03:48:23
+mag,1971-10-14,DE,2020-01-12 12:26:22,22:26:46,489,Eichstätt,laptop-13.reinhardt.com,Butte KG,1984-01-06T15:56:55
+mr,2008-05-22,DE,1992-07-14 18:08:51,00:19:24,99114404,Ravensburg,laptop-58.jacobi.de,Ackermann GmbH & Co. KGaA,2016-07-02T10:55:30
+hr,2018-08-08,DE,2004-12-16 16:00:13,08:08:18,35221,Fürstenwalde,web-20.scholz.net,Warmer GmbH,2014-10-21T19:33:03
+mn,1990-02-04,DE,1984-04-08 13:01:21,13:06:58,8813443,Schwarzenberg,laptop-98.hartmann.org,Lange,2014-11-18T21:24:20
+ur,2008-07-31,DE,1978-01-13 03:10:11,23:49:14,354947744,Strausberg,lt-62.sager.de,Hering,1976-11-25T02:01:43
+ak,1990-01-28,DE,1992-01-01 12:19:31,00:08:59,237527496,Eisleben,laptop-32.dussen.de,Mälzer Adolph Stiftung & Co. KGaA,1977-06-19T21:39:02
+ps,1997-12-25,DE,2001-04-27 07:54:25,11:00:29,935,Malchin,desktop-59.ortmann.de,Conradi KG,1971-10-31T08:25:19
+ta,2004-02-22,DE,1989-01-08 22:48:34,16:04:24,649133479,Wunsiedel,email-51.ullmann.net,Seifert,1997-07-12T02:49:16
+ts,2002-07-12,DE,2019-06-14 11:09:06,11:00:10,79558622,Neustadtner Waldnaab,desktop-21.heinz.de,Stiebitz OHG mbH,2011-08-22T08:36:14
+ca,1973-03-01,DE,2004-03-22 18:48:17,04:05:05,43,Badoberan,lt-28.heydrich.net,Junck Kusch OHG mbH,1997-07-02T10:30:55
+bg,1984-05-25,DE,1981-08-09 21:39:09,12:31:55,68150234,Böblingen,desktop-05.jopich.com,Trüb,2006-11-13T11:49:09
+sk,2007-09-04,DE,2019-12-08 16:21:44,11:40:16,20408,Eutin,db-66.schaefer.net,Margraf,1980-03-04T03:04:02
+gez,2009-10-17,DE,1992-03-14 14:43:13,23:44:09,503,Ilmenau,lt-09.rudolph.org,Zänker Gude AG & Co. KG,2004-10-15T02:24:03
+lg,2019-02-02,DE,2011-06-10 05:14:12,10:36:04,6647718,Warendorf,desktop-60.seidel.com,Ullmann KG,2006-08-27T00:52:48
+mhr,2003-12-21,DE,1987-10-15 02:57:58,06:16:10,3597279,Heiligenstadt,email-25.gorlitz.de,Cichorius GbR,2018-02-04T10:33:19
+mt,1975-08-26,DE,1982-09-25 08:32:34,14:00:34,189397773,Kleve,desktop-87.beer.de,Martin KGaA,2005-09-16T06:29:37
+fo,1998-04-19,DE,1975-04-19 22:47:43,21:19:28,6,Sankt Goarshausen,email-24.seifert.org,Gehringer,1984-01-18T00:36:18
+da,2010-05-07,DE,1993-02-14 20:20:16,05:03:29,9776989,Leipziger Land,desktop-61.huebel.de,Beer,2017-11-05T17:00:23
+km,1987-05-16,DE,1977-08-10 10:28:00,11:23:50,8030,Eisenach,desktop-73.suessebier.de,Keudel,1971-03-18T07:32:51
+wo,2005-02-25,DE,1996-01-25 07:08:28,14:13:39,47591965,Uffenheim,email-75.bender.de,Lachmann,1984-02-05T23:35:28
+os,2023-09-11,DE,2020-12-05 19:24:54,01:35:31,388498142,Sondershausen,srv-60.fliegner.de,Davids,2003-01-25T18:48:11
+sd,1971-04-10,DE,2015-07-30 11:11:05,07:17:04,257,Plauen,laptop-78.martin.net,Ruppert Pergande e.V.,2021-07-01T15:28:31
+ku,1986-02-02,DE,2021-04-11 06:40:42,17:20:48,901,Beilngries,desktop-31.rogge.de,Hettner Junken GmbH & Co. KGaA,1973-01-25T06:46:26
+mg,1997-03-11,DE,1991-08-05 11:28:14,12:27:56,64,Aurich,web-35.nerger.net,Cichorius,1990-04-12T18:49:42
+fil,1978-03-06,DE,1996-04-27 07:15:07,01:15:19,14,Seelow,email-53.klingelhoefer.com,Hahn Noack GbR,2010-05-09T13:59:20
+mn,1989-04-04,DE,1997-06-24 03:01:41,16:21:57,28494,Gerolzhofen,laptop-17.zobel.de,Pölitz GbR,1994-02-17T06:20:39
+wa,2002-04-18,DE,2011-03-28 09:10:08,01:23:38,89,Rehau,lt-63.baehr.de,Radisch KGaA,2013-05-25T14:45:55
+crh,2003-03-13,DE,2019-02-22 11:44:37,06:05:20,9,Burgdorf,laptop-30.reuter.de,Kramer Zirme e.G.,1998-07-26T00:07:58
+he,1986-05-08,DE,1980-12-16 17:29:49,06:30:22,592058639,Kassel,laptop-58.rosenow.net,Vollbrecht Lange AG,2008-12-06T04:48:17
+km,1991-04-16,DE,1987-09-17 02:45:03,07:35:04,835,Burgdorf,srv-28.stey.de,Mitschke GmbH,1975-12-15T20:07:36
+el,2004-09-20,DE,2011-07-08 13:13:17,01:13:29,820627577,Sigmaringen,email-85.pieper.org,Mude,1992-05-05T18:35:22
+as,2007-12-10,DE,1990-09-23 03:10:21,12:00:11,62955573,Grevesmühlen,srv-04.geisel.com,Seidel GbR,1975-07-19T03:54:22
+ug,2013-09-23,DE,1985-12-03 23:23:36,08:48:22,9,Gotha,db-65.pohl.org,Renner,1992-12-20T08:49:46
+pt,1987-06-16,DE,1985-06-30 01:41:53,22:33:35,248126623,Schwarzenberg,laptop-24.ritter.com,Rädel Mangold e.G.,1985-07-11T19:47:51
+lt,1972-03-31,DE,1996-01-04 16:18:19,17:54:49,163189,Jüterbog,srv-78.hauffer.de,Kambs,2003-07-30T18:27:33
+ckb,1990-10-21,DE,1984-02-27 20:23:07,00:38:41,920932228,Göttingen,email-85.jockel.de,Heydrich Stiftung & Co. KG,1971-12-10T03:45:12
+eu,2013-06-10,DE,2002-06-29 00:38:24,12:10:53,221182,Sondershausen,desktop-01.zimmer.de,Wulf Schuster GmbH & Co. KG,2013-10-04T02:54:20
+oc,1989-09-04,DE,1971-05-06 05:26:59,15:15:52,5655,Darmstadt,email-69.mende.de,Schottin GmbH & Co. KG,2017-04-15T14:34:47
+it,1993-02-19,DE,2002-11-30 20:13:14,18:03:55,952654,Erbisdorf,email-48.salz.com,Weimer GmbH,1974-02-24T06:34:26
+oc,1976-08-06,DE,1990-09-30 06:56:18,22:11:19,468862106,Lüdenscheid,web-11.baerer.com,Biggen AG & Co. KG,1991-10-09T06:51:32
+bn,1992-05-15,DE,1974-11-02 10:40:57,04:36:36,6246301,Bad Brückenau,lt-85.eberth.com,Hartung Hendriks GmbH & Co. OHG,1981-02-03T03:47:20
+ks,1990-05-29,DE,1981-12-11 01:02:22,03:30:30,421468295,Crailsheim,db-41.spiess.com,Boucsein KGaA,2008-10-26T14:02:02
+sk,2001-11-24,DE,2022-08-08 23:16:09,07:49:50,3667,Backnang,desktop-74.naser.de,Lange AG & Co. OHG,1987-01-27T05:33:55
+lij,2022-09-11,DE,1995-04-29 00:50:52,23:38:44,65355082,Aurich,laptop-94.bohnbach.org,Rosenow AG,1977-01-14T16:26:47
+lt,2009-11-19,DE,1980-05-19 07:47:20,16:15:01,71801710,Kelheim,email-48.dietz.com,Jäkel Vollbrecht Stiftung & Co. KGaA,2001-03-14T10:47:42
+xh,2003-04-17,DE,1992-10-02 16:59:42,10:41:29,5854,Badoberan,laptop-57.bien.org,Kreusel GmbH,2015-12-13T14:50:44
+hi,1972-12-16,DE,2016-05-09 17:00:37,02:22:10,299,Hersbruck,web-74.gierschner.net,Heintze,1971-12-16T04:17:55
+ca,2007-03-22,DE,1993-09-12 22:02:42,09:22:38,3714533,Naila,srv-74.hande.de,Weihmann GmbH,1996-08-20T13:24:28
+es,1987-01-08,DE,1987-05-25 10:16:19,00:16:37,6567,Strasburg,srv-04.patberg.de,Junken,1973-09-15T08:39:38
+sat,2014-10-23,DE,2018-08-28 00:51:21,15:48:14,346589438,Sondershausen,laptop-83.peukert.net,Ruppert AG & Co. OHG,2003-12-13T23:20:36
+hr,1988-06-24,DE,1986-07-30 04:40:53,13:36:04,79926,Fallingbostel,desktop-57.knappe.de,Bolnbach GmbH & Co. KGaA,2016-07-26T23:30:31
+hne,2003-08-22,DE,1971-04-02 12:58:17,10:39:23,90,Luckau,web-15.etzold.net,Käster,1997-03-04T00:00:32
+an,1998-11-01,DE,1971-02-10 00:43:01,20:56:36,864426,Hainichen,email-84.boucsein.com,Caspar,1987-09-03T20:39:04
+apn,1970-05-17,DE,2014-10-29 03:14:25,06:32:09,78739956,Brandenburg,srv-43.bloch.com,Sontag AG,2005-03-25T02:12:04
+sv,2012-05-13,DE,1989-10-28 03:48:28,21:39:13,53854,Eggenfelden,email-16.bien.com,Jacobi Jäckel,1999-08-04T21:05:54
+bho,1983-10-19,DE,2019-01-12 16:49:35,06:45:44,616838669,Leipziger Land,laptop-32.trub.de,Niemeier,1978-12-14T13:51:26
+hu,2019-01-31,DE,2016-07-26 03:26:12,08:51:46,6,Lörrach,lt-99.gumprich.de,Linke Butte OHG mbH,2006-06-01T07:28:25
+mag,1978-02-23,DE,1990-11-06 20:10:45,07:56:10,4,Calau,laptop-26.weihmann.de,Jacobi Jäckel Adolph GmbH,1976-02-17T02:46:39
+ha,2013-08-10,DE,2015-06-16 17:44:51,17:50:53,143659,Torgau,lt-06.schleich.com,Hörle Werner Stiftung & Co. KGaA,1972-05-05T13:17:04
+hy,2022-05-16,DE,1985-12-11 22:56:13,07:58:38,78448,Jessen,email-34.martin.com,Freudenberger GmbH,1995-10-30T05:51:46
+ks,2019-03-22,DE,1994-07-22 16:42:45,22:05:24,47,Göttingen,desktop-90.klemm.de,Salz,2014-11-12T16:37:33
+gv,2021-09-09,DE,2004-11-10 20:14:13,02:50:19,6291626,Göttingen,desktop-50.stoll.org,Müller,1991-07-20T14:24:14
+bhb,2017-02-18,DE,2005-01-04 15:42:30,17:24:38,64623916,Ebern,lt-57.ritter.org,Hoffmann Ackermann AG & Co. KG,1973-05-06T12:37:33
+el,1995-01-05,DE,1975-01-23 06:21:45,16:24:40,55284,Erkelenz,email-72.kohl.com,Otto AG & Co. KG,2014-01-23T11:41:54
+oc,2020-11-30,DE,2016-04-07 09:12:06,07:18:28,41,Dinslaken,email-98.schaaf.de,Bender,2000-07-25T14:00:20
+sw,2005-05-11,DE,2000-07-06 16:36:31,01:47:15,154223,Garmisch-Partenkirchen,web-94.juncken.de,Weinhold Gutknecht AG,2008-11-04T14:37:37
+the,1994-02-20,DE,1982-09-03 00:10:03,16:36:00,7148635,Luckau,email-61.baerer.de,Köhler,1979-10-16T13:27:21
+sat,2005-07-18,DE,1989-01-13 08:38:22,18:02:57,826401,Rathenow,laptop-84.bruder.net,Geisel,1991-02-23T01:29:37
+shs,1981-07-26,DE,1994-12-05 19:27:36,20:55:54,9201,Wittstock,web-67.adolph.de,Gröttner,1990-01-24T01:05:43
+ss,1998-02-23,DE,1995-11-09 12:51:57,09:11:44,9851,Querfurt,web-45.gotthard.de,Binner Austermühle Stiftung & Co. KGaA,2009-09-08T08:08:09
+sl,1992-01-18,DE,2001-04-28 20:09:05,10:47:00,738250155,Bad Mergentheim,srv-28.waehner.de,Fröhlich,1979-03-31T11:26:44
+ff,2004-01-29,DE,2003-04-17 07:48:39,14:18:38,837394180,Dieburg,email-50.mielcarek.com,Hesse KGaA,1993-07-05T16:19:12
+yi,2000-08-23,DE,1975-01-14 13:58:45,23:36:45,4785,Gräfenhainichen,web-20.ziegert.com,Dörr Albers e.V.,2012-05-11T17:50:13
+shs,2009-10-14,DE,2006-04-14 18:49:48,23:10:32,51,Eutin,srv-68.geisler.com,Ullmann,2015-09-18T19:57:15
+ts,1999-12-10,DE,1990-09-24 15:14:15,20:35:59,58720725,Stendal,web-41.matthaei.de,Dobes,1996-04-09T21:22:11
+hne,2023-01-18,DE,1993-10-03 08:28:17,11:00:31,265,Eichstätt,web-14.mende.com,Herrmann Reising GmbH & Co. KG,1982-01-04T06:28:30
+sw,2004-07-19,DE,1981-01-31 14:36:41,09:30:34,31308,Waldmünchen,srv-20.wende.com,Köhler,2010-10-13T06:50:43
+ber,1976-04-28,DE,1990-09-15 21:31:24,14:34:10,609,Hildesheim,email-72.killer.com,Plath,2011-06-09T03:39:55
+sa,2010-01-20,DE,2011-05-11 06:45:14,03:38:52,610,Schrobenhausen,lt-90.carsten.net,Zahn GmbH,2007-03-12T11:15:56
+gu,2001-01-14,DE,2022-07-04 21:43:54,17:36:41,2195159,Peine,lt-89.trub.org,Rädel Ernst AG,1997-07-15T03:27:32
+gez,1976-07-24,DE,2011-12-12 03:10:35,03:45:40,64699,Uffenheim,desktop-86.weimer.com,Kensy Pruschke e.G.,2006-10-18T00:31:25
+wo,1971-12-12,DE,1978-10-03 20:35:23,13:45:21,9033377,Herford,srv-55.steckel.de,Stahr,1999-10-22T17:59:00
+nr,1985-04-26,DE,2006-07-09 04:08:43,04:21:29,72,Goslar,web-30.lorch.de,Austermühle Barth KGaA,2008-07-05T04:49:33
+wa,1993-09-11,DE,2010-04-23 15:43:50,18:12:21,2895407,Grevenbroich,laptop-89.walter.de,Nerger OHG mbH,2000-09-11T00:49:19
+ss,1985-12-10,DE,1976-03-11 13:29:44,21:12:05,879,Kelheim,lt-76.klemt.com,Hettner Sauer GmbH,2020-12-21T17:40:24
+br,2008-10-12,DE,1993-11-01 23:48:31,07:53:56,461,Dessau,laptop-60.mangold.de,Zobel,2006-06-19T20:56:25
+uz,1995-10-21,DE,2010-02-28 03:50:13,16:04:20,3721,Regensburg,web-65.gutknecht.com,Thanel,1997-02-23T22:41:20
+mni,1982-04-03,DE,1992-06-03 20:07:15,15:46:27,30,Hamburg,desktop-01.hethur.de,Juncken Mülichen GmbH,2004-06-24T07:29:14
+ce,2018-02-19,DE,1982-07-03 13:39:27,10:30:00,2775044,Kötzting,email-56.schlosser.de,Kroker,1999-02-28T22:52:17
+tcy,2001-01-04,DE,1976-09-18 11:22:41,03:25:14,65498342,Waren,laptop-40.wesack.org,Löffler Scheibe AG & Co. KG,1977-12-11T19:53:26
+sv,1979-04-02,DE,2003-05-11 18:08:43,18:49:17,32161755,Strausberg,db-75.hornig.de,Aumann,2001-02-22T14:55:09
+an,1987-08-03,DE,2012-11-25 17:14:34,14:36:32,946,Sondershausen,db-05.schweitzer.de,Eberth Hentschel AG & Co. OHG,2008-07-03T02:42:33
+om,2007-02-13,DE,2019-01-21 02:36:25,08:26:33,186711,Gießen,db-13.koester.de,Eimer,1994-04-04T18:42:31
+lt,2002-04-16,DE,1988-06-22 07:10:17,19:49:18,59993,Pinneberg,email-61.gunpf.com,Holt,2000-08-18T15:25:47
+li,1999-09-30,DE,2019-05-17 00:57:14,05:05:39,843572329,Uffenheim,laptop-97.scheibe.de,Werner,1999-02-15T21:05:19
+pap,1977-03-03,DE,2012-10-02 14:59:33,07:24:54,6,Wittmund,web-29.hiller.de,Junk,2013-05-14T17:05:26
+fr,1998-03-07,DE,1980-07-27 06:32:09,16:28:24,9,Spremberg,desktop-69.kaester.de,Schönland Adler GmbH & Co. KG,1978-07-13T12:46:02
+gl,1973-06-01,DE,2021-11-25 10:06:13,18:37:30,853,Schlüchtern,web-28.kusch.org,Jäkel AG & Co. KG,2010-01-25T00:03:10
+hr,2003-08-21,DE,2022-02-01 00:15:45,23:56:11,61,Apolda,desktop-47.mentzel.com,Nerger KG,1991-03-12T11:52:23
+csb,1972-01-06,DE,1999-05-15 09:09:03,17:23:56,798172,Dinkelsbühl,desktop-34.schinke.com,Hesse Berger e.G.,1978-12-01T23:31:30
+et,2018-05-24,DE,2014-01-26 12:43:53,00:17:02,67770673,Hainichen,laptop-58.cichorius.org,Kraushaar Döhn GmbH & Co. OHG,1997-03-16T01:32:47
+cs,1974-03-07,DE,1971-08-22 00:17:44,14:28:52,39016,Passau,laptop-09.butte.net,Trüb Jopich KGaA,1991-04-11T11:55:06
+br,1983-07-01,DE,1974-08-21 17:43:36,08:22:36,5063639,Dinkelsbühl,srv-74.ruppert.de,Weimer,1989-10-18T11:53:33
+cs,1989-07-26,DE,1992-09-24 11:54:43,22:45:59,597578732,Regen,desktop-10.mude.net,Gude,1972-12-13T19:34:07
+ckb,1985-05-10,DE,2016-08-18 12:05:15,16:51:30,87683852,Husum,srv-38.knappe.com,Sager GmbH & Co. OHG,2019-10-23T09:12:04
+wo,1973-01-15,DE,2019-01-31 03:08:50,06:06:19,5024511,Neu-Ulm,lt-70.striebitz.com,Killer Jacob GmbH & Co. OHG,1975-10-16T12:09:39
+ia,1992-07-07,DE,2000-06-24 00:36:25,12:19:29,9,Lemgo,srv-67.barth.de,Kruschwitz AG,1979-06-01T11:57:25
+tg,2020-05-24,DE,2013-07-04 15:13:16,20:33:48,1205892,Goslar,web-18.muehle.de,Fritsch,2015-05-25T17:17:54
+km,1979-06-03,DE,2017-06-04 23:24:18,03:35:10,14059505,Fulda,desktop-14.haering.com,Pechel Kensy GmbH & Co. KG,2017-03-29T01:38:35
+yue,1974-02-12,DE,2021-04-29 01:57:16,12:42:03,2604047,Tuttlingen,email-96.kohl.de,Matthäi,1980-04-09T16:14:44
+cy,1996-05-18,DE,1975-09-15 15:21:36,18:02:19,968,Zeulenroda,email-15.karz.net,Möchlichen,2019-12-11T22:25:06
+mg,1990-09-26,DE,2005-02-10 19:55:15,19:07:17,6447,Heinsberg,web-99.gutknecht.de,Gerlach e.G.,2008-09-24T00:50:41
+dv,2010-10-20,DE,2002-11-03 02:00:30,08:17:17,7159286,Stuttgart,laptop-37.franke.com,Rudolph,1994-05-07T01:22:12
+lo,2001-05-27,DE,1995-06-06 07:41:28,08:10:52,1107296,Wittmund,laptop-59.kruschwitz.de,Fliegner GmbH,2004-05-06T02:42:17
+shs,2001-04-14,DE,2015-12-01 12:54:44,17:59:26,4,Düren,db-77.haering.de,Fischer Kusch KGaA,1990-08-24T21:29:39
+pt,1976-03-27,DE,1983-09-01 21:06:17,00:58:03,22852,Gadebusch,laptop-20.luebs.org,Fliegner AG & Co. OHG,2003-06-22T10:50:01
+el,1978-06-11,DE,1988-04-09 19:54:58,01:43:32,60492,Lobenstein,email-02.plath.net,Biggen,2006-10-05T17:59:47
+sr,1979-09-07,DE,1975-10-28 22:32:10,22:39:01,82,Husum,db-87.losekann.com,Siering GmbH & Co. KG,2003-07-05T07:25:48
+oc,2014-10-28,DE,2019-08-27 21:48:58,21:17:05,9111370,Schweinfurt,email-46.werner.de,Klemm,2003-06-17T16:18:14
+ca,2023-08-05,DE,1990-09-13 05:23:41,23:38:36,126,Eberswalde,srv-06.schmiedt.de,Mans,1983-09-03T12:11:17
+mt,1994-08-02,DE,1988-11-10 16:21:43,11:51:21,734992,Schrobenhausen,srv-47.mielcarek.org,Hörle AG,1991-03-27T07:07:57
+az,2023-03-29,DE,1977-03-23 22:43:19,00:26:14,653,Kulmbach,db-98.bohlander.org,Preiß,1975-11-01T14:41:58
+tk,2015-01-26,DE,2010-07-17 02:13:40,09:25:26,87,Böblingen,db-79.thies.net,Jockel Hellwig GmbH & Co. OHG,2021-02-03T11:31:34
+szl,2023-05-23,DE,2015-01-06 09:24:23,03:25:23,724,Wismar,db-12.mentzel.com,Ackermann,1996-06-28T20:14:23
+kk,1998-09-16,DE,2021-09-25 05:14:56,20:04:31,58409760,Wismar,lt-94.flantz.de,Kitzmann OHG mbH,1980-03-09T05:14:49
+sc,2019-10-22,DE,1990-03-02 18:33:55,04:24:08,563947,Starnberg,db-66.dussen.de,Naser Bender Stiftung & Co. KGaA,1990-01-18T11:16:30
+mk,2008-10-23,DE,2008-04-05 03:32:30,11:33:06,23433000,Kyritz,srv-43.wagner.com,Trubin Hornich GbR,2009-08-07T17:01:38
+ckb,1976-06-29,DE,1976-01-01 07:19:59,00:40:39,761459,Soltau,db-19.stroh.de,Hartung Riehl AG,2015-05-15T05:50:23
+fil,1985-10-19,DE,2002-10-25 08:47:01,22:18:31,5972642,Fürstenfeldbruck,web-60.soelzer.com,Hauffer,1991-10-24T14:35:32
+tg,1998-03-30,DE,1978-03-09 00:20:55,05:38:03,9541282,Crailsheim,lt-85.schmiedt.com,Holt Kraushaar GmbH,1986-05-06T01:42:50
+hy,2003-08-06,DE,1980-06-16 19:14:59,01:38:07,59293957,Oschatz,lt-87.nerger.com,Gertz Bähr e.G.,2002-10-20T11:41:30
+ss,1997-06-28,DE,2000-12-15 02:52:32,22:00:00,7377125,Cuxhaven,desktop-92.dietz.de,Heinrich GmbH,2007-05-21T01:50:55
+ber,2003-12-15,DE,1996-02-18 20:49:07,07:59:40,45,Zerbst,lt-48.adler.com,Wagner GmbH,2001-08-13T04:06:19
+ff,2015-09-07,DE,1971-12-21 21:41:27,20:02:00,1,Kitzingen,web-15.bolander.com,Schaaf Wesack GmbH,1985-09-02T03:07:29
+gd,1982-11-23,DE,1980-12-17 15:02:14,04:52:24,967,Auerbach,srv-16.salz.com,Ruppert Buchholz AG & Co. KGaA,1990-02-13T23:42:53
+fa,1978-03-31,DE,2006-08-14 00:00:03,10:11:20,21,Kulmbach,web-44.hecker.com,Löwer,2012-04-08T22:49:14
+km,1995-10-24,DE,1979-07-25 11:15:52,19:38:20,0,Scheinfeld,srv-23.muelichen.org,Kranz,1985-03-13T16:12:58
+yo,1973-12-11,DE,2002-06-03 14:05:45,05:14:46,5,Forchheim,email-80.pechel.de,Zahn Tschentscher GmbH,1976-06-17T16:36:05
+ayc,2004-03-29,DE,2016-03-26 01:05:49,02:34:42,32270426,Altötting,laptop-97.caspar.com,Tschentscher Jacobi Jäckel GmbH,1981-07-26T22:30:44
+si,2018-05-20,DE,1999-04-22 11:26:46,02:41:27,1844,Riesa,email-62.preiss.de,Dietz GmbH,2021-04-02T08:39:53
+nso,1979-04-12,DE,2000-07-18 15:05:20,06:43:54,2007879,Bad Brückenau,lt-42.klingelhoefer.com,Geisler GbR,1976-08-06T00:27:10
+yue,1991-06-16,DE,1980-10-21 20:00:48,00:56:16,5383406,Döbeln,lt-34.adler.de,Henk Metz AG & Co. OHG,1975-07-03T16:33:30
+ks,2021-06-18,DE,2010-08-27 10:39:27,21:20:14,21,Oschatz,srv-23.girschner.com,Döring Schuster e.V.,2005-05-17T16:25:19
+sl,1995-04-05,DE,1984-11-05 23:39:12,14:31:55,68404,Einbeck,laptop-94.ring.org,Stiffel,1979-07-15T04:25:25
+it,1988-12-10,DE,2001-06-07 14:09:56,10:03:16,48735551,Saulgau,email-92.jungfer.net,Preiß Jäntsch AG,2020-12-18T04:52:08
+tig,2010-08-06,DE,2012-02-29 10:56:33,09:39:54,4190,Kehl,desktop-24.dussen.net,Fliegner Heydrich KGaA,1990-09-19T17:54:18
+ln,1988-06-27,DE,2012-05-30 11:06:56,04:32:42,4363035,Cloppenburg,desktop-07.huhn.org,Eimer,2006-04-05T21:35:23
+quz,2022-05-01,DE,2005-04-24 02:50:48,05:54:54,5,Uffenheim,laptop-26.biggen.de,Graf,1982-07-18T00:43:26
+lo,2006-08-31,DE,1982-12-27 16:26:02,22:44:07,9,Holzminden,desktop-79.bolzmann.com,Zobel Gunpf GmbH,1993-06-28T08:31:44
+af,2016-11-12,DE,1979-02-10 00:42:53,02:06:46,969756,Schwerin,web-12.ring.de,Hölzenbecher Schaaf AG & Co. OHG,1991-07-02T11:39:29
+st,1999-07-16,DE,2001-07-12 16:14:30,23:26:59,8269,Bad Mergentheim,lt-77.etzler.de,Dippel Säuberlich GmbH,1994-07-11T12:35:08
+nhn,2017-03-26,DE,1988-09-07 01:13:55,19:12:45,120596,Stuttgart,laptop-09.schmidt.com,Jessel Klotz Stiftung & Co. KGaA,2001-03-31T16:45:10
+fr,1979-12-02,DE,1971-06-27 11:08:07,18:45:22,9742174,Northeim,db-34.weihmann.de,Förster GmbH & Co. KG,2006-09-01T16:51:30
+hr,1985-10-23,DE,1997-08-04 04:42:48,08:23:37,270,Cuxhaven,srv-41.saeuberlich.org,Preiß AG,2007-11-18T13:51:07
+doi,1977-10-29,DE,2012-04-11 05:12:55,10:42:19,492163194,Wolgast,web-85.kruschwitz.org,Briemer KGaA,2021-01-07T15:07:04
+ce,1972-09-18,DE,1994-07-11 02:31:28,08:22:02,3080,Angermünde,srv-07.jessel.de,Stoll,1996-10-14T18:29:39
+bn,1984-01-05,DE,2005-12-03 12:00:30,19:34:13,76,Roth,srv-40.beier.de,Budig,1980-05-08T20:35:50
+ia,1985-05-14,DE,1985-03-10 00:31:22,05:19:09,91843,Herzberg,desktop-66.eberth.de,Sölzer Zirme GmbH & Co. KG,1970-02-20T15:37:06
+my,1986-06-17,DE,1976-09-01 16:56:58,21:05:16,9558,Uffenheim,email-27.neuschaefer.com,Hörle Henck GbR,1989-10-16T01:53:33
+az,2007-07-20,DE,1998-04-22 17:11:41,10:04:22,989622,Gifhorn,web-03.kambs.net,Scholl,2002-03-24T00:43:42
+ka,2011-04-16,DE,2008-05-17 03:27:42,01:12:00,891243546,Helmstedt,web-71.roemer.com,Scholtz KG,2007-02-02T04:58:50
+ga,1994-12-11,DE,1988-06-09 08:05:43,06:02:41,91,Sonneberg,laptop-47.putz.com,Thies Stiftung & Co. KGaA,2007-07-10T12:50:42
+kn,2005-03-12,DE,1984-06-12 07:02:12,09:43:34,823,Gifhorn,desktop-27.reuter.com,Bachmann,1995-08-20T16:32:17
+gd,1972-08-09,DE,1987-06-13 17:37:36,13:58:31,95830,Sternberg,srv-46.anders.de,Schleich,1996-07-05T08:17:44
+dz,1974-05-21,DE,1980-04-26 21:42:11,16:19:00,282251787,Göttingen,srv-17.hesse.com,Mentzel AG,2016-12-10T20:34:18
+wae,1989-01-22,DE,2004-03-22 16:18:47,13:27:48,64391,Gräfenhainichen,db-81.heser.com,Stolze,2009-09-21T22:39:34
+ia,2020-04-05,DE,1973-02-20 02:25:18,02:55:21,9043599,Hechingen,email-33.eberhardt.org,Fiebig Lange GmbH,1975-03-31T06:07:26
+ko,2001-01-14,DE,2010-04-10 11:17:48,12:15:08,3822,Oberviechtach,lt-95.zimmer.net,Stroh Kostolzin OHG mbH,1982-03-18T14:18:03
+ml,1983-06-28,DE,1991-02-24 18:58:09,14:26:06,6,Dinkelsbühl,desktop-22.holzapfel.de,Hahn,2022-02-12T23:44:53
+ky,2023-07-04,DE,1983-12-01 08:33:43,06:03:18,34,Dinkelsbühl,email-60.stiebitz.com,Jopich GmbH & Co. KGaA,1991-07-28T01:26:25
+lij,1977-08-12,DE,2018-05-22 10:31:54,04:33:00,2,Bautzen,desktop-74.vogt.com,Bärer,2022-08-14T08:53:12
+byn,2010-06-29,DE,1982-07-20 23:18:32,15:45:45,5,Bogen,laptop-30.wohlgemut.net,Hiller GmbH,1980-10-07T15:58:27
+de,1973-04-04,DE,2016-02-27 23:10:36,12:08:30,3497,Eckernförde,db-30.tschentscher.com,Klapp Stiftung & Co. KG,1992-08-25T23:54:49
+ca,2010-12-11,DE,2015-03-14 18:49:46,21:07:38,984407531,Euskirchen,srv-55.speer.org,Dörschner,2007-10-15T05:26:59
+sv,1988-11-15,DE,1985-10-22 06:56:10,03:02:17,74798358,Eisenhüttenstadt,lt-59.bien.com,Renner,2006-04-12T12:23:00
+th,2005-08-13,DE,1977-07-05 04:40:50,16:07:47,72660388,Wittenberg,laptop-06.haering.com,Spieß GmbH,2020-10-27T04:24:41
+af,1976-06-05,DE,2015-12-22 00:31:33,06:59:36,682,Schwäbisch Hall,srv-08.knappe.de,Rust,2018-09-30T02:33:37
+iu,2006-11-03,DE,2020-06-16 15:33:02,10:09:24,8022,Nördlingen,email-95.boucsein.de,Tlustek Eckbauer AG,2009-01-28T06:47:32
+or,2017-12-17,DE,1979-05-11 16:59:49,12:02:20,162,Sankt Goarshausen,srv-87.pieper.net,Adler Hellwig GbR,1976-02-27T16:40:29
+sat,2011-12-25,DE,2015-11-26 10:00:58,21:23:31,9617,Ludwigslust,email-33.mueller.com,Gierschner,1981-10-05T06:34:46
+lo,1984-09-25,DE,2018-04-05 13:45:10,01:31:24,8,Grevenbroich,srv-55.loewer.com,Biggen,1986-07-15T03:56:52
+da,2001-08-14,DE,1996-05-04 12:05:44,14:49:26,2129,Strasburg,laptop-60.wohlgemut.com,Kohl,2007-11-10T01:03:12
+ga,1982-07-30,DE,2000-07-27 06:25:26,11:06:55,8287769,Warendorf,lt-66.lachmann.de,Klemm,1972-10-29T13:46:51
+sd,2018-04-11,DE,2001-08-11 03:53:18,03:35:19,581262,Dresden,db-42.kensy.com,Zobel Trubin GmbH & Co. KGaA,1987-03-24T18:49:23
+mn,2018-04-14,DE,1970-11-18 07:56:00,10:31:50,4115,Luckenwalde,web-17.scheel.de,Schottin Knappe e.V.,2016-03-19T08:32:52
+am,2007-01-24,DE,2012-04-14 00:50:18,07:49:14,958,Zossen,laptop-84.peukert.com,Scheibe,1988-05-13T07:57:55
+mt,1989-06-09,DE,2020-09-26 05:03:22,21:48:53,485,Stendal,email-74.jacobi.org,Ehlert Schwital AG,2009-05-31T08:40:25
+aa,2019-08-19,DE,1983-12-19 13:43:16,23:31:24,26419,Crailsheim,lt-79.schmiedt.com,Linke,2016-12-06T06:09:05
+ia,2007-09-28,DE,1988-10-29 07:17:48,12:23:44,6234,Ebermannstadt,laptop-76.jaentsch.de,Mangold KG,1986-07-09T23:15:50
+mr,1974-08-27,DE,1973-12-28 12:29:01,20:01:47,468951283,Wertingen,laptop-50.hoerle.com,Grein Groth Staude Stiftung & Co. KG,1970-01-26T13:03:19
+byn,1985-10-17,DE,2017-04-01 17:37:55,07:03:25,889,Nabburg,laptop-55.froehlich.de,Drewes AG & Co. OHG,2020-07-15T00:40:00
+tg,2016-08-21,DE,2021-01-18 08:04:22,06:57:18,1445372,Calw,desktop-30.schottin.com,Holt KG,2010-05-29T14:14:12
+ku,2000-07-28,DE,1987-11-04 11:52:42,04:33:30,54,Groß-Gerau,laptop-61.kaul.org,Kallert GmbH,2004-08-05T16:53:48
+yo,1971-06-26,DE,2011-03-29 13:57:19,00:23:52,4776,Burgdorf,laptop-34.gotthard.de,Steinberg OHG mbH,2008-03-02T18:15:15
+be,1985-07-17,DE,1979-08-12 22:43:48,23:37:02,13641,Königs Wusterhausen,desktop-57.hahn.com,Fischer,1980-10-17T06:57:20
+es,1977-07-26,DE,1976-05-21 16:07:44,06:10:01,5218,Höxter,web-72.hein.com,Junk AG,1971-05-30T05:44:09
+bg,2005-03-20,DE,1986-11-14 14:54:07,20:41:53,823,Gotha,desktop-06.seifert.com,Eberhardt Hethur AG,2022-03-06T09:31:07
+de,1985-11-14,DE,2016-10-09 12:41:14,18:28:07,13889,Rochlitz,desktop-03.spiess.de,Köhler,1993-06-16T11:55:45
+ti,1996-04-26,DE,2014-04-26 14:43:02,15:00:07,7529,Badalzungen,srv-98.reinhardt.de,Schaaf GbR,1977-01-22T16:49:02
+nl,2019-09-29,DE,1982-04-15 02:20:12,22:07:04,9,Regensburg,lt-31.bruder.de,Eigenwillig AG & Co. KGaA,1974-10-17T16:14:53
+it,1984-09-29,DE,1974-12-16 16:43:21,17:34:18,44,Wolmirstedt,web-80.giess.de,Mitschke,1990-08-12T12:10:51
+bs,1989-05-14,DE,2008-03-12 17:55:00,08:57:44,562696257,Böblingen,db-29.schueler.de,Gnatz KG,1978-11-09T13:56:14
+ckb,1973-04-01,DE,2002-05-13 20:37:17,22:28:10,74178,Gelnhausen,lt-71.heidrich.com,Martin Trüb AG,2006-12-06T00:11:08
+sl,1982-02-10,DE,1998-12-21 07:07:07,05:00:53,64937989,Schleiz,laptop-68.radisch.com,Bohnbach GmbH & Co. KGaA,1993-12-08T02:42:30
+ha,1978-06-16,DE,1985-06-05 14:07:11,15:15:30,219,Wolgast,lt-46.steinberg.de,Heidrich,2001-03-19T10:14:29
+el,2008-11-07,DE,1999-09-16 11:22:52,14:10:59,8528,Havelberg,email-72.kohl.com,Kensy,2015-02-21T15:50:36
+om,1975-03-20,DE,1984-08-14 15:23:51,07:04:33,663398,Lippstadt,lt-83.lehmann.com,Käster AG,1971-06-09T08:42:29
+ky,1985-10-18,DE,1993-04-06 12:35:54,05:23:38,81420,Fürstenwalde,web-58.ebert.de,Schleich,2001-07-30T15:27:14
+doi,2001-05-28,DE,1984-01-13 10:53:03,02:07:03,82,Eberswalde,web-23.spiess.de,Oestrovsky,2021-08-16T06:20:03
+km,1981-08-08,DE,1996-06-08 22:42:14,19:53:27,75918842,Flöha,email-14.seifert.de,Heinz Hölzenbecher KG,2021-01-21T12:46:39
+gu,2006-06-10,DE,1975-02-21 05:42:28,21:31:16,736,Jessen,desktop-00.roht.org,Carsten e.V.,1993-08-29T04:31:48
+he,1983-06-17,DE,2015-05-31 13:47:02,00:37:08,694683,Bernburg,laptop-45.henschel.de,Karge Hendriks AG & Co. KG,1988-01-26T05:52:39
+yi,1998-09-28,DE,2010-02-08 16:53:04,03:31:11,656,Höxter,lt-40.zaenker.net,Rose,2013-06-20T05:09:46
+ps,1989-01-08,DE,1996-07-20 00:54:37,00:42:50,5496019,Berchtesgaden,desktop-95.pohl.com,Heß,2006-04-02T21:27:24
+te,2013-02-26,DE,1983-01-17 07:34:55,17:18:16,888702855,Bischofswerda,laptop-95.renner.com,Hecker AG & Co. KG,2019-05-10T00:38:12
+dv,2009-08-27,DE,1988-07-29 12:35:03,09:36:49,94,Hohenmölsen,laptop-67.wirth.com,Hellwig AG & Co. OHG,1994-11-05T09:19:32
+ckb,1990-03-09,DE,2015-11-03 11:36:55,12:13:28,6879,Hannoversch Münden,db-11.trubin.com,Nette AG,1993-11-21T03:42:07
+ru,1994-04-07,DE,2006-05-21 17:17:38,08:56:54,375,Gelnhausen,desktop-90.roemer.de,Mentzel,1999-05-02T01:28:38
+my,1971-12-27,DE,2002-12-30 04:37:13,01:56:08,270529,Sonneberg,web-77.kabus.com,Mende Dörr GmbH,2019-01-14T02:40:49
+nn,2011-09-23,DE,2002-05-12 18:28:35,14:10:18,3,Rudolstadt,srv-37.schleich.com,Wernecke,2007-02-25T12:39:41
+fo,2014-06-11,DE,2007-09-19 00:56:17,11:12:42,196,Finsterwalde,db-84.reising.com,Schulz GmbH,1972-05-15T04:08:03
+el,1976-02-06,DE,2008-04-14 18:17:54,22:53:43,14243,Rottweil,db-54.bolander.net,Schenk,2015-01-27T12:37:58
+ur,2019-07-21,DE,1983-01-18 15:35:20,12:30:32,3535,Helmstedt,web-30.beier.de,Mende KG,2010-07-05T01:11:50
+tr,1980-10-12,DE,1993-03-04 21:59:20,02:47:20,844470,Kaiserslautern,lt-68.gute.net,Tröst Schleich AG & Co. KG,2017-04-08T22:28:33
+lzh,2020-05-20,DE,1972-02-11 21:57:00,20:10:15,9540284,Norden,srv-10.naser.com,Scholl GmbH,2013-11-30T04:55:49
+wa,1994-08-23,DE,1992-04-28 05:35:04,07:31:29,90542,Brilon,desktop-51.rust.org,Hiller AG,1980-01-17T03:21:33
+mni,1992-04-21,DE,2005-12-20 09:21:18,02:09:09,7,Schwabmünchen,desktop-05.ziegert.com,Krebs Karge GmbH & Co. KGaA,2020-02-05T14:57:06
+cmn,1988-01-09,DE,2004-04-27 04:08:22,06:15:10,56822,Kusel,db-14.ebert.de,Dobes,1993-03-06T12:16:26
+bg,1999-07-29,DE,1973-08-21 16:35:23,00:05:45,76998,Lörrach,laptop-76.bolzmann.org,Gotthard KG,1973-10-26T22:36:56
+ia,1989-06-25,DE,1971-07-04 15:26:25,15:52:39,345,Main-Höchst,db-41.otto.com,Geißler,2010-05-23T10:05:15
+hsb,2022-09-17,DE,1999-08-07 18:39:19,08:50:33,976062,Holzminden,desktop-05.freudenberger.com,Wirth Briemer AG,2005-10-13T13:30:13
+my,1974-07-16,DE,1980-11-01 08:11:01,13:07:23,69475534,Soltau,srv-16.weitzel.com,Juncken,2023-06-28T03:17:41
+es,1979-05-31,DE,1986-05-22 16:01:45,18:19:19,267378,Freital,email-71.beier.org,Nohlmans,2006-04-08T08:44:50
+ig,2022-02-14,DE,1995-08-02 07:00:49,20:02:50,792003594,Spremberg,laptop-84.steinberg.com,Winkler,2015-05-26T19:13:49
+wo,2013-12-29,DE,1970-03-01 03:21:01,17:24:40,85956,Gadebusch,email-57.meyer.de,Knappe,2019-08-24T07:58:12
+tl,2012-05-01,DE,1974-10-03 13:45:58,10:39:38,499977424,Bayreuth,lt-48.austermuehle.de,Pechel Heidrich Stiftung & Co. KGaA,1973-12-27T05:37:33
+kl,2002-09-19,DE,2019-01-13 01:08:41,02:21:19,28368845,Wesel,srv-95.geissler.org,Adolph,1993-08-20T01:22:01
+xh,1984-08-23,DE,2016-10-29 01:39:46,13:22:49,52123105,Lüneburg,db-86.kobelt.de,Förster,2015-01-12T19:45:57
+bho,1977-01-14,DE,1993-11-26 04:11:08,23:18:02,41,Crailsheim,email-72.trub.com,Juncken,2023-02-22T21:00:24
+crh,1986-05-14,DE,2003-04-10 00:49:38,06:25:37,61671,Ilmenau,web-51.schmiedt.com,Losekann,2011-06-03T07:00:42
+ak,1987-10-25,DE,2013-10-13 03:11:04,14:21:02,307521183,Gardelegen,web-79.davids.de,Stroh,2004-09-16T00:01:41
+brx,1985-11-17,DE,2014-08-23 04:24:11,18:28:50,854397235,Jessen,db-40.meister.net,Patberg AG,1973-07-03T08:09:17
+nb,1990-01-27,DE,1982-09-19 19:32:21,21:57:08,30701205,Kulmbach,desktop-48.foerster.net,Martin Adler AG & Co. KGaA,1976-09-19T20:25:18
+ga,2009-10-15,DE,1990-05-31 17:21:52,06:11:12,70474936,Darmstadt,srv-35.rosenow.com,Heß,2022-09-23T02:00:57
+gu,1982-10-09,DE,1976-04-23 03:31:48,21:30:04,5723,Ludwigslust,desktop-93.haering.de,Kobelt,1986-12-21T19:23:24
+is,1974-09-04,DE,2012-10-08 22:35:31,00:11:13,30,Zschopau,laptop-42.holzapfel.org,Kohl,2020-09-24T07:26:20
+mr,1984-04-04,DE,1975-09-20 11:11:50,04:59:19,53427609,Northeim,lt-61.lange.de,Steckel KG,1988-11-17T12:54:34
+ks,1974-04-21,DE,1982-11-18 14:13:21,18:08:42,79907,Ilmenau,srv-20.schomber.com,Römer Koch II e.V.,1995-03-12T08:20:19
+ak,2008-12-17,DE,2003-07-31 08:28:35,02:56:57,671593065,Bamberg,lt-37.ullrich.com,Drewes,2016-04-05T03:35:12
+az,2020-06-13,DE,1980-03-10 06:20:59,00:06:30,38522407,Bautzen,srv-26.hering.org,Steckel,1987-03-17T01:18:15
+ik,2011-10-22,DE,2010-01-28 19:11:23,09:18:37,2,Hünfeld,laptop-98.roehrdanz.de,Stiffel,1970-12-06T15:21:25
+ps,2015-07-20,DE,2015-10-22 12:17:33,03:11:07,348834,Pegnitz,email-44.fritsch.de,Klemm,2020-10-03T07:16:24
+fr,1990-11-28,DE,1991-08-24 11:21:52,06:24:18,723,Amberg,laptop-47.bachmann.de,Faust e.V.,1999-12-03T08:24:12
+os,1995-03-23,DE,2019-10-01 02:00:41,08:55:49,700572799,Chemnitz,srv-81.geisel.org,Kruschwitz Hiller GbR,2016-12-04T10:17:43
+ks,1974-02-18,DE,2019-08-02 01:29:34,17:10:05,848589522,Bad Mergentheim,srv-12.klemm.com,Geißler AG & Co. KG,1978-03-08T20:06:57
+mni,1983-05-04,DE,2000-11-08 00:10:39,04:33:05,7017683,Zeulenroda,laptop-01.reising.com,Hartung OHG mbH,1993-07-30T22:14:53
+pap,1973-06-19,DE,2022-08-28 16:42:05,17:19:15,857449,Burgdorf,laptop-41.kuhl.de,Klapp GbR,2018-03-06T20:35:34
+yi,1974-03-03,DE,1992-12-28 11:42:58,14:55:42,6,Seelow,email-48.zorbach.de,Naser AG,2018-01-05T11:29:54
+uk,1996-07-01,DE,1971-03-02 16:31:07,01:44:35,12220992,Osterode am Harz,desktop-33.budig.de,Wende,2002-04-11T02:42:04
+st,1981-06-10,DE,1989-08-14 20:16:17,07:17:06,3,Zossen,lt-31.kostolzin.com,Biggen Girschner GmbH,1990-09-11T10:45:51
+bhb,2002-10-09,DE,1978-12-03 11:39:16,03:19:31,87,Olpe,db-31.etzold.de,Johann Grein Groth e.V.,1991-09-23T20:04:56
+cs,1983-03-12,DE,2021-04-11 10:26:14,01:00:57,731,Freising,laptop-59.fiebig.com,Kitzmann AG & Co. KG,2009-02-10T18:50:30
+nb,2012-06-06,DE,2018-09-30 20:33:12,04:50:08,57,Dessau,web-29.karz.com,Söding AG & Co. OHG,1984-12-21T14:22:32
+tt,1999-02-15,DE,2023-03-18 13:21:52,00:33:26,33,Hildburghausen,email-69.doehn.de,Gehringer AG,1989-10-09T11:38:22
+mi,2013-06-08,DE,1980-10-03 15:07:44,11:46:02,76060189,Ahaus,lt-57.kranz.de,Jäntsch Stiftung & Co. KG,1977-04-25T14:02:17
+ky,1974-10-15,DE,2009-03-02 10:43:09,11:43:07,10475115,Gütersloh,laptop-93.bohlander.de,Sölzer KG,1991-09-27T11:43:54
+om,1992-10-26,DE,1995-08-14 02:17:41,09:18:26,2,Lüdenscheid,desktop-20.killer.org,Knappe Schönland GbR,2005-01-13T07:16:48
+rw,1979-04-11,DE,1996-10-10 09:12:35,01:43:25,439,Schleiz,laptop-62.herrmann.com,Seidel GmbH,2011-08-30T09:05:55
+cy,2005-07-29,DE,2005-07-18 21:16:36,15:48:21,4,Pritzwalk,web-56.schwital.de,Ladeck,1993-11-22T12:36:28
+ayc,1974-10-27,DE,1987-07-24 21:21:37,05:48:41,77,Hünfeld,lt-22.mitschke.com,Kostolzin e.V.,1999-02-14T23:21:45
+apn,1983-11-03,DE,1981-01-13 03:08:06,17:54:40,663079463,Nauen,laptop-13.junck.de,Holsten Gnatz GmbH,2021-12-23T14:50:27
+ts,1994-12-18,DE,1998-09-19 01:05:06,00:18:34,43,Schwerin,desktop-89.gehringer.de,Rohleder GmbH,2001-06-30T13:55:59
+tt,1997-06-15,DE,1977-10-12 15:09:36,15:18:30,204809842,Brandenburg,lt-10.kaester.de,Bolnbach,1986-01-04T05:03:32
+et,1981-07-31,DE,2005-07-27 18:52:30,09:17:15,49,Euskirchen,email-73.krebs.com,Davids,2001-01-16T01:38:10
+crh,2002-11-06,DE,1990-03-15 21:20:44,05:44:49,38852370,Olpe,desktop-25.stolze.org,Jopich,1991-09-09T19:08:43
+ve,1972-01-01,DE,1975-08-25 20:28:50,20:06:15,586524,Mellrichstadt,lt-83.warmer.com,Hövel Nerger Stiftung & Co. KG,1980-01-08T13:51:00
+ne,1979-06-08,DE,1978-04-11 12:02:20,21:43:26,24,Belzig,db-93.stey.com,Thanel KG,2015-10-25T09:54:55
+ml,1982-11-29,DE,2021-03-22 18:31:55,14:32:49,12666,Düren,web-13.klemt.de,Schlosser Radisch AG,1982-03-20T11:13:27
+tig,2015-11-06,DE,2019-01-10 11:16:24,16:01:42,605,Gifhorn,desktop-65.bolnbach.net,Davids,1983-07-18T00:15:47
+en,1998-01-19,DE,2018-02-20 23:07:43,08:31:07,1462,Hersbruck,desktop-55.klemm.com,Zorbach,2012-06-25T09:15:14
+gu,1988-01-09,DE,2012-05-05 14:27:31,14:59:12,22633,Kronach,desktop-34.rosemann.de,Wagner,2003-10-19T10:07:15
+raj,1984-01-28,DE,1973-11-11 20:46:36,01:59:49,1,Gerolzhofen,laptop-91.ortmann.com,Wagenknecht,1998-08-05T04:59:55
+so,2023-01-22,DE,1977-08-15 12:55:45,19:21:49,845097103,Füssen,web-10.stolze.de,Mülichen Wulff AG & Co. KGaA,1997-04-17T11:16:05
+eu,2008-12-09,DE,2009-12-13 15:09:19,21:13:16,507,Fallingbostel,desktop-84.mueller.de,Spieß Jäkel AG & Co. KGaA,2011-01-13T15:22:41
+nn,2002-03-30,DE,2015-07-22 20:43:06,20:13:25,5,Dessau,email-62.zobel.org,Matthäi KG,2022-10-30T16:10:27
+sv,1991-04-15,DE,1975-09-15 18:28:58,16:25:10,343,Oschatz,lt-30.kohl.com,Tschentscher,2002-09-20T10:09:18
+tig,1982-06-19,DE,2006-07-27 00:47:27,02:56:35,0,Greifswald,db-90.gunpf.com,Weinhold,1998-11-21T23:28:28
+hne,2005-08-28,DE,2010-09-10 02:10:34,13:06:11,2989169,Passau,lt-45.seifert.de,Schuchhardt Dussen van e.G.,1990-06-21T17:36:27
+mai,2021-12-17,DE,2006-02-28 16:12:06,20:51:35,96,Groß-Gerau,lt-35.schleich.com,Jacob,1971-08-06T13:31:08
+vi,2019-10-01,DE,2018-04-11 07:45:02,11:08:50,930,Wunsiedel,lt-80.jacobi.com,Karz GmbH,1990-12-03T12:19:18
+nn,1976-08-01,DE,2015-05-19 15:21:37,09:37:32,127,Pfaffenhofen an der Ilm,db-13.taesche.de,Gutknecht Dörschner GmbH & Co. OHG,2019-09-28T15:15:35
+ff,2015-10-09,DE,1988-09-20 19:17:34,23:51:23,74933,Neustrelitz,db-80.stahr.org,Reising,1996-08-31T06:16:34
+apn,1977-10-04,DE,2011-04-13 02:27:36,08:05:02,8,Klötze,laptop-67.koester.net,Vogt GmbH & Co. KGaA,1980-09-08T04:43:35
+sq,1977-01-11,DE,2020-02-05 03:20:10,10:55:57,623738285,Ludwigslust,desktop-04.girschner.com,Junk Heintze AG,2005-02-10T03:48:51
+hsb,2009-06-20,DE,2023-02-11 03:11:47,14:18:24,5301,Wolfratshausen,email-64.jacob.com,Mühle Dörr AG,2017-08-29T08:18:05
+ca,1998-03-24,DE,2008-11-18 03:02:53,09:37:04,425326,Rothenburg ob der Tauber,laptop-51.jungfer.de,Drubin GbR,2018-12-31T07:51:45
+ml,2017-08-25,DE,2012-04-10 12:06:39,14:56:10,47,Schwäbisch Hall,laptop-18.kuhl.com,Barkholz,2009-04-24T02:39:27
+rw,1999-06-28,DE,1972-11-23 12:23:04,07:15:29,16264,Neu-Ulm,srv-74.faust.org,Säuberlich,1985-06-10T02:34:55
+ts,2011-11-24,DE,2015-07-11 15:00:51,11:10:38,6545903,Lübben,laptop-86.hein.de,Jäkel OHG mbH,1993-03-23T07:36:01
+lzh,1988-05-20,DE,1987-08-27 10:44:34,23:25:16,35,Sonneberg,web-39.junk.com,Walter,1998-10-15T16:21:15
+mni,1971-04-04,DE,1998-12-25 02:17:45,06:13:07,7,Melle,lt-98.hess.com,Thies,1989-11-05T05:36:49
+lt,2017-11-04,DE,2001-07-21 09:47:49,16:22:50,443199,Teterow,email-82.weimer.de,Kabus GbR,1999-09-28T08:39:59
+hsb,1993-10-29,DE,2012-06-03 02:23:21,14:52:39,542,Pritzwalk,desktop-28.doerr.de,Scholz Bohnbach AG,2019-02-28T08:56:13
+ve,1978-06-02,DE,1978-02-15 11:13:19,21:54:23,963,Zerbst,db-70.holzapfel.de,Klemm Jäkel KG,1998-05-18T01:18:19
+af,1992-05-22,DE,2022-04-25 08:59:56,09:42:48,691200856,Pinneberg,lt-08.suessebier.com,Atzler GmbH & Co. KG,2002-07-27T11:32:38
+kk,1984-02-09,DE,1977-01-01 05:34:56,09:39:51,325268046,Wittenberg,web-22.kreusel.de,Hornich,2006-11-29T09:35:43
+bho,1991-07-20,DE,1977-01-22 16:42:20,19:22:07,45,Goslar,desktop-57.jacob.com,Benthin,1975-01-11T13:21:48
+gd,1988-01-15,DE,1985-05-05 17:02:23,04:57:17,335772718,Cuxhaven,web-13.fiebig.de,Förster Etzold AG,2000-07-07T01:12:15
+oc,2004-03-10,DE,2004-05-13 05:02:45,03:57:42,8495656,Niesky,web-52.wesack.de,Dussen van,1985-08-06T21:17:32
+quz,1987-11-23,DE,2009-12-05 17:32:09,14:27:46,29431,Donaueschingen,laptop-64.putz.de,Junck AG & Co. KGaA,1989-09-25T23:25:51
+uz,1997-02-04,DE,2012-08-28 20:03:13,12:16:17,2,Hoyerswerda,lt-70.beyer.com,Dietz Holzapfel Stiftung & Co. KGaA,1976-01-10T11:57:04
+af,1975-02-06,DE,1972-06-21 19:39:32,12:33:29,25946,Ebermannstadt,web-59.harloff.org,Hellwig AG,1996-07-15T00:21:23
+zh,1972-04-20,DE,1976-03-27 07:51:51,13:57:14,2,Nauen,desktop-73.radisch.com,Berger AG,1992-07-31T18:55:18
+id,1996-07-27,DE,1998-09-16 21:52:56,16:34:36,1388805,Bützow,web-77.keudel.com,Schuster Meister GmbH & Co. KG,2015-03-11T17:36:43
+ur,2021-09-26,DE,1992-03-20 00:37:01,08:26:18,557709756,Backnang,db-40.faust.de,Hartung Weiß e.V.,1976-05-28T03:11:00
+te,2017-06-20,DE,2018-11-07 06:17:07,07:29:06,97,Hersbruck,laptop-05.schottin.net,Bender,1970-12-09T08:55:52
+gu,2002-02-08,DE,2018-05-02 17:14:08,19:57:18,2125221,Groß-Gerau,lt-83.hesse.com,Finke,1993-06-20T10:57:18
+nhn,1973-10-17,DE,2010-02-22 13:37:36,17:24:35,76843,Sonneberg,web-63.rust.de,Täsche,2017-04-01T08:22:04
+ckb,1982-10-26,DE,2014-05-26 22:12:03,19:20:32,72,Kötzting,laptop-28.ehlert.de,Weiß Weinhold OHG mbH,1996-04-25T01:06:42
+kn,1991-01-06,DE,1986-08-10 06:55:02,14:05:14,144,Stadtsteinach,lt-61.neuschaefer.net,Rogner,2009-12-15T05:01:26
+el,2021-10-15,DE,1976-03-13 22:59:07,15:55:13,91673770,Bautzen,lt-63.jopich.com,Wirth Baum Stiftung & Co. KGaA,1987-05-02T01:16:07
+ca,1984-05-17,DE,2013-05-22 03:11:26,07:14:52,308,Heinsberg,lt-96.graf.org,Hermann AG & Co. KG,1970-06-21T17:42:28
+wal,2010-11-11,DE,2023-08-25 02:31:57,13:18:05,286699351,Hainichen,db-77.zorbach.com,Rogge Döhn KG,1987-11-06T07:23:32
+tt,2016-06-29,DE,1972-01-15 22:37:56,05:14:29,141403437,Bad Freienwalde,web-14.kobelt.net,Blümel Hartmann GmbH,1987-11-05T03:40:58
+unm,1983-09-15,DE,1985-10-20 18:08:06,01:44:50,883,Rochlitz,web-53.junk.de,Anders AG & Co. OHG,2000-04-08T00:35:37
+mhr,1992-06-04,DE,1973-07-23 12:57:52,09:52:51,87,Chemnitz,web-09.trupp.de,Eimer Karz AG,1981-02-25T14:29:07
+yue,1983-02-03,DE,2005-10-24 09:41:23,07:13:49,49713,Dinkelsbühl,desktop-60.dussen.de,Zahn Wähner AG,1994-05-26T06:28:11
+nr,2016-09-19,DE,2020-06-03 12:57:28,16:35:43,88,Hannoversch Münden,lt-24.zorbach.de,Beier GmbH,2002-03-08T15:44:00
+tg,2008-05-26,DE,2000-07-31 01:21:56,19:24:25,687,Hettstedt,web-56.walter.com,Butte,2022-07-13T11:20:13
+sa,2017-10-22,DE,2001-05-25 15:49:06,11:30:15,2774,Lörrach,web-38.roemer.org,Mielcarek GmbH,2020-11-07T20:27:32
+ru,2020-05-16,DE,1976-08-19 06:49:40,03:12:26,3455974,Gütersloh,web-58.poelitz.com,Wiek GmbH,1980-04-01T03:43:35
+as,1985-04-08,DE,2023-06-15 08:14:39,14:41:23,90476,Darmstadt,lt-50.pohl.com,Klapp KG,2010-08-22T10:31:16
+hy,2001-07-04,DE,1975-02-02 23:33:16,11:47:15,773,Günzburg,db-17.kallert.net,Franke AG & Co. KGaA,1979-03-18T15:10:46
+bo,1990-04-20,DE,1990-11-17 04:30:06,10:04:49,43403208,Bad Kissingen,email-06.wulff.com,Wende AG,2000-10-16T21:30:25
+ms,1999-01-13,DE,2018-03-18 00:32:55,05:27:12,56893144,Calw,desktop-22.ortmann.com,Reising Jacobi Jäckel KG,2023-06-30T20:20:07
+doi,1974-12-08,DE,2002-02-23 14:57:32,13:09:24,736869492,Pasewalk,web-54.schacht.com,Wulf,1993-07-04T20:23:14
+cy,2006-02-05,DE,1985-07-21 08:39:05,08:19:41,5,Finsterwalde,lt-00.bohlander.de,Karz,2007-10-02T15:51:53
+gv,2007-05-13,DE,2009-06-13 13:41:36,11:05:30,8785930,Eichstätt,email-13.wagenknecht.net,Eimer KG,1994-02-09T13:29:24
+en,2013-08-07,DE,2002-05-19 04:17:22,15:29:29,0,Bad Brückenau,desktop-49.kreusel.com,Renner Nohlmans e.V.,2014-12-11T17:50:15
+nb,1981-10-17,DE,1999-04-22 14:11:22,17:22:14,25,Groß-Gerau,lt-28.lorch.org,Misicher AG & Co. KGaA,2021-11-13T08:05:41
+sa,2008-04-21,DE,2013-07-14 18:54:39,08:54:24,7,Aschaffenburg,web-78.thanel.com,Fechner,1982-09-24T08:23:42
+tl,1977-04-18,DE,1985-12-25 11:55:41,16:37:23,27746358,Aue,email-67.eberth.com,Davids,1987-04-02T12:01:46
+bho,1970-04-25,DE,2011-04-14 11:10:23,17:07:22,8738953,Apolda,email-14.lachmann.net,Weiß Schmiedt AG & Co. KG,2010-01-21T10:46:14
+li,2022-08-23,DE,1972-11-08 13:47:56,07:30:44,65791707,Burglengenfeld,desktop-88.metz.de,Mitschke,1998-12-07T00:55:51
+ayc,1977-07-16,DE,2007-12-08 07:52:46,05:06:40,96073793,Zeulenroda,srv-05.scheel.de,Stiffel,1975-05-16T12:32:19
+et,1981-06-21,DE,2005-08-20 08:40:55,21:03:44,136264466,Klötze,web-65.grein.com,Freudenberger GbR,1996-08-31T07:51:17
+sc,1994-11-18,DE,1996-07-13 18:16:23,02:11:24,751102965,Artern,email-63.jaehn.com,Förster,1987-05-15T03:31:35
+apn,1983-01-12,DE,2018-09-09 02:24:40,10:50:48,5320608,Weißwasser,desktop-37.bolander.com,Sölzer Jäkel OHG mbH,2008-03-17T20:10:41
+hsb,1974-02-03,DE,1997-05-19 06:47:02,07:54:19,725295084,Bogen,lt-19.seip.de,Bonbach Ruppert GmbH,2006-02-22T05:03:18
+tt,1999-03-14,DE,1983-04-29 21:23:19,13:16:09,5,Hannover,db-04.heuser.net,Jacob,1980-05-25T16:51:48
+ro,2010-04-10,DE,1982-03-31 10:01:03,21:50:11,8899685,Erkelenz,web-63.tlustek.org,Hartung e.V.,2019-10-19T07:40:43

@@ -1,0 +1,523 @@
+instanceKlass java/lang/Terminator$1
+instanceKlass sun/misc/SignalHandler
+instanceKlass java/lang/Terminator
+ciMethod java/lang/String startsWith (Ljava/lang/String;I)Z 2233 3969 7603 0 -1
+ciMethod java/lang/String startsWith (Ljava/lang/String;)Z 2169 1 4760 0 -1
+12:32:05 T:7432  NOTICE: Checking resolution 16
+12:32:05 T:7432   DEBUG: CWinEventsWin32::WndProc: window resize event
+12:32:05 T:7432   DEBUG: CWinEventsWin32::WndProc: window move event
+12:32:05 T:7432   DEBUG: CWinSystemWin32::ResizeInternal - resizing due to size change (0,0,1920,1200 fullscreen)->(0,0,1920,1200 fullscreen)
+12:32:05 T:7432   DEBUG: CWinEventsWin32::WndProcWindow is active
+12:32:06 T:7432   DEBUG: CRenderSystemDX::InitRenderSystem - trying D3D9Ex...
+12:32:06 T:7432   DEBUG: CRenderSystemDX::InitRenderSystem - using D3D9Ex
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice on adapter 0
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - using hardware vertex processing
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - adapter 0: nvd3dum.dll, NVIDIA GeForce GTX 670, VendorId 4318, DeviceId 4489
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - using D3DCAPS2_DYNAMICTEXTURES
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - texture caps: 0x0001ECC5
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - RENDER_CAPS_DXT
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - RENDER_CAPS_NPOT
+12:32:06 T:7432  NOTICE: Running database version MyMusic52
+12:32:06 T:7432  NOTICE: Running database version MyVideos93
+12:32:06 T:7432  NOTICE: Running database version TV29
+12:32:06 T:7432  NOTICE: Running database version Epg10
+12:32:06 T:7432   DEBUG: CDatabaseManager::Initialize, updating databases... DONE
+12:32:06 T:7432   DEBUG: DPMS: supported power-saving modes: OFF STANDBY
+12:32:06 T:7432   DEBUG: CAnnouncementManager - Announcement: OnClear from xbmc
+12:32:06 T:7432   DEBUG: GOT ANNOUNCEMENT, type: 2, from xbmc, message OnClear
+12:32:06 T:7432   DEBUG: Activating window ID: 12997
+12:32:06 T:7432   DEBUG: ------ Window Init () ------
+12:32:06 T:7432    INFO: load splash image: D:\Program Files (x86)\Kodi\media\Splash.png
+12:32:06 T:7432    INFO: Unloading old skin ...
+12:32:06 T:7432    INFO:   load skin from: D:\Program Files (x86)\Kodi\addons\skin.confluence (version: 2.7.4)
+12:32:06 T:7432    INFO:   load fonts for skin...
+12:32:06 T:7432    INFO: Loading fonts from D:\Program Files (x86)\Kodi\addons\skin.confluence\720p\Font.xml
+12:32:06 T:7432   DEBUG: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: D:\Program Files (x86)\Kodi\addons\skin.confluence\language\resource.language.de_de\strings.po
+socorro+caro	01.08.2009 19:29:41	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4SUNA_enUS219US222&q=socorro+caro	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	68.79.170.241
+west+virginia+derby	01.08.2009 19:29:46	http://www.google.com/search?q=Jockey+Mike+Smith+West+Virginia+Derby&hl=en&rlz=1T4GWYE_enUS310US310&start=10&sa=N	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4322)	76.167.232.199
+[    302125] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/presence.asmx/GetPresenceServers
+[    321000] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/socialclub.asmx/GetPasswordRequirements
+[    384734] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/GeoLocation.asmx/GetLocationInfoFromIP
+[    390547] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/ProfileStats.asmx/ReadStatsByGamer2
+[    450406] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/presence.asmx/GetPresenceServers
+[    478750] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/GeoLocation.asmx/GetLocationInfoFromIP
+[    541234] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/GeoLocation.asmx/GetLocationInfoFromIP
+[    570578] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Telemetry.asmx/SubmitCompressed
+[    596593] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/presence.asmx/GetPresenceServers
+[    621031] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/socialclub.asmx/GetPasswordRequirements
+[    630547] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/ProfileStats.asmx/ReadStatsByGamer2
+[    700359] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/GeoLocation.asmx/GetLocationInfoFromIP
+[    724453] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Friends.asmx/GetFriends
+[    751406] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/presence.asmx/GetPresenceServers
+[    810562] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Telemetry.asmx/SubmitCompressed
+[    853765] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/GeoLocation.asmx/GetLocationInfoFromIP
+[    870562] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/ProfileStats.asmx/ReadStatsByGamer2
+[    875015] Getting auth ticket for pipe appID 218 - should be 218.
+[    921047] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/socialclub.asmx/GetPasswordRequirements
+[    923750] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/presence.asmx/GetPresenceServers
+[   1006859] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/GeoLocation.asmx/GetLocationInfoFromIP
+[   1047765] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/presence.asmx/GetPresenceServers
+[   1050578] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Telemetry.asmx/SubmitCompressed
+[   1110562] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/ProfileStats.asmx/ReadStatsByGamer2
+[   1161656] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/GeoLocation.asmx/GetLocationInfoFromIP
+[   1178406] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/presence.asmx/GetPresenceServers
+[   1221062] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/socialclub.asmx/GetPasswordRequirements
+[   1280156] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/presence.asmx/GetPresenceServers
+[   1290593] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Telemetry.asmx/SubmitCompressed
+[   1324609] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Friends.asmx/GetFriends
+		- Add new weekly report by all and by installation team
+		- Add check box to tell production team not use Helix
+fedex+field	01.08.2009 20:04:42	http://www.google.com/search?hl=en&rlz=1G1GGLQ_ENUS297&q=parking+fedex+field+concert+events&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11	70.21.22.244
+what+did+greg+mcmackin+say	01.08.2009 20:05:32	http://www.google.com/search?hl=en&q=what+did+greg+mcmackin+say&aq=0z&oq=what+did+greg&aqi=g-z1g9	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	65.242.33.110
+jonathan+campos	01.08.2009 20:05:44	http://www.google.com/search?q=Jonathan+Campos+&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 3.5.30729)	68.11.149.9
+lughnasadh	01.08.2009 20:06:02	http://www.google.ca/search?source=ig&hl=en&rlz=1G1GGLQ_ENCA277&=&q=Lughnasadh+August+1st+Fire+Festival&btnG=Google+Search&meta=lr%3D&aq=f&oq=	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 3.5.30729)	99.230.255.235
+tim+hack+and+kelly+drew	01.08.2009 20:06:14	http://www.google.com/search?hl=en&q=Tim+Hack+and+Kelly+Drew+&btnG=Google+Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.5.30729; .NET CLR 3.0.04506; .NET CLR 3.0.30729; MSN Optimized;US; Qwest 1.0)	97.114.66.247
+2.   Site Location Information
+
+     City or Town             : Anna Maria Isle
+     State or Province        : Florida
+     Country                  : United States
+Px6Gen: Context File Validated
+
+  CommandLine Override: NONE
+with kernel methods
+    + add missing colon in Slide Transitions sidebar deck [Stanislav Horacek]
+    + add missing comma [Eike Rathke]
+TEST getDatafilespath from PETSc.options.dataFilesPath(/sandbox/petsc/petsc.next/config/PETSc/options/dataFilesPath.py:29)
+TESTING: getDatafilespath from PETSc.options.dataFilesPath(/sandbox/petsc/petsc.next/config/PETSc/options/dataFilesPath.py:29)
+2016-02-23 15:45:25,534  INFO Injector:69    -> @Provides org.matsim.core.scenario.ScenarioByInstanceModule.provideActivityFacilities(ScenarioByInstanceModule.java:51)
+2016-02-23 15:45:25,534  INFO Injector:68 org.matsim.households.Households 
+2016-02-23 15:45:25,534  INFO Injector:69    -> @Provides org.matsim.core.scenario.ScenarioByInstanceModule.provideHouseholds(ScenarioByInstanceModule.java:56)
+2016-02-23 15:45:25,534  INFO Injector:68 org.matsim.api.core.v01.population.Population 
+2016-02-23 15:45:25,534  INFO Injector:69    -> @Provides org.matsim.core.scenario.ScenarioByInstanceModule.providePopulation(ScenarioByInstanceModule.java:43)
+2016-02-23 15:45:25,534  INFO Injector:68 org.matsim.core.controler.ControlerI 
+2016-02-23 15:45:25,540  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.ControlerI, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@6a6cb05c}[Scopes.SINGLETON]
+2016-02-23 15:45:25,540  INFO Injector:68 org.matsim.core.controler.ControlerListenerManager 
+2016-02-23 15:45:25,545  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.ControlerListenerManager, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@22ff4249}[Scopes.SINGLETON]
+2016-02-23 15:45:25,545  INFO Injector:68 org.matsim.core.controler.PrepareForSim 
+2016-02-23 15:45:25,545  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.PrepareForSim, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@327514f}
+2016-02-23 15:45:25,550  INFO Injector:68 org.matsim.core.controler.TerminationCriterion 
+2016-02-23 15:45:25,550  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.TerminationCriterion, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@4c12331b}
+2016-02-23 15:45:25,550  INFO Injector:68 org.matsim.core.controler.MatsimServices 
+2016-02-23 15:45:25,550  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.MatsimServices, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@815b41f}
+2016-02-23 15:45:25,551  INFO Injector:68 org.matsim.core.controler.listener.ControlerListener @com.google.inject.multibindings.Element(setName=,uniqueId=32, type=MULTIBINDER, keyType=)
+2016-02-23 15:45:25,551  INFO Injector:69    -> of(org.matsim.core.scoring.ExperiencedPlanElementsModule$1@5e316c74)
+2016-02-23 15:45:25,551  INFO Injector:68 org.matsim.core.scoring.ExperiencedPlansService 
+2016-02-23 15:45:25,551  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.scoring.ExperiencedPlansService, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@7e6f74c[Scopes.SINGLETON]}
+2016-02-23 15:45:25,551  INFO Injector:68 org.matsim.core.controler.corelisteners.PlansScoring 
+2016-02-23 15:45:25,551  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.corelisteners.PlansScoring, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@2f4948e4[Scopes.SINGLETON]}
+2016-02-23 15:45:25,552  INFO Injector:68 org.matsim.core.controler.corelisteners.PlansReplanning 
+2016-02-23 15:45:25,554  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.corelisteners.PlansReplanning, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@3fc2959f[Scopes.SINGLETON]}
+2016-02-23 15:45:25,554  INFO Injector:68 org.matsim.core.controler.corelisteners.PlansDumping 
+2016-02-23 15:45:25,555  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.corelisteners.PlansDumping, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@385c9627[Scopes.SINGLETON]}
+2016-02-23 15:45:25,556  INFO Injector:68 org.matsim.core.controler.corelisteners.EventsHandling 
+2016-02-23 15:45:25,556  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.corelisteners.EventsHandling, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@217ed35e[Scopes.SINGLETON]}
+2016-02-23 15:45:25,556  INFO Injector:68 org.matsim.core.controler.corelisteners.DumpDataAtEnd 
+2016-02-23 15:45:25,556  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.controler.corelisteners.DumpDataAtEnd, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@31190526[Scopes.SINGLETON]}
+2016-02-23 15:45:25,556  INFO Injector:68 org.matsim.core.api.experimental.events.EventsManager 
+     2  O    2.173265   0.000000
+     3  O    2.173265   3.366973   0.000000
+     4  Sn   2.709139   2.173265   2.173265   0.000000
+     5  Sn   2.709139   2.173265   3.720844   2.709139   0.000000
+     6  Sn   2.709139   3.720844   2.173265   2.709139   2.709139
+(epstopdf)             Output file: <images/ceulogo-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-09-01 12:21:14
+(epstopdf)                    size: 4999 bytes
+build	14-Jul-2020 09:19:51	[WARNING] Some problems were encountered while building the effective model for com.XXXXXX.eps.epdg:epdg-app-aggregator:pom:1.0.0-SNAPSHOT
+\lst@newlines=\count192
+instanceKlass java/security/PrivilegedAction
+instanceKlass java/lang/ClassLoader
+\c@part=\count179
+12:32:06 T:6224   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - channel update id:1199962244, name:RTL2
+12:32:06 T:6224   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - channel update id:1236344448, name:RTLNITRO
+12:32:06 T:6224   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - channel update id:1241756076, name:ZDF HD
+12:32:06 T:7988   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - receive message [channelAdd]
+12:32:06 T:6224   DEBUG: Previous line repeats 2 times.
+\pgf@yx=\dimen261
+\pgf@yy=\dimen262
+\pgf@zx=\dimen263
+\pgf@zy=\dimen264
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+      3          1           0        0.000000   -0.756950   -0.468706
+ ---------------------------------------------------------------------
+./Classique/Antonio%20Vivaldi/Vivaldi%20-%20Gloria
+./Classique/Antonio%20Vivaldi/Vivaldi%20Four%20Seasons
+./Classique/Antonio%20Vivaldi/Vivaldi,%20Tartini,%20Bach-Cello%20Concertos
+./Classique/Antonio%20Vivaldi/Vivaldi-%20Juditha%20Triumphans%20Oratorio%20Part%202
+./Classique/Antonio%20Vivaldi/Vivaldi-%20Six%20Concertos
+[22:42:47] Currency: [+] 7917/8085 matches engine Wordpress Article - http://www.aeroporttransport.com/khouribga/
+[22:42:47] Computer: [+] 0319/8028 new URL - http://blog.chapterthirtyseven.com/wp-login.php?action=register
+[22:42:47] Hindu temples: [-] 0581/8054 download failed (Return: -) - https://insideoutofmyhead.wordpress.com
+[     14843] somefunc found dlc_PATCHDAY13NG:/!
+[     14859] LoadDefDats: dlc_PATCHDAY13NGCRC:/content.xml
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count274
+\U@D=\dimen152
+\l@babelnohyphens=\language87
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+Generate Native Outputs                                                          (17:46.768)
+Run Template                                                                     (18:09.423)
+
+ Cite this work as:
+ Gaussian 09, Revision A.01,
+ M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, 
+ M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, B. Mennucci, 
+[   1966109] overriding handle for mp_f_freemode_01_female_freemode_independence/jbib_diff_001_a_uni.ytd (was 534001d) -> 3c8
+[   1966125] overriding handle for mp_f_freemode_01_female_freemode_mplts/lowr_000_r.ydd (was 5750010) -> 3d2
+1985-035     1985 May  8 0115:38  1985-035A      Gstar 1                        Gstar 1A                  S15677  Ariane 3               V13              CSG ELA1                 0.0
+tdf#116981 EDITING: Libo6.1 crash when deleting table column [Noel Grandin]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:159) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:116) ~[vaadin-server-8.9.4.jar:8.9.4]
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+sono+arts+festival	01.08.2009 17:47:07	http://www.google.com/search?q=sono+festival+ct+parking&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7DKUS	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; CMS Music Store2 v1.00.13 (Music Store,1033); .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0)	69.120.82.159
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 17:47:16	http://www.google.com/m/search?ct=fsh&q=mens+Invicta+watch+with+a+copper+band	BlackBerry8220/4.6.0.180 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100	206.53.157.197
+udf filesystem (FEATURE_VOLUMEID_UDF) [N/y/?] n
+[   1962218] overriding handle for mp_f_freemode_01/accs_diff_005_e_uni.ytd (was 4cd00d3) -> 1f3
+./JeuxVideos/Golden_Axe/CD%201
+./JeuxVideos/Golden_Axe/CD%202
+[   1957265] instrumented function 0x1409061b4 (46) took 7msec
+[   1957297] instrumented function 0x1407c20dc (47) took 0msec
+[   1957328] instrumented function 0x14060c3c8 (48) took 5msec
+[   1957343] instrumented function 0x1408f8ae0 (49) took 6msec
+[   1957390] rage::gameSkeleton::RunInitFunctions: Running INIT_AFTER_MAP_LOADED init functions
+./Classique/Beethoveen/Symphony%20No.%208
+./Classique/Beethoveen/Symphony%20No.%209
+./Classique/Carmina%20Burana
+./Classique/Carmina%20Burana/Carmina%20Burana%20part%20I
+./Classique/Carmina%20Burana/Carmina%20Burana%20part%20II
+./Classique/London%20Symphony%20Orchestra
+./Classique/London%20Symphony%20Orchestra/Led%20Zeppelin%20-%20London%20Symphony%20Orchestra
+./Classique/London%20Symphony%20Orchestra/Pink%20floyd%20-%20London%20Symphony%20Orchestra
+./Classique/London%20Symphony%20Orchestra/Plays%20the%20Music%20of%20The%20Beatles%20-%20London%20Symphony%20Orchestra
+./Classique/London%20Symphony%20Orchestra/The%20Power%20Of%20Classic%20Rock%20(CD1)%20-%20London%20Symphony%20Orchestra
+./Classique/London%20Symphony%20Orchestra/The%20Power%20Of%20Classic%20Rock%20(CD2)%20-%20London%20Symphony%20Orchestra
+./Classique/London%20Symphony%20Orchestra/Tommy%20-%20London%20Symphony%20Orchestra
+./Classique/Meilleur%20du%20classique
+./Classique/Zamfir
+./Classique/Zamfir/The%20Lonely%20Shepherd
+./Divers
+./Divers/Chanson_Hits_France
+./Divers/Claude_Nougaro
+./Divers/Janis_Joplin
+./Divers/Ultimate%2090
+./Les%202%20Minutes%20du%20Peuple%20-%20François%20Pérusse/Roger%20et%20Caroline
+./Les%202%20Minutes%20du%20Peuple%20-%20François%20Pérusse/Sexe%20conseil
+./Les%202%20Minutes%20du%20Peuple%20-%20François%20Pérusse/Star%20Trek%20du%20peuple
+./Les%202%20Minutes%20du%20Peuple%20-%20François%20Pérusse/Théatre%20de%20boulevard
+./Les%202%20Minutes%20du%20Peuple%20-%20François%20Pérusse/Tribunal%20du%20peuple
+./Les%202%20Minutes%20du%20Peuple%20-%20François%20Pérusse/Urgences%20du%20peuple
+./Les%202%20Minutes%20du%20Peuple%20-%20François%20Pérusse/X-Files%20du%20peuple[01;37m
+For the directory [01;34m'.'[01;37m.........
+Working for the directory [01;36m : /home/lilian/Music[01;37m.
+[01;31m./.ATRIER ./ABBA ./ACDC ./Apocalyptica ./Metallica ./Dragon_Force ./Era ./Film ./Haruhi_Suzumiya ./Hugues_Aufray ./Pink_Floyd ./Reflets%20d'acide ./Renaud ./Rhapsody ./Simon_and_Garfunkel ./Sonata_Artica ./JeuxVideos ./Jim_Croce ./BESTOF ./Chanson%20Plus%20Bifluorée ./Inconnus ./L'intégral%20de%20Coluche ./Les%20aventuriers%20du%20Survivaure ./Manau ./Notre_Dame_de_Paris ./Tari%20Tari ./Walt%20Disney ./Les%20Choristes ./Lindsey_Stirling ./Bobby_Lapointe ./Carpenters ./Indochine ./Iron%20Maiden ./Téléphone ./The_Beatles ./The_Notting_Hillbillies ./Turisas ./Classique ./Divers ./Djiboutep%20-%20Chants%20de%20Marins ./Le%20Donjon%20de%20Naheulbeuk ./Led_Zeppelin ./Les%202%20Minutes%20du%20Peuple%20-%20François%20Pérusse[01;37m
+[2023.05.20-22.07.39:930][  0]LogConfig: Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+      cpu time            0.77 seconds
+2021-10-26T21:51:42.958Z,53.958817,4337000,6 [FLog::Output] Connection accepted from 128.116.28.145|49574
+2021-10-26T21:51:42.959Z,53.959839,4337000,7 [FLog::Network] serverId: 128.116.28.145|49574
+2021-10-26T21:51:42.960Z,53.960041,4337000,7 [FLog::Network] Replicator created for player 128.116.28.145|49574
+tdf#114622 add static list of available Native Numbering entries, for example Persian / Arabic-Indic / Hindi numbers [Suhail Alkowaileet]
+[     15031] somefunc found dlc_patchDay5NG:/!
+[22:42:40] Internet VOIP: [-] 0122/8096 no engine matches - https://brooklynfarmgirl.com
+tim+hack+and+kelly+drew	01.08.2009 19:10:38	http://www.google.com/search?hl=en&rlz=1T4GGLR_enUS315US315&q=tim+hack+%26+kelly+drew+pictures&btnG=Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322)	155.212.127.117
+<09:47AM KNBC> CNN_news can talk
+--> "+v NPR_News" mode change by KNBC on #earthquake
+<09:47AM KNBC> NPR_News can talk
+
+Underfull \hbox (badness 10000) in paragraph at lines 3770--3777
+     [xslt] Processing /scratch/ig-build-temp-JHXSGN/repo/template/onGenerate-ig-working.xml to /scratch/ig-build-temp-JHXSGN/repo/temp/pages/_data/artifacts.json
+     [xslt] Loading stylesheet /scratch/ig-build-temp-JHXSGN/repo/template/scripts/onGenerate.data.xslt
+       Notes                  : (multiple lines)
+
+8.4.1 Water Vapor Radiometer  :
+       Manufacturer           :
+       Serial Number          :
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.4.x Water Vapor Radiometer  :
+       Manufacturer           :
+       Serial Number          :
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.5.1 Other Instrumentation   : (multiple lines)
+
+8.5.x Other Instrumentation   : (multiple lines)
+
+       Telephone (secondary)  :
+       Fax                    : 614-275-1673
+       E-mail                 : dave.beiter@dot.state.oh.us
+     Secondary Contact
+       Contact Name           :
+       Telephone (primary)    :
+*
+<10:08AM NeilM> if you want to read the logg www to http://www.seas.upenn.edu/~mengwong/irc.quake.txt
+<10:08AM NeilM> so the BBC says
+[2023.05.20-22.07.39:933][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+	at info.magnolia.module.cache.executor.CompositeExecutor.processCacheRequest(CompositeExecutor.java:66) [magnolia-cache-core-5.9.1.jar:?]
+[22:42:27] Precious metals: [-] 0092/8003 no engine matches (HTTP-Status: 502) - http://www.sidhaig.com/index.php?PHPSESSID=pa8qkrm35vn8an6lla4hfnbfk0;www
+PROC_CREATOR_COUNT Ne21 : ionInelastic = 3
+PROC_CREATOR_COUNT O14 : He3Inelastic = 1
+                                  1987-078B      Eutelsat I F4                  ECS 4                     S18351
+1987-095     1987 Nov 21 0219:00  1987-095A      TV-SAT                         TV-SAT                    S18570  Ariane 2               V20              CSG ELA2                 0.0
+1988-018     1988 Mar 11 2328:00  1988-018B      Telecom 1C                     Telecom 1C                S18952  Ariane 3               V21              CSG ELA1                 0.0
+                                  1988-018A      Spacenet 3R                    Spacenet 3R               S18951
+1988-040     1988 May 17 2358:00  1988-040A      Intelsat VA F13 (NSS 513)      Intelsat VA F13           S19121  Ariane 2               V23              CSG ELA1                 0.0
+1988-051     1988 Jun 15 1119:01  1988-051A      Meteosat 3                     Meteosat P2               S19215  Ariane 44LP            V22              CSG ELA2                 0.0
+                                  1988-051C      PAS 1                          PAS 1                     S19217
+                                  1988-051B      Amsat-Oscar-13                 Amsat Phase IIIC          S19216
+1988-063     1988 Jul 21 2312:00  1988-063A      Insat 1C                       Insat 1C                  S19330  Ariane 3               V24              CSG ELA1                 0.0
+                                  1988-063B      Eutelsat I F-5                 ECS 5                     S19331
+1988-081     1988 Sep  8 2300:00  1988-081A      Gstar 3                        Gstar 3                   S19483  Ariane 3               V25              CSG ELA2                 0.0
+                                  1988-081B      SBS 5                          SBS 5                     S19484
+1988-098     1988 Oct 28 0217:00  1988-098A      TDF 1                          TDF 1                     S19621  Ariane 2               V26              CSG ELA1                 0.0
+1988-109     1988 Dec 11 0033:38  1988-109A      Skynet 4B                      Skynet 4B                 S19687  Ariane 44LP            V27              CSG ELA2                 0.0
+                                  1988-109B      Astra 1A                       Astra 1A                  S19688
+1989-006     1989 Jan 27 0121:00  1989-006A      Intelsat VA F15                Intelsat VA F15           S19772  Ariane 2               V28              CSG ELA1                 0.0
+1989-020     1989 Mar  6 2329:00  1989-020A      JCSAT 1                        JCSAT 1                   S19874  Ariane 44LP            V29              CSG ELA2                 0.0
+                                  1989-020B      Meteosat 4                     MOP 1                     S19876
+1989-027     1989 Apr  2 0228:00  1989-027A      Tele-X                         Tele-X                    S19919  Ariane 2               V30              CSG ELA1                 0.0
+1989-041     1989 Jun  5 2237:18  1989-041A      Superbird A                    Superbird A               S20040  Ariane 44L             V31              CSG ELA2                 0.0
+                                  1989-041B      Kopernikus                     DFS 1                     S20041
+1989-053     1989 Jul 12 0014:00  1989-053A      Olympus                        Olympus                   S20122  Ariane 3               V32              CSG ELA1                 0.0
+1989-062     1989 Aug  8 2325:53  1989-062A      TV-SAT 2                       TV-SAT 2                  S20168  Ariane 44LP            V33              CSG ELA2                 0.0
+                                  1989-062B      Hipparcos                      Hipparcos                 S20169
+1989-087     1989 Oct 27 2305:00  1989-087A      Intelsat 602                   Intelsat VI F-2           S20315  Ariane 44L             V34              CSG ELA2                 0.0
+1990-005     1990 Jan 22 0135:27  1990-005A      SPOT 2                         SPOT 2                    S20436  Ariane 40              V35              CSG ELA2                 0.0
+                                  1993-061B      Stella                         Stella                    S22824
+                                  1993-061C      Eyesat 1/AMRAD-Oscar-27        Eyesat 1                  S22825
+                                  1993-061D      Healthsat 2                    Healthsat 2               S22826
+                                  1993-061E      ITAMsat                        ITAMsat                   S22827
+12:32:05 T:6472  NOTICE: Enumerated WASAPI devices:
+12:32:05 T:2676   DEBUG:   Frame Samples   : 1322
+12:32:05 T:2676   DEBUG:   Frame Size      : 8
+12:32:05 T:2676   DEBUG: CActiveAESink::OpenSink - DIRECTSOUND Initialized:
+12:32:05 T:2676   DEBUG:   Output Device : default
+12:32:05 T:2676   DEBUG:   Sample Rate   : 44100
+12:32:05 T:2676   DEBUG:   Sample Format : AE_FMT_FLOAT
+12:32:05 T:2676   DEBUG:   Channel Count : 2
+12:32:05 T:2676   DEBUG:   Channel Layout: FL,FR
+12:32:05 T:2676   DEBUG:   Frames        : 661
+12:32:05 T:2676   DEBUG:   Frame Samples : 1322
+12:32:05 T:2676   DEBUG:   Frame Size    : 8
+12:32:05 T:7432  NOTICE: Running database version Addons19
+12:32:05 T:7432   DEBUG: SECTION:LoadDLL(special://xbmcbin/system/cpluff.dll)
+12:32:05 T:2676   DEBUG: CAESinkDirectSound::CheckPlayStatus: Resuming Playback
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in weather.openweathermap.extended has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in xbmc.json has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in metadata.common.fanart.tv has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in audiodecoder.nosefart has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in xbmc.audioencoder has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in pvr.vbox has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in script.openweathermap.maps has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in webinterface.default has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in repository.xbmc.org has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in kodi.audiodecoder has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in visualization.vortex has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in screensaver.xbmc.builtin.black has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in pvr.vdr.vnsi has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in pvr.argustv has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in kodi.guilib has been installed.'
+ There are     1 symmetry adapted basis functions of A2  symmetry.
+ There are     3 symmetry adapted basis functions of B1  symmetry.
+Importing posts...
+        Ssz                    0.372889
+        Esz                    0.513339
+        Ssz*(1-sim)           -0.001436
+        d                     -0.022844
+        pTM                    0.061153
+        nTM                    0.059892
+      </weights>
+    </FeatureBasedAlignmentScorer>
+  </SimpleSPEditsDeltaScorer>
+  <tempSched>
+      0    40.000000
+      1    35.978197
+      2    32.360766
+      3    29.107050
+      4    26.180479
+      5    23.548161
+      6    21.180509
+      7    19.050913
+      8    17.135437
+      9    15.412553
+     10    13.862897
+     11    12.469051
+     12    11.215349
+     13    10.087701
+     14     9.073432
+     15     8.161143
+     16     7.340580
+     17     6.602521
+     18     5.938670
+     19     5.341566
+petty+officer+jonathan+campos	01.08.2009 19:07:13	http://www.google.com/search?hl=en&q=Petty+Officer+Jonathan+Campos+&btnG=Google+Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	198.203.175.175
+fedex+field	01.08.2009 19:07:30	http://www.google.com/search?q=parking+fedex+stadium&hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=6ve&start=10&sa=N	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11	173.79.102.77
+granicrete	01.08.2009 18:29:16	http://www.google.com/url?sa=t&source=web&ct=res&cd=3&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fgranicrete&ei=H4l0Srj-CIiMMu-K2Ag&rct=j&q=granicrete+epoxy&usg=AFQjCNFe1ROCoOhqClBQ5dQlO_kV5JyJvA	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11	68.13.57.157
+6.x  Standard Type            : (INTERNAL or EXTERNAL H-MASER/CESIUM/etc)
+TESTING: checkPIC from config.setCompilers(/sandbox/petsc/petsc.next/config/BuildSystem/config/setCompilers.py:1003)
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+
+KLS	ALASKA	KELSO-LONGVIEW	afd	al_111_25OCT2007.png
+3AK5	ALASKA	DRIFT RIVER	afd	al_112_25OCT2007.png
+3AK5_1	ALASKA	DRIFT RIVER HELIPORT	afd	al_112_25OCT2007.png
+2R3	ALASKA	ISLAND LAKE SEAPLANE	afd	al_112_25OCT2007.png
+ENA	ALASKA	KENAI MUNI	afd	al_113_25OCT2007.png
+ENA_1	ALASKA	KENAI MUNI SEAPLANE	afd	al_113_25OCT2007.png
+5KE	ALASKA	KETCHIKAN HARBOR SEAPLANE	afd	al_114_25OCT2007.png
+KTN	ALASKA	KETCHIKAN INTL	afd	al_115_25OCT2007.png
+17AK	ALASKA	KETCHIKAN (TEMSCO H)	afd	al_115_25OCT2007.png
+8K9	ALASKA	KETCHIKAN MURPHYS PULLOUT SEAPLANE	afd	al_116_25OCT2007.png
+9C0	ALASKA	KETCHIKAN PENINSULA POINT PULLOUT SEAPLANE	afd	al_116_25OCT2007.png
+IAN	ALASKA	KIANA BOB BAKER MEM	afd	al_116_25OCT2007.png
+KVC	ALASKA	KING COVE	afd	al_117_25OCT2007.png
+AKN	ALASKA	KING SALMON	afd	al_118_25OCT2007.png
+AKN_1	ALASKA	KING SALMON SEAPLANE	afd	al_119_25OCT2007.png
+IIK	ALASKA	KIPNUK	afd	al_119_25OCT2007.png
+INR	ALASKA	McKINLEY PARK McKINLEY NATIONAL PARK	afd	al_142_25OCT2007.png
+MMV	ALASKA	MCMINNVILLE MUNI	afd	al_143_25OCT2007.png
+MYU	ALASKA	MEKORYUK	afd	al_143_25OCT2007.png
+MTM	ALASKA	METLAKATLA SEAPLANE	afd	al_144_25OCT2007.png
+84K	ALASKA	MEYERS CHUCK SEAPLANE	afd	al_144_25OCT2007.png
+MDO	ALASKA	MIDDLETON ISLAND	afd	al_144_25OCT2007.png
+MHM	ALASKA	MINCHUMINA	afd	al_145_25OCT2007.png
+51Z	ALASKA	MINTO	afd	al_145_25OCT2007.png
+52Z	ALASKA	MOOSE PASS SUMMIT LAKE SEAPLANE	afd	al_146_25OCT2007.png
+KMY	ALASKA	MOSER BAY SEAPLANE	afd	al_146_25OCT2007.png
+MOU	ALASKA	MOUNTAIN VILLAGE	afd	al_147_25OCT2007.png
+76Z	ALASKA	NAKEEN	afd	al_148_25OCT2007.png
+5NK	ALASKA	NAKNEK	afd	al_148_25OCT2007.png
+5NK_1	ALASKA	NAKNEK SEAPLANE	afd	al_148_25OCT2007.png
+umount (UMOUNT) [Y/n/?] y
+  Support option -a (FEATURE_UMOUNT_ALL) [Y/n/?] y
+unshare (UNSHARE) [N/y/?] n
+*
+* Common options for mount/umount
+*
+Support loopback mounts (FEATURE_MOUNT_LOOP) [Y/n/?] y
+  Create new loopback devices if needed (FEATURE_MOUNT_LOOP_CREATE) [Y/n/?] y
+Support for the old /etc/mtab file (FEATURE_MTAB_SUPPORT) [N/y/?] n
+*
+* Filesystem/Volume identification
+*
+bcache filesystem (FEATURE_VOLUMEID_BCACHE) [N/y/?] n
+btrfs filesystem (FEATURE_VOLUMEID_BTRFS) [N/y/?] n
+cramfs filesystem (FEATURE_VOLUMEID_CRAMFS) [N/y/?] n
+exFAT filesystem (FEATURE_VOLUMEID_EXFAT) [Y/n/?] y
+Ext filesystem (FEATURE_VOLUMEID_EXT) [Y/n/?] y
+f2fs filesystem (FEATURE_VOLUMEID_F2FS) [Y/n/?] y
+fat filesystem (FEATURE_VOLUMEID_FAT) [Y/n/?] y
+hfs filesystem (FEATURE_VOLUMEID_HFS) [N/y/?] n
+iso9660 filesystem (FEATURE_VOLUMEID_ISO9660) [N/y/?] n
+jfs filesystem (FEATURE_VOLUMEID_JFS) [N/y/?] n
+linuxraid (FEATURE_VOLUMEID_LINUXRAID) [N/y/?] n
+linux swap filesystem (FEATURE_VOLUMEID_LINUXSWAP) [N/y/?] n
+luks filesystem (FEATURE_VOLUMEID_LUKS) [N/y/?] n
+nilfs filesystem (FEATURE_VOLUMEID_NILFS) [N/y/?] n
+ntfs filesystem (FEATURE_VOLUMEID_NTFS) [N/y/?] n
+ocfs2 filesystem (FEATURE_VOLUMEID_OCFS2) [N/y/?] n
+Reiser filesystem (FEATURE_VOLUMEID_REISERFS) [N/y/?] n
+romfs filesystem (FEATURE_VOLUMEID_ROMFS) [N/y/?] n
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//6_nat_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//7_14_Nitrogen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//8_16_Oxygen.z
+NeutronHP: /Capture file for Z = 6, A = 12 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Capture/CrossSection/6_nat_Carbon
+NeutronHP: /Capture file for Z = 6, A = 13 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Capture/CrossSection/6_nat_Carbon
+NeutronHP: /Capture file for Z = 8, A = 18 is not found and CrossSection set to 0.
+@@@ G4ParticleHPInelastic instantiated for particle triton data directory variable is G4TRITONHPDATA pointing to /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//6_12_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//6_13_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//7_14_Nitrogen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//7_15_Nitrogen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//8_16_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//8_17_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//8_17_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//18_36_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//18_38_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//18_40_Argon.z
+
+====================================================================
+                  HADRONIC PROCESSES SUMMARY (verbose level 1)
+
+---------------------------------------------------
+                           Hadronic Processes for GenericIon
+
+  Process: ionInelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 4 GeV/n
+        Model:                      FTFP: 2 GeV/n ---> 100 TeV/n
+     Cr_sctns: Glauber-Gribov nucleus nucleus: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns:          GheishaInelastic: 0 eV  ---> 100 TeV
+
+                                  1999-064B      Clementine                     Clementine                S25978
+1999-066     1999 Dec 10 1432:07  1999-066A      XMM                            XMM                       S25989  Ariane 5G              V119 (504)       CSG ELA3                 0.0
+ofz#6291 out-of-memory [Caolán McNamara]
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen267
+\pgf@shorten@start@additional=\dimen268
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count321
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen269
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen270
+\pgf@pt@y=\dimen271
+\pgf@pt@temp=\dimen272
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+\tcb@temp=\box71
+\tcb@temp=\box72
+\tcb@out=\write5
+\tcb@record@out=\write6
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+ciInstanceKlass java/lang/Thread 1 1 550 9 9 9 9 100 8 10 3 8 3 10 10 100 8 10 9 10 10 10 10 10 10 10 9 10 10 9 10 9 10 9 10 9 10 9 9 10 9 10 9 10 9 100 10 10 9 9 9 7 100 10 8 10 10 10 10 10 100 10 10 10 10 100 11 10 9 10 9 10 100 10 10 100 10 10 11 10 100 10 10 10 7 10 10 10 10 10 10 10 10 10 10 100 8 10 10 10 8 10 8 10 8 8 10 10 7 8 10 9 9 10 10 10 9 10 100 10 11 9 9 10 100 10 11 100 10 10 11 10 100 10 10 10 8 9 10 11 10 11 10 7 8 100 1 1 100 1 100 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 1 1 1 1 1 1 100 1 1 1 1 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 1 1 100 100 1 1 1 1 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 1 1 12 1 12 12 1 1 12 12 7 12 100 12 7 12 12 12 12 12 12 12 12 12 12 12 12 12 7 12 12 12 12 12 100 12 12 12 12 1 12 12 12 12 1 1 1 12 12 12 12 12 1 12 12 12 1 12 12 12 100 12 12 1 12 1 12 100 12 12 1 12 12 1 12 12 12 12 12 12 12 12 12 1 1 12 12 1 12 1 1 1 100 12 100 12 1 12 12 12 12 12 12 1 12 100 12 12 12 12 1 12 100 12 1 12 12 12 12 1 12 12 100 12 12 12 12 100 12 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ofz#6435 bad-cast [Caolán McNamara]
+instanceKlass java/lang/Terminator$1
+instanceKlass sun/misc/SignalHandler
+instanceKlass java/lang/Terminator
+instanceKlass java/lang/ClassLoader$NativeLibrary
+instanceKlass java/io/ExpiringCache$Entry
+instanceKlass java/lang/ClassLoader$3
+instanceKlass java/lang/StringCoding$StringEncoder
+instanceKlass java/nio/file/Path
+instanceKlass java/nio/file/Watchable
+instanceKlass java/lang/Enum
+instanceKlass java/io/ExpiringCache
+instanceKlass java/io/FileSystem
+instanceKlass java/io/DefaultFileSystem
+instanceKlass java/nio/charset/CoderResult$Cache
+instanceKlass java/nio/charset/CoderResult
+instanceKlass java/lang/Readable
+instanceKlass java/nio/Bits$1
+instanceKlass sun/misc/JavaNioAccess
+instanceKlass java/nio/ByteOrder
+instanceKlass java/nio/Bits
+instanceKlass java/nio/charset/CharsetEncoder
+instanceKlass sun/nio/cs/ArrayEncoder
+instanceKlass sun/security/action/GetPropertyAction
+instanceKlass java/io/Writer
+instanceKlass sun/reflect/misc/ReflectUtil
+instanceKlass java/util/concurrent/atomic/AtomicReferenceFieldUpdater$AtomicReferenceFieldUpdaterImpl$1
+instanceKlass java/security/PrivilegedExceptionAction
+instanceKlass java/util/concurrent/atomic/AtomicReferenceFieldUpdater
+instanceKlass java/io/OutputStream
+instanceKlass java/io/Flushable

@@ -1,0 +1,741 @@
+time,file_name,iso8601,country,company,city,language_name,date_time,hostname,mac_address,bank_country,pricetag,latitude,date,random_number,language_code
+17:54:51,laufen.txt,1996-05-16T05:26:42,Mauretanien,Hein Müller KG,Meppen,Quechua,2000-03-05 09:11:29,db-30.barkholz.de,fc:3b:c2:cd:a1:f6,DE,"18,99 €",24.5161345,2000-04-08,894624226,tk
+00:17:46,her.jpeg,1970-12-28T09:42:39,Montenegro,Schinke GmbH & Co. KGaA,Oschatz,Malay,1983-09-26 10:49:34,db-46.wulff.de,16:3e:bd:29:6a:33,DE,"12.253,64 €",-25.211897,1991-11-28,316142,lzh
+20:41:52,drehen.numbers,2006-08-19T00:14:01,Japan,Gnatz GmbH & Co. KGaA,Badibling,Inupiaq,1998-08-11 15:33:56,laptop-93.schmidt.com,57:ed:c2:9f:35:e6,DE,"1.407,47 €",-31.0681715,1989-04-16,4442,sw
+20:38:35,Schule.gif,1987-04-19T22:20:57,Vietnam,Herrmann AG,Forst,Polish,1997-04-06 04:08:22,email-75.weihmann.net,80:2b:2a:4d:b2:bc,DE,"2,68 €",-73.736302,2008-05-04,585,ml
+11:27:24,liegen.avi,1986-08-20T06:17:55,Rumänien,Hesse,Mallersdorf,Igbo,2023-05-05 12:42:12,desktop-86.briemer.de,86:4d:f2:d2:c5:56,DE,"6.235,41 €",-19.839740,2001-09-19,942,kl
+19:25:31,Name.wav,2009-03-18T07:17:47,Nepal,Reichmann GmbH & Co. KG,Plauen,Tsonga,2006-10-25 11:58:39,desktop-29.hettner.com,9c:99:c3:31:6b:57,DE,"375,73 €",-66.364565,2020-10-13,57,sat
+06:08:51,fröhlich.js,1971-12-20T03:58:22,Komoren,Liebelt,Ahaus,Thai,2023-02-25 21:51:42,laptop-31.hermighausen.com,5c:e0:22:d3:48:26,DE,"3.265,37 €",11.319964,1971-05-08,944,ur
+01:54:47,freuen.mp3,2008-04-08T22:48:23,Thailand,Rogner Hauffer AG & Co. KGaA,Osterode am Harz,Marshallese,1981-12-27 08:07:27,lt-15.heydrich.de,74:6a:63:0f:2e:96,DE,"90.111,64 €",53.2305025,1991-02-05,0,bo
+12:23:53,Fisch.jpeg,2012-02-09T18:07:57,Antigua und Barbuda,Siering AG,Neubrandenburg,Limburgan,2004-11-23 09:21:50,laptop-72.raedel.net,4c:9a:7b:dd:c4:ba,DE,"2,97 €",-48.244228,1996-05-04,39,mag
+04:20:15,Wetter.mp3,1986-08-11T10:39:58,Tokelau,Koch GmbH & Co. KG,Lörrach,Zulu,1984-02-21 16:39:35,email-88.steinberg.de,b2:ab:3a:79:29:f5,DE,"52,36 €",6.9038675,1994-07-12,320557,tn
+11:20:48,Gesicht.txt,1984-03-15T17:39:44,Monaco,Hendriks,Stadtsteinach,Pali,2011-09-13 00:11:59,desktop-58.junken.de,c5:e0:21:9d:4e:1c,DE,"8,91 €",-51.497157,2014-04-25,78,mr
+19:44:10,Geburtstag.wav,1986-10-01T05:27:00,Pakistan,Ritter,Plauen,Lao,2005-01-04 18:48:43,srv-79.johann.net,05:e6:bf:44:f7:6d,DE,"280,53 €",75.5951115,2004-12-10,1,fur
+22:41:36,hören.pptx,2011-08-15T04:13:36,Slowenien,Mies GmbH,Ahaus,Ukrainian,2009-05-07 08:33:32,db-52.krebs.com,07:db:aa:9a:70:15,DE,"76.023,68 €",-7.0979275,2002-06-05,3,ps
+11:00:17,rufen.json,2004-02-07T19:49:27,St. Vincent und die Grenadinen,Kohl Löffler GmbH,Dresden,Tibetan,1999-04-03 17:46:23,db-89.anders.de,d0:cb:0d:ff:df:34,DE,"331,65 €",-0.9307055,1975-07-19,5127,sr
+06:29:37,zusammen.json,1986-06-24T02:36:51,Ukraine,Junitz AG,Altötting,Igbo,2002-03-13 22:16:43,email-13.weihmann.de,d4:3f:46:f8:b3:84,DE,"487,51 €",-51.8507765,2003-02-03,2408069,eu
+09:15:42,Katze.jpg,2006-01-04T06:04:30,Japan,Eberhardt,Heiligenstadt,Manx,1992-07-31 19:58:06,web-22.ullmann.com,cc:56:dd:37:18:5d,DE,"43,10 €",80.549604,2019-06-15,968960,ps
+17:56:00,Tag.ods,2006-01-20T01:06:47,Kroatien,Fiebig,Zossen,Tajik,2000-03-14 05:06:00,db-54.plath.org,c1:40:ab:0e:fc:e1,DE,"769,03 €",-15.853938,2004-08-03,7553,gez
+08:47:27,nass.jpg,2016-04-23T13:24:17,Belarus,Losekann KG,Donaueschingen,Akan,2008-11-29 21:11:31,srv-27.radisch.net,7a:96:ab:a3:9b:25,DE,"77,44 €",3.780120,1978-04-26,620726193,os
+01:08:30,Schule.html,1973-01-15T09:42:26,Tokelau,Jacob GbR,Badibling,Tagalog,1987-03-12 09:08:26,email-87.bauer.net,e2:7e:b5:4e:a8:21,DE,"303,39 €",-53.7774345,1990-09-01,74,csb
+19:06:01,Nase.mp3,1977-01-19T18:09:26,Kiribati,Ruppert Graf AG,Groß-Gerau,Urdu,2001-10-01 03:17:44,desktop-01.ruppersberger.de,99:fe:d6:3a:f4:1c,DE,"456,60 €",66.218536,1997-12-23,9351606,or
+12:47:28,heute.doc,1981-07-14T14:00:39,Slowenien,Trüb Fiebig GmbH & Co. KG,Erfurt,Haitian,1998-11-01 00:49:36,desktop-20.hoelzenbecher.com,7a:e8:a2:0f:b5:f7,DE,"44,31 €",-76.980406,1985-02-19,419,zh
+05:55:02,dazu.xlsx,1999-06-28T19:07:56,Belarus,Krein,Eisenach,Avestan,1977-12-04 13:44:12,email-32.loewer.de,bc:4c:84:76:26:9e,DE,"83,30 €",61.0556715,2013-11-30,82247,zh
+16:24:09,sagen.js,1979-01-04T21:29:24,Republik Moldau,Birnbaum Mülichen e.G.,Teterow,Luba-Katanga,2021-02-23 15:42:41,laptop-78.gute.com,be:a6:cf:62:53:bc,DE,"52,39 €",-18.3451895,1996-06-18,32853,iw
+22:01:39,Winter.css,2012-09-27T06:05:29,Amerikanisch-Ozeanien,Stolze Roskoth GmbH,Lüneburg,Tahitian,1985-10-11 05:43:23,db-35.oestrovsky.com,4c:13:5e:7b:b1:6c,DE,"3,43 €",86.8597925,2021-04-26,892391167,th
+04:04:29,nämlich.doc,2003-07-30T11:32:53,Salomonen,Jüttner Hermighausen Stiftung & Co. KG,Stade,Chechen,2004-07-16 10:02:06,db-25.hande.de,6d:31:49:1f:d3:fd,DE,"8.500,00 €",54.449746,2005-02-23,95669803,kl
+23:24:22,mit.xlsx,1990-07-04T03:33:15,Barbados,Holzapfel KG,Bremen,Corsican,1976-07-09 09:00:35,web-57.beer.com,73:07:1d:27:8f:99,DE,"33.773,14 €",80.1630605,2007-11-15,875507650,nds
+23:52:43,zwischen.mp4,2021-09-30T20:05:31,Australien,Trubin Stiftung & Co. KGaA,Kemnath,Bihari languages,2013-10-31 00:17:09,srv-92.gierschner.de,ee:bc:6b:0a:96:c9,DE,"6.270,37 €",-54.183972,2004-08-03,434088679,bem
+22:10:52,möglich.odp,2012-11-17T06:53:36,Malawi,Striebitz Höfig KGaA,Augsburg,Inuktitut,1984-07-15 03:16:14,web-76.auch.com,8f:3f:71:0d:37:83,DE,"92,72 €",40.447941,1973-06-24,175202,tig
+10:35:32,heraus.wav,1989-10-23T14:04:26,Malediven,Liebelt,Wiedenbrück,Urdu,2014-06-18 14:34:21,laptop-84.hartung.com,4e:5f:76:ee:ec:e6,DE,"1.910,93 €",-78.723789,2003-02-24,3400850,zh
+06:10:42,Dorf.wav,1980-10-29T17:16:05,Montenegro,Ditschlerin e.G.,Mellrichstadt,Pali,1998-05-25 20:45:38,db-29.van.org,31:a7:8d:c9:fb:fa,DE,"4,73 €",85.8715175,1984-03-05,688630,ru
+00:59:08,Tier.js,1997-12-26T02:16:57,Litauen,Harloff Schuchhardt OHG mbH,Neunburg vorm Wald,Luba-Katanga,1980-01-22 22:12:59,db-06.trueb.com,4f:72:c7:32:f2:9b,DE,"5.360,33 €",-19.9268085,1974-12-13,3244757,fy
+21:03:46,neben.ods,2011-04-12T12:41:23,Mexiko,Stoll Trüb AG,Genthin,Catalan,1979-08-02 17:48:30,email-78.paertzelt.de,ef:5e:93:16:3d:6c,DE,"91.908,76 €",-19.810782,2022-10-21,3040,csb
+21:10:17,Erde.mp3,2003-10-18T19:43:38,Guyana,Schüler,Rothenburg ob der Tauber,Uzbek,1995-05-06 16:16:13,lt-96.schmiedecke.org,af:c0:a5:cd:0b:c0,DE,"0,39 €",50.5917255,2021-11-22,762,bem
+15:34:52,Weihnachten.gif,2015-06-18T04:29:23,Pitcairn,Förster Fliegner GmbH,Bersenbrück,Marathi,1999-04-22 20:25:07,srv-55.siering.de,aa:d5:03:d8:de:ec,DE,"3.972,07 €",-41.179784,2012-03-23,7786,hi
+00:47:41,Wald.mov,1971-08-12T05:24:11,Argentinien,Trapp Schuchhardt Stiftung & Co. KG,Brand,Georgian,1998-03-20 03:33:58,db-63.seidel.org,b3:fe:55:af:5a:a3,DE,"2.142,37 €",43.7311385,1998-01-18,403828,cy
+10:14:55,verstecken.bmp,2002-08-09T10:35:38,Weihnachtsinsel,Schmiedecke,Gransee,Maori,1970-03-16 08:33:31,desktop-33.doerr.com,5f:c5:51:3c:2c:94,DE,"2,58 €",-14.4080125,1992-07-17,828163363,tcy
+10:57:04,zeigen.css,1977-05-03T15:26:13,Nördliche Marianen,Sager,Erkelenz,Interlingua,1985-04-22 18:11:52,web-51.henk.org,cb:a0:26:2a:42:96,DE,"26,65 €",39.112262,1984-11-21,4,dv
+17:01:19,am.webm,2019-02-13T09:17:40,Russische Föderation,Vogt Dippel GmbH,Rudolstadt,Portuguese,1996-10-29 13:25:16,web-71.carsten.org,68:35:f4:9e:4f:ec,DE,"6,96 €",-67.237696,2013-04-15,9041,sv
+23:00:08,glauben.bmp,1997-10-01T01:37:19,Frankreich,Hartung Jacob AG & Co. KGaA,Strasburg,Lingala,1994-12-21 15:42:53,lt-11.reichmann.de,12:6a:d0:d3:fc:a5,DE,"8.435,62 €",61.470292,1994-01-28,66,si
+04:02:36,bringen.js,1970-04-24T23:32:01,Panama,Fröhlich,Günzburg,Telugu,2016-09-26 04:21:27,laptop-98.bolander.com,08:92:ee:ce:e1:48,DE,"722,44 €",-22.769271,2014-08-29,844,sq
+19:50:54,ob.html,1971-12-20T20:38:18,Kasachstan,Stahr,Wolfach,Maltese,1998-12-17 03:06:26,web-74.christoph.net,a8:77:3c:e7:60:1d,DE,"6.831,61 €",9.954633,1976-01-27,9,unm
+05:10:08,sehen.csv,1977-08-12T14:54:53,Jordanien,Pechel,Northeim,Greek,1980-09-02 18:42:42,srv-49.jopich.net,4d:fc:fb:c3:b1:ad,DE,"10.831,06 €",-16.075690,1992-09-21,4239,kw
+04:11:07,bekommen.css,1975-04-24T00:15:27,Französisch-Polynesien,Schmiedt KG,Einbeck,Guarani,1992-06-02 05:19:42,laptop-16.stoll.net,7b:f7:c4:8d:12:4a,DE,"81,45 €",-25.2915455,1972-08-04,336,nso
+05:33:23,ja.mp4,1978-05-29T07:28:01,Kasachstan,Walter GmbH & Co. KG,Staßfurt,Japanese,1980-07-28 11:21:09,email-51.wulff.org,d7:66:da:48:d2:b0,DE,"696,68 €",2.5647275,1995-05-26,49,fy
+22:05:34,plötzlich.html,1989-07-30T12:41:09,Burkina Faso,Rädel KG,Nördlingen,Maori,2001-03-13 14:48:55,laptop-25.haenel.com,a0:a1:3b:a5:11:a5,DE,"79.897,91 €",32.384029,1996-04-17,73759611,yue
+11:45:24,ganz.gif,2017-05-08T04:22:35,Ecuador,Henck Jüttner GbR,Grimmen,Interlingua,1974-04-20 16:20:35,email-46.berger.de,48:2c:60:fc:f7:cb,DE,"54.581,46 €",46.5445725,1986-07-06,87,dz
+19:19:12,erschrecken.mov,2012-06-12T04:39:22,Nauru,Ortmann Scholtz KGaA,Osterburg,Kazakh,2014-12-03 20:18:48,srv-18.klotz.com,4b:08:83:2c:7b:f5,DE,"478,95 €",4.037675,2005-09-14,7,bo
+15:15:59,rennen.avi,1975-10-10T07:00:43,Antarktis,Kramer AG & Co. KGaA,Ebermannstadt,Malagasy,1987-11-30 11:06:19,laptop-24.loeffler.de,20:38:f6:47:9a:42,DE,"84.628,55 €",24.4406005,2001-05-27,722137,ayc
+23:15:34,Schluss.mov,1999-12-03T06:07:03,Britische Jungferninseln,Juncken Gotthard e.V.,Osterode am Harz,Avestan,1981-08-13 23:44:55,db-60.riehl.org,b5:e0:20:54:d7:32,DE,"3.820,95 €",-2.0660925,1978-06-16,277150,sa
+21:33:24,lachen.txt,2016-11-29T09:38:00,Luxemburg,Carsten,Bützow,Marathi,2021-08-13 17:19:43,web-04.drewes.net,11:95:1b:34:43:4a,DE,"4,08 €",-69.643031,2004-08-07,6239984,uz
+02:49:41,endlich.flac,1993-06-01T07:51:44,Bermuda,Hiller Knappe OHG mbH,Jüterbog,Lithuanian,1994-04-18 10:05:52,srv-37.hethur.de,43:94:07:9b:d7:bc,DE,"57,79 €",11.019892,2013-03-29,58170,sid
+21:38:17,doch.json,2009-08-03T07:58:53,Pitcairn,Rädel,Uelzen,Sanskrit,2022-02-16 22:51:32,web-70.ehlert.de,6c:c7:38:35:ed:64,DE,"3,96 €",-20.0047255,1999-05-25,69244202,gu
+13:14:55,Stück.ods,1981-07-31T19:10:03,Polen,Plath Löchel AG,Greiz,Swahili,2021-04-25 17:35:10,db-38.mude.com,de:dc:d3:91:7d:6f,DE,"58.559,20 €",-68.036973,2012-11-28,6,fr
+05:33:55,unten.xlsx,2009-10-07T23:25:47,Norwegen,Binner,Wesel,Ukrainian,1974-01-07 05:39:06,web-53.heser.org,b3:21:01:a2:b6:25,DE,"9,57 €",-44.7671435,1994-08-25,174,ast
+15:00:31,bekommen.mov,2000-02-04T01:07:08,Vereinigtes Königreich,Gnatz,Senftenberg,Thai,2011-07-30 18:22:39,srv-21.hauffer.com,4e:f6:10:a1:79:49,DE,"25.698,68 €",-73.519687,1973-06-16,58,mn
+15:58:19,Flasche.bmp,2019-06-28T21:41:28,Litauen,Schuchhardt Benthin AG,Stendal,Cornish,2000-05-26 16:20:13,laptop-11.hornich.org,c4:66:bc:df:ef:9e,DE,"5,05 €",-17.1706915,2006-12-12,2,tn
+13:30:22,über.mp3,2004-04-15T06:50:59,Schweiz,Martin Kruschwitz KG,Passau,Tajik,2006-01-01 16:29:05,web-20.hess.org,1c:db:40:c1:ff:f4,DE,"63.833,99 €",30.5728875,1997-12-01,6,zu
+14:35:15,Familie.js,2009-12-13T00:14:22,Tschad,Beyer Stiftung & Co. KG,Dinkelsbühl,Tswana,1979-08-11 17:41:00,email-55.schmidtke.org,c3:11:b0:af:a8:52,DE,"21,67 €",50.989659,1988-07-10,13,hu
+08:58:58,letzte.webm,2005-06-12T00:01:56,Kolumbien,Schuchhardt GmbH & Co. KG,Germersheim,Quechua,1980-12-01 22:40:48,db-47.hertrampf.com,73:7b:6a:31:d1:62,DE,"3.543,10 €",42.020640,1984-02-14,151,pa
+18:43:25,den.flac,1992-07-14T00:11:27,Afghanistan,Keudel GbR,Goslar,Sango,2002-01-20 07:41:27,laptop-86.drewes.net,e1:fe:71:be:b6:95,DE,"99.377,59 €",-75.4985895,1983-04-15,198,wa
+07:20:14,finden.bmp,2001-03-18T17:22:04,Albanien,Briemer,Erbisdorf,Hausa,1999-07-02 06:35:28,srv-34.holsten.com,15:50:c6:a7:37:3e,DE,"240,02 €",69.2251745,2003-05-11,8959624,mn
+21:29:41,Oma.gif,1973-05-16T19:51:50,Bahrain,Hamann GbR,Badalzungen,Faroese,2022-05-23 21:01:06,email-77.kensy.de,02:cb:72:57:4c:6d,DE,"15.458,90 €",-9.433236,1980-09-13,452960357,zh
+17:50:23,gleich.wav,2004-06-29T12:19:07,Uruguay,van der Dussen GmbH & Co. OHG,Ingolstadt,Chechen,1978-06-10 13:57:59,laptop-63.seifert.net,79:eb:fb:19:94:4a,DE,"697,49 €",-25.6924105,1978-09-04,42,an
+03:26:22,langsam.mp4,1977-12-29T11:55:53,Vereinigte Staaten,Beckmann,Rosenheim,Yiddish,1982-01-28 04:01:23,db-09.rudolph.com,df:24:f9:f0:09:f3,DE,"4.563,33 €",-2.8924085,2013-06-08,55139592,ts
+00:17:04,Schüler.mp3,2002-10-10T09:45:08,Dschibuti,Röhricht Hellwig GmbH,Viersen,Finnish,1989-10-04 03:55:44,laptop-89.pechel.com,30:26:bb:24:f2:34,DE,"84,71 €",-60.003556,1991-05-31,27673997,fur
+01:51:56,Junge.pptx,2005-11-18T20:40:56,Eritrea,Wilms AG,Lippstadt,Swedish,2015-06-13 11:32:47,desktop-74.scheibe.com,3e:0a:f7:71:6a:ad,DE,"66,53 €",85.6779295,1970-07-05,9376167,sid
+13:37:01,Kind.js,2011-03-08T12:51:24,Griechenland,Rohleder GmbH,Artern,Hiri Motu,1983-07-19 16:45:17,db-96.schweitzer.de,7f:02:80:de:32:1a,DE,"9,33 €",75.3689565,2017-08-23,80949077,fil
+17:27:41,früh.docx,1989-10-17T01:30:23,Tadschikistan,Hellwig Müller GmbH & Co. KG,Berlin,Latvian,1994-03-31 17:36:02,db-05.kaester.com,8e:30:d8:5c:53:39,DE,"63.344,41 €",-43.948567,1996-12-03,1,hy
+06:45:45,nimmt.mp3,2007-09-04T21:54:51,Guinea-Bissau,Langern Thies GbR,Magdeburg,Avestan,2015-05-02 11:58:27,web-33.gerlach.de,6f:de:ea:e6:1c:2b,DE,"8,36 €",-80.855533,1986-02-08,213031306,apn
+19:22:39,essen.wav,2020-07-16T01:39:09,Kuwait,Franke AG,Höxter,Haitian,1985-03-07 17:57:30,srv-91.koch.com,84:65:3f:9f:f8:bd,DE,"50.100,58 €",83.8339745,1980-10-27,91338140,fa
+16:27:51,lange.wav,1995-02-17T09:43:34,Amerikanisch-Ozeanien,Spieß Siering e.G.,Eichstätt,Quechua,2017-04-06 07:43:46,web-33.dobes.org,c7:6b:c5:ae:57:e0,DE,"66,15 €",30.9819305,1982-06-27,513352,sa
+02:47:44,Bein.mp3,2022-07-05T00:21:00,Mosambik,Hermighausen e.G.,Rathenow,Estonian,2013-02-27 07:10:27,laptop-28.hertrampf.de,3d:82:71:8e:ea:c5,DE,"305,78 €",-8.892522,1994-06-02,963444975,bn
+12:22:51,Teller.webm,1972-07-24T07:49:37,Guadeloupe,Huhn AG,Ludwigsburg,Korean,2019-02-07 10:42:08,srv-28.wernecke.com,2c:2d:d9:8d:10:21,DE,"13,15 €",1.1071475,1998-08-29,255070807,apn
+12:06:30,neun.mp3,2000-04-09T18:51:15,Vereinigtes Königreich,Kraushaar,Malchin,Yoruba,2006-11-11 00:34:03,srv-11.hendriks.de,89:73:dc:4a:9f:13,DE,"73.659,29 €",-39.441340,2017-11-20,56569,ky
+22:16:08,wissen.html,2016-01-25T12:24:02,Kaimaninseln,Conradi Kranz GmbH & Co. OHG,Vechta,Tibetan,2019-11-10 09:38:55,lt-45.foerster.net,c5:f7:10:e5:70:c8,DE,"23,29 €",-52.376733,2008-08-25,1278,ku
+06:52:16,selbst.mp4,2014-08-08T11:40:17,Dominikanische Republik,Stadelmann,Finsterwalde,Slovenian,1997-08-13 10:26:18,lt-87.froehlich.net,0b:8e:6e:73:f8:fb,DE,"5.898,85 €",80.340796,1986-11-18,2371148,yue
+13:14:38,Wald.webm,1970-01-19T11:23:15,Zypern,Reinhardt Budig GbR,Böblingen,Welsh,2004-01-22 03:20:52,laptop-07.hoevel.com,c6:d9:f1:0f:3b:f8,DE,"8,36 €",-6.7240375,2000-07-07,715,dv
+15:31:25,Baum.flac,1980-02-07T23:09:14,Kamerun,Wilms GmbH,Altötting,Sichuan Yi,1983-04-03 13:54:03,email-31.wesack.org,56:9c:8d:94:5e:17,DE,"20,96 €",-34.863776,2019-05-28,4267083,am
+02:01:56,verstehen.mp3,1977-09-14T07:28:27,Weihnachtsinsel,Rust AG & Co. KG,Miesbach,Sundanese,2003-03-16 01:55:24,srv-13.stiebitz.de,32:99:32:ce:38:74,DE,"60.277,81 €",17.4952685,2010-06-01,1,te
+01:05:17,Ende.mov,1992-07-15T08:29:43,Algerien,Flantz,Rochlitz,Afar,2009-04-13 21:11:09,web-52.mielcarek.de,e1:67:d6:21:6e:43,DE,"80,53 €",5.5498125,2011-12-07,2,wal
+19:40:43,was.png,2010-12-03T08:14:32,Ukraine,Bender GmbH,Wittenberg,Igbo,2011-12-04 14:50:36,laptop-51.plath.org,73:d8:a7:67:5f:22,DE,"97,30 €",30.5406855,2008-09-27,772147,mn
+05:07:41,verstehen.flac,2008-10-18T02:45:05,Portugal,Holsten AG & Co. KGaA,Feuchtwangen,Kinyarwanda,1976-02-05 08:34:00,lt-21.kreusel.com,4b:84:fb:d6:9a:68,DE,"542,91 €",-42.881330,1973-08-12,87,lzh
+10:37:38,schaffen.flac,2018-04-26T04:11:15,Mauretanien,Klingelhöfer GmbH,Flöha,German,1971-10-22 18:26:14,srv-71.gude.de,ad:ff:c5:1b:ec:33,DE,"26.717,15 €",-1.133722,1974-06-24,2387144,ga
+11:43:19,schwimmen.gif,1998-10-11T12:53:17,Polen,Scheuermann GmbH,Lüdenscheid,Shona,2005-12-15 20:52:14,web-70.ullmann.de,01:7b:bf:e1:4a:2c,DE,"540,50 €",32.4337675,2014-04-26,95,kk
+11:44:34,dein.wav,1974-10-27T16:10:45,Ecuador,Koch II GmbH,Starnberg,Kurdish,2012-07-19 13:16:19,srv-19.juettner.net,6b:61:73:d5:c5:36,DE,"2,60 €",88.282411,1999-11-01,87,ca
+19:38:23,vorbei.mp3,1976-09-23T23:29:01,Belarus,Trubin,Lobenstein,Malagasy,2000-06-03 13:26:38,lt-19.kramer.org,3e:72:5c:f0:86:c7,DE,"49,07 €",-29.290751,1972-09-17,72205160,am
+02:57:21,hin.json,1975-04-17T19:40:09,Mexiko,Schmidt Henschel GmbH & Co. KG,Mittweida,Czech,1997-03-21 23:43:55,srv-98.jockel.net,03:47:8d:f5:bf:ba,DE,"3.221,20 €",-25.886943,1974-11-28,7011750,ro
+18:46:46,auf.pages,1999-11-02T00:41:56,Iran,Ehlert AG & Co. KGaA,Schrobenhausen,Nauru,1975-12-10 14:59:54,laptop-48.ortmann.org,ec:86:bd:24:09:a4,DE,"396,76 €",66.324187,1984-05-05,8,iw
+19:00:52,schon.bmp,1982-08-23T16:52:55,Vereinigtes Königreich,Röhricht,Pinneberg,Persian,1979-03-03 12:09:41,email-57.hendriks.de,8c:3c:f3:6f:49:17,DE,"475,18 €",-68.0531175,2007-11-09,8535,nr
+19:42:47,Monate.numbers,1977-05-08T14:08:20,Peru,Ernst,Mainburg,Sanskrit,2015-10-05 06:37:02,laptop-71.radisch.com,4d:cf:1a:88:45:8a,DE,"889,76 €",44.053999,1997-05-31,285490,tcy
+03:20:26,Zimmer.json,1988-02-07T19:18:18,Tschad,Schomber,Ingolstadt,Afar,2014-04-06 16:00:04,db-79.mende.com,3f:38:ea:53:79:69,DE,"33,98 €",-84.0263495,1979-04-17,43268,so
+19:34:21,früh.avi,1985-01-23T18:19:12,Seychellen,Etzler Jacob GmbH & Co. KG,Roth,Georgian,2016-05-03 08:47:33,email-75.klemt.de,4f:c0:2b:f5:e1:ef,DE,"65.154,63 €",74.412800,2001-05-03,12116,ro
+15:05:52,fressen.odt,1978-08-01T12:17:44,Laos,Drubin Kensy KG,Roth,Fijian,1985-09-02 02:00:49,web-63.kabus.com,6b:af:7b:82:b8:5a,DE,"82,49 €",-81.871656,2007-01-14,3,ml
+17:41:44,Fahrrad.mov,2008-08-26T18:42:51,Bhutan,Boucsein,Starnberg,Sardinian,2010-05-27 14:44:45,db-30.linke.de,de:dc:4d:ab:96:86,DE,"93.812,46 €",64.333041,2003-01-25,822,yue
+17:02:30,antworten.html,2015-09-28T12:47:21,Bosnien und Herzegowina,Schinke Heinrich GmbH,Rathenow,Danish,2019-10-14 16:25:06,laptop-43.roemer.com,2a:0d:31:b4:8d:32,DE,"88,30 €",-82.053131,1978-04-18,332872146,nds
+16:00:56,waschen.pdf,1989-03-20T01:50:41,Belarus,Geisel KG,Hettstedt,Manx,2007-08-13 17:36:45,laptop-66.wieloch.com,88:9d:99:d4:54:56,DE,"4.357,07 €",80.299586,2011-01-08,5425,be
+13:40:58,schön.pptx,1998-04-24T22:46:12,São Tomé und Príncipe,Heinz e.V.,Mayen,Urdu,1986-10-04 15:39:18,lt-15.fritsch.de,b0:cd:e2:84:96:74,DE,"9,84 €",59.893666,1985-03-31,9774,et
+16:04:36,ganz.mov,2004-09-25T17:57:31,Vanuatu,Bloch Wulff AG & Co. KGaA,Emmendingen,Hungarian,1983-06-09 02:58:38,lt-52.schmiedt.com,ef:d5:24:be:89:a4,DE,"2.384,44 €",-42.104011,2013-06-11,6043,mg
+01:20:37,zurück.csv,1998-03-04T22:01:49,Ägypten,Jacob,Eggenfelden,Dutch,2012-12-11 21:57:25,lt-37.hartung.com,10:48:05:71:9f:af,DE,"665,20 €",59.716294,2017-03-23,22606268,lij
+10:04:18,an.jpeg,1988-06-20T18:40:29,Ghana,Tschentscher AG,Kleve,Quechua,2016-10-25 16:38:49,laptop-15.weller.de,81:4f:55:b0:eb:38,DE,"4,50 €",-85.6041375,1975-01-05,233597,nn
+14:32:41,verlieren.flac,2002-07-24T02:17:17,Zentralafrikanische Republik,Röhrdanz Kroker GbR,Vechta,Bislama,2009-02-02 18:13:38,db-77.fritsch.net,5e:e7:c1:f0:fc:a7,DE,"73.946,44 €",-41.200821,2008-04-02,7,xh
+16:00:04,noch.mp3,1988-07-02T09:52:55,Anguilla,Reising Seifert GmbH & Co. OHG,Magdeburg,Aragonese,2013-08-29 21:03:42,lt-34.mueller.net,ea:47:4e:c4:f9:a0,DE,"3.953,24 €",54.780874,1996-12-19,39492,gd
+20:25:41,zu.pptx,1995-03-18T20:11:22,Kirgisistan,Lindau Ehlert AG & Co. KG,Wernigerode,Danish,1974-12-28 03:48:08,email-91.ackermann.com,ae:aa:ef:44:85:79,DE,"338,41 €",43.5654355,2015-12-28,47,wal
+00:38:14,darauf.ods,2008-06-18T11:26:29,Brasilien,Koch II Johann GmbH,Meppen,Galician,2022-05-31 02:57:47,srv-33.wende.org,52:bc:bb:d1:89:f0,DE,"10.281,21 €",2.3074685,2022-10-20,87,ja
+17:49:12,möglich.xlsx,1983-03-06T18:37:47,Kongo,Werner Winkler GmbH,Cottbus,Kuanyama,2003-03-26 15:02:34,db-35.schweitzer.com,3f:a9:fc:6b:a5:4e,DE,"35.412,12 €",-85.8685805,2003-02-18,73,ru
+14:15:07,Schnee.js,2020-05-27T23:11:24,Kap Verde,Scholl GmbH,Bad Liebenwerda,Venda,2002-05-29 14:33:45,web-80.troest.de,f8:31:4f:a2:63:b8,DE,"902,65 €",-18.7594155,1997-08-30,71282,sat
+19:00:47,Wissen.bmp,2022-03-09T19:19:04,Somalia,Gnatz Peukert AG & Co. KGaA,Freudenstadt,Haitian,2002-11-01 14:52:53,lt-62.loewer.net,75:bb:e4:74:9d:9c,DE,"3.772,22 €",-89.0229965,1970-03-31,9933,lij
+12:25:44,dabei.pages,1971-08-15T07:52:04,Kap Verde,Atzler GmbH,Ochsenfurt,Xhosa,2011-01-01 08:02:02,lt-83.fischer.net,08:05:b3:41:68:7c,DE,"7,33 €",21.4091005,1979-01-21,2633863,yi
+06:50:08,Maus.html,2007-06-30T17:07:30,Lettland,Schmidt,Zschopau,Maltese,1988-11-12 16:57:27,srv-32.jacobi.de,73:8c:02:86:69:7e,DE,"1,04 €",37.1507365,1979-08-13,47,kok
+12:50:20,lange.wav,1996-01-20T08:57:03,Salomonen,Möchlichen,Kyritz,Afrikaans,1990-03-21 07:25:36,laptop-28.doehn.de,7e:a3:8d:57:22:89,DE,"4,82 €",-12.633574,2000-08-30,448,gu
+16:11:59,Seite.webm,2014-11-24T04:05:07,Republik Moldau,Weihmann,Badalzungen,English,2000-08-24 10:56:15,srv-72.oestrovsky.org,b8:fc:bd:c9:25:35,DE,"75.800,74 €",-30.2350675,1981-05-17,3,fil
+23:04:52,mit.wav,2007-04-17T09:19:49,St. Barthélemy,Graf,Gifhorn,Pushto,1972-10-09 05:43:37,lt-34.seifert.de,6c:44:7f:41:a0:c0,DE,"1.585,68 €",-79.6239345,2011-08-15,7725552,fur
+17:16:48,dann.mp3,1994-05-26T14:23:23,Dänemark,Bauer,Gardelegen,Oriya,1974-09-11 19:46:40,db-25.otto.com,08:01:b8:9d:90:b0,DE,"68,39 €",70.255869,2007-03-10,14096,mt
+14:47:18,kalt.jpeg,1991-04-10T10:58:14,Osttimor,Nerger,Garmisch-Partenkirchen,Walloon,2009-07-13 17:25:07,desktop-47.gertz.com,ce:4b:df:49:9b:cd,DE,"658,26 €",37.0484365,1986-10-21,5,sc
+11:13:01,haben.flac,2022-07-05T07:42:53,Myanmar,Ruppersberger,Greiz,Interlingua,2009-10-12 15:23:12,email-30.doerr.org,ac:ca:11:46:4d:c2,DE,"1.493,81 €",57.971679,2000-04-05,10,sa
+04:58:17,schnell.csv,1999-01-15T19:49:35,Westsahara,Pieper Stadelmann Stiftung & Co. KGaA,Magdeburg,German,2013-09-26 16:18:50,lt-35.heintze.de,40:4b:a0:5c:e5:ec,DE,"3.854,55 €",-75.932288,1998-04-19,991873446,ca
+09:30:14,reich.doc,1977-07-26T11:58:03,Peru,Budig,Wolgast,Latvian,2015-04-30 20:24:00,laptop-14.radisch.de,0c:a1:6c:4a:e9:d0,DE,"940,29 €",-58.5858405,1978-05-17,53,shs
+06:00:05,seit.mp3,1984-10-09T01:41:13,Honduras,Dörr,Stendal,Slovenian,1994-04-12 12:00:39,desktop-43.luebs.com,f3:63:61:69:14:22,DE,"285,19 €",63.012778,1983-12-09,44785485,gd
+17:09:41,Zeit.wav,2013-01-17T02:43:32,Guatemala,Kuhl,Bad Mergentheim,Japanese,1990-06-06 23:19:39,lt-43.siering.com,e4:1c:cc:c9:9a:27,DE,"1.928,95 €",-88.471046,2021-10-03,131746,gd
+10:06:36,tot.wav,2009-07-04T22:48:51,Libyen,Reising e.V.,Lübben,Japanese,2016-11-17 19:27:30,desktop-84.luebs.com,23:91:c7:12:48:9d,DE,"11.446,87 €",-41.377182,2003-09-13,9,ka
+10:42:00,Geschichte.mov,2016-08-30T13:13:20,Turkmenistan,Dörr GmbH & Co. KG,Freudenstadt,Icelandic,2020-05-06 02:24:36,email-01.eigenwillig.com,7e:32:29:ef:bc:54,DE,"2.326,20 €",55.525254,1976-06-15,6,quz
+15:56:03,neu.html,2021-10-13T16:21:42,Palästinensische Gebiete,Loos Roht KG,Erding,Russian,1973-04-21 22:06:00,srv-86.baum.net,69:b8:a7:2f:2c:bf,DE,"7.087,05 €",-10.426336,2009-09-18,502522,ug
+05:20:41,gehören.csv,2016-06-25T22:43:12,Côte d’Ivoire,Koch II Gieß KG,Hainichen,South Ndebele,2011-04-22 02:48:12,desktop-61.karz.de,64:1b:8b:16:e0:8d,DE,"4.181,58 €",71.358250,1984-12-07,3339,kok
+21:16:38,bin.css,1981-06-02T13:16:57,Finnland,Gertz KGaA,Sankt Goar,Twi,1975-10-10 09:27:43,lt-27.waehner.de,60:33:f7:24:64:43,DE,"6.955,20 €",-0.9366015,1973-11-18,1925256,hu
+06:38:10,ziehen.numbers,2011-07-26T10:43:39,Dschibuti,Bolander,Soltau,Slovenian,1973-08-14 11:01:38,laptop-75.stey.com,fb:67:62:de:b6:c3,DE,"41.355,19 €",13.696864,1972-01-09,70264,shs
+19:04:57,verstehen.webm,2016-07-18T13:15:19,Algerien,Walter AG & Co. KG,Lemgo,Sango,1975-10-28 18:27:36,email-24.paertzelt.net,70:0a:f8:dd:22:f2,DE,"3.234,76 €",-65.394856,1979-07-29,7,shs
+09:19:40,Schnee.webm,2014-08-14T01:45:57,Tonga,Kramer GmbH & Co. KG,Biedenkopf,Hungarian,1972-05-16 17:10:18,db-82.beer.org,b0:04:e2:7a:2d:b5,DE,"5,37 €",23.2071745,1988-02-16,761237339,fa
+06:44:02,als.avi,1985-08-28T02:52:00,Mongolei,Eberhardt GmbH,Wolgast,Thai,2006-05-03 22:19:46,srv-10.hentschel.de,b1:6f:1a:80:26:37,DE,"4,77 €",2.716649,2018-01-10,29,fil
+05:43:39,kein.bmp,2000-11-11T08:43:48,Finnland,Köhler Putz AG & Co. OHG,Regen,Dutch,1987-05-14 10:17:51,laptop-46.biggen.com,33:c6:bb:24:de:1e,DE,"83,54 €",82.654954,1984-02-19,862,et
+20:10:37,Stadt.jpg,1974-03-11T22:40:52,Syrien,Scholl,Kyritz,Vietnamese,2003-02-23 20:34:27,desktop-09.fiebig.de,ec:d3:7d:06:a5:fe,DE,"7.881,14 €",-77.2668065,2006-09-06,154923,wae
+02:43:55,wer.html,1981-07-15T13:31:42,Zypern,Jockel KGaA,Karlsruhe,Yoruba,1988-01-25 11:19:42,lt-01.raedel.com,5e:f9:d0:49:11:bc,DE,"23.714,59 €",48.3042905,1977-03-04,376,id
+21:10:40,Papa.mp3,2009-11-14T00:17:13,Grenada,Walter,Monschau,"Sotho, Southern",2015-07-23 00:50:26,db-07.heinrich.com,75:8d:74:98:95:6a,DE,"343,62 €",7.068263,1971-11-10,9115,yo
+12:26:17,Sache.flac,1983-06-09T12:14:57,Martinique,Wagenknecht AG & Co. OHG,Staffelstein,Burmese,2019-06-16 21:08:20,laptop-90.wohlgemut.com,3f:e6:f2:51:bc:0b,DE,"53.390,05 €",27.6826925,1983-11-02,97681,pap
+10:02:31,Himmel.jpg,2013-11-24T16:22:55,Chile,Sölzer Pruschke AG & Co. KGaA,Plauen,Chichewa,1972-01-23 04:06:57,laptop-35.juncken.de,9a:9f:50:5a:94:8b,DE,"0,03 €",50.193103,2005-09-26,84,ps
+09:53:29,stehen.html,2003-12-04T14:15:22,Singapur,Plath Neureuther AG,Husum,Abkhazian,1991-02-02 18:35:06,desktop-22.karge.de,5d:fd:27:3a:7a:08,DE,"423,06 €",40.3183495,1970-07-25,9675,nr
+06:59:10,tief.numbers,2011-04-24T08:52:38,Montserrat,Möchlichen GmbH,Gerolzhofen,Zhuang,1989-01-30 20:35:59,laptop-42.christoph.com,bd:0e:9a:7d:5a:7e,DE,"8.114,49 €",25.860569,1978-03-22,5356,mhr
+14:48:18,Auge.js,1974-06-12T12:15:38,Fidschi,Schweitzer,Cottbus,Chechen,1989-07-06 10:39:11,web-92.bender.org,4c:9b:fa:28:c9:8b,DE,"921,69 €",-88.1958515,1986-03-18,97622,mn
+14:53:50,andere.xlsx,1994-10-19T22:45:07,Belarus,Döhn Winkler AG,Ingolstadt,Indonesian,2018-12-28 02:39:14,email-79.van.de,db:01:a4:d2:c8:8b,DE,"84.724,97 €",-8.2752995,1993-05-28,642981,nhn
+18:13:44,dick.flac,1974-04-12T05:55:03,Kiribati,Reising e.V.,Rothenburg ob der Tauber,South Ndebele,2009-05-17 00:23:03,web-79.hermighausen.de,32:df:3c:15:56:6d,DE,"42.051,78 €",54.8330325,2003-11-25,5,eu
+23:40:38,müssen.pages,1979-02-22T14:02:12,Kirgisistan,Lübs AG,Dinkelsbühl,Church Slavic,2021-11-06 00:38:02,web-94.margraf.com,93:8c:2d:6f:2a:1c,DE,"104,33 €",-11.676489,1981-06-02,71,kn
+01:54:52,mal.mp3,1979-10-11T00:56:44,Vanuatu,Etzold Lorch KGaA,Coburg,Macedonian,1991-12-26 21:28:24,web-84.gunpf.de,d0:39:b3:7e:71:63,DE,"99.740,38 €",-20.138183,2016-04-19,255830,wo
+05:16:44,Leben.jpg,1983-01-12T10:03:56,Cookinseln,Seidel KG,Grimmen,Zhuang,1978-04-29 13:54:58,desktop-83.baehr.com,a6:7f:83:50:62:cb,DE,"95,41 €",-49.7164955,1983-09-25,53985107,csb
+22:08:54,legen.pdf,1991-04-09T11:30:03,Palau,Heß Schaaf AG & Co. OHG,Deggendorf,Chichewa,2022-05-06 05:44:56,desktop-24.jungfer.de,48:bf:63:7b:74:1f,DE,"23,84 €",-46.8899955,2022-03-20,140232,tl
+12:05:56,etwas.bmp,2004-03-17T09:08:11,Schweiz,Trüb GmbH & Co. KG,Aue,Persian,1990-06-28 09:28:35,web-17.kallert.com,18:3f:fd:c4:73:d2,DE,"178,18 €",-33.3079005,1981-09-06,9,sq
+20:57:24,Geburtstag.wav,1997-12-07T06:20:21,Belarus,Kade,Staßfurt,Albanian,1989-10-23 11:19:30,web-61.dussen.com,6f:f0:41:7b:cf:81,DE,"6,18 €",77.751225,2009-10-07,547,bho
+20:18:19,seit.mov,1990-10-13T18:16:49,Turks- und Caicosinseln,Bähr,Höxter,Latvian,1985-05-13 20:43:18,lt-06.gerlach.com,f8:2c:25:5c:1b:66,DE,"169,58 €",56.170626,2011-03-05,740,sd
+05:25:10,Eltern.webm,2008-07-19T16:58:32,Amerikanisch-Samoa,Keudel,Dieburg,Kirghiz,2013-10-03 18:56:36,lt-08.berger.de,7f:fd:2b:e3:d4:b6,DE,"95.875,49 €",-45.111439,2011-07-16,72975,kok
+00:15:41,Schwester.avi,1985-01-27T05:35:03,Albanien,Dippel,Lörrach,Polish,2004-09-13 17:28:36,srv-36.drubin.de,fd:48:85:2e:d7:d1,DE,"59.371,09 €",-33.0696435,1977-08-09,303142611,my
+06:46:55,braun.json,1977-11-27T12:41:21,Eritrea,Ziegert Schuchhardt Stiftung & Co. KG,Rockenhausen,Latin,2013-11-25 12:55:39,db-60.koester.org,34:94:ed:9e:cf:4a,DE,"3,72 €",71.0448965,1985-02-20,69,ts
+06:00:46,voll.avi,2005-07-23T01:51:06,Marokko,Steinberg,Eichstätt,Fulah,2004-10-20 15:27:15,laptop-97.steckel.de,fe:2f:76:94:39:d1,DE,"13,95 €",-89.855318,2016-08-07,323271148,csb
+20:27:55,Tür.mov,2012-08-05T14:12:12,Salomonen,Geisel e.V.,Soltau,Kannada,2013-08-14 06:11:58,db-08.soelzer.org,11:59:3e:d8:85:5b,DE,"2.834,21 €",-31.839754,1992-07-17,62014,nn
+13:15:19,nach.docx,1984-03-01T20:16:41,Isle of Man,Peukert Schleich AG,Saulgau,Tatar,2018-05-02 17:48:24,srv-41.doehn.net,1f:0a:e0:ee:36:50,DE,"19,10 €",3.4413215,2008-03-16,97165,sr
+12:29:25,schwer.mp3,1998-11-29T03:40:41,Guernsey,Butte,Bamberg,Croatian,2014-04-16 15:57:10,laptop-82.dussen.org,04:ba:0c:39:5b:e3,DE,"15.951,19 €",75.8805725,1980-12-03,2518,hu
+06:08:59,den.wav,1986-07-17T01:07:54,Kanada,Kuhl Lindner Stiftung & Co. KG,Dinslaken,Inuktitut,2023-08-31 16:16:58,desktop-39.davids.de,b8:e3:41:92:43:68,DE,"7,46 €",82.637639,2015-03-19,1958,gu
+09:30:28,Stück.csv,2010-08-01T19:03:37,Griechenland,van der Dussen,Feuchtwangen,Fulah,2006-01-06 04:06:54,email-43.luebs.com,5f:5f:af:b5:92:9b,DE,"88,25 €",74.8684035,2003-06-12,427,fi
+04:00:59,fressen.wav,2007-06-14T19:21:04,Saudi-Arabien,Hentschel Stahr AG & Co. KG,Aachen,Oriya,1993-12-15 01:38:19,email-52.wilms.com,c5:1b:0c:f6:1e:ff,DE,"21,88 €",-74.583497,1983-04-19,971328,is
+13:32:20,doch.mp3,2016-04-11T11:48:12,Mongolei,Zahn,Kamenz,Oriya,1993-10-20 20:40:39,lt-74.losekann.com,4c:34:57:12:89:25,DE,"163,97 €",80.6702555,1983-01-10,424120,is
+09:48:04,und.jpg,1986-05-11T01:50:45,Kambodscha,Thies Scholz AG,Freising,Dutch,1983-09-17 22:06:15,srv-26.klingelhoefer.de,d4:c2:c0:d2:56:de,DE,"27.964,37 €",38.8403655,2008-03-30,682,st
+07:20:45,früher.png,1982-03-11T11:53:44,Rumänien,van der Dussen KG,Brand,Norwegian,1997-01-08 11:14:39,srv-87.peukert.net,df:0a:f8:ae:79:63,DE,"8,80 €",71.513218,1975-12-24,617,th
+08:46:57,Zeit.webm,2010-02-19T02:04:27,Indien,Loos,Kleve,Assamese,1988-07-24 08:48:10,srv-04.van.com,bd:85:46:f8:b5:71,DE,"2.313,24 €",7.087945,2012-08-27,1806,bn
+10:25:02,Wort.png,1994-11-20T18:31:52,Panama,Wohlgemut,Parsberg,Assamese,1978-11-11 11:58:48,srv-58.geisel.de,87:7a:4c:bb:20:7f,DE,"34.658,62 €",48.3737835,1976-12-22,82724597,ia
+19:33:41,Milch.pptx,1971-08-03T03:06:19,Britisches Territorium im Indischen Ozean,Kabus AG,Vilsbiburg,Telugu,2014-03-20 01:47:37,web-26.stolze.de,ad:a7:29:a4:d0:c9,DE,"92.972,73 €",14.2889835,1995-10-27,562704,fa
+06:38:31,nichts.pptx,1977-06-09T11:54:57,Malaysia,Bolnbach Löchel GmbH & Co. KG,Celle,Amharic,2007-07-29 10:51:57,srv-94.gunpf.de,6e:86:02:ec:27:86,DE,"3.132,40 €",49.6957365,2003-12-03,1,wal
+12:55:23,endlich.avi,1995-08-28T00:49:40,Turks- und Caicosinseln,Heuser Wulff GbR,Hettstedt,Quechua,1977-02-05 23:34:30,desktop-60.lange.de,f9:37:2a:91:8b:98,DE,"4,23 €",81.6375755,1991-06-19,184136,nso
+11:23:56,geben.mp3,2019-10-16T22:20:00,Serbien und Montenegro,Bolzmann,Aachen,Malagasy,2001-02-19 22:33:49,web-35.rust.com,d3:66:0e:aa:0d:4c,DE,"20,62 €",-2.6487665,2021-06-02,81572,se
+23:23:36,Monat.mov,2003-12-17T04:06:32,Heard- und McDonald-Inseln,Köhler e.G.,Fürstenwalde,Lao,1982-09-11 01:17:10,lt-70.heinrich.de,66:b4:7c:48:58:a0,DE,"32,12 €",53.2274385,1986-01-07,80127,ts
+20:41:08,gestern.avi,1997-06-07T20:15:41,Saudi-Arabien,Weinhold,Schongau,Korean,1988-04-14 04:36:19,laptop-62.neureuther.org,cd:35:98:41:a1:c4,DE,"74.528,03 €",-88.2469785,2021-04-20,726817274,fy
+01:16:57,heißen.mp4,2016-04-12T19:10:45,Tschechische Republik,Ring Segebahn GbR,Wertingen,Breton,2008-07-25 12:20:26,db-66.patberg.com,be:3a:7e:d3:6e:80,DE,"59,24 €",-75.2124185,2004-12-17,43667563,lv
+21:08:52,halten.pdf,1995-10-08T05:13:36,Fidschi,Gumprich,Stade,Haitian,1984-02-25 17:17:43,laptop-55.kramer.de,48:75:fb:fa:15:87,DE,"57,78 €",-21.4155045,2002-03-31,813,bs
+16:54:34,Vater.mp4,1976-10-28T04:21:32,Neukaledonien,Hiller,Tübingen,North Ndebele,2003-07-14 06:20:51,web-86.naser.de,6b:87:85:ca:8a:4e,DE,"829,90 €",-33.666799,1981-04-25,38281,ga
+19:13:08,Wald.png,1975-01-02T11:54:42,Malediven,Kohl Süßebier GmbH & Co. KGaA,Melsungen,Manx,1984-06-19 22:45:32,desktop-46.fischer.de,a2:27:6e:98:c4:11,DE,"3,48 €",28.1123945,2004-07-09,227035,da
+14:07:18,zum.odp,2003-10-08T20:39:05,Kenia,Hendriks,Haldensleben,Finnish,1973-04-22 11:13:10,web-79.poelitz.com,c9:fa:e7:7f:5c:36,DE,"26,35 €",-42.9003945,1982-09-02,6111,pap
+08:05:49,tun.css,1998-02-19T03:14:56,Nepal,Thies,Dinslaken,Kashmiri,2017-03-16 23:40:31,db-01.schueler.de,5f:49:b0:39:7b:21,DE,"3.599,84 €",-68.855571,1987-10-13,5,sk
+18:35:17,Platz.docx,1971-05-28T08:44:03,Palau,Hesse,Bad Liebenwerda,Greek,2010-08-19 13:52:27,lt-54.eberth.net,13:d5:64:76:fe:8c,DE,"0,60 €",86.5071235,2013-08-08,89756835,om
+00:19:53,kann.json,2007-09-10T23:50:09,Monaco,Stroh GmbH & Co. KG,Wunsiedel,Swati,1995-02-16 21:14:15,web-74.wagenknecht.de,8a:88:5c:d3:48:00,DE,"7,93 €",-49.495628,1982-09-12,243956049,gl
+17:55:20,blau.flac,1977-08-12T22:10:35,Japan,Hertrampf Oestrovsky AG & Co. KG,Schwandorf,Chinese,1992-06-27 07:53:24,email-35.kaul.com,00:23:c1:5e:dd:61,DE,"32,63 €",35.143289,1980-10-13,62192389,my
+06:21:23,Dorf.ppt,1994-07-09T09:45:44,Montenegro,Sölzer GmbH & Co. KG,Aue,Norwegian,2002-03-07 23:23:29,web-89.rose.org,04:23:50:29:72:4c,DE,"85.393,17 €",-27.660263,1991-09-24,761255718,crh
+23:05:58,unser.flac,1985-08-05T22:18:31,Afghanistan,Scholz GmbH & Co. KG,Mallersdorf,Chuvash,2001-06-14 17:11:39,laptop-63.dobes.org,0b:c4:92:1b:8f:05,DE,"4.017,41 €",-50.3997375,1977-06-10,216044,tn
+22:15:27,gelb.js,1975-11-09T02:47:42,Kolumbien,Weinhage,Ebersberg,Ojibwa,1977-04-09 19:57:44,web-04.davids.com,f2:e9:20:82:1d:2d,DE,"91,72 €",81.645590,2006-07-28,6,so
+13:12:34,was.json,2008-09-03T20:31:57,Serbien und Montenegro,Fritsch,Sonneberg,Zulu,2007-01-30 03:04:20,email-44.niemeier.de,61:7e:47:9b:04:82,DE,"24.280,49 €",84.819167,1975-02-01,742,or
+11:39:57,Hunger.flac,1992-08-25T13:01:28,Jersey,Bachmann,Sangerhausen,Ojibwa,2000-05-11 22:00:33,email-70.noack.org,c4:03:e2:cc:2d:7c,DE,"8,09 €",64.478474,2010-12-17,318026,nb
+07:42:35,treffen.tiff,1974-01-22T20:23:09,Tadschikistan,Kaul Stiftung & Co. KGaA,Marktheidenfeld,Komi,1972-02-07 01:20:52,lt-54.ditschlerin.com,6a:98:98:57:e3:9f,DE,"1.574,08 €",34.488340,2005-07-27,5689,sr
+15:48:07,heißen.mp4,1989-06-23T14:35:59,Gabun,Rädel Ditschlerin Stiftung & Co. KG,Schwabmünchen,English,1984-09-29 02:05:25,lt-69.wirth.com,dc:c6:b5:25:f5:89,DE,"70.490,80 €",-32.745118,1996-05-29,264359,lg
+01:53:46,gerade.avi,1979-06-18T07:21:25,Republik Korea,Jäkel GbR,Querfurt,Avestan,1973-03-08 04:07:54,srv-89.pruschke.org,af:32:09:21:c4:3f,DE,"5.584,45 €",-87.6833215,1992-04-29,211,ber
+14:34:50,Dorf.jpeg,1991-08-14T23:06:12,Niederländische Antillen,Dehmel Paffrath e.G.,Grimma,Estonian,1992-01-08 02:50:39,srv-47.eberth.com,39:7f:29:ce:59:17,DE,"1,01 €",19.410847,2006-01-01,471112,ja
+19:07:48,letzte.csv,2022-05-28T04:49:02,Syrien,Renner Ackermann GmbH,Konstanz,Telugu,2012-10-31 11:35:30,laptop-52.weimer.de,56:0b:ec:6f:78:00,DE,"611,75 €",53.8503805,2008-01-10,663752,ml
+23:48:58,Bild.webm,2009-03-18T18:00:50,Burundi,Schleich,Günzburg,Hausa,1987-03-20 21:59:16,laptop-08.austermuehle.de,54:ab:37:0c:64:89,DE,"57,81 €",41.8638355,2018-02-09,751,ber
+18:22:52,wir.pages,2018-12-05T09:42:47,Mayotte,Martin,Bamberg,Malagasy,1983-02-19 00:23:40,email-42.mangold.de,bd:ea:11:da:77:96,DE,"51.967,19 €",84.1831225,1974-10-28,8143700,ne
+11:39:02,warum.mov,1978-05-10T21:11:04,Kanada,Ruppersberger Ladeck GmbH & Co. KG,Zerbst,Sinhala,1999-02-17 10:08:46,db-66.rosemann.org,fc:f3:77:ce:e2:86,DE,"3,45 €",12.5345745,1993-06-17,95344167,et
+13:35:48,Oma.txt,1993-09-27T03:16:07,Französisch-Guayana,Hartmann AG,Sonneberg,Twi,1980-10-09 16:40:59,lt-57.reichmann.de,60:19:15:2a:cc:76,DE,"316,11 €",41.674417,1997-11-30,40,mn
+22:44:34,Lehrer.mp3,1997-10-15T16:26:51,Britische Jungferninseln,Hande Scholtz GmbH,Nordhausen,Kinyarwanda,1971-04-02 11:58:04,email-08.wulff.net,1e:c1:16:42:41:d8,DE,"2.760,24 €",-76.554548,2020-07-25,6794,eu
+19:36:03,Pferd.key,1973-07-04T01:57:36,Antigua und Barbuda,Pergande Stiftung & Co. KGaA,Badibling,Somali,2000-12-24 19:36:57,desktop-20.mende.com,82:30:ca:0a:28:bb,DE,"21,68 €",-17.871152,2014-06-06,3024262,he
+02:41:32,Licht.mp3,2019-10-23T00:50:07,Färöer,Süßebier AG,Wernigerode,Avaric,1971-02-13 01:21:13,desktop-32.siering.de,fb:16:a8:fa:a9:53,DE,"319,14 €",33.2386925,1973-02-28,30050170,hak
+15:50:10,es.mp4,1995-10-08T17:38:17,Dschibuti,Pergande Stiebitz AG & Co. KGaA,Sondershausen,Kinyarwanda,1974-12-19 21:22:03,laptop-63.hiller.de,f2:4e:16:c6:af:a4,DE,"70,46 €",-0.815602,2019-04-16,81,sa
+21:56:51,mehr.json,1980-05-21T19:09:05,Äußeres Ozeanien,Ruppert,Gardelegen,Pushto,2012-02-19 17:57:40,laptop-76.kabus.de,23:62:4a:4e:21:d9,DE,"7.269,65 €",1.143719,1991-03-14,1819,ka
+04:06:37,singen.jpg,2013-04-06T03:10:09,Alandinseln,Kostolzin AG & Co. KGaA,Mühlhausen,Yiddish,2002-11-20 20:23:29,lt-04.koch.com,ac:d5:e0:96:3a:ff,DE,"3.101,26 €",-81.637758,2020-11-29,125876,kk
+18:49:09,fehlen.jpg,2023-08-18T09:17:07,Syrien,Liebelt,Gadebusch,Kannada,2018-11-21 20:24:14,laptop-51.bolnbach.de,7e:fa:54:d8:4e:a5,DE,"53.965,70 €",-79.7827155,1992-04-21,2185093,sa
+07:39:43,war.html,1977-09-06T18:06:47,Bermuda,Höfig KG,Steinfurt,Korean,1985-02-11 20:51:07,db-63.fiebig.org,50:b9:29:00:1f:78,DE,"3.873,00 €",65.272855,2009-01-28,2,cy
+22:14:22,Mensch.key,1972-09-18T03:58:01,Äthiopien,Mosemann,Lübz,Divehi,1974-06-14 15:29:30,lt-03.pruschke.com,44:c1:07:1c:cb:c8,DE,"33.430,97 €",-46.6792935,1974-02-15,1073677,lb
+01:11:17,sieht.pages,2016-11-05T08:00:30,Schweden,Atzler,Bergzabern,Vietnamese,1977-06-10 00:46:49,email-52.freudenberger.de,aa:54:8b:6f:2e:57,DE,"62.161,83 €",66.6791255,1993-09-27,4,kok
+11:29:39,nah.jpg,1983-07-20T21:57:11,Belgien,Schottin GmbH,Hersbruck,Persian,2015-12-15 10:09:52,lt-55.vogt.com,69:6a:ba:3e:da:ea,DE,"4.628,55 €",65.5845605,2003-11-16,61033964,bs
+16:31:50,gestern.txt,1979-01-22T05:13:46,Schweiz,Fechner,Husum,Pali,2003-05-24 00:05:20,desktop-95.jessel.de,01:b6:42:da:8e:22,DE,"0,65 €",-11.0477105,1984-12-24,119467346,ko
+15:24:25,schreien.mp4,2022-04-07T06:33:48,Algerien,Ziegert Eimer AG,Wittmund,Maltese,1999-01-14 15:17:43,lt-29.hoffmann.de,e3:92:13:71:ac:fb,DE,"61,18 €",20.841437,2016-04-05,1036,hu
+11:38:58,Fahrrad.png,2021-12-17T13:57:51,Pakistan,Christoph,Deggendorf,Bashkir,2001-06-11 21:01:30,desktop-04.hornig.com,41:5a:9e:32:5e:77,DE,"88,19 €",-63.9516155,1988-05-20,9,lzh
+03:33:19,sieben.jpeg,2011-03-02T04:20:58,Griechenland,Lindau Salz GmbH,Uffenheim,Xhosa,1985-01-05 20:07:03,srv-23.kade.de,72:33:25:0b:dc:bb,DE,"4,45 €",-70.3323585,2005-02-03,73542273,ka
+10:30:20,Geld.ppt,1987-09-20T00:40:10,Turkmenistan,Bärer GmbH & Co. KG,Passau,Malagasy,2021-08-10 09:52:25,lt-69.mans.de,cd:ea:e0:c1:24:6f,DE,"6,03 €",11.5444885,2004-10-14,11763,ce
+04:33:38,Nase.flac,2018-03-22T01:44:17,Svalbard und Jan Mayen,Matthäi Lorch GmbH & Co. KG,Wesel,Malay,1970-11-05 09:50:12,srv-69.ziegert.de,eb:2a:8c:a1:83:68,DE,"90.661,22 €",-59.559044,2007-07-14,1277,lo
+03:55:13,gern.webm,1988-06-25T15:55:56,Monaco,Gorlitz Beyer GbR,Rathenow,Italian,1996-04-14 06:50:54,laptop-89.hamann.com,4f:44:4c:4d:5e:85,DE,"9.341,21 €",-9.0336095,2016-09-27,77944236,ayc
+16:41:56,Schuh.mov,1978-05-27T17:52:38,Serbien und Montenegro,Zahn,Sulzbach-Rosenberg,Bislama,2022-02-12 02:49:44,email-49.henck.com,1b:0b:ea:48:1c:a7,DE,"3.989,75 €",-36.751179,2012-11-22,20389602,kn
+05:42:37,natürlich.numbers,1980-08-10T20:50:34,Niederlande,Speer,Badoberan,Lithuanian,1988-07-15 04:58:09,email-35.ring.com,41:15:ce:a2:42:ca,DE,"61,77 €",-43.302780,1992-02-25,4282,wal
+20:46:34,dumm.js,2019-01-05T12:09:57,Réunion,Köster GmbH,Kelheim,Swahili,1974-03-27 07:48:59,web-41.koch.com,5a:73:a8:68:31:72,DE,"379,74 €",-8.084088,1980-11-16,18940951,ps
+19:46:05,Loch.mp3,1984-10-17T12:57:37,Malawi,Junken Geisel GmbH,Gießen,Latvian,2011-03-06 12:10:19,web-53.ortmann.de,74:71:c6:e0:cc:32,DE,"61,80 €",76.6410145,2006-10-16,55206407,mai
+20:30:54,Stadt.gif,1997-10-16T11:29:21,Amerikanisch-Ozeanien,Hörle Eberth AG,Kelheim,Interlingue,1995-10-06 16:33:16,web-55.schmidt.com,3a:db:d0:c6:dd:3c,DE,"2.401,21 €",-74.205434,2018-06-16,933,lb
+10:06:18,darin.js,1989-06-05T00:59:52,Libanon,Ring GmbH & Co. KG,Neunburg vorm Wald,Walloon,1979-05-08 08:30:36,laptop-82.gerlach.org,f9:c3:39:78:6b:9a,DE,"449,08 €",-41.077733,2016-05-02,8,or
+07:05:10,Weg.webm,2012-03-28T10:34:52,Salomonen,Dowerg Gertz GmbH & Co. KG,Bischofswerda,Czech,2021-01-28 04:23:08,email-70.roemer.net,5f:57:85:c0:67:fa,DE,"7.023,86 €",65.892429,1989-04-11,19425,gl
+20:15:52,gesund.wav,1992-05-18T07:26:19,Südgeorgien und die Südlichen Sandwichinseln,Fröhlich Sontag GmbH & Co. KG,Lichtenfels,Russian,1977-06-03 23:33:05,web-80.binner.com,ec:d8:9c:cf:87:75,DE,"769,17 €",-25.298425,2004-04-30,53000,ml
+05:57:08,Tante.jpg,2023-09-09T14:46:02,Ecuador,Dörr GmbH & Co. OHG,Meißen,Icelandic,2022-04-14 09:51:11,srv-26.mielcarek.com,09:02:1d:14:29:d0,DE,"27.209,56 €",-14.334620,1981-12-17,5160,pt
+00:13:45,Garten.mov,2014-01-03T11:17:12,Französisch-Polynesien,Köster,Büsingen am Hochrhein,Bosnian,1987-08-16 00:31:33,web-21.adler.de,c9:04:b4:f1:fb:26,DE,"60,74 €",-7.8682885,2014-04-02,395,pa
+11:32:20,danach.wav,2009-04-28T04:48:55,Kongo,Geisler,Rastatt,Swahili,2000-03-25 15:04:42,laptop-31.pruschke.com,2a:09:c4:b3:aa:d9,DE,"17.735,02 €",44.555693,1994-03-05,767174,km
+08:53:02,nah.mp4,2014-11-30T16:18:18,Kenia,Seidel,Passau,Turkish,2000-09-25 13:14:18,db-40.liebelt.com,c7:d1:b1:29:67:e4,DE,"7.211,29 €",-15.515829,1996-11-20,639069,ig
+09:42:45,Monat.mov,2004-03-02T19:30:35,Slowenien,Linke KG,Potsdam,Bambara,1981-04-03 06:51:44,db-34.hering.de,a9:6a:d0:84:96:0a,DE,"97,34 €",-60.097338,1977-03-21,684823,mag
+00:22:11,zurück.csv,1975-05-14T18:12:43,Monaco,Mans Stiftung & Co. KGaA,Vohenstrauß,Wolof,2006-10-09 23:49:22,db-49.huhn.de,eb:88:9c:1f:34:42,DE,"7.284,13 €",-9.543888,1997-12-16,64,ko
+18:28:38,Essen.odp,2011-04-18T03:10:42,Honduras,Mälzer GmbH & Co. KG,Rostock,Igbo,2000-01-16 00:13:06,lt-13.koch.de,08:9d:56:6f:dc:43,DE,"16.319,17 €",-23.622114,1982-06-02,44519988,ff
+00:27:49,fehlen.wav,1985-12-28T21:04:19,Amerikanisch-Samoa,Birnbaum,Dinkelsbühl,Cree,2014-06-21 12:14:50,db-15.wirth.de,0d:dc:a4:20:7e:86,DE,"4.318,92 €",47.0076405,2005-07-07,725965,apn
+07:38:19,Schuh.txt,2014-12-07T22:36:29,Pitcairn,Faust,Kamenz,Luba-Katanga,2008-11-19 04:07:23,srv-95.jaentsch.com,38:f4:f2:31:b2:e4,DE,"85.052,33 €",85.768358,2017-03-16,13052,lzh
+21:24:04,weinen.ods,1971-01-19T06:23:17,Sierra Leone,Briemer Stiftung & Co. KGaA,Hoyerswerda,Hebrew,2022-12-12 09:03:13,db-69.kusch.de,97:66:e6:35:9e:40,DE,"303,25 €",88.758776,1975-02-22,79136900,ja
+00:48:35,wollen.jpeg,2022-05-11T07:23:42,Gabun,Patberg,Berchtesgaden,Galician,2019-05-17 10:47:40,db-33.schoenland.de,56:34:21:13:82:b9,DE,"6.809,64 €",3.8578335,2002-01-26,6654,raj
+02:27:13,bis.bmp,2000-06-12T13:39:42,Albanien,Hesse GbR,Ludwigslust,Venda,2017-06-30 03:10:38,web-31.drub.com,7a:db:d8:b5:e5:bf,DE,"3,08 €",39.884710,1999-07-17,7,gez
+04:10:22,mit.gif,1994-09-29T23:24:05,Mexiko,Kaul Gorlitz Stiftung & Co. KG,Moers,Telugu,1977-10-02 02:15:39,srv-88.dussen.de,a1:8f:69:74:7a:81,DE,"263,40 €",-24.185536,1975-06-02,425276,pl
+18:19:41,Apfel.jpeg,2008-06-21T05:41:40,Bolivien,Kabus Johann AG,Niesky,Tagalog,1970-07-06 02:02:35,email-34.mangold.com,21:60:8f:13:4b:1d,DE,"61,69 €",-11.7727285,2022-06-04,844558,ts
+20:03:35,Leute.tiff,2019-07-18T20:43:12,Andorra,Gute GbR,Günzburg,Interlingua,2000-12-19 16:23:08,desktop-37.fliegner.de,21:77:c3:d9:a4:7d,DE,"53.948,86 €",30.116654,1971-01-18,2842132,unm
+16:02:29,verstehen.mov,2015-12-03T13:04:25,Südafrika,Gröttner,Ansbach,Mongolian,1989-04-21 13:24:03,srv-31.baum.de,4f:5d:91:49:a1:7b,DE,"33,06 €",-37.4217785,2003-12-14,22269745,li
+23:34:31,viel.key,2008-09-14T05:17:52,Malaysia,Fechner Rose GmbH & Co. OHG,Husum,Chichewa,1979-12-21 19:32:37,email-55.girschner.com,fa:cd:c8:ca:05:0f,DE,"2,02 €",-45.603945,1981-01-10,7,hr
+17:01:21,Land.wav,2002-01-08T16:06:10,Saudi-Arabien,Pechel GmbH & Co. OHG,Oberviechtach,Northern Sami,1993-09-22 19:10:49,email-90.ritter.de,a1:b8:a7:38:22:60,DE,"7.032,37 €",-53.5905185,1982-12-22,1338,si
+05:52:02,ziehen.csv,1988-04-24T19:00:00,Dänemark,Blümel AG & Co. KG,Olpe,Ewe,2010-09-29 04:35:16,laptop-16.hettner.net,c2:e7:70:91:d9:03,DE,"5.921,87 €",69.226546,2001-05-30,7805592,af
+13:02:40,los.css,1978-06-02T19:34:23,Jemen,Kobelt AG,Werdau,Swahili,2001-04-07 21:34:35,web-04.misicher.de,77:0d:a3:72:f7:e7,DE,"68.042,41 €",-60.136240,2005-06-28,235276727,cy
+15:25:20,schwarz.json,1971-07-31T15:34:16,Südafrika,Striebitz AG,Eggenfelden,Turkmen,1975-02-21 09:06:49,web-53.weimer.com,81:2c:f1:74:6f:94,DE,"7,81 €",-66.9764105,1994-05-24,2759,oc
+08:11:29,Sonne.wav,1984-05-15T14:52:01,Somalia,Schmidt,Osterburg,Catalan,2020-04-15 03:29:19,web-00.cichorius.net,1e:02:62:02:90:66,DE,"4,21 €",56.7775435,1984-06-25,23280272,ig
+03:33:00,Land.ppt,1971-07-04T07:09:55,Malawi,Schleich,Kulmbach,Akan,1976-05-11 16:16:48,srv-91.schaefer.de,b3:f4:7c:24:79:a9,DE,"9.594,37 €",59.1699195,1979-11-17,398276,bs
+02:06:49,vier.png,2015-12-23T17:34:51,Botsuana,Nohlmans Rädel GbR,Berchtesgaden,Zulu,2001-04-09 01:45:07,srv-12.dobes.de,31:a4:55:20:17:4d,DE,"2,90 €",-88.1046675,1973-07-26,93698,pt
+17:17:57,Fisch.mp3,1974-08-19T13:23:42,Vereinigtes Königreich,Pölitz Schwital GbR,Uffenheim,Zhuang,1995-03-12 09:27:31,desktop-67.seifert.net,f7:c4:8c:64:51:81,DE,"1,42 €",-3.6336775,2003-09-29,873721952,szl
+03:48:19,scheinen.flac,1985-09-03T12:58:56,Färöer,Pieper Schlosser AG,Viersen,Tonga,2003-11-12 06:43:20,lt-46.ehlert.com,71:a2:5b:91:bd:55,DE,"7,16 €",58.2207595,2003-03-21,37280135,rw
+19:38:19,Hilfe.jpg,2003-12-18T00:09:43,Australien,Jessel KG,Griesbach Rottal,Swahili,2009-10-12 08:27:04,db-93.heydrich.com,0d:5c:47:bb:53:ec,DE,"1.875,48 €",68.2723435,1980-05-30,77,tn
+03:15:56,wohl.wav,2003-07-07T09:38:29,Antarktis,Franke,Wunsiedel,Mongolian,2006-07-28 04:59:23,email-75.finke.com,7c:f9:48:d2:d5:6a,DE,"401,90 €",64.118977,2019-03-24,8832,uz
+13:06:00,Geld.gif,1973-11-05T23:58:38,Haiti,Eckbauer Sontag AG,Jena,Burmese,2004-11-11 09:10:34,srv-67.finke.de,2c:48:7c:e4:6f:20,DE,"823,46 €",14.740465,1981-02-21,1,nhn
+22:29:55,dafür.numbers,1972-08-29T07:07:00,Mikronesien,Stolze Schomber KG,Finsterwalde,Ido,1981-10-04 20:09:08,srv-15.ritter.net,bf:fa:77:38:b1:55,DE,"3.349,62 €",-13.801758,2018-09-02,91673958,ik
+02:37:41,Stelle.mov,2022-03-05T04:21:59,Ägypten,Stiebitz e.G.,Konstanz,Tatar,1992-06-08 18:13:03,web-83.zorbach.net,18:72:6e:f6:d9:5b,DE,"6,64 €",80.749894,2006-01-12,524747,lv
+18:10:18,fangen.css,2015-05-10T18:18:36,Peru,Pechel,Döbeln,Czech,1971-05-27 12:57:01,lt-11.kabus.com,83:cd:bb:33:cd:e7,DE,"699,83 €",72.4457855,1998-10-11,3451252,ig
+13:57:03,neu.pptx,1995-09-08T02:57:33,Färöer,Schmiedt,Bad Brückenau,Bulgarian,2015-04-07 18:25:38,web-88.tintzmann.de,7a:62:6b:64:1c:58,DE,"331,39 €",-15.962918,1990-12-10,36,ha
+16:32:25,verstehen.mov,1987-05-30T11:03:23,Côte d’Ivoire,Stroh Weinhold Stiftung & Co. KG,Lobenstein,Zhuang,1982-04-29 13:41:42,srv-38.gude.com,c9:10:e5:ad:0c:a0,DE,"28,82 €",8.690730,2020-04-16,3,wo
+19:59:16,Fuß.csv,2010-11-13T00:11:09,Sonderverwaltungszone Hongkong,Trub,Neustrelitz,Luba-Katanga,2019-03-21 03:29:19,lt-96.neureuther.de,be:55:5b:c9:ce:44,DE,"90.072,67 €",16.4668415,1970-06-10,48722956,hne
+20:03:17,schlagen.txt,2010-08-20T14:23:30,Simbabwe,Seifert,Rathenow,Latvian,1980-01-22 12:07:49,email-16.fliegner.org,ab:c7:ae:6b:5b:7f,DE,"9.922,23 €",-43.757018,2003-10-26,209384637,hu
+00:36:18,schwarz.mov,2001-10-03T06:23:06,St. Lucia,Hettner Kreusel GmbH,Badalzungen,Nauru,1992-11-10 08:44:10,lt-97.nohlmans.de,23:6a:58:2a:96:dd,DE,"8.682,90 €",-55.501603,2008-08-04,722702,mk
+12:17:22,drehen.mov,2021-12-05T23:28:19,Österreich,Säuberlich Trüb GmbH,Halberstadt,Wolof,1998-02-26 00:16:19,web-75.hertrampf.de,3c:7e:49:4c:f8:5c,DE,"0,79 €",53.0873365,2011-07-31,7,wo
+01:54:16,später.mp3,1998-07-14T20:51:05,Samoa,Dörr Benthin GmbH,Darmstadt,Ewe,1973-07-31 13:16:22,srv-75.gerlach.de,e0:a4:17:4e:b2:20,DE,"6,11 €",51.5137545,2017-05-04,263,sl
+19:20:34,Zahl.jpeg,2009-08-01T21:21:46,Bosnien und Herzegowina,Mülichen Schulz GbR,Berchtesgaden,Abkhazian,1973-06-24 23:42:35,db-17.koester.de,8b:43:2a:55:73:59,DE,"34.624,46 €",52.784813,1971-06-14,87481890,el
+18:32:48,zu.tiff,2010-12-11T13:24:49,Neuseeland,Buchholz Rose e.G.,Regensburg,Hindi,2011-06-16 06:12:08,email-68.ritter.de,82:5d:9c:de:87:43,DE,"6.919,29 €",32.370870,2014-08-17,31152,az
+21:01:53,gleich.txt,1977-12-28T03:51:45,Niederlande,Wieloch,Sangerhausen,Akan,1993-01-06 14:14:05,desktop-11.ullrich.com,73:ea:9e:db:49:3e,DE,"60.016,27 €",9.326428,1971-02-15,2457,iw
+12:17:00,sonst.js,2015-02-14T20:38:18,Turks- und Caicosinseln,Stroh Trapp Stiftung & Co. KG,Rostock,Tajik,1990-11-07 06:10:44,desktop-74.atzler.org,13:d9:43:ae:23:03,DE,"2.145,10 €",55.1090325,1985-01-23,85,hr
+12:34:10,gut.ods,1995-04-29T20:27:53,Lesotho,Rogge GmbH & Co. KG,Günzburg,Limburgan,1987-04-30 21:49:44,lt-32.johann.com,bc:47:72:02:54:d7,DE,"2,32 €",83.7729465,2008-01-09,517275,ayc
+21:19:47,unten.mp4,2021-08-20T02:18:56,Kambodscha,Kade,Beilngries,Albanian,1977-11-26 18:32:30,db-40.hoevel.com,0d:3a:01:9e:17:84,DE,"34,57 €",-7.633953,1996-06-17,435,ia
+15:54:22,gehen.wav,2000-10-08T10:49:48,Amerikanisch-Samoa,Kraushaar GmbH & Co. KGaA,Melle,Swahili,2012-08-15 22:17:40,desktop-25.scheel.de,90:7c:59:54:04:3f,DE,"7,30 €",-57.1029305,1991-05-28,0,cy
+17:17:46,dem.mp4,1984-01-12T05:13:34,Weihnachtsinsel,Trommler AG,Cloppenburg,Russian,1975-08-31 15:49:47,db-81.segebahn.com,84:ce:b3:3e:e0:21,DE,"498,25 €",-17.109139,1994-06-30,5476,se
+17:58:26,kam.jpeg,2003-04-12T02:00:58,Thailand,Holsten AG,Meppen,Sanskrit,1994-06-07 07:23:35,web-32.wieloch.com,61:d7:60:52:47:1c,DE,"72.297,16 €",-19.8167905,1985-08-22,1482934,tl
+03:10:39,nie.txt,2008-03-04T08:26:41,Malediven,Loos,Karlsruhe,Cornish,2022-08-29 07:02:11,web-74.thanel.net,81:a2:ab:7f:1d:6f,DE,"92.194,08 €",-82.0850235,1971-12-26,346,zh
+01:36:41,auch.xls,2023-02-01T13:32:09,Brasilien,Weiß Heidrich GbR,Stade,North Ndebele,1990-06-02 04:06:43,web-81.etzler.de,1d:7e:fc:00:44:8a,DE,"8,30 €",30.886328,1983-03-22,2573701,yi
+04:28:21,ihm.jpeg,1970-12-01T03:50:36,Albanien,Gumprich e.V.,Grimmen,Northern Sami,1975-12-23 19:11:03,db-09.vogt.de,38:b4:88:79:e8:0e,DE,"565,63 €",28.7625285,1972-01-14,21,ru
+10:58:14,gewinnen.pages,1990-11-15T03:17:14,Estland,Birnbaum,Schlüchtern,Hausa,2002-11-26 11:08:07,laptop-86.moechlichen.de,ea:bc:fc:5a:f4:36,DE,"577,73 €",61.7263985,1976-07-20,708615691,iw
+14:32:09,oben.css,1982-08-20T13:11:42,Frankreich,Mentzel Girschner OHG mbH,Wurzen,Luba-Katanga,2016-10-12 11:17:30,srv-91.seip.com,0c:7c:6f:8e:45:00,DE,"842,90 €",-69.155550,1970-04-04,832291671,ml
+17:56:08,denken.bmp,1976-10-16T15:45:29,Jamaika,Blümel Trubin OHG mbH,Worbis,Arabic,2022-02-27 15:38:23,laptop-08.schacht.de,25:32:8f:4d:40:ea,DE,"63,19 €",83.120668,1997-02-18,54,zh
+05:53:37,Haus.jpeg,1970-07-07T05:47:20,Alandinseln,Ruppersberger GmbH & Co. KGaA,Cloppenburg,Afrikaans,2014-10-23 23:39:32,desktop-66.roehrdanz.de,34:87:9f:e7:ad:38,DE,"20,58 €",40.362918,1990-11-12,93329825,bn
+05:24:50,wie.wav,1993-07-31T19:08:38,Puerto Rico,Schleich OHG mbH,Parchim,Tamil,2022-02-25 01:25:47,srv-27.loos.com,82:05:d9:ce:d3:0b,DE,"230,63 €",-89.1897995,2006-06-14,416658697,kok
+18:49:33,Zeitung.js,1986-11-05T09:35:28,Tansania,Davids,Ebern,Walloon,2002-04-20 22:29:42,email-22.kambs.de,ab:2a:a3:db:92:87,DE,"7.343,66 €",-60.2457195,2019-03-28,838262,et
+20:16:49,nach.csv,2001-06-22T11:33:27,Spanien,Segebahn,Hohenmölsen,Dzongkha,1985-04-30 18:45:49,db-13.henck.de,2a:94:f2:f0:55:1c,DE,"22.923,76 €",-49.2690495,2005-09-22,8242724,mai
+06:58:48,schreiben.jpg,1996-01-19T21:47:46,Vatikanstadt,Schäfer,Hagenow,Wolof,2016-08-28 22:49:09,lt-09.baehr.org,55:72:fc:a2:ce:5b,DE,"83.200,62 €",85.609029,1975-12-26,5962,bem
+22:26:42,holen.webm,1979-09-18T13:35:26,Demokratische Republik Kongo,Römer,Magdeburg,Kuanyama,1986-05-30 22:31:42,lt-91.henschel.org,25:21:4e:f3:f4:78,DE,"1.671,79 €",77.209839,1992-11-19,49959854,ss
+23:25:42,frei.html,1984-07-20T07:11:54,Albanien,Noack GbR,Neu-Ulm,Tamil,1985-06-09 10:06:12,lt-77.oestrovsky.de,61:62:c5:e6:a0:29,DE,"180,21 €",28.6666255,1985-08-30,230,ka
+18:12:18,arbeiten.avi,2013-10-06T17:59:22,Iran,Lorch Mude GmbH & Co. KGaA,Lichtenfels,English,2000-03-29 08:47:41,desktop-44.fischer.com,fe:f4:2b:fc:99:d8,DE,"39.965,64 €",-0.7794945,1976-07-06,400,uk
+02:57:16,mein.doc,2014-07-21T07:38:19,Angola,Atzler OHG mbH,Gräfenhainichen,Danish,1973-11-26 13:22:11,desktop-23.schuchhardt.com,2f:11:ca:bf:e0:cc,DE,"3,37 €",-56.5166745,2014-02-15,857131315,sa
+17:10:55,heraus.avi,1980-02-06T03:52:04,Mongolei,Mans Seidel AG & Co. OHG,Jena,Bihari languages,1995-08-13 07:56:55,lt-34.bohlander.org,d8:05:ff:b5:e4:74,DE,"645,42 €",-13.319795,1983-11-24,3624,tg
+08:29:42,lieb.mov,1985-09-06T13:54:49,Montenegro,Steckel,Badibling,Kinyarwanda,1982-07-17 18:58:45,web-66.fliegner.de,a3:b5:60:8c:fd:6d,DE,"18.050,00 €",-66.784810,2014-03-31,8,ckb
+14:35:43,Mutter.pages,2018-05-27T23:12:15,Argentinien,Fliegner,Augsburg,Japanese,2000-05-17 04:28:45,srv-99.schmiedt.de,3d:8f:4a:d7:91:d5,DE,"62.895,45 €",63.0236345,2012-05-15,4783,ff
+06:16:26,schicken.wav,1995-12-22T06:35:53,El Salvador,Stiffel,Bischofswerda,Guarani,2000-10-19 03:02:37,web-21.stolze.de,65:29:74:d5:63:d5,DE,"1.651,35 €",66.617983,1981-12-02,571845,nl
+02:58:26,spielen.xls,1976-07-25T00:53:49,St. Helena,Bohnbach GmbH,Gießen,Kinyarwanda,2023-04-24 20:14:46,desktop-76.bloch.com,f8:95:3b:95:51:3c,DE,"25.130,75 €",84.040764,1976-02-04,3,ro
+13:16:42,Wissen.png,1985-03-05T11:40:19,Sudan,Süßebier,Roth,Inupiaq,2010-03-08 01:01:45,lt-03.adler.net,be:ae:29:de:f7:b2,DE,"48.061,07 €",-33.1186035,1977-05-04,379,bs
+04:07:26,Minute.css,2007-12-24T16:58:03,Luxemburg,Klotz,Burglengenfeld,Chechen,2003-04-27 13:53:54,laptop-44.barth.de,05:87:8f:32:98:01,DE,"29,78 €",19.8926145,1974-05-06,3967325,km
+03:35:24,dumm.html,1971-07-15T15:11:06,Liberia,Linke AG,Leipziger Land,Kazakh,2020-09-08 17:01:18,email-68.radisch.de,ff:48:e5:4b:d3:61,DE,"8.175,25 €",17.381379,1985-08-11,776,sq
+19:52:58,ziehen.mp4,1998-11-03T09:15:13,Laos,Scheibe Hering GmbH,Brandenburg,Amharic,2000-02-16 12:45:25,email-69.baum.de,ae:e6:11:f5:98:0a,DE,"8,61 €",9.497519,1999-11-09,649749424,raj
+12:27:52,doch.wav,1992-08-26T17:05:56,Côte d’Ivoire,Krause AG,Dachau,Breton,2010-07-28 21:06:56,lt-75.hendriks.de,bb:48:b9:37:5f:c2,DE,"2.735,54 €",2.6697805,2005-03-05,2,en
+18:54:24,weiß.json,1994-11-13T05:56:37,Dschibuti,Freudenberger Hölzenbecher GmbH & Co. KG,Saarbrücken,Ido,1976-09-27 16:35:58,desktop-36.adler.com,28:f1:4c:32:66:1b,DE,"4,82 €",-31.209145,1978-04-25,7963006,sr
+18:41:51,daran.tiff,1998-05-15T02:03:04,Palästinensische Gebiete,Bolander Heser KG,Fallingbostel,Estonian,2000-07-27 03:21:48,laptop-18.seifert.de,60:c4:e2:ed:02:b8,DE,"2,03 €",-89.219037,2016-08-15,8937,sl
+06:34:55,spät.gif,1971-11-02T05:51:18,Grönland,Hartmann Ullmann e.V.,Bützow,Gaelic,2004-12-07 12:14:05,web-29.riehl.de,72:89:d6:9f:49:98,DE,"47.594,20 €",32.710264,2012-06-06,80333100,tt
+20:07:58,hängen.jpeg,2000-10-19T17:47:11,Äußeres Ozeanien,Stey Schäfer GbR,Kassel,Limburgan,1974-01-27 00:47:47,srv-33.heser.com,17:17:fa:f7:bf:e6,DE,"26,20 €",-61.137022,2020-10-28,81342654,ca
+09:59:48,Weihnachten.avi,1973-05-13T08:12:33,Turks- und Caicosinseln,Heser,Eisenberg,Persian,2012-05-22 04:56:15,desktop-04.weinhold.de,85:4f:62:bd:62:d3,DE,"1.746,20 €",-13.9263155,1987-07-30,8179,nan
+01:56:09,von.mov,1986-06-21T21:49:50,Salomonen,Süßebier,Luckenwalde,Greek,2018-01-16 17:17:41,lt-56.pohl.com,8b:39:c9:8c:e0:12,DE,"116,16 €",13.570082,2014-08-09,33769,sa
+11:15:04,führen.jpg,2019-02-26T07:16:29,Lettland,Förster,Neustadt am Rübenberge,Greek,1999-06-26 12:40:33,laptop-60.bloch.com,28:1c:99:84:8b:f5,DE,"9.751,08 €",-79.595414,2021-12-01,8598723,cv
+03:55:04,ging.pdf,1984-12-14T05:05:16,Bulgarien,Oderwald GmbH,Kulmbach,Chichewa,1989-10-28 23:52:15,email-81.hartmann.com,77:e3:dd:60:6b:d0,DE,"7.393,60 €",0.177653,1999-08-13,3,nb
+10:05:49,nie.numbers,1991-03-09T22:38:42,Irak,Krause Thies GmbH,Kelheim,Luxembourgish,2010-03-22 11:11:14,web-28.benthin.com,d4:56:9a:e8:2d:61,DE,"392,52 €",13.989348,1989-02-19,89740073,ayc
+21:38:49,ins.html,2008-08-09T20:35:18,Irland,Ladeck AG,Eckernförde,Marathi,1983-10-30 18:35:17,email-78.stiebitz.net,8f:26:7e:5f:97:19,DE,"746,12 €",-53.9183825,1987-06-05,448090,fa
+04:16:24,gesund.webm,2012-11-29T00:01:56,Französisch-Polynesien,Eckbauer,Husum,Romanian,1981-01-19 02:24:09,lt-57.becker.de,78:4f:bc:a5:8e:c6,DE,"56,03 €",80.383250,2008-09-30,88486,lo
+17:33:42,ob.docx,2013-05-08T15:02:00,Niederländische Antillen,Löchel Wulff KG,Zeulenroda,Javanese,1987-05-01 22:30:07,email-91.rosenow.net,9c:a7:6f:e1:ed:b5,DE,"9.263,24 €",41.448168,1993-10-09,766459,eo
+19:32:33,sein.flac,1978-09-26T18:16:08,Taiwan,Lehmann GmbH & Co. KG,Merseburg,Arabic,2019-05-06 13:54:29,email-75.stadelmann.de,fb:23:40:d1:2a:c0,DE,"26,12 €",-22.7015365,1971-07-26,18,nl
+05:09:02,kurz.csv,2023-06-29T20:25:35,Aserbaidschan,Lachmann,Schleiz,Lingala,2001-01-19 10:44:58,email-06.froehlich.de,2a:10:0b:9f:26:26,DE,"20.684,73 €",83.206812,1979-09-20,39662,hsb
+03:39:39,klein.flac,1983-10-31T11:25:45,Montserrat,Linke,Freital,Norwegian,1989-04-24 20:38:46,email-45.schomber.com,c6:4a:a0:16:41:cf,DE,"971,34 €",77.221575,2011-08-25,0,tt
+11:20:02,fressen.doc,1974-04-02T19:19:42,Liberia,Tintzmann e.G.,Luckenwalde,Tajik,1995-08-01 15:57:10,email-24.hess.de,35:c2:d5:36:8a:45,DE,"48,26 €",-61.3136955,1998-02-06,306,mr
+03:54:58,sprechen.flac,1996-07-29T06:47:08,Portugal,Dörschner Klotz GmbH & Co. OHG,Hohenmölsen,Bashkir,2001-09-12 19:56:58,lt-36.steckel.com,21:6b:88:27:aa:7f,DE,"7.236,51 €",-42.4918305,1974-02-14,76,nn
+05:15:01,weit.ppt,1997-08-26T16:37:16,Island,Stumpf GmbH,Bad Kreuznach,Welsh,2020-08-02 18:57:47,db-71.briemer.de,41:f6:12:20:80:4a,DE,"3.415,07 €",48.2276525,2021-07-12,730,st
+22:02:49,neben.mov,1988-03-14T03:01:23,Benin,Schmiedt AG & Co. KGaA,Gunzenhausen,Ukrainian,1985-07-18 14:32:38,srv-30.reichmann.de,37:92:d0:98:f3:6d,DE,"0,87 €",-30.9501745,1970-06-17,899059,fr
+10:16:05,essen.gif,2004-10-31T03:45:38,Zypern,Keudel Haering GmbH,Düren,Quechua,2012-05-18 00:41:29,srv-77.wohlgemut.de,0d:22:6b:94:50:9c,DE,"3,71 €",-37.628003,2018-06-20,377,szl
+23:40:11,ziehen.csv,2011-07-22T14:37:03,Costa Rica,Käster Thanel GmbH,Cloppenburg,Georgian,2007-08-18 03:22:51,db-79.wohlgemut.com,c5:71:75:2e:07:de,DE,"1,42 €",-43.940696,2001-03-21,427,gl
+09:10:24,verkaufen.mp3,1976-12-14T19:19:15,Réunion,Hiller,Eisenhüttenstadt,Chuvash,1996-09-17 03:13:30,db-56.mohaupt.com,24:97:6e:00:a0:28,DE,"85.151,60 €",-61.1631695,2009-12-23,171,fr
+14:30:37,allein.avi,1991-12-16T11:40:04,Polen,Wähner,Jüterbog,Western Frisian,2004-05-17 15:51:43,laptop-55.drub.com,c2:12:77:50:76:56,DE,"1.119,56 €",26.5605205,2002-02-05,227622350,br
+22:32:31,Rad.png,1976-05-31T19:47:14,Slowakei,Trapp,Naila,Occitan,2011-02-28 18:08:07,db-59.ladeck.com,34:f1:0c:0f:10:46,DE,"6,25 €",-59.600454,2003-10-30,511126366,kok
+21:00:56,selbst.wav,2022-04-14T02:04:42,Zypern,Neureuther,Bad Mergentheim,Burmese,2013-09-22 13:18:49,srv-81.jacob.de,99:52:3a:71:1b:52,DE,"90.615,92 €",82.7138355,2006-11-08,337236,fil
+02:24:13,geben.xls,1997-02-25T17:32:37,Grönland,Heinrich Stiftung & Co. KG,Halberstadt,Nepali,1989-04-30 08:35:43,db-61.salz.net,18:3d:a1:1e:42:ea,DE,"985,54 €",86.151686,1987-07-28,93152105,raj
+22:54:22,wie.css,1990-02-15T10:53:34,Malta,Weinhold GmbH & Co. KG,Böblingen,Sanskrit,2021-07-25 18:23:19,lt-95.geisler.de,31:b0:dc:3c:10:be,DE,"7,88 €",-62.7363665,1973-04-26,2,lt
+11:38:28,verstecken.pptx,2007-11-16T02:45:44,Neukaledonien,Gorlitz GmbH & Co. KG,Sondershausen,Nauru,1972-09-08 02:47:44,web-50.budig.de,5d:63:70:7d:d8:f0,DE,"605,29 €",65.9518985,2007-07-31,18,hu
+13:59:56,aber.mp3,1995-07-17T03:17:56,Taiwan,Jacob,Hagenow,Malagasy,2004-06-08 03:57:15,laptop-35.kuhl.com,2b:8a:64:62:c1:aa,DE,"7,79 €",-88.6175365,1974-10-01,76,hu
+19:00:57,nun.html,1990-01-09T07:17:23,Peru,Söding AG & Co. OHG,Gelnhausen,Tatar,2020-09-02 23:00:01,desktop-38.trupp.com,e4:03:6c:41:f6:84,DE,"64.781,17 €",-68.1483745,1979-04-05,41125325,sw
+08:39:55,und.jpeg,1983-11-13T15:47:49,Sudan,Freudenberger,Darmstadt,Shona,2009-12-13 18:01:19,lt-07.spiess.de,23:91:67:1d:1c:f4,DE,"0,74 €",70.060430,1973-06-24,9305629,ti
+14:13:05,springen.html,1984-12-30T21:19:40,Niger,Kostolzin AG,Hildburghausen,Maltese,2001-02-12 15:00:12,laptop-98.lachmann.com,83:14:48:a9:32:d9,DE,"24,54 €",-70.5791745,2000-01-30,0,byn
+22:40:04,wahr.jpg,1976-03-31T13:23:24,Kanada,Hartung,Güstrow,Telugu,2019-01-09 09:59:59,web-53.haering.de,83:93:ac:79:9a:97,DE,"0,34 €",-1.6613995,2014-01-12,41864275,ast
+18:25:18,Tante.pages,2019-08-01T06:15:26,Bosnien und Herzegowina,Gierschner GmbH,Senftenberg,Bulgarian,1998-03-02 10:50:04,email-31.warmer.net,fb:c7:37:a0:d9:05,DE,"44.208,12 €",17.2913515,2023-07-16,73704,el
+02:21:47,rund.wav,2021-05-05T23:52:50,Kamerun,Mentzel,Bad Mergentheim,Swati,2020-01-16 04:04:37,web-26.kaul.org,dc:55:21:db:5e:4f,DE,"39,39 €",72.081528,1974-03-20,818216,quz
+01:20:01,packen.docx,1983-05-05T11:38:27,Marokko,Häring AG & Co. KG,Seelow,Gujarati,2014-02-28 05:56:39,email-78.krebs.de,23:a3:f3:03:7d:02,DE,"979,20 €",-79.7505585,1991-08-25,1951,eo
+03:08:38,ließ.webm,2006-05-22T22:52:50,Ungarn,Röhrdanz,Hainichen,"Sotho, Southern",2020-10-24 14:18:33,lt-78.lindau.org,72:ea:e4:88:5b:a1,DE,"14,30 €",-74.8932025,2021-10-05,95,bg
+10:30:14,immer.key,1972-05-27T13:53:37,Mosambik,Gieß Dowerg KG,Badoberan,Interlingue,1989-08-18 11:52:33,srv-02.jessel.com,c8:6d:84:1e:25:e6,DE,"27.892,31 €",-9.437145,1983-09-09,991,az
+00:44:57,blau.json,2020-10-14T04:29:56,Island,Kühnert,Anklam,Gujarati,1978-10-23 13:00:03,laptop-82.wilms.com,04:d6:0a:7a:21:86,DE,"1.497,94 €",7.1809425,1972-01-03,91771,ff
+09:55:27,noch.mov,1999-08-30T22:04:59,Trinidad und Tobago,Hornig AG & Co. KGaA,Pößneck,Tswana,1989-08-31 19:36:27,web-74.misicher.de,9b:67:88:59:d1:15,DE,"3.870,11 €",65.6074115,2010-12-29,13346,tr
+03:50:24,Bauer.avi,2017-04-18T16:35:41,Mayotte,Hiller Bohlander AG & Co. OHG,Fallingbostel,Kikuyu,1972-04-26 03:04:28,email-83.klingelhoefer.org,da:1d:65:49:cf:80,DE,"7,01 €",14.1829895,1991-06-30,946390,bhb
+17:51:18,gerade.odp,1993-06-10T03:49:30,Montenegro,Mende,Worbis,Venda,2013-09-14 21:12:50,email-52.paffrath.com,14:af:06:2e:34:37,DE,"7.216,33 €",73.000579,2022-01-09,4041,unm
+17:55:36,fast.pages,1973-09-01T21:11:52,Dänemark,Köster Döhn AG,Main-Höchst,Urdu,2014-07-02 14:22:04,laptop-79.fiebig.org,ff:c9:15:f6:45:de,DE,"2,84 €",86.860113,1984-03-14,680007531,lg
+14:58:51,heraus.flac,1999-07-15T06:14:11,Portugal,Wulff AG & Co. OHG,Tübingen,Bulgarian,1977-10-13 10:18:39,email-85.jaentsch.com,bb:f8:e9:31:b3:bc,DE,"98.190,77 €",19.9876975,1987-11-25,390059716,mr
+01:58:26,so.webm,2016-07-15T12:31:26,Demokratische Volksrepublik Korea,Werner Schüler GmbH & Co. KGaA,Eisenach,"Sotho, Southern",1972-03-28 22:13:08,web-34.henschel.de,ca:1c:03:3d:8d:c9,DE,"63.186,45 €",-43.2740405,1974-12-24,72,lzh
+22:07:27,weiß.webm,1995-06-10T14:24:14,Laos,Berger AG & Co. OHG,Hammelburg,Turkish,1992-04-05 19:54:25,srv-81.roehricht.com,1c:34:1d:3b:1a:dd,DE,"764,25 €",-86.618510,2011-03-07,17,ru
+14:02:24,auch.pages,2016-11-16T06:44:17,Westsahara,Finke Höfig AG,Pößneck,Lao,1982-04-07 14:34:07,db-39.barth.com,43:fb:d0:ba:0d:3e,DE,"75.658,53 €",-62.093150,1992-09-25,255683,sv
+19:24:01,turnen.mov,2005-09-27T14:57:27,Komoren,Baum AG,Jüterbog,Fijian,1995-03-01 05:33:40,desktop-84.trueb.net,f5:ba:e6:cf:0a:d7,DE,"161,46 €",48.773528,1988-12-26,902879391,zh
+22:45:31,gibt.flac,2003-11-04T00:18:14,Benin,Dörschner AG,Lüdenscheid,Russian,2011-11-17 04:09:08,lt-97.vogt.de,d1:23:19:2d:a7:bc,DE,"6,57 €",25.801281,2000-04-10,7595375,fi
+12:25:53,Erde.mov,2000-05-18T17:44:36,Philippinen,Jopich,Badoberan,Hiri Motu,2013-08-17 02:35:59,email-56.reuter.com,47:0b:c2:28:36:97,DE,"257,56 €",-39.3952825,1970-04-11,708,mk
+04:09:03,fest.pdf,2015-02-09T14:03:05,Bulgarien,Mende,Pritzwalk,South Ndebele,1986-08-15 21:57:00,lt-97.langern.com,a9:ea:51:85:f6:d8,DE,"9.427,85 €",-22.056011,1973-12-18,816,ff
+22:24:35,vielleicht.html,2012-06-21T21:23:55,Dominikanische Republik,Rogge Renner OHG mbH,Northeim,Xhosa,2013-12-18 22:59:32,email-09.etzold.net,2f:dc:5c:67:dd:f2,DE,"5,40 €",-40.7630385,1970-07-12,14511,mk
+18:19:50,Oma.txt,2011-03-05T04:13:22,Amerikanisch-Samoa,Kraushaar Heintze KG,Ingolstadt,Swahili,1992-11-04 00:18:37,lt-55.dowerg.com,c0:df:c1:8e:80:2c,DE,"3.992,03 €",-78.0097905,1985-07-08,4422038,os
+06:22:12,hören.html,2008-11-08T07:20:16,Libanon,Hiller GmbH,Eutin,Romansh,1994-03-01 15:46:28,db-15.paffrath.net,a8:77:13:30:81:48,DE,"0,06 €",-40.3254315,1975-08-23,41,br
+13:11:10,sind.avi,2013-12-18T14:43:55,Kongo,Klingelhöfer Schmiedt e.G.,Sankt Goar,Turkish,2018-07-18 02:28:09,srv-80.budig.de,33:d9:7d:a6:c9:18,DE,"54,54 €",65.7173825,2002-01-04,5252593,eu
+18:23:36,Teller.json,2020-05-18T04:53:37,Ägypten,Baum AG,Burglengenfeld,Armenian,2007-01-22 01:28:07,email-25.baerer.net,7e:9b:c9:13:39:77,DE,"86.667,01 €",-55.7704515,2006-09-13,454642,eu
+00:26:29,Stunde.tiff,1986-11-22T01:03:43,Färöer,Faust Segebahn GbR,Belzig,Kashmiri,2016-03-01 01:58:56,lt-91.jaentsch.com,a7:c3:97:36:b3:da,DE,"2.648,12 €",2.691398,1975-04-25,213330,yi
+16:51:17,hinein.bmp,2004-06-26T13:08:13,Niger,Gute GmbH & Co. KGaA,Ebern,Japanese,1996-03-17 05:17:29,db-96.dobes.de,69:65:ba:63:8e:94,DE,"23,17 €",61.5263375,2023-06-29,965429938,bem
+15:27:06,Mutter.flac,1985-05-26T09:50:30,Guatemala,Scholtz,Döbeln,Interlingue,2013-11-18 14:39:01,lt-28.jungfer.com,d2:e5:49:aa:de:82,DE,"50.814,94 €",69.608188,1976-11-15,5036,kk
+17:49:06,Berg.html,1976-05-09T17:30:26,Australien,Ladeck,Grevesmühlen,Kinyarwanda,2000-05-16 02:28:58,desktop-41.jacobi.net,15:3c:6f:bd:5d:11,DE,"94.792,54 €",13.7232545,1990-09-30,242286,ko
+20:10:35,rechnen.ods,1989-09-16T01:05:52,Laos,Heinrich Sorgatz AG & Co. OHG,Freital,Zulu,1991-06-20 21:49:59,desktop-36.beyer.com,54:5e:7f:81:93:70,DE,"5.320,91 €",-28.9103755,1976-09-25,1435279,sv
+21:17:08,sind.tiff,1983-12-09T09:15:55,Belgien,Linke Stiftung & Co. KG,Siegen,Quechua,2020-08-20 14:53:31,srv-06.steckel.de,37:da:87:ae:e3:92,DE,"38.053,66 €",79.9498405,1995-11-08,40,fil
+08:34:12,Bein.gif,1986-03-08T16:10:07,Guam,Gehringer,Wolfratshausen,Tsonga,2009-01-01 22:26:36,db-77.eberhardt.com,eb:0e:07:14:1c:d3,DE,"40,52 €",15.1424585,2016-10-23,515,lg
+09:56:48,Fenster.key,2001-12-03T14:31:17,Pakistan,Thies,Geldern,Bengali,1990-04-22 03:01:39,web-00.hess.net,e3:8e:0d:fa:f7:e1,DE,"8,00 €",-24.840030,2020-12-06,551,dv
+15:52:35,rennen.avi,2010-10-29T18:40:30,Belize,Spieß,Finsterwalde,Hungarian,1987-08-02 13:57:18,srv-34.paffrath.net,5c:bb:83:2b:07:d6,DE,"5,43 €",-54.9998065,2005-11-01,7,ca
+03:34:46,fertig.tiff,1999-11-21T05:35:22,Westsahara,Ernst van der Dussen KG,Vechta,Belarusian,2015-08-07 10:18:20,desktop-10.rosenow.com,2c:a0:5b:a3:ed:f3,DE,"38,43 €",53.7975005,1993-10-24,17972,hr
+17:26:42,weit.json,2021-12-28T17:18:47,Barbados,Zimmer,Biedenkopf,Danish,1977-07-28 06:27:42,lt-14.nerger.org,c4:8a:ef:5c:b4:7a,DE,"2.833,80 €",-26.0941055,1993-07-27,39,ku
+13:05:53,ist.css,1979-04-19T06:24:44,Kuba,Wilmsen AG & Co. KGaA,Ebersberg,Polish,2017-09-05 19:47:54,laptop-06.karz.net,1c:4b:99:b1:aa:b3,DE,"7,72 €",65.2960075,1990-11-20,579,fy
+01:28:03,dabei.txt,1983-02-27T23:54:42,Lettland,Dowerg KG,Kötzting,Lingala,2015-11-08 13:50:45,lt-99.hande.de,7c:19:57:da:50:72,DE,"7,57 €",-8.181391,1975-12-01,743,fil
+03:35:07,fast.js,2020-12-23T15:10:36,Taiwan,Kambs Drubin KG,Kronach,Rundi,1974-05-22 13:31:00,db-20.wohlgemut.com,2d:fa:51:83:8c:59,DE,"7,71 €",-5.1739015,1983-07-19,8,el
+07:53:59,dürfen.csv,1994-07-09T11:37:47,Serbien und Montenegro,Zänker Geißler GmbH & Co. KG,Schleiz,Basque,1977-12-08 05:02:49,email-31.franke.com,a3:c7:57:21:e5:d1,DE,"409,51 €",66.7403315,2018-11-08,768067671,lv
+13:59:04,hören.wav,1988-04-25T19:30:53,Lesotho,Stiffel,Schwäbisch Hall,Guarani,1981-07-18 11:55:52,lt-62.rogge.net,b3:a6:cb:04:a8:a2,DE,"31.344,03 €",-38.0168755,1989-07-25,234,hsb
+19:23:34,Schnee.xlsx,2022-12-24T19:10:53,Frankreich,Langern Bolander AG,Rathenow,Icelandic,1974-07-24 18:28:52,laptop-25.renner.com,ee:54:58:65:c0:67,DE,"3,80 €",-9.515661,2013-09-28,39,aa
+12:08:46,ging.json,1982-06-15T04:26:06,Russische Föderation,Römer GbR,Bayreuth,Bashkir,1996-05-08 08:22:26,lt-60.gehringer.de,df:73:c2:9d:54:27,DE,"46.395,16 €",-26.657180,1994-02-06,502836518,mk
+04:39:22,Meer.pdf,2022-08-25T04:26:57,St. Martin,Mühle,Lüdenscheid,Mongolian,2008-08-07 15:40:35,laptop-30.fechner.net,c4:ba:ce:5e:fe:f6,DE,"84,41 €",9.8602925,2013-02-09,30650,tl
+22:58:40,Spaß.txt,1993-05-28T05:07:20,Sierra Leone,Bohlander KG,Freising,Interlingua,1999-09-02 09:39:26,web-56.kusch.com,5e:49:66:b8:01:ec,DE,"35.236,20 €",45.332020,2020-05-09,6,ms
+08:19:52,sieben.csv,1979-11-14T07:25:38,Ecuador,Rörricht GmbH,Erding,Hungarian,1979-01-23 00:14:28,web-59.boucsein.de,a7:01:71:d0:eb:ac,DE,"6,00 €",80.2869415,1983-07-05,63,ckb
+18:34:05,klein.txt,1988-11-19T01:58:40,Kokosinseln,Graf,Havelberg,Kashmiri,2005-12-13 07:22:38,laptop-56.barth.de,f6:4f:0c:ff:96:8d,DE,"61.415,74 €",-35.8964935,1994-11-20,5870172,ht
+13:23:34,haben.png,1973-05-06T19:29:33,San Marino,Paffrath,Ludwigsburg,Assamese,2013-04-23 01:11:54,srv-03.dussen.net,b2:a0:7b:8c:70:e0,DE,"61.272,89 €",28.0535375,2010-11-08,7840914,mni
+19:28:19,wie.flac,1981-02-07T16:02:40,Palästinensische Gebiete,Anders Budig AG & Co. KG,Saulgau,Persian,1977-06-03 15:16:53,srv-78.lorch.com,52:09:87:97:07:d4,DE,"7.506,32 €",80.9729055,1977-12-21,405891307,tig
+11:43:37,oft.key,1990-07-26T11:44:12,Kirgisistan,Jungfer,Jüterbog,Chuvash,1990-01-19 10:00:53,laptop-65.putz.com,1c:7b:6d:e7:33:59,DE,"0,74 €",-77.905672,1999-02-02,730344194,nhn
+14:52:33,schreien.txt,1987-07-19T00:37:56,Bulgarien,Fröhlich Seifert KG,Eisenach,Irish,1989-03-11 08:17:17,desktop-94.bohlander.com,90:94:7d:8d:bf:d6,DE,"1,26 €",-34.530057,2005-03-29,6,se
+14:30:40,schwer.bmp,1980-05-11T05:59:49,Thailand,Dörr Holzapfel GmbH,Eisleben,Albanian,1998-05-14 01:18:41,web-74.reichmann.de,53:0d:a2:cf:c9:fe,DE,"20,81 €",-77.6197755,2007-12-28,426,as
+16:17:16,um.wav,1970-05-12T03:21:00,Amerikanische Jungferninseln,Meyer,Luckau,Panjabi,1991-08-04 21:27:44,laptop-86.butte.de,e3:8f:70:d3:f6:73,DE,"204,41 €",80.3609665,1976-07-19,76745507,li
+04:45:02,oft.ods,1981-02-13T13:52:47,Französisch-Guayana,Gotthard GmbH,Calw,Abkhazian,1971-05-01 06:31:36,lt-30.tlustek.de,f6:df:fa:57:36:86,DE,"6,92 €",55.467249,2021-09-17,3,be
+07:20:44,draußen.css,1976-09-13T01:48:15,Indien,Kreusel GmbH & Co. KGaA,Halberstadt,Thai,1977-04-27 17:10:20,web-85.hartmann.de,17:75:2b:2b:7f:54,DE,"66,09 €",21.397757,2005-02-17,64356743,ps
+21:46:13,nie.html,1984-08-22T23:37:18,Nördliche Marianen,Bender GmbH,Rehau,Avestan,2001-10-25 11:49:46,desktop-19.hecker.de,84:ea:d2:e6:3d:be,DE,"8,33 €",-28.1589465,1995-01-28,42608,byn
+03:38:15,brauchen.ods,2000-01-12T22:43:41,Japan,Schottin,Stade,Tajik,2012-11-16 23:31:09,web-27.jopich.com,0c:21:97:a3:08:f3,DE,"6,18 €",27.781213,2015-09-21,4,gv
+22:22:53,öffnen.mp4,1970-02-14T04:44:38,Myanmar,Sauer,Düren,Chuvash,1975-03-25 19:13:42,desktop-51.wirth.com,81:17:99:c6:a3:40,DE,"39,38 €",-85.792578,2011-11-23,7742,wae
+02:29:37,Monat.docx,1976-08-08T22:51:02,Vereinigte Staaten,Hahn Pruschke GmbH,Soltau,Sichuan Yi,1993-02-07 11:54:28,web-62.karz.de,e4:83:4b:48:53:88,DE,"86,32 €",39.207551,2021-06-01,60360583,sd
+09:08:40,fünf.csv,1978-02-22T17:44:47,Südafrika,Plath Speer GmbH,Gotha,Kurdish,1999-06-27 12:14:06,desktop-13.graf.de,b4:bd:9d:1f:9e:13,DE,"95,26 €",52.320917,2020-11-17,5664,sv
+02:34:08,Stadt.gif,2020-07-07T21:12:32,Monaco,Bien,Querfurt,Akan,2016-12-01 00:21:13,srv-98.koch.org,01:a8:c3:60:8d:ad,DE,"361,95 €",19.5580045,1970-04-30,29399,gd
+08:57:18,gab.odp,1997-09-01T11:44:04,St. Martin,Drubin,Lichtenfels,Assamese,1987-11-06 19:16:18,lt-05.finke.com,34:e2:46:41:33:92,DE,"7,96 €",-24.0867265,2023-01-22,17,ts
+00:41:33,packen.pages,2004-09-08T00:33:01,Bahamas,Mende GmbH & Co. KG,Hofgeismar,Avestan,2005-11-26 12:26:52,srv-87.warmer.com,45:74:eb:e3:8d:19,DE,"150,36 €",-4.174278,1996-12-15,40,lt
+05:05:46,stehen.css,2001-04-06T20:49:11,St. Lucia,Zahn KG,Wanzleben,Basque,1972-08-27 12:57:36,lt-60.heuser.de,be:30:6b:22:54:45,DE,"9.212,77 €",86.910783,2001-04-03,665,cs
+03:33:38,nach.html,1995-02-04T02:28:33,Griechenland,Röhricht AG & Co. OHG,Flöha,Swedish,2008-03-21 07:01:08,srv-03.bohlander.net,b3:76:65:77:90:58,DE,"815,24 €",52.4437585,2008-11-16,75,am
+17:10:59,nur.txt,2014-02-03T06:55:47,Südafrika,Flantz GmbH,Pasewalk,Portuguese,2017-11-14 17:32:51,desktop-14.wesack.com,25:44:a8:b3:d2:28,DE,"7.444,71 €",9.269358,2011-08-23,53662270,ayc
+09:42:26,weit.txt,2022-06-23T20:59:52,Nicaragua,Jopich,Meppen,Spanish,1995-04-05 12:28:33,lt-47.muehle.de,5f:d4:b1:a5:4b:a9,DE,"3.434,67 €",-82.232705,2022-09-07,553,tl
+17:44:28,drei.xls,2006-08-10T04:18:29,Österreich,Jäkel,Görlitz,Sundanese,1972-11-17 20:49:45,lt-78.gertz.com,c2:f8:9a:b1:eb:cf,DE,"6,32 €",16.569192,2006-07-19,1,iu
+04:36:06,hoch.mov,1989-08-12T07:18:37,Malaysia,Metz Stiftung & Co. KG,Kronach,Burmese,1990-04-07 20:21:37,srv-68.roemer.com,3c:42:85:1e:b2:82,DE,"6.617,27 €",-35.7593195,2003-10-15,527866949,ne
+12:45:47,Onkel.gif,2015-09-20T17:23:05,Belize,Warmer,Ebermannstadt,Romanian,1984-10-21 20:53:26,web-08.mans.org,c5:41:4b:e7:b2:65,DE,"38.309,98 €",-50.624677,2008-11-29,9330,mni
+07:01:21,Bett.ppt,2020-05-07T15:31:56,Niger,Wernecke Löwer GmbH & Co. KGaA,Weißenfels,Oromo,2003-10-27 07:09:59,desktop-43.zobel.net,d8:6f:85:f7:0c:8a,DE,"7,93 €",-25.4844955,2011-01-09,56,tig
+07:14:58,laut.bmp,1990-11-26T10:34:39,Dschibuti,Pruschke Wesack GmbH & Co. KG,Bautzen,Divehi,1972-04-14 00:58:14,srv-67.mohaupt.org,8c:45:1c:93:b0:fd,DE,"6.068,31 €",-11.8248605,2022-07-10,41418,vi
+19:53:23,Mädchen.gif,1988-06-30T15:43:03,Belize,Rogner GmbH,Borna,Sinhala,2017-01-22 18:39:08,srv-26.lorch.org,e1:aa:88:a4:51:fe,DE,"8.991,37 €",78.358809,1990-07-06,197273,ja
+07:38:30,sofort.wav,2020-05-30T19:58:25,Bermuda,Grein Groth GmbH,Waldmünchen,Marshallese,2018-10-14 20:45:30,lt-27.klemm.org,4e:dc:50:bc:93:13,DE,"113,90 €",-63.2981015,1982-02-12,45954,ja
+15:33:20,helfen.html,2012-03-15T18:59:59,Indonesien,Wulff,Freital,Hindi,1995-07-18 12:21:29,web-93.steckel.org,57:6a:79:79:e9:10,DE,"4,25 €",49.226322,1978-10-08,163,ve
+01:29:21,zusammen.avi,1984-07-17T21:31:53,Somalia,Losekann e.V.,Coburg,Kurdish,2023-06-29 19:29:12,laptop-90.saeuberlich.de,ee:05:52:bb:79:eb,DE,"38,74 €",-79.396813,1988-04-01,6389839,nb
+17:26:11,Berg.flac,1974-05-28T08:38:13,Fidschi,Ruppersberger Köhler AG & Co. KG,Schrobenhausen,Tibetan,2020-11-18 12:16:59,email-08.loos.de,a7:e7:1a:70:76:8d,DE,"7.438,62 €",-11.4377645,2019-06-08,819,bo
+03:10:48,packen.txt,1980-05-23T16:43:19,Malediven,Tröst Harloff AG,Witzenhausen,Romanian,2017-07-13 09:37:33,web-32.giess.com,b8:70:c1:cf:22:06,DE,"3.097,08 €",49.308962,2010-02-15,687209,fr
+16:25:55,gefährlich.json,1973-10-15T03:55:13,Palau,Scholl KG,Gütersloh,Swedish,2021-08-21 05:31:03,srv-46.hentschel.com,b2:e6:42:e8:6b:c1,DE,"77,86 €",-43.085328,1984-08-20,929567,ia
+04:06:35,Bein.png,1999-03-12T20:26:07,Luxemburg,Conradi Staude Stiftung & Co. KG,Kehl,Sanskrit,2016-11-17 19:31:01,lt-80.schomber.net,c1:97:cc:64:57:c4,DE,"242,68 €",-65.9950155,1979-05-26,51395,csb
+01:48:02,Straße.png,1980-07-13T18:28:28,Panama,Hänel Lübs AG & Co. KGaA,Northeim,Sardinian,2000-07-06 05:19:59,web-16.boerner.de,f8:0f:0f:47:b2:ce,DE,"2,73 €",12.8997455,2013-05-04,46134,ks
+01:21:15,Schiff.docx,2010-01-01T05:47:54,Libyen,Hübel AG & Co. OHG,Herzberg,Chechen,1995-04-05 20:32:42,web-51.bonbach.com,bb:ea:d5:e9:08:33,DE,"43,13 €",45.7403095,1975-05-08,81154177,uz
+22:01:28,Wort.css,1992-10-29T09:09:43,Vereinigte Staaten,Kostolzin Schleich AG,Ludwigsburg,Bulgarian,1974-06-05 08:31:35,lt-28.kitzmann.com,1a:9d:68:22:39:ed,DE,"7,32 €",-49.304039,2001-06-10,73767192,tig
+23:25:32,fallen.css,2018-05-25T00:02:46,Benin,Pärtzelt,Bad Kreuznach,Hebrew,1981-05-28 02:55:43,web-65.kroker.de,e9:27:92:f0:e6:5c,DE,"2.641,27 €",-63.5822465,1991-05-24,5,nl
+15:58:20,steigen.png,2023-06-14T09:06:06,Montenegro,Butte,Hohenstein-Ernstthal,Slovak,1977-11-22 03:41:26,srv-70.herrmann.de,83:20:cd:be:f5:29,DE,"770,64 €",-69.169903,2018-05-10,83035416,vi
+05:41:42,Glas.txt,1985-07-04T09:46:18,Osttimor,Heydrich Bauer AG & Co. KG,Saarbrücken,Limburgan,2021-10-16 22:04:04,db-10.gehringer.com,2a:58:61:79:18:0c,DE,"51.569,32 €",-64.798428,1987-09-27,79484,unm
+17:40:45,Gesicht.mp3,1999-06-20T15:58:46,Marshallinseln,Rörricht GmbH,Fallingbostel,Korean,2002-09-26 15:43:08,desktop-01.kramer.net,1d:9d:84:49:de:a4,DE,"9.844,96 €",85.894865,2013-12-31,713816382,af
+19:34:55,tief.webm,1996-08-27T23:04:23,Haiti,Kranz GbR,Erfurt,Arabic,2022-06-29 01:02:02,lt-27.weihmann.de,a9:02:29:57:5a:3e,DE,"61.166,74 €",-44.688342,2016-09-25,8277498,it
+03:24:37,wollen.jpeg,2017-06-24T03:59:43,Osttimor,Tintzmann,Rottweil,Uighur,2019-05-25 12:13:31,db-94.hein.de,db:97:c3:6a:33:d1,DE,"137,22 €",-28.279007,1995-05-08,730285,mag
+20:11:32,langsam.wav,1992-04-21T18:32:54,Tschechische Republik,Möchlichen Koch e.G.,Plauen,Pushto,2023-07-21 07:01:29,srv-76.killer.de,80:9c:e7:52:32:9c,DE,"5.187,88 €",30.8859145,1978-04-20,371768,lzh
+08:35:58,sagen.jpg,1972-09-17T08:05:41,Montserrat,Seip AG,Mittweida,Kirghiz,2011-04-29 22:58:44,email-12.dussen.de,17:24:d0:72:8e:c0,DE,"2,89 €",-75.3891145,1970-03-23,9282018,ht
+22:30:32,öffnen.xlsx,1985-02-25T23:43:04,Neuseeland,Walter Gutknecht GmbH & Co. OHG,Büsingen am Hochrhein,Javanese,2006-09-25 17:33:58,laptop-22.haering.org,2c:09:f7:a9:ec:c1,DE,"9,70 €",-15.4499275,2002-12-13,979,the
+23:02:07,daran.json,1982-10-22T03:17:59,Aruba,Söding Boucsein KG,Moers,Shona,2007-01-13 19:42:12,email-75.heintze.de,c3:86:ad:34:f9:f8,DE,"53,32 €",22.7901345,1992-06-25,1527,mai
+00:29:50,Nase.doc,1970-04-30T19:51:49,São Tomé und Príncipe,Holt e.G.,Freital,Ojibwa,1978-01-18 02:50:20,laptop-40.schmidtke.com,c2:c3:82:35:97:f1,DE,"287,55 €",-83.7870995,2023-01-29,529596,se
+10:16:43,Blume.jpg,2019-09-11T00:43:03,Niederlande,Linke,Passau,Swati,1980-01-03 22:00:47,lt-52.drubin.org,e7:f4:5b:2e:17:01,DE,"27,99 €",26.1696875,2009-04-17,9,hsb
+16:22:20,gleich.mp4,2014-03-14T18:47:32,Uganda,Cichorius Carsten OHG mbH,Niesky,Kanuri,2020-12-20 03:07:00,email-34.vogt.de,8d:d8:17:63:9e:8a,DE,"76.021,25 €",-58.654558,1984-12-16,21,ky
+11:08:22,See.ods,2002-02-27T06:30:09,Vereinigte Arabische Emirate,Beer Gerlach KG,Starnberg,Afrikaans,1990-06-17 22:55:30,db-96.ullrich.de,68:bd:3b:0e:b3:2e,DE,"809,42 €",60.6284115,2005-05-03,7905250,se
+18:05:46,fangen.mp3,1978-02-06T21:14:31,Oman,Vollbrecht Schenk e.V.,Döbeln,Catalan,2010-04-18 14:19:46,email-94.pruschke.de,ab:67:fe:05:ec:e4,DE,"3.272,32 €",34.626758,1993-06-11,55025602,dz
+07:26:55,einfach.flac,2012-10-05T14:16:22,Angola,Rosenow,Wismar,Occitan,1997-09-28 21:24:06,laptop-80.schenk.com,48:79:3f:28:1f:65,DE,"2.205,31 €",-80.060874,2021-12-18,0,wo
+05:57:07,richtig.flac,1983-12-10T05:30:29,Montenegro,Dowerg KG,Kaiserslautern,Hebrew,2014-01-25 17:26:14,laptop-40.mitschke.com,ba:1b:ea:9b:ab:bb,DE,"267,40 €",-22.8677685,1973-08-01,392734936,pt
+16:03:23,deshalb.flac,1992-06-28T23:43:38,Monaco,Schlosser,Burglengenfeld,Macedonian,2016-09-15 05:45:29,lt-63.jungfer.com,82:e7:e7:34:86:af,DE,"7,22 €",-46.6999855,1998-03-22,45285,niu
+16:13:29,Jahr.key,1980-07-22T19:49:22,Bouvetinsel,Höfig,Ebermannstadt,Lingala,2022-11-13 17:56:22,srv-28.kuehnert.com,91:0f:ed:eb:94:62,DE,"1.136,36 €",2.2750605,2006-12-19,6530539,sl
+10:32:58,Dorf.csv,1981-10-09T13:17:00,Dominica,Barkholz GmbH,Lüneburg,Yiddish,1983-01-16 19:39:42,srv-40.kuehnert.com,83:41:bb:bf:a3:0f,DE,"308,11 €",-81.3579195,1981-06-13,622943,kw
+19:07:37,da.tiff,1984-12-11T13:27:37,Dominica,Finke,Teterow,Fijian,1980-05-04 21:04:47,db-13.scholl.net,1c:47:08:1e:d2:e4,DE,"2,36 €",70.199608,2007-08-01,8689,lo
+12:09:59,Leben.xlsx,1993-09-09T08:37:36,Italien,Lübs GmbH,Gerolzhofen,Bashkir,2011-03-04 02:14:18,lt-84.hering.org,9f:91:a7:41:d1:4d,DE,"952,66 €",19.394927,1987-04-01,79767392,gv
+19:57:37,nennen.flac,2006-03-22T23:44:04,Vereinigte Staaten,Schüler Schmidt Stiftung & Co. KG,Ludwigslust,Slovenian,1993-06-10 06:11:00,db-53.bolander.de,cd:de:c5:17:15:dc,DE,"40.681,97 €",81.8336745,1987-01-07,84,niu
+22:14:07,ging.xls,2000-07-25T02:46:24,Sri Lanka,Boucsein Stiftung & Co. KGaA,Viersen,Yoruba,1974-03-06 10:57:56,email-69.textor.de,35:88:f0:c2:a0:79,DE,"10,91 €",18.639223,1975-07-14,426323407,hsb
+08:59:22,dir.pdf,2023-05-15T06:41:41,Färöer,Hamann GmbH,Mallersdorf,Rundi,1997-03-22 03:50:54,web-27.hellwig.org,87:7e:73:2e:ae:35,DE,"876,23 €",41.5539875,2007-07-02,725819,ber
+22:44:11,früher.wav,1972-06-06T21:29:53,Usbekistan,Beckmann Hentschel e.G.,Burg,Sindhi,2004-01-15 12:33:45,srv-39.roehrdanz.com,5f:d9:ae:12:c3:b3,DE,"4.547,86 €",38.1893125,2022-09-27,42,wa
+00:09:46,spielen.json,1994-11-24T15:30:11,Dänemark,Dehmel Stahr AG & Co. KGaA,Döbeln,Serbian,2015-11-27 12:17:04,laptop-05.werner.net,7a:a7:83:2a:1e:99,DE,"25.840,74 €",49.2155865,2023-05-26,87374,ka
+04:28:17,Wagen.jpeg,2013-06-04T06:52:51,Kiribati,Hamann,Scheinfeld,Uzbek,2013-02-12 18:10:37,srv-11.muehle.com,e8:ce:e4:89:6a:ef,DE,"0,69 €",-41.660964,1982-03-17,8402,fil
+12:02:44,dürfen.avi,1975-01-31T20:06:16,Vereinigtes Königreich,Rudolph Franke GbR,Saulgau,Dutch,2005-12-14 08:15:37,db-41.dietz.com,f1:89:55:d2:21:66,DE,"3,53 €",27.6737445,1970-02-12,7940,ro
+02:01:59,und.odp,1975-12-17T07:03:27,Tansania,Wieloch KG,Dinkelsbühl,Ganda,1976-12-26 19:48:24,db-43.hecker.org,75:42:25:38:92:d2,DE,"3,83 €",-70.343808,1981-01-01,2533334,uz
+07:18:03,danach.wav,2021-11-03T04:04:57,Mauretanien,Mülichen Jäntsch GmbH,Miltenberg,Kinyarwanda,1992-10-09 10:44:32,email-95.doering.com,c1:29:8e:65:af:79,DE,"3.169,69 €",84.517688,1995-08-11,420,iw
+17:44:28,doch.mp3,2003-05-12T14:23:46,Réunion,Hethur,Großenhain,Slovenian,2016-04-08 02:30:14,laptop-60.gnatz.de,65:7f:44:0f:04:b2,DE,"198,70 €",22.2992655,2006-02-17,49576,fa
+01:36:02,mit.webm,2009-06-02T13:32:12,Nepal,Conradi,Nabburg,Latvian,2012-08-19 16:28:15,db-14.gorlitz.de,1c:76:bd:6d:04:23,DE,"234,73 €",70.499647,2012-07-07,2040612,nn
+00:38:47,Jahr.jpeg,2017-11-10T18:50:33,Montserrat,Dobes,Mallersdorf,Breton,1986-01-29 16:21:09,db-38.harloff.de,15:1b:5d:cd:71:aa,DE,"9.958,43 €",-74.723568,1981-06-10,47,kok
+23:16:18,will.flac,1974-12-07T13:24:31,Angola,Vollbrecht Weller OHG mbH,Neu-Ulm,Hiri Motu,1979-06-15 17:14:38,db-50.cichorius.net,b0:c2:8e:c7:51:30,DE,"844,38 €",66.0222405,1982-01-13,93876,fo
+23:52:38,treffen.docx,1996-04-04T05:45:18,Katar,Graf,Rockenhausen,Maori,1981-08-24 09:43:47,lt-07.roskoth.net,c3:87:41:3f:a4:ba,DE,"99.349,98 €",41.517227,1978-03-22,3,oc
+15:08:16,in.gif,2017-05-12T08:20:53,Jersey,Bender,Lübeck,Latvian,2001-10-04 21:37:17,email-15.vogt.com,5e:ac:77:16:09:9c,DE,"387,96 €",85.3316245,1977-04-02,1589,lt
+04:00:20,böse.mov,1982-12-25T06:34:11,Belarus,Spieß Mende e.V.,Tecklenburg,Bosnian,2013-07-08 08:24:44,srv-82.butte.de,26:b2:ea:2e:12:32,DE,"84,40 €",71.9552755,2022-08-28,85790911,vi
+19:25:13,spielen.webm,1985-08-04T01:26:02,Liberia,Freudenberger AG,Beilngries,Basque,2000-07-26 10:53:49,srv-90.hermighausen.de,ce:2a:9b:a3:38:e4,DE,"62,90 €",13.4682855,2007-12-18,33,ug
+05:06:09,nicht.flac,2015-02-23T10:14:29,Sonderverwaltungszone Hongkong,Kambs Austermühle GmbH,Bitterfeld,Yoruba,1981-05-23 11:24:18,db-33.koch.de,48:51:7a:90:d8:07,DE,"47,83 €",9.756299,2002-11-20,65180,ga
+00:29:54,Mädchen.key,1992-10-21T00:37:07,Russische Föderation,Blümel AG,Meppen,Mongolian,1996-03-10 14:31:09,lt-20.doehn.org,c9:34:1a:bd:b3:ec,DE,"6,16 €",51.970300,2014-08-13,6115014,tcy
+05:50:57,bis.flac,1983-02-08T05:05:21,Kolumbien,Mende AG,Gera,Turkmen,2017-07-02 09:56:40,email-21.dippel.org,9d:d5:b9:06:c1:ec,DE,"3.862,81 €",39.073234,1991-03-31,95357853,zu
+05:22:15,wir.jpg,2008-11-15T11:50:45,St. Martin,Werner auch Schlauchin KGaA,Wunsiedel,Occitan,1973-01-16 16:39:14,lt-46.mende.de,2d:88:80:2c:15:62,DE,"7,24 €",88.434687,1973-03-16,7,uk
+14:23:03,rufen.flac,1977-01-17T16:24:47,Niederlande,Briemer GmbH,Gransee,Avaric,1973-03-10 10:00:14,db-98.rohleder.com,c2:82:4e:97:d3:b2,DE,"9.206,24 €",-76.9521945,1974-11-30,47622,se
+11:13:31,einige.mp3,2004-04-07T18:39:55,Montserrat,Warmer,Neuruppin,Chichewa,1982-11-25 13:36:16,web-82.kallert.de,86:ed:35:cb:d3:9a,DE,"957,81 €",27.121154,1990-09-28,717395,mn
+17:36:28,Hilfe.mp3,2003-10-05T21:35:39,Mauritius,Reichmann GmbH & Co. OHG,Darmstadt,Arabic,2010-03-08 01:56:55,web-02.werner.de,a5:21:2c:ad:2e:d6,DE,"552,83 €",27.3367605,2010-08-09,4,tn
+12:01:57,fliegen.pages,1970-08-05T08:29:57,Kongo,Ortmann Langern AG & Co. OHG,Sondershausen,Luxembourgish,2008-10-23 09:07:29,srv-13.staude.de,94:dd:bc:79:de:a3,DE,"6,58 €",30.823192,2010-05-13,8050449,gv
+01:59:19,Angst.csv,2018-03-25T22:24:47,Zypern,Noack Geisel GmbH & Co. KGaA,Neuruppin,Zhuang,2016-02-28 18:05:17,lt-69.kade.de,c3:42:a1:ea:f4:07,DE,"1,67 €",73.247147,1998-10-03,626,xh
+03:03:34,Stein.wav,1983-11-08T15:18:41,Dominica,Eimer Stiftung & Co. KGaA,Schmölln,Kanuri,1988-10-25 16:39:21,email-93.hornig.com,71:5d:10:81:2c:30,DE,"34.768,00 €",57.0978825,1994-05-01,769333,bs
+14:27:50,lernen.odt,1970-02-27T12:36:02,Jersey,Herrmann KG,Bad Kreuznach,Tonga,2015-02-25 20:07:24,lt-90.margraf.com,4e:7a:df:55:0b:4f,DE,"8,15 €",40.630642,2017-12-16,515235606,ta
+11:49:26,vom.csv,1987-09-19T23:55:59,Britische Jungferninseln,Lindner GmbH & Co. KG,Heinsberg,Nauru,1992-08-21 21:52:03,laptop-55.mude.net,0a:e8:95:85:a9:d9,DE,"464,84 €",-87.130748,2023-03-02,9732,ml
+11:13:57,als.wav,1978-02-17T12:20:56,Montenegro,Stahr,Jessen,Avaric,1987-07-31 17:24:19,lt-35.koehler.net,ec:c1:3e:13:fe:54,DE,"46,98 €",-11.642097,2005-09-05,545595,as
+02:55:46,fährt.avi,2006-07-11T20:32:40,Tunesien,Zorbach,Halberstadt,Chichewa,1975-05-11 00:51:02,laptop-94.franke.org,ca:2c:18:ba:c1:f2,DE,"9,80 €",-46.2935565,2013-07-03,22756,nso
+06:07:09,rennen.json,2004-02-05T23:15:51,Bangladesch,Bohlander AG,Hamburg,Maori,2012-08-21 07:12:55,desktop-08.rosenow.net,19:e4:ad:92:86:97,DE,"27,41 €",-16.8457965,1970-04-18,6,om
+12:46:35,gegen.mp4,2015-08-25T00:02:24,Südafrika,Striebitz Meister Stiftung & Co. KG,Strasburg,Belarusian,2022-02-28 21:38:51,db-35.foerster.com,3c:87:c3:1c:81:da,DE,"41,65 €",-27.758256,1982-09-09,6655501,ln
+09:55:56,einige.csv,2014-12-21T06:28:57,Tansania,Gertz AG & Co. OHG,Eisenberg,Croatian,1970-09-13 04:29:18,lt-98.schacht.com,64:40:bf:54:78:08,DE,"6.895,47 €",4.795982,1991-03-10,383,vi
+02:52:16,legen.flac,1981-12-03T15:50:53,Usbekistan,Preiß,Bergzabern,Ossetian,2019-05-19 20:41:31,web-11.trommler.com,fd:ca:d5:cf:2f:ab,DE,"20,74 €",44.7674705,2008-03-26,8317973,ug
+16:07:30,auf.wav,2000-05-10T08:16:05,Ecuador,Mülichen,Goslar,Georgian,1974-03-27 23:27:26,laptop-03.doerr.org,10:72:7d:09:b2:c9,DE,"862,26 €",10.048256,2008-07-07,784914,hu
+03:47:46,öffnen.csv,1971-04-06T00:24:02,St. Pierre und Miquelon,Hörle GmbH & Co. OHG,Hannoversch Münden,Cornish,2012-04-23 19:05:23,laptop-17.otto.de,17:e6:ff:4e:05:07,DE,"4,57 €",-27.3931175,2007-05-06,832074,ast
+15:56:01,den.json,2014-01-27T00:00:06,Ghana,Metz AG,Eisleben,Kongo,2009-03-10 21:42:54,srv-90.holt.de,93:94:b7:67:89:2a,DE,"9.185,80 €",-69.6525205,2020-10-27,2361,eo
+23:01:51,stellen.flac,1971-12-22T13:28:39,Slowakei,auch Schlauchin GmbH,Sigmaringen,Gujarati,1992-07-18 09:26:49,db-19.stolze.de,91:42:fe:75:30:05,DE,"18,11 €",4.063908,2009-08-12,40799,quz
+11:08:14,Schule.mp3,1974-11-09T08:47:02,Mauretanien,Huhn,Prenzlau,Church Slavic,1977-05-06 09:42:11,lt-65.trupp.com,f8:d2:74:9f:a2:f2,DE,"73,15 €",53.278330,1971-03-07,246002819,mr
+04:22:58,kalt.pdf,2023-02-15T11:57:12,Nordmazedonien,Gumprich Heser KG,Kassel,Kirghiz,1994-08-07 10:58:59,web-78.weimer.de,02:f6:f9:79:f2:2d,DE,"19.263,70 €",69.7620045,1982-09-21,71119089,the
+02:08:30,verstecken.webm,2008-10-19T10:33:43,Mikronesien,Gutknecht GmbH & Co. KGaA,Forst,Luxembourgish,1972-10-27 17:20:07,db-73.hecker.com,99:15:93:aa:4f:8a,DE,"202,71 €",-40.245020,2017-05-17,549530660,ts
+09:27:51,spielen.gif,1979-05-06T20:17:53,St. Martin,Cichorius AG,Peine,Turkmen,1983-11-20 07:27:01,email-32.karge.de,6d:77:fc:0f:5d:a5,DE,"364,96 €",84.1576955,2021-09-01,346,kok
+11:37:22,Boden.gif,1970-03-12T11:45:24,Swasiland,Hövel Rogner KG,Altötting,Nepali,2014-01-01 15:26:59,laptop-31.schuster.de,67:58:f8:3f:ad:15,DE,"2,77 €",29.3887605,1975-08-02,76173,tr
+06:36:28,besser.mp3,1996-10-19T23:19:21,Deutschland,Sorgatz KG,Badoberan,Polish,2014-05-05 18:00:54,email-99.lindner.com,66:da:56:95:db:48,DE,"5.945,58 €",-70.5013845,1985-03-01,462,ayc
+22:32:05,zurück.avi,2020-12-22T12:34:29,Spanien,Budig Wulff Stiftung & Co. KG,Cloppenburg,Quechua,1972-05-15 14:49:51,desktop-54.textor.org,f7:af:16:cd:c4:27,DE,"9,75 €",36.5214135,1996-06-02,63432320,doi
+13:06:19,Bein.key,1975-03-12T19:21:41,Luxemburg,Heuser,Diepholz,Swati,2013-05-30 10:12:14,laptop-29.haering.org,fa:62:75:47:35:c5,DE,"7.036,06 €",65.027513,2002-09-23,8017704,as
+19:34:58,Land.pdf,2006-12-08T07:28:26,Malediven,Wende,Wolmirstedt,Czech,2013-10-14 12:13:39,web-53.sontag.org,1b:95:96:3f:bf:bd,DE,"3,71 €",15.7825395,2023-01-25,215,yi
+07:05:31,grün.tiff,1971-01-24T16:25:17,Salomonen,Tlustek Mies GmbH,Groß-Gerau,Dzongkha,1988-07-06 00:31:19,desktop-44.hoefig.com,81:e4:03:55:f0:4e,DE,"35,28 €",-53.2637465,2003-05-18,243342795,byn
+19:20:24,ist.txt,1972-06-07T11:26:49,Paraguay,Conradi,Stendal,Kinyarwanda,1982-11-09 16:24:42,desktop-64.dehmel.org,e6:9f:26:d8:6b:ba,DE,"6,07 €",-53.575887,1973-03-16,1,sl
+14:19:07,Hand.css,2012-10-16T05:56:59,Peru,Dobes GmbH & Co. KG,Coburg,Kurdish,2013-09-04 01:25:17,srv-86.hoelzenbecher.de,f1:62:61:5d:45:86,DE,"9,74 €",53.4776685,1985-08-24,2155672,bho
+17:08:20,ruhig.wav,1973-04-10T23:15:35,Madagaskar,Weitzel Bohlander GmbH,Neunburg vorm Wald,Avaric,2007-03-31 07:56:46,web-39.scheel.org,f4:2a:96:e9:70:c2,DE,"9.522,58 €",-74.901600,1972-08-31,81292,hi
+21:08:58,Wissen.key,2007-10-11T13:05:25,Äußeres Ozeanien,Benthin,Hoyerswerda,Tigrinya,1973-01-23 14:16:28,lt-00.budig.de,93:f7:d4:39:8c:18,DE,"203,15 €",1.1428095,1978-08-22,6618,wae
+20:16:58,der.wav,2001-06-05T01:57:00,Neuseeland,Heintze AG,Bad Liebenwerda,Ndonga,1978-10-29 04:30:03,lt-07.loechel.org,1f:34:3d:88:ad:a7,DE,"0,45 €",-20.792472,1983-01-19,499,sw
+15:58:00,frei.mov,2001-07-30T01:57:12,Vatikanstadt,Kambs Tintzmann GmbH & Co. OHG,Dinkelsbühl,Bashkir,2009-09-15 21:51:29,lt-70.hartmann.com,15:4e:db:30:13:76,DE,"18,12 €",43.201394,2015-11-20,1,ti
+03:43:32,wieder.pages,2008-03-14T12:53:20,Finnland,Rosemann,Bogen,Ganda,1974-01-16 02:00:26,srv-27.kallert.net,32:00:0c:03:f8:56,DE,"72.227,39 €",-36.8007225,1998-08-15,90341,ps
+12:47:52,gegen.wav,2002-04-14T10:45:58,Alandinseln,Jäntsch Bolnbach GmbH,Oberviechtach,Macedonian,1980-03-29 05:08:56,desktop-49.cichorius.de,8d:84:7d:ae:68:51,DE,"184,96 €",-31.165570,2005-01-31,928,cy
+13:10:51,sprechen.ods,1996-03-16T01:55:44,Polen,Losekann AG & Co. OHG,Herzberg,Finnish,2019-01-02 17:13:28,web-05.doerschner.de,97:86:da:ee:d2:ff,DE,"85.393,63 €",-13.7824425,1993-07-09,2984939,wae
+02:39:24,lassen.png,1989-05-22T12:16:45,Sudan,Wulf Weiß OHG mbH,Jülich,Norwegian,2007-08-02 01:24:24,laptop-97.karz.de,4f:21:27:ad:06:17,DE,"18.848,85 €",57.384845,1976-04-08,344139883,yue
+21:40:55,dort.jpg,1987-03-11T11:22:07,Kambodscha,Schmidtke AG & Co. KG,Calau,Basque,1985-03-01 08:33:29,srv-65.schoenland.de,44:eb:e5:93:1f:88,DE,"3,07 €",57.878814,2009-05-11,940818468,eo
+05:09:51,überall.json,1998-09-16T19:04:04,Ecuador,Hahn KG,Zeulenroda,Sinhala,1989-07-03 01:01:53,web-50.oestrovsky.com,68:38:76:8c:c5:ef,DE,"147,02 €",48.9250085,2000-03-10,7,bs
+22:39:37,Ferien.jpg,1980-04-08T21:31:21,Martinique,Döhn,Pritzwalk,Faroese,2016-09-20 07:19:33,laptop-35.anders.com,40:1c:78:4f:ad:a2,DE,"8.098,76 €",46.149758,1992-01-07,87003223,brx
+09:48:28,Woche.csv,1987-12-01T19:11:51,Osttimor,Thanel GmbH,Griesbach Rottal,Rundi,2015-08-05 18:50:48,web-50.etzold.org,f2:d7:ef:18:3f:e6,DE,"56,92 €",52.340504,2021-08-20,3964959,mai
+04:45:36,bis.wav,1984-07-23T09:24:37,Marokko,Schomber Hofmann GmbH,Eberswalde,Bislama,1976-07-28 22:24:57,desktop-16.linke.org,d7:8b:d6:5d:f3:30,DE,"99.435,75 €",45.718273,1971-01-13,5493302,uk
+15:55:54,Erde.mp4,1973-05-07T09:29:49,Republik Moldau,Rust Schuster Stiftung & Co. KG,Griesbach Rottal,Occitan,1970-11-07 23:05:21,db-87.benthin.de,0d:bc:09:d0:d4:77,DE,"894,89 €",-64.691587,2018-02-11,6919238,my
+05:35:03,ich.jpeg,2003-12-07T18:25:58,Uganda,Kranz GmbH,Rastatt,Slovenian,1976-01-19 20:27:24,srv-17.textor.de,8d:8e:b9:e0:d5:ee,DE,"754,07 €",78.0791085,2021-05-08,1304,my
+21:40:24,sehen.mp4,1973-07-26T12:18:17,Palau,Flantz Wieloch KG,Schrobenhausen,Amharic,2000-05-20 19:22:34,email-28.bonbach.org,1c:3e:81:5a:3d:b5,DE,"747,11 €",10.9707675,1998-04-09,1,ko
+03:23:07,nah.mp3,2002-09-16T13:45:30,Pitcairn,Peukert Kramer GmbH,Vohenstrauß,Cornish,1971-03-06 20:51:56,srv-41.stiffel.net,f0:b0:3e:c3:f0:66,DE,"3,52 €",25.020797,1984-08-26,41855,sr
+23:41:45,Geschichte.xls,2023-01-07T02:35:42,Marokko,Reinhardt Heintze GmbH & Co. OHG,Bruchsal,Herero,2019-02-23 15:37:11,srv-19.hoerle.net,39:86:9e:d9:41:d6,DE,"45,61 €",-67.5495975,1985-10-30,172958,es
+03:50:44,seit.mp4,2018-08-11T23:17:44,Sonderverwaltungszone Macao,Hofmann KG,Bad Brückenau,Chechen,2007-12-03 02:06:52,desktop-44.lange.org,88:3d:61:7b:48:af,DE,"963,66 €",60.7520815,1988-01-09,1040324,pa
+04:22:08,grün.flac,2022-06-03T17:45:03,Vanuatu,Bonbach Ladeck KGaA,Roth,Esperanto,1985-07-10 17:48:21,web-08.schuster.de,d9:2f:38:16:6b:9e,DE,"9,89 €",68.017396,1996-07-09,7,my
+11:41:55,neun.tiff,1991-08-16T04:50:40,El Salvador,Plath Stiftung & Co. KG,Eckernförde,Hausa,2012-06-26 17:15:15,email-27.drubin.de,2c:85:76:ff:5f:d7,DE,"841,83 €",10.8778025,1993-12-03,6119,te
+23:54:14,Winter.mov,1992-08-01T00:06:51,Oman,Süßebier GmbH,Zeulenroda,Walloon,2000-12-19 05:32:44,email-54.juettner.com,c6:65:f3:97:70:1a,DE,"8,29 €",62.565171,1997-09-03,3767,he
+04:54:44,alle.mov,2018-09-07T15:44:46,Panama,Ernst,Jülich,Telugu,1988-06-15 11:07:19,web-95.otto.org,12:c7:c1:83:f9:86,DE,"534,63 €",-33.2907105,2002-08-20,990,mi
+15:00:40,fehlen.json,2008-09-24T08:19:47,Ecuador,Schleich KGaA,Hammelburg,Turkmen,2019-02-27 09:38:06,email-78.kruschwitz.de,d5:df:79:b9:90:4a,DE,"24,23 €",-73.695957,1979-01-03,60460,tcy
+04:50:53,Luft.jpeg,1975-03-25T10:46:29,Niue,Knappe Renner AG & Co. KGaA,Gelnhausen,Marshallese,1982-02-25 20:54:05,laptop-16.dippel.de,22:6b:ad:bd:c8:2a,DE,"909,02 €",44.186891,2023-01-30,98868989,ml
+09:30:16,Wald.js,1974-06-22T20:40:33,Myanmar,Lindner,Weimar,Serbian,1990-12-02 20:59:54,web-29.schinke.de,07:47:7f:14:03:6b,DE,"6.449,66 €",67.532979,1970-02-15,6427794,an
+06:36:50,bekommen.key,2015-10-07T18:23:36,Liechtenstein,Geißler AG,Kyritz,Interlingua,1988-01-13 00:20:32,laptop-75.kambs.com,94:64:8f:3a:62:cd,DE,"10.960,73 €",41.470793,1977-01-16,6635,crh
+03:28:45,schwimmen.flac,1985-09-14T11:07:53,Niger,Köster Rogge AG,Helmstedt,Kazakh,2005-05-25 11:27:42,lt-01.eberth.de,80:1b:0a:63:9e:b3,DE,"2,01 €",-60.547390,2017-02-22,1435234,ms
+23:47:18,Abend.pages,1986-04-14T22:21:05,Kokosinseln,Schmiedecke,Riesa,Hebrew,2012-09-03 18:52:27,web-09.rose.com,a4:13:1a:7e:5a:11,DE,"57.187,45 €",31.1978785,2018-02-09,68,oc
+04:34:01,Herr.wav,1987-11-03T14:31:45,Dominikanische Republik,Pieper Pärtzelt GmbH,Strausberg,Malagasy,2002-05-16 06:51:27,lt-73.krause.de,ac:dd:c5:40:14:6d,DE,"9,28 €",85.7839505,1988-03-24,711667289,mt
+11:52:58,Opa.tiff,1994-05-04T08:42:33,Tschechische Republik,Dörr Krause KG,Karlsruhe,Ukrainian,1991-07-23 22:17:00,laptop-90.losekann.net,3a:22:32:c6:3c:0d,DE,"24.060,69 €",54.328110,1994-12-23,55400398,unm
+21:18:43,Jahr.jpeg,2018-07-07T02:26:26,Nepal,Müller,Germersheim,Kikuyu,2005-10-15 21:02:22,email-70.bender.de,16:f2:a2:e2:a7:61,DE,"95.352,79 €",-80.538001,2020-05-04,4,mni
+12:36:15,hin.pdf,2000-01-09T15:40:56,Osttimor,Kambs Albers e.V.,Regen,Cornish,1970-12-23 04:56:43,web-88.auch.de,c6:78:ef:97:fa:16,DE,"3.502,36 €",64.080267,2004-11-18,3894,om
+18:04:29,Musik.pptx,2009-03-20T03:36:25,Honduras,Schenk KG,Günzburg,Greek,1991-08-01 02:34:04,db-38.sauer.com,48:0f:81:05:98:91,DE,"39,69 €",1.5636985,1975-10-12,785418,ss
+00:20:53,uns.txt,1989-11-22T07:21:16,Kongo,Holsten,Wurzen,Hausa,1984-09-28 09:01:55,laptop-65.hoefig.org,ac:b7:15:ad:0f:e5,DE,"1,68 €",67.8488945,1985-06-25,3579803,wa
+15:15:34,sind.txt,1995-07-28T21:37:23,Kenia,Mülichen Stiftung & Co. KGaA,Lippstadt,Kinyarwanda,2006-07-01 16:26:02,lt-94.fritsch.de,b6:a7:19:16:c4:a9,DE,"82.346,25 €",72.6997095,2015-03-08,879,ug
+18:39:14,weiter.xlsx,2000-06-21T22:29:15,Madagaskar,Lachmann Süßebier e.V.,Luckenwalde,Limburgan,1986-02-26 02:50:46,laptop-68.schaefer.de,f2:97:a9:7c:00:9a,DE,"31,79 €",18.3833645,1991-06-20,829,sl
+04:41:37,alt.json,2019-03-03T02:12:21,Guinea,Jopich Lange OHG mbH,Freising,Chichewa,1991-01-26 23:03:30,srv-12.sontag.org,55:0c:af:1e:96:c3,DE,"34.795,05 €",-68.2655335,1986-06-24,987233,lo
+22:43:36,fressen.avi,1992-11-17T22:13:53,São Tomé und Príncipe,Christoph,Dinkelsbühl,Welsh,1988-07-05 00:31:34,srv-28.conradi.de,8a:25:74:e6:ea:80,DE,"6.162,59 €",-48.118627,1997-08-03,838312,ku
+08:19:25,lesen.jpeg,2016-09-21T17:19:49,Kamerun,Bonbach AG & Co. KGaA,Düren,Pushto,1975-05-02 12:34:22,srv-48.budig.com,c2:09:70:d5:dc:1a,DE,"897,89 €",-26.8178575,2002-07-25,86,ga
+18:36:47,dafür.ods,2008-12-19T02:14:50,Turks- und Caicosinseln,Bloch,Schwerin,Bihari languages,1987-03-22 22:03:16,srv-64.oderwald.de,4c:53:38:53:a1:23,DE,"864,29 €",-32.419604,1971-12-01,4290909,mk
+11:31:45,schreien.numbers,2004-12-03T15:27:47,Kanada,Heydrich Noack GmbH,Regensburg,Occitan,1975-03-24 23:31:25,laptop-72.bohlander.com,13:e9:cb:2d:8b:00,DE,"7.882,13 €",23.290815,1993-02-05,360,uz
+14:06:00,durch.jpeg,2020-02-29T20:19:12,Simbabwe,Wagner GmbH,Soltau,Vietnamese,2014-06-17 20:21:44,web-83.kade.de,c2:e7:92:36:e3:93,DE,"49.839,65 €",-11.889260,2010-12-20,874654602,ml
+16:23:08,schlagen.wav,1990-05-22T22:14:02,Burkina Faso,Haase GbR,Parsberg,Faroese,2008-09-25 12:06:47,lt-30.hertrampf.com,3c:4f:15:45:45:bb,DE,"42,31 €",-32.1107265,1970-07-02,8,uk
+11:31:53,Hunger.webm,2012-04-01T00:23:03,Indien,Jessel,Guben,Portuguese,1985-01-18 07:24:09,laptop-70.mans.com,41:aa:bf:73:24:89,DE,"117,77 €",-3.9199985,1970-01-28,377,bhb
+03:02:29,was.html,1993-07-16T02:35:14,Osttimor,Schwital,Pegnitz,Shona,1995-08-20 06:05:08,srv-79.groettner.com,36:a8:e5:99:70:a8,DE,"7.290,11 €",33.7894705,1974-09-29,72641,ig
+10:51:33,nächste.html,1978-10-15T18:52:15,Mikronesien,Schmiedecke Förster GmbH & Co. KG,Aue,Marshallese,2006-01-15 03:43:28,srv-81.hecker.de,a1:46:de:6a:06:d8,DE,"5.700,06 €",-14.7663785,2003-04-28,94,hr
+02:45:13,aber.mp3,2002-04-15T05:12:50,Haiti,Drubin AG,Weißenfels,Ndonga,1981-04-08 05:35:55,lt-94.scheel.de,ac:bf:25:de:66:53,DE,"12.814,94 €",-52.7157235,1991-03-28,33685,cv
+18:44:41,freuen.jpeg,1984-06-23T18:34:46,Tansania,Wulff Nerger KGaA,Flöha,Swati,2009-04-30 15:07:29,desktop-66.reuter.de,75:59:f1:4e:ab:31,DE,"4,03 €",8.996355,1979-02-18,59572777,hne
+02:05:18,Finger.mp4,2023-05-11T20:55:33,Slowakei,Sauer AG & Co. KGaA,Schleiz,Chichewa,1980-09-17 19:17:13,laptop-16.weinhold.net,44:3d:76:4d:91:62,DE,"6.411,54 €",11.732123,1978-08-05,784480,ve
+18:13:29,groß.html,1989-02-13T04:32:39,Afghanistan,Stadelmann Mitschke AG,Wismar,Tigrinya,1977-01-03 19:18:26,web-53.fliegner.de,ea:fb:82:27:98:b8,DE,"268,34 €",-58.128503,1987-02-21,951508,kn
+04:05:16,sofort.webm,1979-06-19T16:15:13,Burkina Faso,Rogge,Kleve,Nauru,1994-09-01 17:49:57,laptop-73.meister.com,0d:9d:b5:c9:0a:b1,DE,"907,59 €",-10.027206,2019-03-25,66047,as
+03:24:00,fehlen.wav,2018-07-20T03:29:59,St. Vincent und die Grenadinen,Hermann Karge GmbH,Kronach,Occitan,2013-03-25 23:27:07,db-30.spiess.de,3a:cf:36:f8:90:df,DE,"53,20 €",79.597988,1983-08-27,237,fa
+04:52:14,Sonntag.js,2017-11-25T07:00:36,Grönland,Budig Kramer AG,Aachen,Hausa,1995-10-22 00:53:56,laptop-00.barkholz.com,20:96:98:0a:9c:4f,DE,"19,29 €",82.1861875,1976-04-03,43,uz
+12:02:14,Garten.jpeg,1993-12-18T14:50:26,Guinea-Bissau,Huhn Stey GmbH,Lübben,South Ndebele,2016-04-10 16:32:01,laptop-84.hermann.de,aa:8a:bb:b8:c0:4b,DE,"1,83 €",-61.409369,2022-06-06,17,es
+04:02:19,Kind.mp3,2000-06-15T15:41:11,Nordmazedonien,Pohl,Waren,Dzongkha,1997-03-31 15:08:20,email-59.tlustek.com,b7:af:86:f8:13:71,DE,"1,96 €",-13.857316,2022-08-23,592,ku
+09:59:30,rot.js,1990-05-01T05:26:39,Slowakei,Ullrich GmbH,Kronach,Danish,1970-05-03 06:57:30,db-07.knappe.com,96:e0:4e:e8:82:0b,DE,"693,99 €",4.792556,2007-12-14,322677,as
+09:15:08,finden.xls,2010-11-02T14:01:17,Amerikanisch-Ozeanien,Kambs,Stade,Tswana,1977-06-23 12:00:25,desktop-14.wagner.de,2c:a6:dd:ed:f4:23,DE,"5.341,48 €",31.2607595,2001-04-19,36015,et
+21:21:53,freuen.avi,2012-07-01T13:46:48,Indien,Reichmann Wirth GmbH,Mallersdorf,Hebrew,2018-12-01 08:57:12,email-44.ernst.net,6e:1f:df:49:a5:ef,DE,"5.837,18 €",-79.9061135,1972-12-13,55873,raj
+10:58:20,so.odp,2004-01-01T13:30:33,Uganda,Bolander Scheibe GmbH & Co. KG,Schweinfurt,Quechua,1973-07-12 03:25:27,email-10.roerricht.net,60:aa:b5:33:d2:97,DE,"23.685,36 €",-43.363314,2006-03-29,5,fo
+16:48:59,leben.avi,1994-10-16T23:31:10,Portugal,Fechner GbR,Konstanz,Tatar,2022-12-04 07:03:06,email-25.kramer.org,b1:46:61:12:3e:46,DE,"137,32 €",-41.7221805,2017-04-08,35,szl
+07:21:31,Kopf.ppt,1983-07-07T17:01:58,Britisches Territorium im Indischen Ozean,Mitschke KG,Rathenow,Cree,1977-11-02 09:40:01,email-83.bruder.com,fb:9d:81:f7:ce:9b,DE,"51.092,68 €",18.8509375,2001-08-28,60302368,et
+08:21:52,jung.mp3,2021-08-05T18:21:23,Argentinien,Ebert Pergande KGaA,Regen,Afar,1974-09-09 11:21:32,email-06.roht.de,96:cc:7a:18:44:dd,DE,"2,86 €",61.260098,1983-04-01,50,nn
+12:46:34,etwas.pages,2020-09-14T15:09:03,Philippinen,Sauer,Fallingbostel,Dutch,1986-10-11 20:44:14,email-04.wernecke.net,55:8a:1d:96:32:08,DE,"78.245,57 €",39.6856555,1971-10-29,99115,szl
+22:29:57,freuen.txt,2016-04-29T04:50:45,Schweden,Johann AG & Co. OHG,Saarlouis,Kuanyama,1988-04-13 09:16:11,laptop-02.bruder.com,7b:41:ea:ff:00:b7,DE,"9.538,49 €",29.6937165,1998-11-22,817058303,as
+09:14:18,oben.flac,2018-06-22T19:45:06,Georgien,Gude Heser KG,Kusel,Ido,2002-03-03 06:37:46,desktop-43.eigenwillig.de,48:8c:8b:db:bd:77,DE,"5.984,21 €",-75.2813545,1985-08-06,492914,so
+19:43:06,Monat.jpeg,1989-01-12T15:51:01,Jemen,Schleich Franke GbR,Hettstedt,Zulu,1999-06-24 14:24:04,srv-15.bloch.net,cd:8d:bc:a0:f5:99,DE,"654,21 €",35.3101425,1973-08-25,9014630,wae
+16:18:17,Platz.odt,2015-07-29T18:20:36,Mexiko,Jäkel,Strausberg,Komi,1970-01-09 15:47:00,laptop-70.niemeier.org,a3:eb:c4:2f:a0:91,DE,"0,15 €",-77.466220,2010-03-16,79,nso
+13:30:16,nur.png,1977-02-06T19:15:58,Portugal,Döhn Kraushaar GmbH & Co. KGaA,Fulda,Portuguese,2009-01-04 22:40:03,srv-48.langern.com,dd:10:2f:f2:f4:26,DE,"7.727,06 €",12.164448,1999-03-11,46,th
+17:56:55,auf.json,1991-04-24T11:22:43,Kroatien,Stey,Grimma,North Ndebele,2017-09-16 22:33:42,web-49.groettner.net,df:da:20:7c:45:32,DE,"8,88 €",65.686768,2013-06-23,872505,tk
+12:39:52,ob.flac,2013-03-08T21:20:24,Griechenland,Rogner Hörle Stiftung & Co. KG,Ochsenfurt,Indonesian,2011-04-29 05:02:04,email-46.martin.de,1f:d0:de:6e:90:48,DE,"49,59 €",-70.5284635,1976-08-17,57533,ss
+20:01:58,an.xlsx,2013-04-05T13:07:30,Niederländische Antillen,Lindner,Lübeck,Guarani,1972-06-12 02:27:59,laptop-17.rogner.de,e0:77:ad:71:cd:94,DE,"11,01 €",-64.9620015,2009-11-14,45516,mi
+17:43:59,öffnen.pdf,1972-03-16T10:22:54,Indien,Kohl Paffrath AG,Saarlouis,Malayalam,2002-05-08 02:42:09,srv-07.paertzelt.com,03:a9:ae:f0:f4:dc,DE,"7.410,58 €",67.410000,1972-12-03,59589447,ber
+09:26:10,schicken.mov,1982-02-24T09:44:25,Sonderverwaltungszone Macao,Zobel Hecker AG & Co. KGaA,Fulda,Sichuan Yi,2008-07-02 11:04:51,db-57.scheibe.de,65:2f:62:4b:df:3b,DE,"5,81 €",70.8858995,1995-10-03,739,fy
+17:07:01,dort.csv,2012-05-27T20:13:21,Serbien und Montenegro,Scholz Scholz GmbH & Co. KG,Forst,Tibetan,1993-05-31 23:29:45,lt-10.seifert.de,53:28:cd:ae:ab:13,DE,"98.713,35 €",21.6316425,2023-03-24,88,bo
+17:33:38,später.csv,1981-10-08T22:11:53,Französisch-Guayana,Stiebitz AG,Soest,Uzbek,1982-04-07 18:13:49,email-35.herrmann.com,04:b1:63:61:d5:8d,DE,"19.327,35 €",-65.5876215,2004-10-01,57,ca
+02:58:15,beide.csv,1971-02-02T15:13:38,Mosambik,Gieß GmbH & Co. KGaA,Gräfenhainichen,Oromo,1976-08-20 16:55:24,laptop-52.losekann.de,88:d4:69:1f:17:ff,DE,"1,00 €",21.063892,2015-02-04,50,ml
+15:51:58,dort.png,2017-12-19T08:48:08,Uganda,Naser,Arnstadt,Sardinian,1999-06-05 02:51:27,web-78.holzapfel.de,7c:ef:46:4f:78:44,DE,"0,17 €",-15.807691,1994-06-09,414335,fy
+09:42:43,gewinnen.png,2005-05-01T13:19:46,Amerikanisch-Ozeanien,Möchlichen,Strasburg,Afar,2000-09-30 09:27:30,db-18.etzler.de,f2:e4:e7:48:b1:82,DE,"6,80 €",-43.7083895,1997-04-19,95381698,fil
+18:46:31,offen.css,1976-03-04T21:24:28,Tadschikistan,Bärer GmbH & Co. KGaA,Prenzlau,Swahili,2016-11-25 09:24:57,laptop-82.hering.de,04:81:0c:d2:2f:c2,DE,"3.968,51 €",-84.821325,2015-10-05,98361019,wal
+21:28:36,sagen.pages,1984-03-26T17:01:00,Libyen,Fechner Dörschner KG,Mainburg,Yiddish,1994-09-11 17:25:19,web-80.roerricht.de,e5:ab:47:a9:bb:2f,DE,"53.375,61 €",22.3503795,1995-09-27,3,ro
+14:39:59,erzählen.mp3,1996-03-09T00:29:27,Griechenland,Klemm KG,Forst,"Sotho, Southern",2015-06-01 15:32:12,web-08.weitzel.com,95:4c:96:25:8a:64,DE,"4.877,18 €",45.9506835,1981-04-28,383397,kl
+19:22:04,vorbei.ppt,2013-05-16T00:30:52,Kongo,Reinhardt KGaA,Oschatz,Malayalam,1987-09-26 21:32:50,desktop-50.gotthard.com,ce:02:0f:7f:13:be,DE,"71,59 €",-79.0172865,1989-05-03,44373622,bem
+20:26:08,aus.mp3,2015-02-02T16:06:31,Slowakei,Kade Ernst AG & Co. OHG,Melsungen,Fijian,1982-01-07 05:51:17,web-85.hertrampf.org,b2:fd:91:8a:cb:11,DE,"30.718,51 €",-78.2548675,1980-01-16,8,gv
+04:10:11,Zeit.webm,2010-12-13T13:12:40,Österreich,Wieloch,Lüdenscheid,Twi,1975-10-15 22:14:23,desktop-98.speer.com,d5:7e:f7:9e:5d:5b,DE,"745,43 €",4.526528,2006-04-30,783671539,se
+19:27:08,Glück.css,1984-04-12T23:32:38,Finnland,Bonbach AG,Stendal,Romansh,1990-04-12 14:17:15,web-07.taesche.de,27:8b:7c:8a:c3:25,DE,"279,49 €",-57.438587,2023-06-17,612,sc
+02:37:22,er.js,1999-07-02T12:37:50,Kirgisistan,Wende,Berlin,Ewe,1981-03-11 06:37:55,lt-94.etzler.com,52:5e:6f:01:ab:ea,DE,"922,37 €",-16.460536,1980-01-24,31214,is
+15:02:04,alt.wav,1986-03-05T07:34:06,Brasilien,Pohl Wilmsen Stiftung & Co. KGaA,Ravensburg,Malayalam,2002-10-13 17:27:12,desktop-13.hertrampf.de,f2:71:d1:17:22:7d,DE,"61.995,28 €",-38.6282705,2009-03-30,47735,tg
+14:12:10,leicht.mov,2014-01-25T20:54:34,Finnland,Blümel,Jüterbog,Georgian,1995-04-27 22:06:51,email-12.plath.com,e8:b9:30:02:ed:30,DE,"74,00 €",-69.1684055,1980-02-11,2,mn
+10:02:00,wer.json,2013-07-04T23:27:05,Georgien,Fritsch Bähr KGaA,Fürstenwalde,Church Slavic,2018-07-27 02:49:23,web-33.rosemann.de,2a:9f:f3:3a:ef:74,DE,"937,70 €",-42.3028705,1984-08-06,6500050,vi
+06:40:30,da.mp3,1994-06-21T06:06:32,Aruba,Otto Kostolzin AG,Calw,Kanuri,1997-06-15 16:41:58,laptop-81.weiss.com,a6:e1:93:b0:29:7e,DE,"4.896,20 €",-11.641676,2010-06-15,676548,mn
+21:08:11,weit.css,1994-12-05T08:49:34,Amerikanische Jungferninseln,Klingelhöfer,Tübingen,Faroese,1986-03-02 09:12:12,web-70.paffrath.de,1a:ef:0b:e4:db:6d,DE,"19,13 €",-68.1037125,2017-11-06,4623018,cs
+01:37:55,Blume.txt,2001-05-07T20:42:40,Libyen,Drub GbR,Döbeln,Sundanese,2022-09-15 14:30:19,db-66.wulff.de,d9:75:93:20:ba:30,DE,"786,71 €",39.269882,1985-12-05,3,zh
+15:06:35,machen.tiff,1995-01-25T19:35:41,Mayotte,Kallert OHG mbH,Weißenfels,Chichewa,1997-03-13 00:09:30,email-84.wilms.com,ed:cf:fd:57:f0:87,DE,"64.185,37 €",-12.3982845,2022-06-18,938,kl
+18:56:13,Weihnachten.mp3,1984-01-02T10:24:11,Senegal,Röhrdanz Zirme GbR,Pfaffenhofen an der Ilm,Hausa,1981-11-14 05:15:52,laptop-49.heuser.net,76:cf:44:77:eb:39,DE,"9.651,41 €",-83.987547,2010-11-16,76197643,or
+13:10:56,gesund.mp4,2022-08-03T13:55:48,Niederländische Antillen,Trüb GbR,Cuxhaven,Ukrainian,2017-01-05 04:36:17,db-02.junk.com,5b:b6:0d:4a:11:c9,DE,"648,97 €",-31.6687075,1980-11-04,91791584,yue
+06:13:31,später.png,2009-06-12T03:19:53,Norwegen,Binner,Niesky,Nepali,1982-07-01 01:34:39,lt-52.mude.de,27:86:0a:e0:6d:51,DE,"11,77 €",-80.989583,1980-09-27,983369425,am
+02:48:48,warten.webm,2006-03-19T01:26:48,Nigeria,Preiß,Kemnath,Hausa,1996-03-25 12:53:58,web-95.dowerg.net,78:6b:9f:2e:59:9d,DE,"82.893,28 €",77.1476645,1974-07-25,3071107,bhb
+02:53:17,ziehen.docx,2009-03-07T00:48:19,Anguilla,Stoll GmbH,Altötting,Gaelic,1970-06-17 00:16:54,db-20.geisler.net,4b:59:df:7e:a5:9e,DE,"6,22 €",19.845415,1973-07-24,825,shs
+05:11:31,kam.flac,1994-06-06T18:28:53,Kap Verde,Adler GbR,Sondershausen,Kikuyu,2012-03-29 15:23:51,db-27.rohleder.de,74:63:a1:11:db:2a,DE,"8.474,39 €",39.6423245,1989-11-24,9,pa
+11:06:27,packen.webm,1985-03-07T13:19:09,Martinique,Wilmsen,Nordhausen,Latin,2015-02-05 02:52:45,web-44.mentzel.org,9e:f8:25:b2:3a:d0,DE,"61,71 €",-21.178723,2007-03-28,2190,bem
+12:43:39,doch.jpg,1978-06-06T01:47:57,Spanien,Bolander Meister AG & Co. KG,Goslar,Lithuanian,2013-03-28 15:24:38,lt-04.neureuther.de,eb:2a:5d:5c:af:d4,DE,"91.691,75 €",-54.914501,1973-01-27,6,ce
+12:28:58,Mama.jpg,2019-02-15T12:23:53,Montenegro,Kreusel,Sömmerda,"Sotho, Southern",2010-10-21 09:48:20,db-35.vollbrecht.de,46:29:58:ec:d3:2d,DE,"99.983,15 €",-65.1081575,1978-01-02,712,wae
+07:07:03,Angst.key,1995-07-24T06:45:57,Westsahara,Jessel GbR,Bruchsal,Northern Sami,2001-06-10 13:23:23,laptop-58.jacob.de,5e:e8:53:56:51:03,DE,"64.148,62 €",-65.774938,1973-01-24,169,ks
+05:39:12,Lehrerin.css,2020-04-13T10:17:43,Kanada,Otto AG,Stollberg,Esperanto,2008-09-07 22:38:39,web-16.peukert.net,ad:d0:e7:3d:b5:29,DE,"10.271,02 €",-81.4694205,1985-09-30,762236203,tl
+10:04:43,offen.mov,2005-08-22T19:00:43,Mosambik,Ullrich Jessel AG,Biedenkopf,Maori,2002-05-13 01:41:15,laptop-43.benthin.de,3d:8d:40:a2:a5:e9,DE,"7,58 €",-59.3589195,1996-03-02,91,bho
+01:05:25,Stelle.html,2009-11-05T10:23:00,Slowenien,Hande Haering AG & Co. KG,Chemnitz,Rundi,1973-08-21 03:48:32,desktop-54.finke.com,a2:50:fe:fe:db:6b,DE,"40,51 €",-44.498737,2012-10-24,807437946,st
+12:51:32,machen.xls,1991-07-18T03:44:57,Liechtenstein,Scholl Jacob GmbH,Saarbrücken,Sundanese,1999-03-07 07:20:07,laptop-71.haering.de,8a:b7:f3:04:db:e6,DE,"56,26 €",87.2190705,1997-08-28,519867,ff
+18:14:21,merken.mp3,1989-07-07T01:37:37,Amerikanisch-Samoa,Pergande OHG mbH,Quedlinburg,Quechua,1985-07-10 21:10:10,lt-37.heinrich.net,d4:c9:b0:e3:21:bc,DE,"2,54 €",-74.0482885,2002-02-13,72,sk
+16:20:53,letzte.png,1988-04-20T19:48:02,Angola,Eimer,Sondershausen,Icelandic,1981-05-09 22:53:35,web-38.patberg.com,99:b6:6a:96:ec:86,DE,"1,35 €",-9.9736835,2020-05-18,3,sd
+19:47:53,verstecken.ppt,2005-04-30T01:55:14,Tunesien,Gude,Ravensburg,Navajo,2013-11-25 20:07:01,email-18.junk.de,90:c1:fe:f3:93:b2,DE,"658,79 €",-68.7519835,2012-08-22,956732,ak
+00:22:04,Frage.html,2013-03-30T00:10:27,Norfolkinsel,Hendriks GbR,Gerolzhofen,Fulah,1970-01-22 13:54:17,email-85.seifert.de,14:8f:e8:7d:8b:47,DE,"19.886,26 €",25.5492015,2015-04-05,89931,iu
+13:31:46,unten.mp3,1987-04-08T02:49:58,Japan,Kuhl Höfig GbR,Hamburg,Kirghiz,2014-11-10 01:22:58,email-32.walter.de,f2:d4:2e:75:96:34,DE,"24,74 €",78.7092975,2022-05-29,950,tg
+06:42:29,Hase.gif,2011-04-01T04:40:13,Andorra,Jäkel,Suhl,Chechen,1984-01-05 05:15:30,web-35.finke.com,f6:ea:19:ff:57:60,DE,"88.079,35 €",13.2954735,2001-07-20,158,tk
+03:27:48,vom.tiff,2006-11-16T08:39:51,Niger,Lindner Heser Stiftung & Co. KG,Mühldorf am Inn,Sinhala,2019-11-15 01:47:36,db-13.zobel.com,17:b3:e0:ed:2f:9b,DE,"72.179,00 €",-68.581730,1989-11-30,3,hr
+16:24:24,da.mp3,1995-02-17T23:39:31,Bahrain,Schleich AG & Co. OHG,Gardelegen,Aragonese,1975-10-31 00:01:17,web-98.hoerle.de,d9:db:46:b3:9a:8e,DE,"80.106,76 €",-78.5467105,2007-02-13,739,id
+18:55:15,Leben.mov,2005-08-10T07:16:24,Sonderverwaltungszone Macao,Hiller,Illertissen,Estonian,1989-01-28 20:39:34,email-16.hornich.de,2c:ff:83:d8:1c:48,DE,"5,51 €",-0.2649625,2011-09-15,263104944,raj
+12:49:27,ins.css,2017-05-14T03:02:22,Tokelau,Stey,Malchin,Ndonga,1990-07-06 15:47:34,laptop-26.henk.com,3d:08:81:4d:4b:46,DE,"4.978,85 €",63.2337185,1971-04-29,27229133,mni
+19:01:12,Teller.mp4,2016-06-28T02:31:09,Paraguay,Fiebig Boucsein GmbH & Co. KGaA,Marktheidenfeld,Bosnian,2021-11-13 10:39:31,web-26.hertrampf.de,be:98:59:fe:74:6f,DE,"3.779,70 €",14.9297365,1996-03-15,223,he
+22:50:36,kennen.wav,2017-11-07T03:55:28,St. Pierre und Miquelon,Faust KG,Zschopau,Abkhazian,1986-01-04 13:44:35,db-12.fechner.com,cd:e5:03:5a:d5:e2,DE,"2,57 €",46.839834,1992-07-25,123410297,an
+05:11:10,Stunde.jpeg,1998-03-31T04:56:08,Malaysia,Klapp,Herzberg,Malay,1982-07-06 14:32:00,email-78.kaul.com,0f:63:72:57:fe:b0,DE,"31.856,81 €",59.661887,2009-02-20,25,uz
+02:24:39,Schwester.docx,1986-07-13T23:16:33,São Tomé und Príncipe,Butte Stiftung & Co. KG,Beilngries,Bihari languages,2013-08-01 03:38:01,db-19.schottin.net,34:0f:33:7c:68:39,DE,"116,00 €",41.396793,2000-08-11,3088838,sat
+12:58:16,fragen.odt,1995-08-10T19:42:02,Republik Moldau,Dörschner Schäfer GmbH,Moers,Belarusian,1972-03-23 20:14:56,lt-84.neuschaefer.de,1e:1e:3f:5e:3d:53,DE,"482,86 €",45.9804765,2010-12-30,3,az
+10:51:20,dort.flac,2000-01-06T18:45:03,Niederländische Antillen,Kambs GmbH & Co. KG,Geithain,Kalaallisut,2018-09-05 02:04:48,laptop-91.loewer.de,4d:57:80:50:8c:5d,DE,"28.032,91 €",19.079524,1986-09-03,286,ga
+23:18:05,Stück.mp3,2003-03-01T03:19:36,Côte d’Ivoire,Schmidt Trub KG,Peine,Telugu,1986-01-20 23:10:16,email-97.austermuehle.de,7a:f8:7f:3e:3e:7d,DE,"4.338,09 €",-0.6172945,1994-05-01,35,csb
+08:27:38,Gesicht.png,1983-02-20T21:53:04,Republik Moldau,Becker AG,Dachau,Welsh,1997-11-12 02:56:30,db-11.huhn.com,64:0c:26:80:7c:00,DE,"3,97 €",-21.605345,2008-11-23,22700,gd
+19:41:36,krank.png,2022-01-21T05:34:23,Bulgarien,Zänker GmbH & Co. KG,Bergzabern,Czech,1985-04-13 23:05:58,db-06.jaentsch.de,84:81:95:2e:64:1d,DE,"83,21 €",23.9151585,1982-09-09,5506080,hr
+14:53:32,kurz.txt,1974-03-16T03:22:05,Taiwan,Weller,Marktheidenfeld,Ojibwa,1993-12-13 13:40:22,srv-58.gehringer.org,f7:5a:d5:0f:65:19,DE,"47,64 €",14.3585905,2005-05-18,97749149,hi
+22:48:05,ab.odp,1970-09-24T13:24:42,Falklandinseln,Weihmann Textor GmbH & Co. KG,Schwäbisch Gmünd,Serbian,1985-03-17 06:48:10,laptop-87.froehlich.com,07:6f:2e:1c:7b:6d,DE,"9.868,68 €",72.732442,1981-08-11,78671377,tl
+16:45:37,ab.mp4,1977-04-01T21:16:04,Österreich,Ditschlerin Hein Stiftung & Co. KG,Sternberg,Japanese,2010-09-25 19:22:22,lt-18.gutknecht.org,40:b8:4c:17:25:91,DE,"8,80 €",6.715375,1987-03-14,10154,sv
+17:27:18,lieb.gif,2004-12-09T04:08:24,Island,Bolzmann,Marktheidenfeld,Belarusian,2018-05-11 16:49:25,srv-38.geisler.net,2b:ec:db:e4:26:13,DE,"3.583,91 €",46.713110,2002-07-12,70,sk
+11:29:26,Apfel.jpg,1974-04-24T19:25:08,Alandinseln,Geisel,Gardelegen,Latvian,2018-12-31 02:33:50,laptop-80.pieper.org,62:4d:f7:dd:dd:87,DE,"2,91 €",27.963507,2010-05-02,325,iu
+00:59:50,fahren.mov,1995-01-30T16:26:46,Turks- und Caicosinseln,Tröst Bruder e.G.,Aue,Walloon,1989-01-17 17:49:40,db-50.keudel.de,e1:d1:81:2a:15:1e,DE,"1.885,45 €",33.4310455,1974-07-05,32433341,vi
+20:10:23,hier.js,2009-01-31T02:07:47,Kenia,Scheuermann OHG mbH,Eggenfelden,Divehi,2010-08-29 09:27:39,email-29.heinz.org,d7:34:01:1e:f8:c4,DE,"41.711,81 €",3.982666,1981-10-17,73649,zu
+01:24:28,Wetter.ods,1996-03-20T12:26:49,Swasiland,Drub GmbH,Schwäbisch Gmünd,Serbian,2004-02-29 01:28:11,srv-14.juettner.de,aa:78:77:bc:00:d1,DE,"6,86 €",44.7152185,2001-05-04,698349935,se
+22:27:48,dick.jpg,1996-09-17T16:04:26,Sri Lanka,Schmiedt Fritsch GmbH,Pinneberg,Samoan,2015-02-11 23:29:52,web-11.johann.de,29:9b:1b:b5:e9:a3,DE,"932,16 €",15.6958365,2013-06-13,255719758,tl
+14:46:20,Haare.flac,2014-07-16T02:15:09,Venezuela,Neureuther,Magdeburg,Cree,1992-01-25 21:34:24,web-36.hamann.com,f2:30:8d:11:d1:f3,DE,"57,84 €",29.7354495,2008-04-21,999,gd
+05:21:56,sagen.json,1992-05-03T20:20:40,Belarus,Dowerg,Sebnitz,Greek,1971-11-14 18:29:29,web-63.ruppersberger.com,2a:93:12:c7:d3:95,DE,"5,58 €",-8.2703325,2022-02-20,26896392,nso
+12:09:58,richtig.mp3,1974-11-07T19:16:28,Sonderverwaltungszone Macao,Dowerg,Erfurt,Romanian,1998-01-26 14:04:27,srv-09.beier.com,3e:ad:c6:db:e0:92,DE,"100,76 €",81.952047,1993-09-20,6,bo
+11:25:18,Onkel.flac,1976-05-07T05:41:38,Australien,Rosenow,Bruchsal,Marathi,1985-04-09 03:12:41,db-28.seidel.net,6c:05:fd:82:08:b3,DE,"9.962,17 €",-70.6308345,1989-02-09,5,ckb
+18:56:23,Schluss.pptx,2021-07-11T15:21:54,Amerikanisch-Samoa,Plath Rudolph AG & Co. OHG,Düren,Bihari languages,1987-07-25 13:08:28,email-64.rohleder.de,21:b0:f8:48:e1:30,DE,"86,10 €",5.0192685,1977-12-24,181,rw
+20:47:01,turnen.css,2023-08-04T06:01:29,Rumänien,Haase Lorch GmbH & Co. KG,Rothenburg ob der Tauber,Sichuan Yi,1991-11-14 04:22:04,email-21.reising.de,33:21:8b:d2:cc:c7,DE,"8.355,23 €",-41.850192,1972-07-24,1,it
+09:15:44,Onkel.jpg,1981-08-09T09:34:32,Benin,Gorlitz,Grevesmühlen,Tswana,1991-11-16 05:47:37,email-29.benthin.com,a5:12:5f:f7:32:1b,DE,"89,79 €",35.3384495,2000-12-26,6826,tr
+10:14:06,es.docx,1974-03-04T11:35:58,Grönland,Davids Mentzel GmbH,Grafenau,Icelandic,2019-06-08 20:28:54,db-97.harloff.com,db:a7:c7:bd:75:54,DE,"599,66 €",-57.252349,2012-04-10,9420,da
+19:12:45,baden.pptx,1974-12-19T19:02:04,Niger,Hartmann,Wurzen,Sinhala,1987-02-08 15:34:47,laptop-08.atzler.org,81:ea:9b:ad:37:3c,DE,"974,74 €",88.5513055,1997-01-14,95415543,es
+07:46:27,nach.flac,2020-12-28T19:35:50,Burkina Faso,Nerger KG,Merseburg,Lao,1986-01-14 22:13:43,lt-38.gute.de,be:a7:a1:17:a3:88,DE,"33,70 €",78.8589325,1978-11-21,224919700,bem
+06:09:47,Ende.flac,2003-04-25T04:43:17,Grenada,Buchholz GbR,Burgdorf,Aymara,1982-04-16 21:38:03,desktop-54.christoph.net,22:89:27:61:12:e5,DE,"70,58 €",72.028785,1983-03-31,9,wal
+12:32:24,wir.mp4,1991-10-04T15:51:19,Mosambik,Krebs,Kitzingen,Norwegian,1993-07-11 19:16:41,email-56.jaehn.net,13:e6:08:b3:13:ca,DE,"709,41 €",-29.7664225,1979-06-23,5422,raj
+00:17:26,um.png,1990-06-14T18:15:34,Guernsey,Kruschwitz,Gerolzhofen,Sindhi,2012-03-10 07:19:11,laptop-26.klotz.org,1c:92:cf:76:93:52,DE,"21.786,08 €",43.070787,2004-12-08,2,ast
+06:43:51,jung.json,1980-08-20T21:58:50,Vietnam,Hartmann Zimmer AG,Lörrach,Kanuri,2003-10-02 17:48:10,desktop-91.mueller.de,e8:bd:76:79:ec:ab,DE,"9,82 €",8.5633875,2019-11-24,270,ik
+17:07:29,fast.jpeg,2013-09-17T13:48:05,Gibraltar,Ullrich Dowerg OHG mbH,Sankt Goar,Ojibwa,1997-07-08 22:07:30,db-41.heser.com,49:a2:86:88:0b:76,DE,"31,45 €",47.7299795,2014-07-24,4765039,ko
+10:47:37,Leute.bmp,1985-01-06T15:28:17,Turkmenistan,Hellwig e.G.,Wiedenbrück,Armenian,2017-09-05 11:06:23,email-76.roehricht.com,eb:90:4c:f2:ed:a5,DE,"7.658,21 €",-80.5010875,1993-10-07,89849,my
+08:11:36,Gott.wav,2019-11-28T13:06:34,Syrien,Salz AG,Eutin,Bihari languages,2019-02-12 13:55:36,email-50.ebert.de,2b:94:f5:25:27:e9,DE,"5,00 €",80.970833,1990-02-19,8128,ro
+18:57:04,kaufen.csv,1986-04-30T16:19:08,Kanada,Drubin GmbH,Celle,Marshallese,2002-09-17 09:22:01,email-52.briemer.net,ee:e8:05:4f:c8:cc,DE,"8,73 €",27.0549755,1985-09-26,63184098,nds
+10:42:48,Minute.avi,1988-03-05T12:37:10,Nepal,Ruppert GmbH & Co. KG,Waren,Cree,2022-10-12 23:54:42,db-15.haenel.de,b3:52:9b:27:d5:29,DE,"88.132,19 €",78.333458,2016-06-02,4,ca
+16:45:21,schauen.txt,1997-03-02T13:07:45,Osttimor,Adler OHG mbH,Gadebusch,Slovenian,1988-02-10 14:28:51,web-31.fiebig.com,52:5d:9c:76:eb:29,DE,"565,43 €",-57.4449065,2012-11-19,754,is
+09:24:03,warm.odt,2003-11-08T06:43:10,Palästinensische Gebiete,Weihmann Häring GmbH,Nordhausen,Javanese,1986-10-29 11:14:23,laptop-13.franke.de,65:ad:eb:3d:29:74,DE,"6.486,41 €",68.9302985,2021-07-23,653229326,tn
+10:43:27,ob.jpg,1985-04-16T01:45:45,Libanon,Kreusel,Kitzingen,Herero,2019-11-24 12:14:29,laptop-19.thanel.com,96:d0:59:24:89:9f,DE,"324,21 €",45.672973,1978-02-05,8,rw
+23:45:31,acht.mp3,1985-12-22T00:38:24,Guinea,Pechel Gröttner KG,Wertingen,Aragonese,2023-02-21 13:10:27,srv-21.mans.de,bf:b3:79:0b:69:de,DE,"38,90 €",40.962511,2022-10-16,517919,bho
+09:12:51,kein.odt,1974-12-03T17:22:53,Burundi,Seifert Heß AG & Co. OHG,Senftenberg,Herero,1974-05-25 22:49:10,email-38.seidel.org,9d:08:bb:f7:30:9c,DE,"28.710,92 €",-78.631281,1975-04-26,85654,zh
+04:31:14,Welt.odt,2016-06-05T23:13:19,Afghanistan,Trapp GmbH,Vilsbiburg,Marathi,2000-12-03 03:24:43,web-37.ditschlerin.net,89:68:56:8d:2e:7d,DE,"3,96 €",-3.758063,1985-05-23,6857426,hak
+18:28:13,warten.mp4,2014-09-14T04:39:10,Monaco,Blümel Anders GmbH & Co. KG,Kronach,Interlingua,1982-08-10 11:48:49,email-72.patberg.org,50:2e:72:2a:52:5d,DE,"61.038,10 €",4.4790075,1988-02-04,649065,lb
+13:48:18,Ende.js,1975-01-05T01:47:09,Kirgisistan,Hahn GbR,Neu-Ulm,Kazakh,1990-10-17 15:36:25,lt-71.rose.com,49:b9:0f:91:dd:c3,DE,"3,69 €",8.2250215,1974-09-14,79,cy
+21:44:45,schön.flac,2008-07-30T23:58:18,Rumänien,Scholl,Eilenburg,Hebrew,2018-06-06 18:19:18,web-03.vogt.org,1a:fb:9a:d8:4d:70,DE,"2,67 €",-43.3860325,1997-12-27,524008963,ms
+13:00:17,man.mp3,1971-10-14T06:30:15,Guernsey,Möchlichen,Wolgast,Komi,2014-08-05 08:15:04,laptop-60.soelzer.com,1d:88:4e:c3:53:ad,DE,"9,67 €",-73.252097,1987-09-11,246535006,ayc
+16:59:22,darauf.key,2004-10-16T06:43:14,Botsuana,Preiß Kambs AG,Ochsenfurt,Greek,2012-10-05 16:58:34,web-19.martin.de,0c:af:81:7d:8f:8a,DE,"6.255,98 €",79.4976545,2017-10-24,109607,lij
+01:10:35,sieht.mov,2006-10-22T13:57:08,Kokosinseln,Schaaf,Neuruppin,Ganda,1998-10-06 11:58:10,lt-22.budig.de,4e:69:70:b6:30:94,DE,"1.112,74 €",-60.486610,1986-10-26,9927713,sq
+12:53:39,auch.numbers,1992-07-16T17:11:29,Grenada,Schlosser,Auerbach,Dzongkha,1981-05-31 05:12:26,laptop-01.oderwald.com,c9:95:9e:53:1a:0f,DE,"692,82 €",-87.7369305,2016-11-25,692,mai
+14:59:05,gegen.docx,1986-05-05T06:11:58,Tunesien,Scholtz Oderwald AG,Tecklenburg,Catalan,1983-01-07 03:09:36,laptop-76.kade.org,cf:ea:48:2b:63:a5,DE,"650,42 €",42.194889,2010-04-26,600,zh
+10:58:24,dich.mp3,1975-11-02T20:41:15,Guernsey,Salz,Hamburg,Zhuang,2001-01-30 18:54:43,srv-46.hentschel.de,df:d7:fb:7d:5a:e5,DE,"1,79 €",56.9815845,2007-04-13,46732722,ja
+20:32:08,Vogel.flac,2019-11-07T02:41:29,Demokratische Volksrepublik Korea,Henschel,Burglengenfeld,Romanian,2013-03-20 12:09:49,db-68.gertz.com,27:26:e0:90:8c:39,DE,"95.490,33 €",39.412740,1994-06-06,804329,de
+04:54:48,leicht.pptx,2020-07-11T16:11:08,Venezuela,Scholtz,Lörrach,Javanese,2004-11-01 00:50:19,laptop-46.hoffmann.com,ff:78:a2:76:2d:64,DE,"740,03 €",-22.8594865,1985-11-27,5431221,cy
+16:53:44,Erde.webm,1997-11-16T23:00:57,Kenia,Birnbaum AG & Co. KGaA,Magdeburg,Ukrainian,2005-11-15 19:57:01,laptop-89.schaaf.org,a2:e6:63:23:35:56,DE,"88.066,44 €",69.3484045,2005-12-17,218476,li
+15:22:07,See.webm,1995-08-15T20:03:30,Sierra Leone,Jäkel Schüler GmbH & Co. KGaA,Ansbach,Tatar,1994-03-30 06:17:23,lt-02.bohnbach.de,f6:83:19:a6:2f:6d,DE,"1.976,34 €",73.1888375,2004-02-08,13230168,os
+17:48:50,hoch.mp4,1987-06-17T04:31:41,St. Barthélemy,Rädel,Naila,Greek,1996-12-10 12:49:22,srv-19.nohlmans.com,06:65:5a:36:b5:d4,DE,"65,04 €",-75.2660265,2017-04-10,3916535,gl
+23:09:19,drehen.doc,2021-08-05T06:42:53,Litauen,Mielcarek Baum GmbH & Co. KGaA,Biedenkopf,Bashkir,1994-07-15 14:28:20,lt-91.trubin.de,3a:f7:73:09:c9:78,DE,"76,95 €",49.155833,2005-10-14,82784631,zh
+15:19:09,ging.flac,1981-04-01T05:02:44,Litauen,Adler AG & Co. OHG,Chemnitz,Igbo,2008-08-24 17:49:03,srv-01.haering.com,43:4c:49:1e:1e:e5,DE,"91.038,68 €",-76.3566165,2010-07-16,5488261,ss
+22:44:23,sie.odt,1979-09-21T20:50:27,Luxemburg,Scholl Heuser GmbH,Schwarzenberg,Oromo,1999-05-08 07:57:52,srv-98.klemm.de,26:52:0a:af:f9:4e,DE,"991,97 €",50.513127,2022-08-02,732749,sl
+16:07:14,Onkel.doc,2016-08-11T00:11:38,St. Lucia,Ritter GmbH,Apolda,Twi,2010-05-14 00:23:46,db-50.rust.com,a5:a4:f8:b6:e1:c7,DE,"0,31 €",-32.110613,1990-08-02,8,mg
+08:01:24,verstehen.html,1991-05-22T15:59:52,Sierra Leone,Döhn Hornig GmbH,Rochlitz,Burmese,1973-07-27 13:11:05,email-22.flantz.com,53:26:13:cf:16:d8,DE,"1.243,98 €",9.0019555,1981-11-19,32925451,ayc
+21:55:48,von.odt,1971-10-29T19:20:48,Tokelau,Schäfer,Füssen,Macedonian,2001-02-04 23:39:54,web-27.reichmann.de,30:f5:9c:35:e5:94,DE,"6.363,78 €",14.376739,2002-08-06,5,quz
+12:38:28,Feuer.html,1983-11-09T01:48:54,Dschibuti,Schuchhardt Kostolzin Stiftung & Co. KG,Kitzingen,Chinese,1996-12-09 18:20:28,email-17.trub.de,83:8e:a4:aa:a0:9d,DE,"4.790,15 €",25.9656285,2000-04-30,443025464,tk
+07:47:45,jetzt.doc,1994-12-13T03:45:00,Vatikanstadt,Täsche Klingelhöfer e.V.,Haldensleben,Czech,2016-09-24 02:09:37,email-40.kade.com,c8:46:dc:14:da:71,DE,"7.749,79 €",34.0309535,1989-06-25,95725,si
+13:59:31,gefährlich.odp,1974-10-26T23:13:40,Dominikanische Republik,Killer Heuser KG,Augsburg,Oromo,2004-10-26 15:06:57,web-87.hoelzenbecher.com,25:d5:44:d0:4f:fb,DE,"74,04 €",-82.697441,1970-07-15,23119603,gez
+03:06:46,ab.csv,1998-04-03T14:21:20,Irland,Jäkel,Beilngries,Oriya,1972-05-20 18:23:11,laptop-09.wirth.com,9b:49:f1:2f:73:a7,DE,"86,67 €",-31.808140,1985-12-01,6,szl
+05:31:11,Stein.xlsx,1971-08-31T20:52:06,Seychellen,Beckmann,Gardelegen,Belarusian,1971-06-14 10:52:49,db-22.langern.com,b8:32:79:fb:fc:40,DE,"15,15 €",-57.616669,1995-02-20,511413,nr
+12:58:50,Brief.html,2021-05-11T15:59:24,Türkei,Kade GmbH & Co. KG,Einbeck,Navajo,2020-07-25 17:55:28,laptop-51.koehler.com,20:63:4b:40:45:60,DE,"97,69 €",-84.0701995,2016-08-13,806989,nso
+04:46:36,leise.odt,2009-11-18T07:57:35,Bouvetinsel,Ziegert Berger KGaA,Gifhorn,French,1999-06-12 13:32:09,email-64.walter.de,ec:9b:44:af:bd:93,DE,"7.590,91 €",-31.1392445,1988-09-01,9055733,uz
+08:57:02,dem.mov,2011-06-05T14:06:37,Pakistan,Dietz Kohl AG,Aschaffenburg,Tatar,2017-11-25 20:59:51,db-18.juettner.com,9a:8b:d2:5c:15:06,DE,"16.949,51 €",-47.042999,1983-06-17,553,kn
+01:55:29,daran.webm,2002-03-14T23:04:11,Grönland,Zobel,Stadtroda,Bosnian,2014-03-23 23:00:38,lt-66.pohl.com,ef:4d:6c:f4:29:6c,DE,"9,13 €",59.797694,1998-04-04,12,ar
+14:58:09,schwer.csv,1981-10-22T21:45:30,Malta,Seifert e.V.,Passau,Kinyarwanda,1975-06-26 01:56:17,laptop-79.kensy.de,35:da:7b:3d:03:4e,DE,"8,29 €",-3.8509015,1995-08-31,83927,nn
+11:18:06,Pferd.tiff,2009-07-20T17:34:49,St. Lucia,Bauer KG,Wittstock,Marathi,1990-08-19 09:40:53,srv-99.klemt.com,8b:86:35:bc:c9:0d,DE,"6.900,68 €",59.669480,1979-04-22,44,lv
+19:46:41,sagen.txt,1992-03-29T11:01:37,Jemen,Börner,Parchim,Swedish,1991-11-19 15:23:48,web-00.seifert.de,d5:e9:4a:9d:fa:2e,DE,"87,09 €",7.4983835,1999-11-27,3853,sa
+14:18:53,beim.tiff,2002-03-15T14:00:20,Saudi-Arabien,Ebert,Forchheim,Kuanyama,1971-12-05 22:04:52,srv-97.hesse.org,7b:78:47:67:e1:1f,DE,"26,55 €",-2.7390295,2000-06-25,0,tt
+09:01:17,Garten.ods,1974-10-27T02:23:45,Wallis und Futuna,Austermühle Dussen van GmbH & Co. KGaA,Cloppenburg,Zhuang,2011-10-15 14:20:13,web-64.kraushaar.org,76:12:e3:f6:9a:e5,DE,"365,19 €",7.114681,2017-07-04,4636,oc
+14:14:17,Stein.html,1983-12-31T01:54:16,Singapur,Beckmann,Peine,English,1977-09-29 02:34:17,lt-02.rust.de,60:42:e9:55:fd:d9,DE,"2,62 €",75.3708215,2012-12-13,7,crh
+06:41:00,schreiben.json,1992-06-27T23:08:13,Belarus,Martin Kusch GmbH & Co. OHG,Osterode am Harz,Sinhala,1996-11-09 01:45:20,web-28.nohlmans.net,d5:c0:5e:12:07:c8,DE,"6.007,09 €",-53.856423,1999-08-06,9816,ig
+03:59:21,den.pages,1987-10-27T17:24:54,Brunei Darussalam,Schinke Stiftung & Co. KG,Neunburg vorm Wald,Yiddish,1982-09-03 20:10:19,email-91.wiek.de,88:1f:be:08:fe:63,DE,"101,14 €",-30.845229,1971-11-01,811940012,or
+09:57:01,Garten.mp4,2016-08-16T13:33:58,Turkmenistan,Tintzmann,Kaiserslautern,Kikuyu,1976-02-28 21:36:14,srv-66.aumann.org,0b:62:ff:dd:88:a3,DE,"9,23 €",-55.374945,1983-12-24,32040,ar
+23:29:46,schön.ppt,2009-06-27T10:40:07,Gambia,Cichorius GmbH,Strasburg,Igbo,1993-06-02 14:27:42,desktop-50.doerr.de,f3:0a:48:14:98:be,DE,"226,88 €",32.727227,1999-08-11,1,uz
+20:57:11,können.bmp,1989-04-29T12:33:49,Britisches Territorium im Indischen Ozean,Stey AG,Greifswald,Akan,2012-03-09 02:06:25,db-54.vollbrecht.net,f5:0b:f0:90:e4:ba,DE,"19.979,12 €",5.683497,1970-10-05,992,ce
+11:02:49,oben.key,2002-10-04T03:57:54,St. Barthélemy,Gerlach GmbH,Sömmerda,Abkhazian,1993-07-28 07:13:51,web-03.giess.de,49:7c:fe:b6:64:98,DE,"2.900,18 €",-27.712324,2008-08-05,8892,tl
+09:51:39,oft.wav,1997-02-24T04:27:31,Neuseeland,Harloff,Wittenberg,Galician,2019-05-31 12:42:28,laptop-82.froehlich.com,09:c3:aa:4a:5a:55,DE,"76.308,14 €",44.779053,2008-05-15,4,brx
+06:18:33,hat.numbers,2013-08-13T23:56:02,Algerien,Otto,Kronach,Sanskrit,2005-05-06 06:45:12,srv-93.knappe.com,50:42:15:16:36:ca,DE,"33.090,19 €",-73.943769,1991-08-06,1000542,unm
+03:53:51,springen.css,2009-01-18T12:59:14,Republik Moldau,Mude Kramer GmbH,Gerolzhofen,Azerbaijani,2010-06-09 08:39:56,lt-15.saeuberlich.de,d6:b2:15:ec:3a:3f,DE,"93.118,92 €",-32.686596,1989-09-14,909,ca
+15:46:28,ging.flac,2021-01-28T11:12:25,Kanada,Schinke OHG mbH,Bernburg,Cree,1982-06-17 20:00:39,db-87.patberg.de,50:12:e9:47:07:19,DE,"62,91 €",43.845908,1982-09-18,412452174,fy
+13:11:40,Schiff.pdf,1992-09-04T11:57:29,Sudan,Mende,Beeskow,Icelandic,1973-12-31 12:08:01,web-04.jaehn.de,97:8f:79:02:56:89,DE,"1.714,59 €",25.2049915,2019-05-07,8501,or
+22:20:26,Minutenmir.jpg,2002-01-16T07:28:57,Taiwan,Barkholz AG,Borken,Herero,2012-03-26 03:59:42,laptop-44.trub.de,f8:17:cd:42:83:fa,DE,"1,47 €",59.8647855,2001-12-12,2,el
+09:56:30,antworten.avi,2015-06-22T06:35:58,Brunei Darussalam,Ritter Paffrath AG,Grimmen,Lithuanian,2015-12-22 16:08:22,laptop-04.christoph.de,23:94:07:f1:75:40,DE,"529,62 €",35.9809795,2013-08-17,1228,km
+20:27:51,Schule.mp3,2020-06-13T21:35:44,Britische Jungferninseln,Linke GmbH & Co. OHG,Kitzingen,Corsican,1986-09-09 15:05:29,laptop-82.kusch.org,a3:57:87:34:96:4a,DE,"42.399,34 €",10.476522,2004-02-19,782539,pt
+16:23:06,Weg.flac,2004-07-15T02:37:22,Mauretanien,Fischer,Schwäbisch Hall,Xhosa,2017-01-04 12:24:55,srv-04.muehle.de,b6:44:c0:27:d7:d4,DE,"11,62 €",-87.7497715,1995-08-13,40,cv
+16:31:27,kalt.webm,2010-06-17T21:37:07,Tonga,Werner Kreusel GmbH,Klötze,Sanskrit,2005-07-14 07:05:37,srv-32.gerlach.de,95:05:4a:91:e3:22,DE,"39,76 €",-20.965455,2011-05-25,300391538,sd
+21:55:03,Musik.flac,1976-10-18T07:26:41,São Tomé und Príncipe,Drub AG,Sangerhausen,Akan,1984-09-27 16:17:02,lt-60.meyer.de,a6:0a:c9:3b:9b:6e,DE,"27,40 €",-37.9335295,2017-10-17,94996,as
+11:09:01,wirklich.avi,1986-11-21T07:37:42,Nicaragua,Neureuther,Rottweil,Bislama,1995-03-16 02:14:57,srv-13.salz.de,0c:67:95:3c:a5:59,DE,"5,32 €",-35.493148,2007-10-15,210385929,lg
+00:56:38,unser.png,2011-07-18T22:11:52,Kamerun,Metz Trupp e.V.,Lüdenscheid,Swedish,1997-07-04 20:44:28,laptop-07.kallert.de,c1:18:aa:04:6e:ba,DE,"22,22 €",65.6078365,2017-05-05,21741,kn
+15:17:01,erst.wav,1986-01-03T02:34:18,Vereinigtes Königreich,Killer,Schleiz,Latvian,2017-01-21 17:17:15,email-54.hornich.net,24:93:b8:e1:54:82,DE,"481,55 €",-30.867259,1970-05-05,2315,ne
+21:19:55,tragen.xlsx,1978-07-03T10:01:18,Komoren,Trüb Trubin GmbH & Co. KG,Meiningen,Tatar,1981-12-18 05:54:20,web-61.dussen.de,57:d2:0b:5c:b1:b6,DE,"131,53 €",-57.6290935,1984-07-24,5,gv
+13:19:07,schreiben.webm,2016-11-29T22:40:53,Nördliche Marianen,Junck GmbH,Greiz,Zhuang,2016-05-11 23:28:20,email-27.trommler.com,59:96:1c:83:50:ac,DE,"45,15 €",48.357229,1983-12-21,178,ru
+18:16:27,wenn.mov,1991-11-29T18:02:39,Grenada,Losekann GbR,Senftenberg,Cree,1971-01-15 03:07:02,email-44.zirme.de,e3:81:dc:61:f5:d8,DE,"1.434,35 €",-65.8851295,1984-07-14,51450,bg
+17:38:07,Wiese.mp3,1996-07-12T21:22:46,Alandinseln,Ehlert,Backnang,Portuguese,2007-12-12 11:12:43,desktop-22.bauer.de,52:e3:af:a9:b3:12,DE,"93.923,68 €",53.5435275,2012-09-04,422048,uk
+22:22:07,Ball.css,2019-02-14T05:52:35,Rumänien,Wähner GmbH & Co. KGaA,Jena,Cree,2019-11-15 23:21:19,email-53.rosenow.de,28:be:da:15:d3:ef,DE,"34,84 €",55.490858,2020-10-27,429253654,os
+08:37:49,neu.txt,2003-01-31T06:50:20,Osttimor,Wähner,Tirschenreuth,Ukrainian,1995-06-09 23:48:36,lt-14.meister.de,11:39:84:fa:c0:53,DE,"866,47 €",23.516070,2009-05-16,5957710,nso
+08:22:57,weinen.wav,2017-05-30T18:25:44,Mongolei,Stiebitz Geißler GmbH,Ansbach,Marathi,1986-09-26 09:22:50,web-15.hecker.de,9f:2f:b3:45:07:b1,DE,"2,39 €",34.7647575,2012-11-28,96566,ast
+11:54:22,Minute.odt,2023-09-02T01:17:12,Libyen,Sorgatz,Merseburg,Mongolian,1976-07-16 20:21:32,db-67.roerricht.de,07:08:71:24:81:0d,DE,"11.244,04 €",-42.5065785,1990-02-17,667,yo
+23:51:45,vom.avi,1993-05-30T21:40:30,Jamaika,Röhrdanz,Eisenhüttenstadt,Indonesian,2005-04-11 04:43:50,laptop-52.gunpf.net,90:ec:f0:70:1b:99,DE,"9.732,70 €",73.550825,1992-04-21,96,brx
+11:23:52,Fußball.tiff,1974-11-16T00:17:10,Guam,Wilmsen Schaaf AG,Augsburg,Oriya,1991-11-02 13:08:59,email-12.rosemann.com,af:02:70:d1:2a:61,DE,"610,14 €",53.389231,1980-02-29,722,gez
+00:54:24,fressen.avi,1999-08-12T19:18:01,Ägypten,Winkler,Gardelegen,Macedonian,2002-12-23 07:39:29,db-65.schoenland.de,31:b3:f8:9b:b1:c9,DE,"23,64 €",-11.878998,2018-01-07,849,iw
+22:17:42,glauben.jpg,1993-10-13T18:34:53,Gambia,Henk Wilmsen AG,Lübeck,Burmese,2021-01-19 05:18:10,laptop-65.ritter.net,60:c2:91:87:41:ea,DE,"755,29 €",-16.1865725,1977-05-31,873,hak
+11:48:57,schreiben.bmp,2016-12-09T11:51:37,Palästinensische Gebiete,Hande,Amberg,Guarani,1990-04-05 06:31:17,laptop-39.ehlert.de,26:96:48:bc:f1:3c,DE,"4.656,43 €",25.0920995,1997-12-17,27280420,az
+13:06:43,Flasche.avi,1986-11-23T18:45:01,Sri Lanka,Seidel GmbH,Hansestadttralsund,Latvian,2002-09-10 08:03:44,email-11.schuster.de,c6:66:a4:72:ad:f0,DE,"4,03 €",-48.601777,1989-04-21,3,ga
+12:14:55,Schiff.js,1971-07-25T01:29:20,Türkei,Ditschlerin Rosenow AG & Co. KG,Auerbach,Tibetan,1986-12-23 19:12:37,srv-60.hofmann.com,9d:b2:58:b4:4a:d9,DE,"48.398,92 €",-9.5737145,2009-12-25,6947434,unm
+10:13:31,erschrecken.html,1998-12-31T07:21:11,Pakistan,Wieloch,Bischofswerda,Chinese,1999-01-18 13:53:39,email-19.metz.de,08:a5:ff:1a:07:0f,DE,"8,69 €",82.744014,2006-01-10,42603713,ar
+18:36:01,essen.xlsx,1978-08-02T18:31:14,Lettland,Döring Noack KG,Freising,Finnish,2012-01-28 10:55:31,web-38.lorch.net,08:26:71:71:6d:c4,DE,"9,35 €",0.762110,1993-04-28,26144534,et
+05:07:28,Haus.webm,2020-09-19T09:34:26,Ecuador,Mangold AG & Co. KG,Pasewalk,Swahili,2017-04-10 04:20:27,desktop-78.hahn.de,01:18:79:8e:9f:c7,DE,"59,38 €",-48.546186,1992-02-14,99,nhn
+13:41:55,bauen.png,1973-09-23T12:23:40,Demokratische Republik Kongo,Hauffer,Genthin,Chamorro,1988-05-08 03:08:04,email-58.staude.org,d6:48:b1:c1:06:e4,DE,"8,50 €",-9.4195025,1976-05-16,168914,os
+20:18:26,Mann.key,1999-03-03T06:29:29,Georgien,Beyer,Senftenberg,Bengali,1975-01-30 13:39:12,desktop-74.lindner.net,61:b5:b0:74:72:3d,DE,"6.934,33 €",-17.462521,2020-12-20,6647,sv
+03:33:06,rund.mp3,1988-04-06T11:31:00,Guadeloupe,Davids GmbH & Co. OHG,Döbeln,Albanian,2004-08-16 03:09:53,db-76.hartmann.net,7b:10:49:2b:2d:04,DE,"3,13 €",-80.319259,1970-09-29,966,mr
+05:20:12,hat.txt,1972-06-28T15:09:39,Belize,van der Dussen KG,Beeskow,Inuktitut,1980-03-22 18:49:50,laptop-78.bohnbach.net,f6:7f:99:d7:85:fd,DE,"927,94 €",-12.633388,1972-02-24,4,fa
+03:15:06,steigen.wav,1987-04-26T11:13:59,Palau,Jacob Jungfer e.V.,Hohenstein-Ernstthal,Amharic,2006-05-11 02:52:30,web-48.heidrich.de,53:d8:b1:23:5d:3a,DE,"77,45 €",73.8547535,2000-02-03,48117558,lg
+21:48:00,geben.wav,1988-11-14T20:55:03,Palästinensische Gebiete,Briemer Rose GmbH,Illertissen,Uzbek,1993-06-08 19:30:58,db-00.stumpf.com,32:ed:2e:bc:86:28,DE,"19,46 €",-12.1134325,1974-11-16,9386496,iu
+22:22:14,Fuß.csv,1978-01-07T04:37:05,Tschechische Republik,Warmer GmbH & Co. KG,Borna,Galician,1999-06-16 14:50:30,lt-46.koester.org,54:29:e3:e8:8a:e2,DE,"9.050,65 €",20.085576,1974-05-17,239417802,tr
+13:53:07,singen.xls,1982-10-16T12:22:18,Schweden,Schwital e.G.,Sondershausen,Icelandic,1997-08-06 05:13:34,desktop-78.hertrampf.de,52:ce:5d:47:91:5e,DE,"23,01 €",17.702470,2015-09-17,2962809,dz
+13:26:11,zwischen.pptx,1999-03-21T09:23:16,Japan,Martin KG,Prenzlau,Ukrainian,1997-01-05 21:57:25,laptop-48.ladeck.com,7d:06:06:a7:d3:a5,DE,"24,08 €",81.833275,2021-02-20,231,nb
+04:58:44,werfen.mov,1971-03-12T03:32:17,Bangladesch,Bruder OHG mbH,Kyritz,Guarani,1986-07-01 20:42:17,srv-67.haering.de,21:e5:8c:11:5b:bc,DE,"36.112,10 €",-76.943445,1980-02-20,7,hr
+04:00:18,krank.mp3,2007-12-19T15:28:51,Norfolkinsel,Reising GmbH & Co. KG,Beeskow,Welsh,2015-02-02 21:44:03,web-01.hermighausen.com,3f:bf:4e:ab:7a:74,DE,"1,67 €",45.3655155,2020-10-21,5411901,ckb
+11:49:35,schon.mp3,1999-10-30T11:59:05,Indien,Rädel GmbH & Co. OHG,Bad Langensalza,Samoan,2000-02-06 05:43:37,laptop-29.stroh.com,d0:76:77:cc:69:12,DE,"57.894,86 €",66.3572255,1998-03-31,338636753,af
+20:05:13,rennen.mp4,2017-05-05T08:58:55,Kolumbien,Fröhlich,Aurich,Hiri Motu,2019-06-03 23:09:12,db-07.schmidt.com,1a:e0:1b:10:ff:8a,DE,"2,95 €",81.7150755,1996-10-25,227,fr
+18:36:30,bei.wav,1990-11-15T08:42:15,Deutschland,Klemt,Crailsheim,Ndonga,1981-07-02 05:16:23,lt-21.scholtz.de,4b:92:b1:a2:8d:5f,DE,"4.252,09 €",48.811123,2006-05-05,732150422,es
+14:25:20,Wiese.tiff,2023-08-20T19:44:37,Liberia,Margraf GmbH & Co. KGaA,Senftenberg,South Ndebele,1982-01-19 15:54:58,srv-63.bolnbach.de,cf:c1:ee:9c:d9:99,DE,"748,59 €",-63.0347705,1987-01-20,1050,kw
+07:58:00,Sommer.ppt,1994-12-14T01:27:41,Bhutan,Schmidtke,Grevenbroich,Malay,1986-04-12 11:44:11,laptop-40.kambs.net,bc:da:87:2b:a8:6f,DE,"2.459,48 €",21.7768855,1982-08-23,3,ayc
+15:52:34,Garten.pages,1999-07-12T22:46:26,Venezuela,Mitschke,Forst,Ndonga,1987-11-01 20:12:13,lt-44.ehlert.com,3b:b3:3f:66:b0:b5,DE,"71.933,16 €",67.7917405,2001-10-03,225,kk
+05:47:58,Klasse.ppt,1985-07-23T16:13:18,Togo,Scholtz Hentschel AG,Hannover,Lithuanian,2016-05-04 08:39:45,db-66.zimmer.de,fc:5a:0d:2e:1a:6d,DE,"96.814,28 €",-67.901502,1970-09-30,865170638,or
+16:59:00,beide.odp,2017-05-14T15:06:29,Réunion,Wulff e.G.,Rothenburg ob der Tauber,Hiri Motu,2021-09-09 15:35:46,desktop-53.jaehn.de,9f:3d:7e:75:c8:13,DE,"1.123,48 €",66.442499,2020-01-02,89265381,ln
+13:00:34,Tisch.xlsx,2009-02-10T03:28:17,Ägypten,Butte,Gadebusch,Tonga,1998-12-29 01:41:26,laptop-63.fritsch.com,f9:1b:3b:6e:0b:a1,DE,"90.119,83 €",-47.8397895,1974-08-23,2,gu
+03:47:31,wohnen.json,2007-05-05T05:39:53,Taiwan,Werner AG,Grevesmühlen,Tibetan,1985-11-24 23:07:52,lt-62.wirth.de,c3:c6:03:e7:64:ec,DE,"692,67 €",-69.7725245,1988-08-06,309551081,ro
+02:29:05,Haare.jpeg,2001-06-01T06:04:41,Slowakei,Dörr,Herzberg,Kazakh,2008-05-08 03:04:02,db-56.bauer.de,3f:ca:88:07:e0:c0,DE,"7,20 €",-43.515575,2006-10-11,61,tcy
+19:27:36,Wasser.mov,2000-12-22T11:57:54,Turks- und Caicosinseln,Beckmann AG,Aschaffenburg,Akan,1976-04-07 19:59:16,email-67.roskoth.org,2f:5d:60:00:07:0c,DE,"81,92 €",-31.665004,1977-12-30,4132453,bem
+19:39:22,spät.tiff,1984-06-07T04:06:35,Liechtenstein,Benthin,Fürstenfeldbruck,Korean,2005-11-20 19:06:54,laptop-21.girschner.com,00:35:26:5b:af:cf,DE,"33,55 €",-12.922582,2004-03-27,972989,ak
+19:23:07,daran.jpg,2000-10-05T23:12:00,Ägypten,Pruschke,Bützow,Estonian,2019-09-22 07:44:58,srv-77.lorch.net,aa:fe:11:f4:5e:f8,DE,"172,17 €",62.742039,1981-05-12,2626870,nds
+00:57:22,ziehen.mp4,2000-02-03T12:56:11,Turkmenistan,Trüb Werner KG,Gerolzhofen,Cree,2019-09-27 10:40:11,desktop-12.kuehnert.org,6b:0a:9d:85:3e:61,DE,"4.481,16 €",41.543583,1970-08-07,574812,kl
+07:40:42,Milch.avi,1978-11-26T23:00:58,Costa Rica,Gehringer Jessel AG,Hechingen,Macedonian,1983-09-04 00:59:36,web-34.zirme.de,f2:5e:35:f8:a3:3f,DE,"9.794,03 €",71.5294935,1980-08-17,45146,st
+00:37:28,warm.js,1974-09-22T06:29:48,Bolivien,Ullrich AG,Gelnhausen,Telugu,1998-03-30 13:36:11,srv-70.sontag.de,d3:d7:bf:81:3f:30,DE,"8.530,47 €",19.401391,2014-01-05,570,csb
+09:35:26,Familie.ppt,1986-10-16T16:27:51,Myanmar,Kade KG,Eichstätt,Korean,1994-02-23 02:22:05,db-44.peukert.de,81:23:4e:8d:e2:ba,DE,"84,65 €",8.070735,2016-10-04,6050826,ml
+20:18:32,kam.jpeg,1993-07-18T11:06:25,Tschad,Briemer e.V.,Schweinfurt,Abkhazian,1973-09-29 21:06:00,email-43.gorlitz.org,68:6c:41:be:9f:de,DE,"8,65 €",5.538705,2008-08-01,470133,th

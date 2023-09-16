@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>ActivePivot - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6NjU4LCJpc3MiOiJjb3VudGVyOnN5c3RlbSIsIm5iZiI6MTY5NDYxNDA0NH0.BK-Lc4I5baURBzkfzr0gjqQa7wJejDqdw0ie7rA7OcQ">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/activepivot" />
+<meta name="twitter:url" content="https://dbdb.io/db/activepivot" />
+<meta property="og:title" content="Database of Databases &mdash; ActivePivot" />
+<meta property="og:description" content="ActivePivot is a distributed, in-memory DBMS designed for HTAP workloads, which supports real-time data streams and continuous queries. It uses a columnar storage architecture with dictionary compression and binary representation of Java objects. The system can also materialize OLAP cubes, construc…" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/activepivot.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; ActivePivot" />
+<meta name="twitter:description" content="ActivePivot is a distributed, in-memory DBMS designed for HTAP workloads, which supports real-time data streams and continuous queries. It uses a columnar storage architecture with dictionary compres…" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/activepivot.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/activepivot/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+ActivePivot
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<p class="card-text">
+<p>ActivePivot is a distributed, in-memory DBMS designed for HTAP workloads, which supports real-time data streams and continuous queries. It uses a columnar storage architecture with dictionary compression and binary representation of Java objects. The system can also materialize OLAP cubes, constructed with compressed columns, for analyzing multidimensional data.</p>
+</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>ActivePivot is one of the core products of the French company ActiveViam -- once known as Quartet FS, which was founded in 2005. The companies primary customers are banks and other financial institutions, so there is an emphasis on support for real-time data streams and continuous queries.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_White_Paper_-_FRTB.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_White_Paper_-_FRTB.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="checkpoints" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Checkpoints
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?checkpoints=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing">https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="compression" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Compression
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?compression=dictionary-encoding">Dictionary Encoding</a>
+</p>
+<p><p>ActivePivot uses both dictionary encoding and Java primitives for compression. </p>
+<p>Dictionary Compression: When there is a small number of distinct values for an attribute, the attributes can be encoded into an integer from 1 to N where N denotes the total number of distinct values by using a dictionary that stores the distinct values.</p>
+<p>Java Primitives: Instead of storing integers as Java Integer objects, ActivePivot stores these as primitives. The number of bits stored for each number is based on the range of possible values. For example, if the values in a column are given to be between 0 and 256 then the system would only store 8 bits per number. This form of compression can be combined with dictionary compression</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=multi-version-concurrency-control-mvcc">Multi-version Concurrency Control (MVCC)</a>
+</p>
+<p><p>The system allows for multiple versions of a database using delta storage to keep track of different versions. For example, there can be one version that continuously gathers incoming data, and another version from an earlier point in time for analysis.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=relational">Relational</a>
+</p>
+<p><p>Both relational tables and multidimensional OLAP cubes are used for organizing the data.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing">https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="foreign-keys" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Foreign Keys
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?foreign-keys=supported">Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing">https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="hardware-acceleration" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Hardware Acceleration
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?hardware-acceleration=custom">Custom</a>
+</p>
+<p><p>ActivePivot provides support for multi-core processing and non-uniform memory access architectures. SIMD instructions can be used in accelerating operations such as column scans and aggregations.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="indexes" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Indexes
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?indexes=bitmap">BitMap</a>
+</p>
+<p><p>ActivePivot uses bitmap indexing for multidimensional cubes and supports primary and secondary indexes for relational tables.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="isolation-levels" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Isolation Levels
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?isolation-levels=snapshot-isolation">Snapshot Isolation</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing">https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="logging" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Logging
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?logging=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing">https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="parallel-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Parallel Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?parallel-execution=intra-operator">Intra-Operator (Horizontal)</a>
+</p>
+<p><p>When a server receives a query, it also sends the query out to the other servers. Once it receives a response from all the servers it aggregates all of the information and returns the result.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-compilation" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Compilation
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-compilation=jit-compilation">JIT Compilation</a>
+</p>
+<p><p>The Java JIT compiler is responsible for handling the compilation of Multidimensional Expression (MDX) queries. MDX queries are similar in syntax to SQL queries, but they serve a different purpose. While SQL queries operate on tables which are two dimensional, MDX queries operate on OLAP cubes, which can support many dimensions. Some other operations are compiled directly into Java byte code.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing">https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=custom-api">Custom API</a>
+</p>
+<p><p>ActivePivot supports queries through Multidimensional Expressions (MDX) either through ActiveUI or any another MDX-compliant interface.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf</a></li>
+<li><a target="_blank" href="https://www.activeviam.com/activepivot/5.8.5/docs/mdx/mdx_functions.html">https://www.activeviam.com/activepivot/5.8.5/docs/mdx/mdx_functions.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=in-memory">In-Memory</a>
+</p>
+<p><p>The system takes advantage of non-uniform memory access (NUMA) by partitioning the tables based upon the number of CPU cores available on servers.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf</a></li>
+<li><a target="_blank" href="https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit">https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=decomposition-storage-model-columnar">Decomposition Storage Model (Columnar)</a>
+</p>
+<p><p>Data is stored in columns in memory, DRAM or flash, with no additional row-based storage.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf</a></li>
+<li><a target="_blank" href="https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing">https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-nothing">Shared-Nothing</a>
+</p>
+<p><p>All servers act independently and do not have access to the information contained on other servers. Data can be distributed between servers based on the values of a given attribute. For example, if one of the attributes is city then the data can be distributed based on geographic regions.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf">https://activeviam.com/images/pdf/white-papers/ActiveViam_Technical_White_Paper_-_ActivePivot.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=materialized-views">Materialized Views</a>
+</p>
+<p><p>The system supports materialized views for both OLAP cubes and continuous queries. Views can be materialized on a subset of dimensions for the OLAP cube. For continuous queries, the materialized view of the result is updated alongside changes to the underlying data.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing">https://docs.google.com/document/d/1vFpmaAQWanhKRyMGBB049Y4rg7FmzlOkva3MTLs09YU/edit?usp=sharing</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/activepivot/revisions/" title="View All Revisions for ActivePivot">
+<div class="card-body">
+Revision #8
+&nbsp;|&nbsp;
+<time datetime="2022-01-02T20:44:35.340000-05:00">
+Updated 01/02/2022 8:44 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/column" title="Column">
+<img class="logo-recommendation" src="/media/logos/column.png.200x50_q85.png" alt="Column" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/daggerdb" title="DaggerDB">
+<img class="logo-recommendation" src="/media/logos/daggerdb.png.200x50_q85.png" alt="DaggerDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/matisse" title="Matisse">
+<img class="logo-recommendation" src="/media/logos/matisse.png.200x50_q85.png" alt="Matisse" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/aster-data" title="Aster Data">
+<img class="logo-recommendation" src="/media/logos/aster.svg" alt="Aster Data" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/activepivot_St6MoK1.png"><img class="logo-thumbnail" src="/media/logos/activepivot_St6MoK1.png.280x250_q85.png" style="border:none;" alt="ActivePivot Logo" title="ActivePivot"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="https://activeviam.com/en/products/activepivot-in-memory-analytical-database">https://activeviam.com/en/products/activepivot-in-memory-analytical-database</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="https://www.activeviam.com/activepivot">https://www.activeviam.com/activepivot</a></p>
+<h6 class="card-title">Twitter</h6>
+<p class="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" /></svg> <a target="twitter" href="https://twitter.com/ActiveViam"> @ActiveViam</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">ActiveViam</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=FR" title="View other systems from France">
+<i class="flag-sprite flag-f flag-_r"></i>
+FR
+</a>
+</p>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=commercial" title="View other Commercial systems">Commercial</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=java" title="View other systems that are written in Java">Java</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=proprietary" title="View other systems that use Proprietary">Proprietary</a>
+</p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/activepivot/revisions/" title="View All Revisions for ActivePivot">
+<div class="card-body">
+Revision #8
+&nbsp;|&nbsp;
+<time datetime="2022-01-02T20:44:35.340000-05:00">
+Updated 01/02/2022 8:44 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/column" title="Column">
+<img class="logo-recommendation" src="/media/logos/column.png.200x50_q85.png" alt="Column" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/daggerdb" title="DaggerDB">
+<img class="logo-recommendation" src="/media/logos/daggerdb.png.200x50_q85.png" alt="DaggerDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/matisse" title="Matisse">
+<img class="logo-recommendation" src="/media/logos/matisse.png.200x50_q85.png" alt="Matisse" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/aster-data" title="Aster Data">
+<img class="logo-recommendation" src="/media/logos/aster.svg" alt="Aster Data" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#f598949c99b591979197db9c9a" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="a3e973ad460372dbc1fe0385-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="a3e973ad460372dbc1fe0385-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="a3e973ad460372dbc1fe0385-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="a3e973ad460372dbc1fe0385-text/javascript"></script>
+<script type="a3e973ad460372dbc1fe0385-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="a3e973ad460372dbc1fe0385-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="a3e973ad460372dbc1fe0385-text/javascript"></script>
+<script type="a3e973ad460372dbc1fe0385-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="a3e973ad460372dbc1fe0385-text/javascript"></script>
+<script src="/static/core/js/system.js" type="a3e973ad460372dbc1fe0385-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="a3e973ad460372dbc1fe0385-|49" defer></script></body>
+</html>

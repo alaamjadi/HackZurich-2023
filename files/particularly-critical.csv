@@ -1,0 +1,375 @@
+date_time,iso8601,pricetag,date,file_name,timezone,country,random_number,latitude,language_name,longitude,mac_address,time,company,language_code
+2019-04-17 02:06:05,1991-03-21T00:48:00,"0,20 €",1974-01-05,packen.docx,Africa/Gaborone,Äußeres Ozeanien,928,-5.7104225,Esperanto,80.007359,3a:8c:1c:6b:41:66,07:11:08,Briemer,zu
+2006-12-01 08:39:44,1998-01-29T10:27:11,"76.235,24 €",2001-02-05,hoch.csv,Africa/Bamako,Indien,6337791,-37.5104455,Zhuang,-144.622689,9a:d9:11:f1:e2:5c,15:04:39,Bloch Reinhardt Stiftung & Co. KG,ht
+2009-08-01 01:30:25,1993-02-22T06:58:18,"48,27 €",2004-12-12,Berg.webm,America/Guatemala,Venezuela,7566,11.510708,Georgian,-167.516482,f9:96:f0:4d:73:6e,18:30:06,Rörricht AG & Co. KG,the
+2013-07-20 12:54:02,1997-12-20T16:06:21,"70.217,55 €",2004-07-24,Blume.mov,Africa/Harare,Island,9552271,-3.1810245,Navajo,119.718981,9e:52:21:5f:be:f8,08:36:10,Kuhl,om
+1999-12-31 00:34:57,1972-06-03T12:03:15,"178,48 €",2010-08-15,Wald.jpg,Europe/Samara,Bosnien und Herzegowina,127326299,76.261186,Sanskrit,-157.002793,cf:16:90:8d:6e:5f,01:30:50,Wirth,he
+1986-11-23 21:43:15,1988-09-11T09:37:41,"34.362,55 €",2022-01-21,treffen.odt,Africa/Accra,Indonesien,11829,65.2605785,Western Frisian,-77.876220,2c:65:88:cb:aa:5f,09:27:23,Hethur e.V.,dv
+1972-10-27 18:50:16,1981-09-10T11:23:43,"140,97 €",1989-01-07,Apfel.jpg,Africa/Windhoek,Tonga,34080,-2.916600,Sundanese,-179.018303,0b:19:16:22:56:0f,13:23:07,Dörschner KG,hr
+1992-05-04 11:09:13,1986-03-05T20:38:54,"5.264,91 €",2016-12-15,dick.tiff,Africa/Kinshasa,Brasilien,4,8.7571675,North Ndebele,88.353812,76:7a:b5:04:97:dd,01:13:54,Pärtzelt,sw
+1980-06-05 19:01:44,1982-07-13T07:46:19,"9.987,34 €",1988-08-16,Spaß.odt,America/Belize,Bosnien und Herzegowina,20620447,77.4283315,Luba-Katanga,79.087772,1c:20:7d:21:3b:1e,09:36:45,Köster Börner GmbH,nl
+2009-03-18 20:52:43,2011-08-30T15:24:10,"2,50 €",1992-04-24,Tisch.mov,Africa/Asmera,Amerikanisch-Ozeanien,736,65.418317,Tamil,-1.189906,06:7c:eb:71:8e:f7,13:25:03,Köhler,fo
+2000-04-17 20:12:24,1986-12-23T08:08:51,"951,41 €",1973-04-06,Licht.bmp,Asia/Calcutta,Algerien,5605,53.703316,Kurdish,138.488285,eb:44:23:2d:15:83,20:15:58,Weitzel GmbH,ast
+2018-11-04 13:51:10,1981-04-27T14:31:38,"1.621,26 €",2005-04-04,Brief.png,Europe/Minsk,Kanada,96352,62.358240,Luxembourgish,-67.850136,0e:35:5d:83:c8:41,18:27:42,Lange Henck GmbH,szl
+2014-10-20 21:58:54,1998-12-23T19:42:41,"154,54 €",1991-03-22,kennen.ppt,Africa/Niamey,Mexiko,9,-28.557710,Sanskrit,-48.419510,f3:63:92:26:43:76,00:47:25,Sölzer,gez
+2011-02-15 10:33:26,2003-09-30T23:41:13,"6,02 €",1994-10-23,schreien.mp3,Asia/Riyadh,Sri Lanka,8116,58.662870,Lithuanian,-93.919614,38:ca:19:27:32:8b,12:15:52,Wagenknecht e.G.,wae
+2012-12-18 22:39:41,1973-11-14T18:09:51,"2.207,15 €",1990-01-18,Sommer.wav,Africa/Mogadishu,Niederlande,4,81.7475715,Igbo,73.106555,3c:db:9e:95:e7:5a,00:34:47,Kreusel Schenk KG,szl
+1982-06-30 06:33:22,1974-07-12T14:44:02,"1,75 €",2019-11-12,freuen.flac,America/Caracas,Britische Jungferninseln,556410385,-56.174847,Swedish,26.179753,64:da:7d:6a:f2:87,15:57:09,Hethur,ml
+2005-02-02 09:27:25,2020-03-01T22:42:55,"26.659,90 €",1975-02-22,Wetter.tiff,Indian/Antananarivo,Thailand,74915,57.845023,Hindi,-92.833048,56:20:15:7a:a8:bb,12:42:44,Drewes GmbH,az
+1971-07-15 18:43:57,1998-10-08T04:14:08,"106,73 €",2005-04-05,dumm.ods,America/La_Paz,Marokko,46975,-69.611616,Kikuyu,-14.672668,f5:50:04:a2:1a:2d,00:40:15,Freudenberger GmbH & Co. KGaA,az
+2003-07-24 11:25:05,1970-01-06T08:12:53,"81.333,84 €",1992-01-27,gar.jpeg,Africa/Libreville,Kroatien,88973,2.347995,Aragonese,-113.430934,36:a3:3e:9a:e9:f9,12:23:44,Trub AG,kn
+1994-10-27 13:05:08,1997-11-15T09:55:24,"551,62 €",1976-05-13,erklären.docx,Africa/Djibouti,Ruanda,82062918,-35.214076,Limburgan,103.140885,b9:19:8d:ec:2b:e7,17:08:54,Heuser,ug
+1973-12-07 21:50:35,1989-01-14T09:59:01,"4.209,82 €",1976-11-21,krank.tiff,Europe/Rome,Mali,23,5.3946245,Tswana,76.654934,85:e6:28:22:61:b6,22:55:36,Kensy,bem
+2011-09-19 01:49:55,1980-05-10T17:28:51,"85,27 €",2002-02-16,gegen.webm,America/Guayaquil,Isle of Man,1008595,18.772358,Aragonese,-30.029975,fb:35:3e:52:47:cd,23:59:50,Henck,byn
+1979-09-06 09:50:07,2021-07-03T23:47:12,"465,35 €",2014-11-22,fragen.avi,Africa/Ndjamena,Puerto Rico,635915556,-57.5331405,Ido,144.779608,d7:87:c8:55:dd:7e,16:36:35,Siering,bhb
+1973-12-31 04:38:32,1974-11-14T07:05:04,"63,02 €",2012-08-23,im.mov,America/St_Vincent,Heard- und McDonald-Inseln,601452677,88.2502705,Ojibwa,34.361708,50:36:5f:b5:61:24,18:49:18,Köhler Jockel GbR,mg
+1983-02-21 13:30:41,2012-03-26T06:47:26,"89,95 €",1975-03-25,scheinen.gif,Asia/Tbilisi,Mikronesien,857,80.801694,Kurdish,126.996083,45:67:60:f7:df:ab,18:55:32,Haase Beer GbR,ce
+1970-09-23 07:29:05,1997-09-23T09:08:39,"95.851,88 €",2012-01-20,warten.mp3,Asia/Karachi,Nördliche Marianen,47,18.2980485,Faroese,85.646165,ed:9f:50:61:11:dc,04:39:48,Holt e.G.,an
+1982-05-14 18:28:41,2023-08-16T19:06:16,"917,99 €",1998-11-23,Bild.webm,America/Argentina/Buenos_Aires,Griechenland,77704,37.6001795,Kannada,-150.623967,4b:d7:86:b6:cc:23,01:47:24,Stadelmann Bolnbach AG,bem
+1985-08-07 09:20:43,2017-08-19T21:38:32,"452,50 €",2001-10-15,Essen.avi,Europe/Luxembourg,Japan,15464690,15.506496,Komi,-84.319604,58:54:5c:99:65:c1,22:02:17,Ebert,lb
+1992-02-29 04:53:40,1980-03-13T07:54:20,"12,66 €",1977-02-18,schön.tiff,Europe/Budapest,Simbabwe,2440012,-40.580063,Hiri Motu,28.399647,b8:1c:9a:1a:42:ba,19:19:26,Wulf KG,kl
+1972-06-29 18:37:50,1979-09-30T14:40:31,"7.869,92 €",2000-10-04,Geld.pages,Europe/Malta,Turks- und Caicosinseln,1972333,75.045416,Yoruba,94.320911,1c:17:62:a3:d3:2d,19:43:04,Putz,eu
+2017-11-24 08:08:56,1997-01-11T20:51:49,"107,57 €",2008-08-17,gefährlich.jpg,Asia/Dubai,Pitcairn,49372279,70.505980,Lingala,-2.260815,ac:4c:da:db:d5:75,06:03:54,Schomber GmbH,my
+2020-09-14 00:16:49,1990-01-22T00:10:39,"7,16 €",2018-11-07,Spiel.bmp,Africa/Kampala,Neuseeland,19181,-75.678082,Assamese,119.881144,5a:a3:5c:0b:41:98,20:04:29,Stoll KG,tcy
+2010-05-09 04:03:45,2020-12-07T13:22:12,"51,50 €",1977-08-02,hier.json,Europe/Madrid,Neuseeland,87911464,63.923885,Western Frisian,142.838276,be:18:e5:ed:e3:38,11:30:16,Hendriks,sc
+2008-10-26 07:28:22,1976-09-05T06:05:40,"1,36 €",1984-09-02,Sommer.numbers,America/Nassau,Mauritius,1,45.3663175,Catalan,33.614368,c6:ec:37:f8:85:ec,10:04:24,Kambs,tr
+1970-02-12 10:46:07,1998-06-11T12:02:10,"8,20 €",1979-07-07,Zimmer.mp3,America/Grenada,Bhutan,7640372,-51.433066,Albanian,131.497930,44:41:1a:5d:54:8f,04:36:00,Klingelhöfer AG & Co. KG,cs
+1997-06-26 18:21:43,2018-01-08T23:41:09,"2.914,91 €",1996-11-08,Erde.webm,Asia/Tehran,Ungarn,90478458,24.4399065,Galician,-19.377665,bd:cb:17:ab:a8:62,09:35:26,Gierschner,brx
+1973-08-10 16:58:51,2009-01-10T05:39:04,"6.357,24 €",2013-11-08,einfach.tiff,Africa/Accra,Bosnien und Herzegowina,8801920,36.664513,Walloon,-22.240289,05:61:0f:13:21:c6,21:52:56,Rust KG,nds
+1977-07-04 16:11:07,1979-04-06T21:07:59,"50.844,90 €",1984-06-01,fröhlich.numbers,Europe/Berlin,Eritrea,5094401,48.825252,Slovenian,35.154922,15:7f:0a:8f:b9:ae,02:24:23,Röhrdanz,ug
+1997-03-13 10:08:44,2010-09-17T01:14:01,"92,95 €",1970-05-20,Feuer.json,Europe/Skopje,Sonderverwaltungszone Hongkong,90843,-89.2112325,Armenian,-27.697226,04:5a:e7:16:98:60,14:43:17,Weinhage,mr
+1999-09-16 18:25:50,1999-11-10T15:27:59,"4.516,07 €",1991-07-26,dein.pdf,Indian/Mahe,Ghana,932146,-15.055943,Igbo,-144.149330,5e:03:7d:7d:28:93,09:38:07,Bolander,cy
+1973-02-22 10:28:10,1978-04-17T06:30:39,"70,45 €",1993-05-03,hin.numbers,Pacific/Efate,Jamaika,0,-86.4305555,Tonga,-48.512619,18:ce:0b:84:fc:b9,01:01:05,Geisler,dz
+1999-10-22 22:07:44,1992-09-27T12:33:52,"823,65 €",1991-01-18,Wagen.wav,Asia/Thimphu,Angola,53172,-41.0511525,Danish,54.853057,8d:7c:71:30:c1:24,07:27:01,Budig AG,shs
+2007-01-05 12:18:29,1993-10-22T21:16:46,"244,66 €",1995-06-06,schon.csv,Asia/Qyzylorda,Niue,79269,-23.4218785,Abkhazian,162.667321,b5:a9:8e:92:c6:56,20:32:46,Huhn Junk GmbH & Co. KG,vi
+1976-03-07 17:26:35,2005-08-16T08:21:29,"37,92 €",1984-04-23,Sonne.mp4,Europe/Istanbul,Nördliche Marianen,6,-7.3183625,Akan,-98.302478,fc:55:ac:99:2b:5e,14:07:03,Rörricht Stiftung & Co. KGaA,lb
+2014-09-22 11:05:56,2020-03-09T17:02:21,"20,19 €",1999-03-04,mich.flac,Pacific/Port_Moresby,Jamaika,38944,-8.8694505,Catalan,6.539822,64:c1:55:72:88:44,19:20:36,Weitzel KG,mi
+2022-06-26 10:42:55,2004-10-03T13:53:19,"7.429,61 €",2021-02-06,Loch.bmp,Asia/Urumqi,Nicaragua,5,-25.4045435,Gaelic,90.075149,b7:6b:da:47:e0:4e,13:05:16,Wagenknecht Schmidtke AG,nl
+1992-03-28 23:38:37,2018-11-13T11:11:28,"9,46 €",1988-10-29,wenig.key,America/La_Paz,Portugal,75154253,73.388230,"Sotho, Southern",-157.029556,40:8e:f9:ff:e7:85,16:54:03,Seidel KG,ca
+1971-11-17 22:33:04,2016-06-24T10:05:53,"3,45 €",2001-06-09,Wagen.csv,Asia/Taipei,Pitcairn,5,14.303004,Marshallese,-87.095386,46:17:39:67:46:9a,06:53:05,Gröttner Gieß KGaA,ko
+1971-04-26 00:32:07,2013-08-05T02:36:19,"16,50 €",2014-02-25,Wiese.bmp,America/Grenada,Bhutan,5,-54.833515,Central Khmer,-66.747785,27:cd:5b:c8:89:bd,10:34:41,Becker Hofmann AG & Co. KG,byn
+1997-06-16 18:09:49,1972-11-27T07:32:27,"4.283,29 €",1974-05-28,wollen.xls,Asia/Calcutta,Estland,525,21.5262205,Rundi,63.843717,95:68:5f:53:09:a4,09:26:11,Binner,crh
+1992-03-20 20:32:18,2005-07-06T04:51:13,"7,13 €",2001-06-20,Freude.odt,Africa/Ouagadougou,Tansania,5498930,42.2267805,Latin,105.508140,ff:92:31:fa:92:85,16:37:39,Warmer Schleich GmbH,ts
+2004-01-07 16:29:21,2015-10-23T18:04:20,"2,52 €",2019-01-31,möglich.mp4,Europe/Amsterdam,Taiwan,3187517,39.224314,Church Slavic,-144.810917,39:07:16:ec:9b:8a,16:30:31,Herrmann AG,rw
+1979-08-02 17:39:07,2002-08-10T00:12:11,"977,14 €",2016-01-04,glauben.flac,America/Dominica,Österreich,93,24.369611,Afar,37.620407,38:2e:f0:32:1f:13,05:55:47,Ritter Bolander GmbH,nso
+1992-07-23 15:04:05,2004-03-11T19:43:51,"89.447,27 €",1986-02-21,Hund.jpeg,Asia/Beirut,Israel,42,-28.1706345,Samoan,-76.437625,e7:9c:d4:e8:31:0b,04:31:24,Siering Dobes GbR,ayc
+2003-06-11 15:40:13,1989-04-28T23:35:49,"8,92 €",2010-02-18,Schuh.png,America/Antigua,Britisches Territorium im Indischen Ozean,9618442,52.0039915,Latvian,120.308499,b4:1e:65:78:40:f8,18:05:31,Jockel Dörschner GmbH,tr
+1972-08-10 01:43:34,2015-07-14T04:23:37,"37,00 €",2012-01-17,vorbei.jpg,Asia/Beirut,Aruba,91713,64.2347835,Yoruba,139.939666,91:30:5e:43:43:45,14:07:24,Gieß Albers AG & Co. OHG,ss
+2004-12-28 16:08:23,1972-06-08T02:27:34,"97,19 €",1985-03-04,ist.css,Asia/Brunei,Britische Jungferninseln,2935,-77.7730395,Yoruba,170.174715,9a:1b:22:f8:c6:77,01:11:03,Schottin Stiftung & Co. KGaA,it
+2018-08-14 15:07:29,1977-03-25T16:14:18,"652,49 €",2000-04-09,denn.bmp,Asia/Vientiane,Somalia,8708051,-8.738577,Vietnamese,-92.428626,e9:03:e2:90:49:32,13:34:20,Berger GmbH,hak
+1990-01-03 03:50:58,2008-09-15T10:40:49,"6,30 €",2014-11-01,Brief.odt,Asia/Samarkand,St. Helena,64,19.6905965,Armenian,-33.985441,10:c2:76:88:d5:f8,02:01:46,Dehmel Heintze AG & Co. OHG,raj
+1983-09-03 08:59:34,1986-10-27T04:23:08,"6.923,12 €",2008-02-05,zurück.wav,Africa/Cairo,Vatikanstadt,38,24.744619,Rundi,-138.827115,4e:7c:3d:19:42:c9,11:32:41,Seifert,et
+2021-05-22 22:22:27,2008-03-19T17:08:28,"3,56 €",1972-03-18,reiten.jpeg,Africa/Addis_Ababa,St. Barthélemy,7600963,18.297894,Chechen,27.054382,d9:7e:d2:9a:07:56,18:15:09,Mühle GmbH,sl
+1982-08-15 07:07:56,1973-10-20T07:10:41,"99,90 €",1999-07-24,weiter.pages,Asia/Colombo,Britisches Territorium im Indischen Ozean,750738,53.187798,Spanish,123.969652,c4:e9:b0:df:cb:11,20:38:24,Dobes Gude AG,lo
+2020-11-27 17:16:15,2005-06-29T16:20:18,"100,93 €",2001-02-02,ihn.bmp,Europe/Dublin,Französisch-Guayana,9,58.804920,Divehi,-120.802421,91:64:2b:39:f0:e0,23:47:36,Barkholz Lehmann GmbH,mr
+2023-05-19 13:25:44,1984-12-01T22:26:11,"3,90 €",2009-06-19,Hilfe.mp3,Europe/Andorra,Britisches Territorium im Indischen Ozean,8906851,39.0682445,Amharic,-79.278199,f0:e3:57:57:6e:1b,04:01:37,Weiß,wae
+2016-10-10 16:18:05,1987-10-20T14:35:47,"98,98 €",2021-08-29,werfen.js,Africa/Freetown,Pakistan,40897,11.881466,Macedonian,43.984752,90:b3:7f:58:01:2b,22:03:04,Rohleder,lo
+2005-06-25 17:45:34,1992-07-30T15:54:14,"12,61 €",2022-02-28,Baum.txt,America/Panama,Jamaika,78002,-83.070860,Cornish,-1.566798,37:ad:61:05:f4:81,17:22:02,Eimer AG & Co. KGaA,ss
+2009-11-28 18:45:44,1999-01-11T23:27:05,"534,40 €",1979-12-06,Pferd.png,Africa/Abidjan,Bahrain,14899,74.353085,Herero,113.016366,d5:7a:9f:5a:d6:83,17:10:10,Henck Mitschke AG,brx
+2005-10-17 06:00:39,1976-04-30T00:57:43,"39.562,34 €",2014-10-14,beide.wav,Asia/Dushanbe,Republik Moldau,761,-82.8194815,Italian,140.463602,ee:6c:a5:2a:40:74,12:29:50,Trub,quz
+1974-09-12 22:20:23,2017-09-04T05:11:53,"47,72 €",1995-06-10,Wohnung.bmp,Asia/Aden,St. Lucia,6339,83.6333535,Norwegian,-125.599069,dc:9f:4b:93:a5:f3,13:04:43,Nerger Mitschke GmbH,kn
+1994-10-14 10:22:17,2005-08-06T20:53:34,"76,25 €",1988-08-25,vorbei.flac,Pacific/Fiji,Grönland,22,-54.740117,Welsh,25.598243,75:d5:24:cf:71:f9,07:25:07,Ziegert KG,ur
+1987-05-27 23:22:40,2014-08-04T10:58:17,"67.385,75 €",2012-10-19,heißen.flac,Europe/Vilnius,Dominica,75,39.886012,Xhosa,24.960215,a9:55:63:a5:82:ba,01:13:44,Krause Thies AG & Co. KG,nhn
+2019-03-02 00:49:10,1987-04-01T19:34:44,"26,33 €",2009-08-14,Fahrrad.pages,Pacific/Nauru,Tansania,63936331,22.3688335,Irish,4.846121,54:fd:75:1b:70:28,14:11:35,Gunpf AG & Co. KGaA,fy
+2002-01-09 23:35:11,2003-07-15T07:17:44,"0,14 €",1980-07-31,Sonne.html,America/Belize,Kaimaninseln,21312,-2.3578855,Turkish,124.450583,7a:ac:10:c6:20:4f,20:43:29,Caspar,os
+1994-05-03 07:42:38,1990-09-04T09:17:29,"770,28 €",2009-12-01,setzen.key,Asia/Thimphu,Französisch-Polynesien,339119,-8.643349,Divehi,-170.089902,d6:61:c4:49:55:b8,11:43:00,Christoph,sd
+2016-05-28 23:17:52,1983-03-27T10:52:15,"2.742,29 €",1971-03-10,zwischen.wav,Africa/Bujumbura,Dominikanische Republik,535775207,16.085685,Avestan,-100.872482,bc:47:26:97:4e:ff,00:43:11,Klemt,en
+2006-11-08 23:34:49,2020-07-29T01:23:15,"52.911,44 €",1976-06-20,ab.png,Africa/Algiers,Eritrea,997935579,70.580251,Ndonga,179.869380,a9:c5:0e:c2:3d:ab,22:06:02,Werner Höfig AG,fo
+1972-03-04 17:13:06,1998-08-22T04:00:15,"626,14 €",2018-10-18,anfangen.csv,Africa/Casablanca,Guadeloupe,267121,1.790598,Nepali,-20.016854,1b:75:0e:ae:38:70,03:44:04,Pruschke Margraf AG & Co. KGaA,ky
+2009-01-10 18:28:22,2010-09-10T16:52:53,"8.468,06 €",1990-01-20,weiß.ppt,Europe/Sarajevo,Suriname,41850056,80.7740205,Greek,-154.173488,dd:05:fe:4f:9b:02,04:44:02,Henck GmbH,ss
+1983-07-09 07:46:30,1975-02-01T06:52:25,"81.469,98 €",1994-10-27,Musik.mov,America/Costa_Rica,Griechenland,635389673,-66.5077905,Icelandic,-47.655803,43:28:42:de:92:f3,23:32:58,Boucsein Hein KGaA,tg
+1991-04-27 01:14:11,2006-01-11T15:01:29,"7.388,38 €",2006-12-18,so.txt,America/Santo_Domingo,St. Barthélemy,523516803,28.008071,Latvian,-157.381257,82:70:3a:29:fd:68,10:09:02,Zänker AG & Co. OHG,tg
+1974-12-12 05:02:30,1975-09-11T22:51:52,"40.039,31 €",2006-07-10,Bein.png,Europe/Istanbul,Philippinen,68746,68.356193,Lithuanian,66.920695,77:e3:da:0b:aa:83,22:48:35,Koch II GmbH,az
+1986-12-03 03:34:43,1984-11-08T09:49:00,"5.863,82 €",2016-05-16,dem.tiff,Asia/Qatar,Alandinseln,8882,-66.398734,Welsh,114.130221,ae:31:84:a3:1f:dc,20:52:53,Ackermann,mn
+1970-05-13 09:31:53,1984-12-23T03:17:05,"78.954,78 €",1981-02-16,hat.numbers,Asia/Almaty,Türkei,140420,-54.825438,Tigrinya,127.212260,38:4f:38:6b:7b:3a,00:35:12,Hartmann Kreusel KG,tcy
+2008-04-28 01:01:37,1991-10-20T16:36:36,"744,96 €",2006-11-01,schlecht.numbers,Africa/Addis_Ababa,Honduras,8911853,-28.857981,Romansh,159.414650,1d:f8:a4:2d:0f:9a,00:26:58,Bauer,be
+1970-06-27 23:16:11,2001-11-04T21:22:02,"70,67 €",1970-10-27,Kind.css,Africa/Porto-Novo,Belize,510607053,-83.040500,Occitan,-26.449948,c8:2e:2a:8e:55:87,19:07:31,Fröhlich Sauer OHG mbH,brx
+2010-08-19 22:11:00,2016-03-27T03:55:48,"74,50 €",2011-04-14,Woche.xls,Asia/Aden,Saudi-Arabien,4950,-45.438263,Maori,-115.510223,0f:de:e5:ee:de:88,18:42:49,Täsche,ia
+2001-09-06 06:48:13,2018-06-14T03:08:51,"390,34 €",1970-06-20,Mensch.webm,America/Guyana,Schweiz,0,-58.139149,Yiddish,145.812289,24:b8:4b:3b:ec:ad,04:10:16,Mitschke,ka
+2016-07-02 06:28:29,2014-10-16T09:14:04,"87.069,25 €",2003-12-10,mal.gif,Europe/London,Sudan,6601,-43.8035305,Hiri Motu,28.290392,e0:54:36:63:9a:47,22:15:59,Barkholz,it
+1973-09-27 23:01:30,2003-02-28T09:38:56,"63.001,54 €",2018-09-14,wo.css,America/Cancun,Republik Moldau,2,33.8040925,Breton,-33.073055,e1:43:10:b9:ed:a5,15:31:17,Geisler AG,be
+1987-01-13 22:20:43,1983-02-26T00:54:20,"518,38 €",1988-10-19,Zeit.mov,Africa/Harare,Madagaskar,667731,76.2990495,Swedish,-96.680587,e1:fa:fc:2d:c0:6a,09:09:01,Kade Hamann AG & Co. KG,ak
+1996-12-27 04:15:57,2012-02-24T21:13:17,"6,30 €",1978-11-05,schnell.doc,America/Managua,Vereinigte Arabische Emirate,633808102,21.051757,Luba-Katanga,-3.522737,8a:71:f1:45:15:4d,11:30:07,Ortmann GmbH,bn
+1991-06-18 04:56:48,1974-09-25T16:36:52,"64,97 €",1984-06-18,für.flac,America/Merida,Somalia,5343,-79.5807455,Finnish,-138.036673,41:c1:99:d7:5d:f3,03:52:18,Hartung GmbH,hne
+1978-09-09 03:02:11,1973-01-26T12:57:01,"73.237,55 €",2003-05-14,fröhlich.jpeg,America/El_Salvador,Kambodscha,49,-50.4720835,Lithuanian,64.186294,53:17:0b:42:31:d4,23:05:32,Kostolzin Stiftung & Co. KGaA,ml
+2013-12-30 01:18:29,2022-06-08T00:17:01,"9.535,88 €",2018-07-21,in.wav,Africa/Niamey,Türkei,5,-59.986031,Malay,-124.547770,ef:8d:77:06:96:87,14:05:31,Rosenow Stiftung & Co. KG,st
+2003-12-10 21:35:55,1999-03-27T16:25:59,"2.907,64 €",1970-02-22,Wort.webm,Asia/Tbilisi,Litauen,220668,-19.682932,Gaelic,-123.386255,84:1f:5c:e2:f4:71,09:28:47,Martin Seip Stiftung & Co. KG,hak
+2005-07-21 19:45:53,2022-05-18T14:36:12,"61.700,60 €",2019-09-26,weiß.key,America/El_Salvador,Uganda,394070295,68.611628,Kikuyu,0.944571,bb:75:ba:f8:cb:dc,12:32:31,Textor,uz
+2017-11-28 13:42:08,2007-02-04T09:22:10,"56.228,41 €",1975-11-08,Arzt.wav,Asia/Amman,Liechtenstein,651618,-21.934263,Western Frisian,159.823265,33:54:20:86:8d:0d,22:42:45,Kitzmann,id
+1998-08-19 13:02:20,1999-04-24T12:01:07,"9.828,18 €",2019-04-07,reich.webm,Africa/Bamako,Mikronesien,9365723,-39.7822705,Yoruba,-121.643326,ac:9b:4c:bd:11:83,02:38:34,Bärer Hein KGaA,am
+2010-01-07 11:45:13,1996-10-13T13:11:11,"85.909,75 €",1995-09-17,natürlich.jpeg,Asia/Kuala_Lumpur,Bangladesch,514545,0.196289,Shona,59.401438,70:23:9a:4b:a0:c7,21:24:34,Killer,shs
+1982-10-28 02:04:58,1983-04-21T18:40:16,"635,10 €",1997-05-26,las.txt,Atlantic/Cape_Verde,Norfolkinsel,8884065,74.1708355,Welsh,135.742056,5c:9f:d5:7d:d8:88,22:34:25,Schuster Blümel AG,shs
+2006-05-02 02:07:25,1973-02-01T22:31:48,"52.091,59 €",2007-12-03,weit.css,Africa/Windhoek,Swasiland,800531,87.303732,Telugu,-117.942585,a3:c5:45:d8:8f:3d,09:40:34,Junken AG,sq
+1991-11-10 19:42:39,1976-05-12T11:28:46,"96,43 €",1990-11-24,Tür.mov,Europe/Stockholm,Salomonen,303,55.796513,Interlingua,121.708892,c0:bb:eb:d4:f0:56,18:31:28,Rose Binner AG,te
+1973-07-31 19:07:21,1975-08-02T23:25:38,"359,74 €",1996-02-12,schreien.mp4,Pacific/Fiji,Niger,136,44.726002,Fijian,126.259298,23:81:d4:49:d1:3b,10:08:13,Franke GmbH & Co. KG,doi
+1998-03-23 15:49:27,2008-02-17T05:08:15,"25,66 €",1975-05-11,schicken.csv,Europe/Minsk,Jemen,7,-41.303366,Ewe,-89.473712,e4:3d:4c:9a:b4:4f,06:17:44,Otto Drubin GmbH & Co. OHG,ur
+1987-10-19 18:52:42,2017-03-06T23:52:22,"990,53 €",1998-07-15,schlafen.png,Europe/San_Marino,Frankreich,56043060,-80.6808565,Nauru,-178.255099,ee:d7:9d:9b:01:90,04:13:23,Noack AG & Co. OHG,gd
+2012-06-27 18:19:14,1989-07-24T06:18:00,"2.615,27 €",1997-03-22,Finger.ppt,Europe/Amsterdam,Lettland,85388986,-53.355366,South Ndebele,-12.225708,e0:5a:5b:30:b2:84,04:09:56,Siering Weitzel GbR,br
+2011-09-22 04:16:28,2001-01-22T09:51:24,"0,54 €",1977-01-20,drei.json,Asia/Bahrain,Dänemark,16429,79.876178,Kalaallisut,-102.996845,9d:23:37:17:d0:bf,10:23:03,Scheel,ta
+2009-10-12 05:25:49,1983-10-27T12:15:30,"3,99 €",1971-10-29,vielleicht.avi,America/Managua,Côte d’Ivoire,76139,-46.4083365,French,-94.111658,7e:c8:6b:81:c5:49,06:19:11,Hoffmann GbR,am
+1979-07-24 23:49:07,1997-11-08T18:38:13,"411,03 €",1992-07-13,heraus.html,Europe/Vienna,Turks- und Caicosinseln,62484,72.5172815,Bambara,2.705230,1d:de:e2:3e:13:f8,19:54:44,Säuberlich Vogt GmbH & Co. OHG,tig
+2008-10-20 21:07:06,2014-08-14T17:47:00,"5.577,75 €",1973-11-20,stehen.jpg,Africa/Monrovia,Bangladesch,403283753,16.2853665,Church Slavic,22.400928,c1:fc:1d:e3:e4:1a,05:26:13,Wirth AG & Co. KGaA,raj
+1982-05-27 19:56:02,1976-09-18T05:27:39,"5,50 €",1999-03-09,mit.bmp,America/Tegucigalpa,Côte d’Ivoire,59403,31.756842,Samoan,5.969350,84:59:24:1b:10:79,15:45:17,Hiller,aa
+1980-01-10 05:31:12,2022-12-20T08:04:08,"29.169,08 €",2010-06-27,lernen.ods,Africa/Libreville,Estland,60668,-27.3945435,Yoruba,-172.063495,5b:12:92:39:b3:4c,11:33:00,Fiebig Fechner GmbH,gl
+1997-02-21 07:39:17,2016-12-18T08:47:19,"1.390,86 €",1973-03-24,gab.gif,America/Port_of_Spain,Syrien,20008,-40.5816515,Divehi,-1.102555,cd:1e:ce:9a:79:40,05:25:49,Zobel GbR,af
+1994-03-20 11:18:57,2001-11-23T16:47:29,"7,91 €",1978-07-13,Tür.mov,Europe/Luxembourg,Montenegro,5,-11.762152,Korean,12.316292,57:3a:ff:dc:dc:67,10:46:01,Kuhl,tk
+1996-06-28 13:10:38,2019-01-24T21:41:33,"48,73 €",1999-03-11,sein.txt,Indian/Mahe,Palau,872,87.9064275,Telugu,142.110007,9b:55:d3:2d:7a:f3,01:18:49,Bähr,so
+2022-02-27 16:00:51,2002-08-24T15:49:22,"955,66 €",1980-06-10,doch.mp4,Asia/Brunei,Tokelau,2,55.131906,Kinyarwanda,146.295830,03:fe:ba:b7:d9:88,05:05:01,Drewes KGaA,unm
+2011-05-21 17:48:47,2002-12-11T15:14:47,"134,55 €",1975-02-28,sechs.flac,Indian/Maldives,Marshallinseln,298754467,-74.2661735,Sundanese,75.327338,f5:cd:d2:09:ed:5f,17:21:27,Koch,doi
+2001-02-04 14:05:18,2009-09-09T09:05:54,"7,87 €",2008-06-10,nicht.gif,America/Guatemala,Slowakei,53503593,-62.4434335,Polish,166.539661,7f:44:ac:ee:84:0c,01:06:24,Möchlichen AG,ms
+1996-07-18 04:36:37,1975-03-27T19:33:52,"456,19 €",2001-08-27,Fußball.js,Asia/Ashgabat,Nördliche Marianen,776,-1.1741875,Uighur,-58.619935,f7:32:d5:ac:0c:57,17:15:28,Süßebier KG,hr
+1984-04-01 20:32:53,1977-11-13T13:22:48,"95,87 €",1987-07-20,Küche.mp4,Europe/Vienna,Rumänien,59328108,25.1999105,Dzongkha,-132.792990,23:83:d0:19:2b:8a,07:04:50,Etzler,uz
+1981-09-29 02:28:09,2005-03-01T12:39:43,"44,78 €",1989-02-08,Wissen.pages,America/Costa_Rica,Republik Moldau,3703371,37.9539955,Shona,-112.344727,32:92:13:83:48:96,06:18:45,Rörricht,ak
+1976-03-15 16:43:25,2017-06-08T02:53:49,"4,02 €",2013-09-29,Nacht.mp3,Asia/Calcutta,Anguilla,177748,48.951443,Hausa,125.582991,59:bf:e8:97:96:eb,09:06:45,Dippel,unm
+1991-12-23 22:18:57,1987-09-10T14:15:55,"56.410,54 €",2021-03-07,fahren.tiff,Africa/Luanda,Aserbaidschan,823057,-48.1210235,Navajo,78.806794,b5:c0:fc:51:61:28,20:27:48,Aumann,sl
+2007-11-16 10:47:46,1981-11-30T19:46:32,"796,61 €",1971-08-24,nichts.csv,Africa/Blantyre,Myanmar,416628538,-87.0545065,Italian,-140.006732,45:37:0d:9f:74:af,13:35:20,Junck Wähner OHG mbH,gl
+1972-09-12 09:31:06,2018-11-17T10:20:54,"67,64 €",1984-04-24,See.json,Pacific/Fiji,Botsuana,6781804,42.215189,Ukrainian,-2.241600,a7:ee:2e:93:f3:d9,13:34:10,van der Dussen,lo
+1978-12-21 00:34:48,1982-06-10T00:52:45,"890,81 €",1998-09-27,See.avi,Africa/Freetown,Amerikanische Jungferninseln,29228829,48.878376,Macedonian,65.781887,aa:37:d8:19:84:b0,16:26:34,Riehl,byn
+1990-04-15 12:06:01,1993-06-02T12:43:21,"897,99 €",2010-07-07,Ende.flac,Europe/Belgrade,Luxemburg,785059,-8.4347215,Polish,72.956459,78:4b:27:7b:42:85,18:33:09,Neuschäfer,nan
+2008-07-25 18:46:37,1973-10-18T23:01:01,"0,91 €",2009-07-11,immer.png,America/Guatemala,Guernsey,21044454,-36.3349115,Slovenian,62.463866,ce:71:cb:50:fd:a4,18:10:48,Koch II AG & Co. OHG,bo
+1993-04-07 02:52:34,1973-07-11T04:34:04,"2,03 €",2014-08-03,sind.docx,Pacific/Fiji,Sri Lanka,99604016,-89.9457865,Gaelic,-145.511160,9a:29:78:b3:ac:86,17:57:53,Losekann AG,uk
+2019-05-12 17:32:26,2013-07-29T11:10:19,"529,80 €",1999-01-24,aber.json,Europe/Luxembourg,Ecuador,801613054,53.2939365,Hiri Motu,135.459954,12:6c:eb:50:d9:85,13:57:28,Kuhl OHG mbH,ar
+1984-10-29 02:13:19,1989-04-17T22:19:21,"2,59 €",1996-06-07,im.tiff,Europe/Chisinau,Mexiko,848107092,27.832979,Dutch,-178.365100,c2:6a:8e:e4:68:fd,05:58:13,Ortmann GmbH & Co. KGaA,fi
+1995-08-09 19:16:32,1991-04-29T22:22:42,"0,30 €",1985-02-01,haben.flac,Asia/Saigon,Madagaskar,37878,-82.8338865,Kurdish,10.217868,1c:94:2a:7c:98:39,00:29:32,Henk AG & Co. KGaA,tr
+1981-07-16 07:35:49,1996-03-25T07:33:41,"3.968,70 €",1974-03-15,Monat.tiff,Indian/Maldives,Indien,7587844,-2.4220015,Aragonese,-11.889705,d4:89:14:d7:cf:e7,09:57:39,Gorlitz Kohl GmbH & Co. KG,ayc
+2016-11-14 16:56:21,2017-07-21T06:53:52,"639,78 €",1996-01-12,Geschichte.avi,Africa/Ndjamena,Sierra Leone,48768,-80.355931,Dzongkha,144.409467,a2:97:34:52:8d:df,20:53:28,Süßebier,dv
+1994-04-10 01:09:47,2003-04-26T17:16:14,"7,19 €",1996-07-18,lachen.avi,Asia/Tehran,Kuwait,387,-83.931295,Dzongkha,121.596102,36:d1:c7:60:ee:d6,16:00:33,Becker,es
+2023-03-11 03:53:42,1983-07-06T12:19:57,"3.465,27 €",2021-06-12,darauf.mov,Asia/Katmandu,Iran,2407,-72.8697345,Uighur,32.210559,14:f0:bc:18:9d:6b,14:21:43,Drewes Henschel AG,fo
+2005-11-14 12:40:40,2002-04-21T18:09:41,"60.444,87 €",1977-04-16,Zimmer.mp4,Pacific/Fiji,Mayotte,553,50.615790,Kikuyu,-104.770743,00:87:56:69:34:e3,23:43:29,Girschner GmbH,se
+1990-11-11 09:02:37,1976-10-12T06:14:22,"3.802,50 €",2016-12-07,Sohn.flac,Europe/Sofia,Osttimor,79236,57.346862,Walloon,141.690362,73:47:5b:68:64:90,23:14:50,Vogt,mg
+1998-01-27 01:19:09,1982-10-12T21:27:22,"7.093,90 €",2019-12-21,gleich.mp3,Asia/Aqtau,Grenada,86795,-87.0928855,Kikuyu,177.560223,1c:3b:34:c6:55:19,12:12:16,Lehmann Mälzer AG,fi
+1979-01-31 13:38:04,1985-12-13T12:02:44,"7,71 €",2015-11-10,schnell.avi,Asia/Dili,Indien,965844693,27.4445865,Javanese,-115.703920,e2:ac:be:33:ab:c0,23:20:14,Drubin GmbH,th
+2004-08-04 23:27:55,2002-01-04T14:07:04,"89.919,53 €",1977-10-15,waschen.xls,America/North_Dakota/Center,Jemen,3,30.287239,Afrikaans,65.396366,88:f4:95:55:97:ca,03:27:20,Käster,bem
+2000-03-09 01:20:22,2001-12-07T20:58:47,"71,42 €",1985-10-19,da.pages,Europe/Copenhagen,Svalbard und Jan Mayen,142697851,42.8031205,Macedonian,45.450479,4c:8e:d1:81:15:b4,09:01:34,Faust GbR,lv
+1976-07-18 11:13:51,1972-08-28T04:38:59,"18.658,85 €",1974-10-06,klein.docx,Africa/Tripoli,Österreich,6890,-82.886593,Bengali,-148.150650,2a:52:87:51:29:42,20:55:43,Sorgatz Anders GmbH & Co. OHG,ast
+2022-10-27 11:44:02,1987-08-06T10:47:35,"250,85 €",2020-03-14,genau.wav,Africa/Malabo,Amerikanisch-Samoa,3362130,83.7029985,Church Slavic,-159.812026,41:f9:d2:0c:3d:00,16:45:54,Trupp AG & Co. KGaA,ia
+2013-06-07 03:36:14,1984-12-20T21:02:57,"883,55 €",2020-02-16,sitzen.flac,Europe/Belgrade,Jamaika,51,56.9009165,Maori,-72.137930,f8:52:7a:f4:f2:99,10:23:40,Weller Kreusel AG,gd
+1990-05-14 19:53:23,1994-12-18T20:04:48,"767,93 €",1972-09-14,Ding.pdf,Asia/Bishkek,Monaco,74687271,-65.6208155,Ojibwa,-16.266360,04:7e:2b:ed:28:25,08:04:23,Schleich Ring KG,cmn
+1985-11-05 12:41:59,1982-01-09T01:49:48,"99,30 €",2018-11-17,Rad.mov,Africa/Djibouti,Ungarn,2829552,-72.485342,Kikuyu,-70.853124,83:2c:04:4c:d3:13,07:27:01,Hoffmann,quz
+2023-03-16 16:54:02,1998-09-15T08:10:41,"616,58 €",2001-10-31,spät.mp4,Africa/Maseru,Amerikanisch-Samoa,672710,-42.554931,Afrikaans,-73.273704,d8:49:24:f1:fa:46,11:57:24,Stiffel KG,ts
+1995-02-22 22:03:52,1991-09-30T18:44:26,"59.592,27 €",1983-12-13,fiel.html,Asia/Dhaka,Georgien,8150645,60.706230,Yoruba,-141.310844,7e:3e:25:70:e7:f9,16:22:03,Beckmann Stiftung & Co. KG,cmn
+1977-02-28 11:03:54,2010-01-27T00:57:26,"2.147,14 €",1988-02-04,offen.ppt,Africa/Douala,Sierra Leone,304793,-49.144922,Ossetian,-15.779596,80:c4:8a:bd:26:5a,21:14:39,Eimer,ja
+1992-12-20 18:21:37,1976-04-15T02:42:00,"34,45 €",2013-05-26,sprechen.tiff,America/Havana,Bangladesch,1957,33.256839,Burmese,-0.271860,9c:0c:f9:48:44:9b,09:03:07,van der Dussen e.V.,id
+1993-06-25 10:54:04,2022-11-10T12:08:10,"1.130,00 €",1971-02-20,Meer.webm,Africa/Abidjan,Brunei Darussalam,35,26.689718,Kurdish,-110.024537,21:0a:30:cb:91:f6,10:35:16,Austermühle Bähr KG,sw
+1981-10-10 15:25:00,2021-02-26T17:08:47,"4,43 €",2006-11-06,müssen.js,America/Nassau,Sri Lanka,843639974,26.8271985,Chamorro,20.972093,3c:2d:6f:fd:63:b4,12:52:14,Schomber AG & Co. KG,hu
+1997-07-15 13:40:42,2003-10-17T10:24:51,"631,30 €",2008-06-10,mit.xlsx,Asia/Amman,Irak,492176,78.785775,Danish,102.122633,32:6c:70:93:8d:36,08:22:30,Pohl,sk
+1975-09-10 10:31:33,1992-11-12T21:33:10,"8,74 €",2015-07-30,an.doc,Asia/Kuwait,Taiwan,96266,-61.7553735,"Sotho, Southern",159.415647,57:21:d7:d9:f8:59,07:59:50,Etzler Stiftung & Co. KGaA,mn
+1976-09-10 23:03:18,2009-06-03T20:27:21,"9.124,66 €",2006-12-12,Luft.tiff,Asia/Phnom_Penh,Finnland,9,27.539281,Icelandic,77.890413,8c:a2:ad:7f:7e:8e,19:20:49,Lange,bg
+2007-07-26 19:16:50,1989-10-20T12:59:02,"904,16 €",2005-03-26,das.css,Asia/Qatar,Brunei Darussalam,734,-87.3075525,Tahitian,-83.853587,e0:bf:28:69:e3:dd,17:43:36,Ullmann KG,nr
+2015-03-19 17:37:57,1987-08-25T22:17:54,"2,30 €",2000-11-13,spielen.mp4,Europe/Warsaw,Afghanistan,3049,32.1100075,Maltese,89.084185,b6:57:85:a1:b3:38,00:03:57,Ditschlerin Beyer AG & Co. KGaA,ka
+2015-11-21 06:29:26,1993-01-20T08:18:16,"51,36 €",1976-01-13,alle.bmp,Europe/London,Brunei Darussalam,820,49.428583,Bihari languages,-38.596233,72:51:d1:6a:87:63,16:30:49,Beyer Löwer GbR,yi
+1984-10-13 22:02:47,1994-07-22T08:44:07,"59,07 €",2022-05-20,Flasche.wav,Europe/Luxembourg,Albanien,83,0.9808505,Burmese,18.496015,a7:9d:78:79:67:8a,17:39:37,Stiffel Tintzmann e.V.,or
+1974-11-06 08:48:43,1970-03-26T20:08:16,"6.392,72 €",2019-01-12,verkaufen.mov,Asia/Kuwait,Guinea,98374,-84.643015,Gujarati,-118.477959,c3:05:1d:e4:62:1a,21:03:28,Kroker,se
+2003-02-27 01:31:46,2004-03-22T01:55:34,"4,91 €",2015-06-15,treffen.mp3,Asia/Jerusalem,Liechtenstein,532,-52.125652,Twi,177.993377,fa:54:99:68:25:79,23:41:57,Mohaupt GbR,da
+1988-04-17 16:00:37,1987-07-10T04:19:42,"5.808,73 €",1980-03-24,Gesicht.ods,Asia/Jerusalem,Israel,51050,-79.562780,Tsonga,150.245390,d4:1c:ed:44:b2:cd,08:51:10,Zorbach AG & Co. KGaA,lzh
+1997-02-18 07:42:38,2014-02-15T12:59:49,"454,60 €",2014-04-12,Ding.mov,Asia/Nicosia,Philippinen,40054,27.624563,Igbo,-114.754592,c0:d1:8c:55:ff:d6,10:01:25,Wagenknecht,tr
+1992-10-04 13:12:42,1980-10-07T23:30:14,"7,72 €",2009-02-11,Beispiel.jpeg,Asia/Dili,Kaimaninseln,872,35.8778265,Bambara,-19.147508,ee:36:8f:a0:8b:21,11:51:18,Rogner OHG mbH,nan
+1983-07-24 08:07:02,1980-09-30T20:50:20,"3,75 €",1994-09-01,Tisch.json,Africa/Dar_es_Salaam,Tschechische Republik,3369346,82.042357,Wolof,100.096101,ff:68:20:57:2e:b1,13:06:52,Freudenberger Finke AG,os
+1978-09-07 13:09:57,1972-07-06T18:23:35,"4.545,04 €",1975-03-31,hart.txt,Pacific/Guadalcanal,Nigeria,932584,13.472914,Basque,-149.028081,66:6d:ee:68:b1:fd,14:04:57,Karz AG & Co. KGaA,ss
+2022-05-12 20:11:38,1981-11-25T06:33:09,"4,09 €",1987-08-03,Winter.avi,Asia/Ashgabat,Vietnam,28446,85.7563205,Kanuri,165.969843,f1:17:c7:81:9c:64,02:38:40,Jungfer,ro
+1999-10-30 01:28:48,2013-11-24T07:48:21,"15.716,77 €",2022-05-01,Wasser.ppt,America/Mexico_City,Antarktis,1428,-61.516526,Somali,104.264434,fd:e1:30:90:42:ae,22:03:13,Davids,my
+2011-01-24 08:11:39,1993-02-15T16:53:13,"132,09 €",2002-02-28,richtig.avi,Africa/Monrovia,Westsahara,72268,-46.763180,Ukrainian,54.872948,fa:15:41:27:22:15,00:09:40,Ziegert Hermighausen GmbH & Co. OHG,tg
+1989-09-05 19:15:11,2021-04-20T05:48:58,"641,64 €",1987-08-12,verlieren.json,Asia/Hovd,Kap Verde,3352,83.059901,Bosnian,-161.621966,2e:79:c3:de:bc:a1,12:32:02,Gutknecht GmbH & Co. KGaA,vi
+1972-05-21 10:06:27,1997-05-06T01:46:19,"28.010,97 €",2021-11-30,Wissen.flac,Africa/Porto-Novo,Britische Jungferninseln,839016740,-71.4948885,Ossetian,114.018862,20:33:08:2d:87:be,07:03:56,Heinrich,apn
+2015-07-08 18:00:56,1979-03-20T12:24:30,"65.381,74 €",1987-09-12,See.csv,Asia/Jerusalem,Eritrea,2,79.289066,Luxembourgish,-147.483763,97:8b:ad:ca:92:10,10:50:33,Reichmann Binner KG,mhr
+1978-04-15 11:42:22,2021-01-24T08:40:33,"6,85 €",1993-10-09,Finger.flac,Asia/Vientiane,Marshallinseln,74429821,-53.1812835,Maltese,15.994922,3a:d5:56:73:12:39,19:07:48,Biggen,ig
+1988-03-14 20:49:10,1994-10-08T11:27:29,"594,87 €",1976-05-20,bei.webm,Africa/Sao_Tome,Guam,14773,-73.230309,Sinhala,-133.916762,0c:ee:4e:a3:44:0d,02:23:14,Martin Fliegner e.V.,si
+1983-01-23 20:20:46,2001-01-07T06:45:37,"5.070,56 €",2013-03-01,schwarz.flac,Africa/Dar_es_Salaam,Ecuador,67750,29.7632005,Korean,-33.739388,3c:21:9b:d9:fe:c8,06:39:20,Junken Stiftung & Co. KGaA,ak
+2018-12-12 22:10:57,2007-04-23T07:43:01,"0,09 €",2018-11-20,Bruder.js,Asia/Ashgabat,Burkina Faso,95111,-75.4158785,Breton,64.234289,73:b5:b2:36:74:86,04:42:20,Geisel GmbH,nan
+1998-11-08 20:56:52,1986-05-19T02:50:15,"15.070,20 €",2021-12-07,ohne.flac,Asia/Amman,Island,69,78.698050,Swedish,-11.410840,60:22:8b:80:0b:5e,21:46:01,Fechner,ms
+2012-07-31 04:07:10,1977-10-21T18:09:26,"8,31 €",1994-09-27,da.webm,Pacific/Tarawa,Usbekistan,77651254,81.0078135,North Ndebele,-104.737934,65:71:47:8f:3d:09,06:06:13,Berger Kambs AG,uz
+1981-01-29 09:44:34,1979-07-19T17:16:00,"0,75 €",2018-10-25,überall.wav,Indian/Antananarivo,Brunei Darussalam,71126684,-74.435741,Twi,-122.473409,ed:26:b6:dc:f3:45,04:21:58,Ladeck Seidel KG,sk
+2006-03-25 10:01:07,1988-08-25T03:33:45,"7,02 €",2022-05-09,im.avi,Asia/Kuwait,Jersey,783085,84.8044695,Tajik,-3.681830,14:23:1d:91:42:96,12:29:21,Heintze Hoffmann GmbH,oc
+1974-05-29 16:25:31,1979-01-03T03:38:46,"96,35 €",2016-06-22,mehr.mp3,Africa/Sao_Tome,Kongo,1680,-20.7668105,Sundanese,-92.749055,a0:fd:4d:f7:83:de,15:56:37,Gumprich,tn
+1980-09-20 13:27:30,2002-12-29T13:44:17,"9.567,22 €",2000-10-29,auch.html,Africa/Niamey,Eritrea,74529026,78.8524275,Quechua,-156.258036,2a:5e:6c:e6:b8:84,09:12:08,Stadelmann,mai
+2015-01-12 12:01:51,2003-06-02T18:59:38,"6,31 €",1990-09-22,wollen.avi,Asia/Baghdad,Malta,1,83.7241625,Thai,-165.620453,f0:62:6c:07:4e:d7,22:02:06,Berger,si
+1970-10-28 17:56:04,1976-03-19T12:01:05,"48,52 €",1992-05-17,Straße.jpg,Europe/Copenhagen,Litauen,444920737,84.940714,Amharic,80.023428,99:0a:67:40:6a:f8,23:35:04,Kohl,ast
+2020-09-05 19:49:12,2003-02-10T11:41:30,"5,41 €",1990-01-30,einfach.flac,Africa/Malabo,Bhutan,6081147,-71.9260785,Sindhi,127.632024,4f:8e:c1:23:87:3b,14:46:45,Rudolph,ik
+2012-09-19 23:33:53,2015-03-12T12:03:10,"3,90 €",2005-08-29,Wagen.webm,Africa/Lome,St. Martin,429154,-48.099931,Bambara,16.718663,26:e2:f1:a2:33:dc,23:47:48,Dietz Warmer AG,ha
+1978-01-04 03:27:44,2013-05-29T19:12:01,"305,55 €",1991-07-21,Freude.webm,America/Hermosillo,Brunei Darussalam,81099,-80.844131,Hiri Motu,151.241420,cb:80:b3:83:99:2b,00:12:14,Pieper Hübel AG,ug
+2000-09-12 09:39:16,1985-08-22T16:37:51,"39,60 €",2019-09-05,frei.jpg,Asia/Jerusalem,Südgeorgien und die Südlichen Sandwichinseln,706532,55.178494,Kirghiz,-70.866522,fb:9c:48:93:33:6b,09:45:11,Austermühle AG & Co. KGaA,pap
+2021-06-21 14:33:19,2014-04-06T05:35:09,"289,46 €",2007-07-03,sie.doc,Europe/Zurich,Somalia,900904,-20.317595,Oriya,62.785362,4f:9d:ac:25:ee:dd,19:06:19,Mude Dörr AG & Co. KGaA,csb
+2022-03-15 02:10:55,2006-12-29T05:42:10,"340,52 €",2011-02-18,bald.css,America/Blanc-Sablon,Russische Föderation,838491531,-62.3831035,Macedonian,94.691051,f2:40:1e:b0:65:51,21:26:44,Plath GmbH & Co. KG,hr
+1997-03-29 13:34:59,1992-08-21T23:15:29,"56.477,38 €",1994-08-25,die.css,America/Merida,Frankreich,6776900,61.5793205,Assamese,9.521617,00:93:7a:fa:4b:75,05:46:28,Hering Lübs GmbH & Co. KGaA,nhn
+1992-11-20 06:14:34,2012-10-23T14:57:59,"2,66 €",2008-07-31,tun.mp3,Asia/Pyongyang,Britisches Territorium im Indischen Ozean,88,66.612373,Greek,77.714976,0c:26:e0:80:ad:e5,02:50:39,Schaaf AG,ug
+1999-05-02 09:04:37,2016-03-15T16:57:12,"4,72 €",2002-10-12,kennen.flac,Europe/Istanbul,Cookinseln,2198,20.2700535,Chamorro,-81.088678,87:77:6d:3c:56:be,18:13:03,Dowerg Klemm AG & Co. KGaA,wae
+1998-02-05 02:25:18,1981-07-29T21:44:23,"8.481,85 €",2003-04-10,nämlich.tiff,America/Argentina/Catamarca,China,4357903,45.3364225,Kurdish,-109.181034,30:54:a7:63:84:da,15:13:22,Rörricht GmbH,gu
+1989-11-09 13:08:15,1987-09-17T11:13:24,"22.160,45 €",1985-08-25,zwei.ods,Asia/Vientiane,Libyen,35044,89.142727,Telugu,136.696028,90:1f:c9:83:49:ed,10:53:14,Wesack,sv
+1994-12-12 03:26:37,1998-01-26T21:26:44,"0,36 €",1978-03-03,schicken.jpeg,America/St_Kitts,Belgien,69929343,4.719406,Icelandic,-56.774070,12:a2:a3:5e:e1:43,13:26:43,Sölzer Kaul GbR,tk
+1984-09-29 12:35:08,1986-01-10T00:55:56,"3,93 €",1983-10-31,hinter.html,Africa/Tripoli,Osttimor,53370770,-87.7145455,Luxembourgish,151.850934,ce:1c:0c:55:61:2f,15:39:15,Gröttner Dietz KG,tr
+2014-12-17 21:08:42,1977-04-05T18:13:37,"31.667,03 €",1978-08-13,hoch.js,Europe/Belgrade,Malediven,62514,39.5597565,Swedish,-147.312029,fd:66:29:7c:b8:0a,02:58:14,Franke AG & Co. KG,sr
+1987-02-27 12:09:09,2002-08-05T08:43:04,"7.980,18 €",2001-11-21,Geschenk.css,Asia/Yerevan,Japan,8622,37.5888775,Azerbaijani,-117.267077,1c:12:3e:69:dd:b7,14:00:39,Lachmann Bärer GmbH & Co. KG,aa
+1988-07-15 07:54:57,1996-10-30T11:59:00,"0,57 €",1983-08-26,tot.jpg,Europe/Rome,Montenegro,88044183,57.885872,Swedish,130.607961,f9:85:2c:b5:cb:59,16:41:47,Bauer,sw
+1978-04-27 10:51:53,1989-08-11T16:29:26,"24,65 €",2014-01-25,bauen.flac,Asia/Muscat,Marshallinseln,63,76.8636415,Armenian,145.355614,ac:5e:bd:cc:fd:1e,15:46:58,Hartung,hsb
+1994-02-15 01:03:14,2012-05-17T21:31:50,"58,37 €",1979-10-30,Mann.txt,Africa/Dar_es_Salaam,St. Vincent und die Grenadinen,802,32.7444505,Bengali,150.443387,a5:3f:cf:5b:d2:48,09:35:14,Gorlitz Bohnbach AG,my
+2022-11-19 08:27:30,1995-09-24T05:02:14,"1,48 €",1987-10-01,bis.doc,America/Bogota,Argentinien,18126331,3.331915,Croatian,-104.088531,49:22:ae:59:29:81,10:40:21,Patberg AG & Co. KG,ps
+2018-03-24 00:51:27,1986-03-08T07:27:51,"15,92 €",2004-10-06,was.csv,Europe/Sofia,El Salvador,623819,28.4803405,Azerbaijani,41.789531,99:4d:ef:c5:e3:75,08:04:02,Eigenwillig,lzh
+2011-11-30 02:42:00,1994-10-27T14:34:00,"8,83 €",1970-10-11,steigen.doc,Asia/Vladivostok,Palau,998366,-7.228977,Venda,-1.643542,20:9d:85:c8:13:5b,21:37:31,Lange GmbH,ky
+2011-01-17 22:40:28,2010-07-02T18:16:45,"38.020,43 €",2023-05-04,Apfel.key,Asia/Samarkand,Zentralafrikanische Republik,5942,-6.4523215,Persian,-85.052702,7c:3c:1b:30:4b:4e,12:51:11,Thies Stiftung & Co. KG,lb
+1977-02-16 01:36:33,1987-03-09T20:12:20,"2.853,15 €",1977-11-20,Platz.numbers,Europe/London,Schweden,431461314,-12.1125145,Latvian,117.864836,6a:57:f2:ec:8e:3e,06:57:33,Röhrdanz Reinhardt Stiftung & Co. KGaA,tk
+1987-12-13 19:59:18,1975-10-17T05:22:24,"181,76 €",2013-03-21,glauben.ods,Europe/Istanbul,Kirgisistan,7253,2.412945,Occitan,-113.488381,ad:c1:47:fc:8b:2f,22:59:57,Hecker GmbH,fur
+1991-12-23 16:38:04,2008-12-17T19:15:48,"47,62 €",1994-05-27,gefährlich.mov,Africa/Abidjan,St. Helena,91,52.5076045,Quechua,1.145612,52:68:e6:32:6b:74,17:29:35,Bolnbach AG & Co. OHG,is
+1999-04-18 21:28:24,1996-04-06T10:26:12,"0,18 €",1986-07-17,reiten.avi,America/Cuiaba,Kirgisistan,144,-70.1593185,Akan,126.435898,66:6a:6c:f5:ea:ae,05:02:22,Kobelt KGaA,so
+1974-05-01 02:31:55,2002-06-10T02:18:25,"99,79 €",1987-07-03,Gesicht.html,Asia/Karachi,Kroatien,7885,-29.367065,Hausa,44.522027,5b:44:74:46:1c:8b,07:21:22,Mühle Jessel AG,oc
+1987-03-15 03:00:25,1983-05-23T09:51:18,"7,10 €",2004-11-05,Rad.mp4,Asia/Oral,Ukraine,25,-26.1587285,Divehi,-105.892429,25:35:d2:b2:86:56,12:10:18,Hauffer AG & Co. KGaA,hr
+1984-02-13 16:23:13,1997-08-01T04:54:57,"387,68 €",2010-08-16,scheinen.json,Asia/Damascus,Niederländische Antillen,67006887,-14.793475,South Ndebele,87.661867,1f:8e:f3:7c:52:12,09:44:22,Gertz AG,ts
+2001-02-18 20:15:45,2009-03-14T05:35:06,"11,95 €",1973-04-05,darin.jpeg,Africa/Tunis,Malediven,1,60.1660835,Georgian,21.714311,2b:06:ae:28:bc:09,21:06:19,Stadelmann GmbH,lt
+2018-08-07 10:15:07,2006-01-10T21:29:59,"62,14 €",1988-06-24,für.numbers,Europe/Copenhagen,Falklandinseln,299834,8.7014475,Occitan,-69.691842,85:1d:9b:8b:47:47,13:43:54,Neuschäfer,pt
+2002-11-05 06:28:14,1984-01-13T13:19:15,"65.647,37 €",1996-08-18,möglich.gif,Asia/Baku,Sudan,36854485,40.136301,Nepali,-164.440615,be:ac:b1:d8:4d:52,22:58:53,Holsten KGaA,ti
+2013-04-23 00:39:40,2008-06-10T13:43:09,"264,84 €",2005-11-22,Gesicht.json,Europe/Andorra,Guyana,31460,-30.787271,Shona,3.593605,d6:d4:d4:a6:97:02,09:06:50,Harloff GmbH,tn
+1996-09-22 04:13:59,1990-08-27T04:15:25,"29.823,23 €",2003-04-25,ihr.avi,Africa/Khartoum,Vereinigte Arabische Emirate,2932,-87.070980,Chechen,-56.551364,8f:9e:a7:07:35:c4,02:06:17,Conradi AG,iu
+2004-08-09 11:25:32,2017-10-21T20:14:14,"1,78 €",2007-05-25,Blume.jpg,Asia/Jayapura,Chile,897,29.1365875,Armenian,-172.635952,dd:2a:e7:9d:21:66,01:31:53,Oestrovsky,bn
+1973-07-20 17:16:37,1984-04-15T16:36:17,"2.813,99 €",1982-09-13,und.webm,Africa/Asmera,Marokko,47,73.4798925,Tigrinya,73.862733,af:92:da:6d:12:c5,15:04:09,Schüler Bähr AG & Co. OHG,om
+1986-05-13 22:19:54,1980-08-26T12:07:24,"82,71 €",1987-08-17,da.avi,Africa/Khartoum,Litauen,873230,38.8365385,Malay,-114.076017,d7:46:fd:2f:93:69,21:30:58,Eimer GbR,ayc
+1989-03-14 22:29:57,2002-08-11T06:02:18,"9.164,88 €",1992-06-01,wir.ods,Asia/Taipei,Haiti,1155,-83.701578,Malayalam,157.053080,46:10:38:cd:08:f7,02:38:21,Wohlgemut,ve
+1978-03-30 21:06:50,1995-05-01T08:04:08,"41,01 €",1997-10-01,suchen.mp4,Asia/Katmandu,Afghanistan,925046329,5.889535,Faroese,-146.471703,0a:6a:17:8f:21:d6,18:21:51,Jacobi Jäckel KG,tl
+2018-11-19 22:38:13,1984-01-23T20:59:16,"4,94 €",1995-02-26,Tür.pptx,Asia/Amman,Seychellen,4426340,-88.102643,Komi,167.094097,f5:bd:64:48:64:0d,06:26:43,Zorbach Beier e.G.,my
+1983-01-17 06:48:44,1997-02-28T01:37:13,"7,64 €",2009-08-21,noch.json,Europe/Luxembourg,Sonderverwaltungszone Hongkong,1959629,-50.1783415,Tigrinya,-55.492659,9f:d6:14:60:e0:9f,12:24:33,Killer GbR,uz
+1983-10-25 12:53:27,1979-05-30T11:22:10,"71,76 €",1987-01-08,Junge.mov,Europe/Bratislava,Tunesien,326933571,59.337038,Catalan,-107.516233,4f:55:a3:45:29:2c,19:27:51,Beier,de
+1987-02-02 03:59:47,2023-03-22T05:22:39,"950,73 €",2021-08-12,Stück.mp3,Indian/Maldives,Oman,4687194,-72.3494885,"Sotho, Southern",127.676169,bd:f1:c0:33:ff:e9,06:52:15,Anders GmbH & Co. OHG,hak
+2012-04-05 23:56:26,1976-06-28T04:01:34,"0,74 €",1990-08-20,früh.mov,Asia/Aqtau,Tschad,4,61.088324,Swahili,-12.746858,a5:06:4a:5b:08:f4,07:37:05,Thies,ko
+1994-01-26 04:43:37,1981-01-28T21:53:17,"66,03 €",1971-08-22,Erde.gif,Europe/Athens,Mexiko,56,84.584910,Sindhi,-26.414659,e9:96:8a:0a:02:fb,20:20:38,Christoph Scholz AG,ml
+1988-08-02 15:58:43,1984-12-07T15:38:18,"145,40 €",1995-06-19,Sonntag.mov,Africa/Dakar,Nördliche Marianen,416,11.4913475,Mongolian,86.725173,1a:95:bc:3b:f9:3c,00:47:35,Christoph,ka
+1977-03-20 05:54:27,1985-09-11T08:38:07,"42.954,77 €",1983-06-12,Geburtstag.gif,America/El_Salvador,Australien,272,-88.584448,Gaelic,-152.799437,23:87:a0:32:9d:8e,15:31:28,Henk Geisler AG & Co. OHG,ig
+1982-03-25 10:20:40,1980-09-13T21:37:04,"10.552,04 €",2012-10-15,Onkel.wav,Europe/Vaduz,Republik Korea,34049,-10.186821,Quechua,-91.499593,8a:61:19:11:dd:46,21:18:06,Neureuther,ur
+1994-11-28 20:11:21,2021-09-17T19:29:03,"0,89 €",2018-03-06,zusammen.wav,Europe/Monaco,Bermuda,288,-39.2547185,Kannada,-138.997785,b5:94:ec:1c:d2:bd,04:17:47,Schlosser,bn
+2000-11-14 08:55:45,1974-05-26T10:01:59,"11.059,50 €",1975-05-22,müssen.js,America/Lima,Irland,29572,-77.2397845,Bulgarian,-139.844929,39:bf:85:6a:36:7a,15:13:14,Drub Krebs AG,hsb
+1991-09-17 22:09:54,1989-06-22T09:36:03,"2,65 €",2019-11-23,Erde.txt,Asia/Ashgabat,Falklandinseln,1,-50.3045085,Avaric,70.552131,13:aa:5f:27:35:e9,05:11:12,Kohl GbR,kn
+2000-03-26 23:38:38,1984-04-02T12:23:50,"82,76 €",1980-06-25,schwarz.mov,America/Panama,Monaco,2708,24.4760685,Fulah,147.689396,7c:68:5c:42:ea:96,00:36:31,Schleich,yue
+2011-05-16 14:21:31,2021-06-21T14:15:22,"9,70 €",2020-01-16,Freude.js,Europe/San_Marino,Nigeria,922,3.754200,Tatar,-42.972976,46:0e:29:d2:b5:fa,14:59:45,Ackermann,hak
+2010-03-27 01:31:01,1985-01-12T12:29:29,"0,55 €",2012-01-22,Wagen.css,Europe/Andorra,St. Pierre und Miquelon,4846,48.0841725,Amharic,117.395655,74:50:db:1c:05:89,22:59:21,Wagenknecht Kitzmann AG,brx
+1983-10-12 06:48:23,1978-04-24T11:11:48,"50,12 €",2015-01-02,Land.mp3,Europe/Amsterdam,Uruguay,76148,0.176845,Gaelic,114.860214,26:f1:dc:21:7f:09,10:54:11,Bohnbach,unm
+1980-12-04 17:30:04,1995-09-25T13:35:35,"2.569,40 €",1986-07-03,wenn.csv,Europe/Stockholm,Französisch-Polynesien,9,-8.112574,Welsh,-2.829214,69:29:23:a2:97:e7,07:31:02,Schäfer,fur
+2009-11-06 16:13:42,2004-05-06T10:02:40,"804,27 €",1978-05-16,groß.jpeg,Europe/Vilnius,Sierra Leone,4108645,16.8927975,Assamese,103.513073,c6:86:a9:dc:e6:9c,00:55:26,Schlosser,tcy
+2001-05-12 09:52:45,1997-10-17T19:43:19,"720,77 €",1991-01-11,zehn.mov,Europe/Zurich,Katar,479494700,-41.431011,Luba-Katanga,-48.869701,97:26:1c:0d:82:23,15:40:25,Söding Putz AG,eu
+1991-03-11 13:28:59,2014-02-08T09:56:20,"3,86 €",1997-06-27,Jahr.mov,Europe/Monaco,St. Helena,60,-32.408297,Greek,3.620413,b5:fc:7e:1c:e2:d5,13:48:24,Hein,ht
+1987-12-06 00:08:55,2003-05-18T07:47:12,"35.111,72 €",1981-11-07,denken.mp4,Asia/Dubai,Amerikanisch-Ozeanien,378,-29.8060005,Tamil,-175.142437,c8:68:65:13:cf:d7,17:56:42,Binner GbR,az
+1972-05-30 12:37:19,1981-02-28T12:48:31,"37.873,51 €",1983-12-11,bei.css,Pacific/Port_Moresby,Guinea-Bissau,66747000,-53.9697025,Assamese,153.048294,77:15:46:ef:54:69,05:14:39,Franke GmbH & Co. KGaA,ve
+2015-05-13 23:50:09,2018-03-25T15:17:07,"969,06 €",1983-06-11,erklären.odp,Africa/Casablanca,Peru,12,-81.8350255,Slovenian,-117.484792,ed:b9:c7:04:ad:1f,02:09:13,Graf Klingelhöfer OHG mbH,nr
+2016-10-01 05:44:52,1989-08-07T19:49:48,"590,27 €",2009-06-07,gehen.webm,Europe/Prague,Armenien,555,38.7118785,Greek,158.485766,dd:d8:89:b8:b4:b7,18:46:27,Jessel,niu
+1970-01-09 23:48:53,2022-01-08T10:42:01,"5.063,96 €",2016-07-30,auf.pdf,Europe/Budapest,Sambia,36568,-42.8324945,Mongolian,-146.840049,4d:ba:af:24:87:72,20:26:10,Barth,uk
+1998-03-27 17:30:59,1975-06-23T23:34:44,"4.395,70 €",2019-07-28,Maus.csv,Europe/Prague,Botsuana,59399293,-47.274367,Javanese,157.405151,65:ec:2a:85:f5:64,18:57:10,Hauffer,ss
+1977-03-09 03:17:11,1983-04-22T05:50:59,"46.640,20 €",1973-02-04,langsam.docx,Africa/Libreville,Dominikanische Republik,4,-13.9218545,Aymara,-9.567184,64:28:9b:2e:90:92,10:41:52,Aumann Dörr GmbH,ka
+1974-01-22 23:21:40,1977-04-11T07:42:44,"76.326,29 €",2016-11-22,immer.ods,America/Mexico_City,Burundi,3,-14.900204,Sanskrit,-16.283505,c6:62:65:09:cc:cb,23:41:47,Ring KG,mag
+1989-03-26 09:36:32,2011-11-09T05:09:47,"841,06 €",2004-09-22,Weg.tiff,Europe/Budapest,Israel,48524911,-58.357780,Galician,53.220203,57:c1:dc:92:42:ee,00:19:33,Hettner Mies Stiftung & Co. KG,ha
+2020-04-28 22:45:51,2021-01-05T08:20:29,"55,26 €",1999-05-21,führen.tiff,America/Montevideo,Sonderverwaltungszone Macao,9670358,71.9428495,Urdu,-54.887812,e3:04:81:8d:44:f8,08:28:19,Riehl Seidel AG & Co. KGaA,az
+1972-07-02 01:56:35,1977-12-12T04:13:44,"1.811,26 €",2006-02-28,richtig.flac,Africa/Algiers,Salomonen,9,-21.081988,Danish,-43.890538,2e:80:2d:71:c6:e4,19:00:48,Kruschwitz,nb
+2016-07-05 22:37:31,1979-07-19T18:43:43,"12.994,16 €",2001-11-27,arbeiten.flac,Africa/Addis_Ababa,St. Helena,867849405,89.1814305,Sundanese,-81.035645,6c:2a:8f:ff:11:42,07:49:16,Stadelmann GmbH & Co. KG,unm
+1998-10-23 18:11:16,1974-05-26T12:15:25,"34.111,15 €",2017-01-18,schicken.wav,Asia/Brunei,Brunei Darussalam,2725004,-58.8684735,Sinhala,173.747874,ad:ce:35:4d:ec:fd,18:32:28,Hamann Börner GbR,hu
+2015-10-07 12:55:35,1984-04-28T06:53:35,"14.283,99 €",1977-06-10,sind.ppt,America/Antigua,Guinea-Bissau,2987,68.9403955,Fulah,70.517124,13:93:a5:ed:83:33,13:19:56,Kroker Kostolzin GmbH,lb
+1986-05-24 05:43:14,2002-05-20T11:54:03,"898,83 €",1991-04-17,jung.gif,Pacific/Kiritimati,Falklandinseln,630513,-68.5047045,Ojibwa,162.008826,b6:4a:8b:39:5b:e3,00:32:35,Schlosser Heintze AG & Co. KGaA,bg
+1983-06-10 11:35:34,1997-01-21T04:01:52,"84,69 €",2000-04-18,nichts.xlsx,Europe/Athens,Frankreich,92,58.4902785,Chuvash,-104.425310,06:57:28:70:d0:87,15:39:24,Holt,wo
+1970-04-10 09:54:30,1984-04-04T05:59:07,"5.321,76 €",1984-10-18,oben.csv,America/Panama,Österreich,2357037,-84.776249,Nauru,-57.146390,62:9b:12:ef:86:c2,15:03:48,Baum AG,ast
+2011-07-17 16:32:01,1984-01-19T06:16:41,"8.595,82 €",2014-11-03,Vater.mov,Europe/Riga,Dominikanische Republik,18145,-72.481880,Northern Sami,145.514978,2a:16:78:62:8d:fa,19:29:57,Karz,unm
+2015-04-15 17:59:57,2018-05-29T15:31:51,"5,92 €",1994-05-22,eigentlich.png,America/Grenada,Niederlande,18914743,39.7588075,Estonian,-147.582896,24:e0:6e:e0:55:69,08:49:36,Baum,as
+1999-05-29 09:38:16,1976-05-28T03:31:48,"61,02 €",1977-01-29,baden.csv,Africa/Windhoek,Jordanien,34741,34.377262,Manx,-98.315987,4f:c7:b2:81:81:1e,00:08:43,Rörricht,ti
+1997-06-24 07:40:57,1974-01-15T20:37:52,"7,43 €",1991-07-27,auch.txt,Asia/Choibalsan,Jemen,4585,-41.453965,Persian,-125.378994,47:bd:0a:80:e8:2a,16:13:41,Hövel,lzh
+2003-06-05 07:02:37,1983-08-15T05:21:07,"0,05 €",2018-11-23,fünf.json,Africa/Lagos,Zentralafrikanische Republik,83968,-12.8078265,Uighur,-126.579308,ab:59:62:ee:0c:2c,07:08:50,Flantz Heidrich GmbH & Co. OHG,lt
+1984-09-15 11:20:49,2018-10-27T09:08:37,"39,05 €",2016-07-23,beim.bmp,America/Argentina/Catamarca,Ägypten,951,-60.8077935,Sichuan Yi,10.395103,15:40:18:2d:ae:46,01:27:26,Weihmann KGaA,bho
+1997-05-17 05:09:50,1977-07-02T01:06:04,"8,46 €",1990-11-10,haben.mov,Europe/Monaco,Polen,47704,-18.1034285,Bengali,25.164054,9f:66:85:6f:9f:47,18:16:49,Hendriks Dowerg KG,fil
+2010-11-19 19:35:23,1976-03-18T18:25:33,"5,57 €",1986-06-05,schenken.mp4,America/Indiana/Vevay,Island,6286298,82.1500595,Kashmiri,118.553545,be:2b:18:d4:96:99,12:40:05,Fröhlich Vollbrecht GmbH & Co. KG,sl
+1979-10-13 18:30:16,2007-09-16T22:07:31,"343,82 €",1991-08-23,sind.mp4,Europe/Skopje,Tschad,629037331,-45.4221655,Yiddish,-154.694671,b9:18:5e:6a:36:ff,05:12:01,Scheel Stiftung & Co. KG,csb
+1990-11-12 09:42:19,2011-06-07T11:34:18,"828,79 €",1991-09-08,doch.avi,Europe/Zurich,Kaimaninseln,475,33.652827,Ossetian,-86.825775,82:fc:26:10:6e:67,09:49:49,Heintze,doi
+1988-07-18 19:21:38,2021-04-16T07:41:12,"9,80 €",2007-08-30,Haare.jpeg,America/St_Vincent,Osttimor,7,-30.773993,Fijian,-27.322773,a9:fd:d8:81:68:93,17:41:35,auch Schlauchin Baum KGaA,ka
+1983-12-07 00:51:36,2021-01-03T16:47:57,"587,00 €",1987-07-20,neu.png,Asia/Karachi,Martinique,3,-9.1557485,Malayalam,113.577831,b2:36:3c:83:2f:6f,13:40:16,Koch II GbR,li
+1988-12-14 06:20:59,1995-05-01T04:18:36,"884,85 €",1989-12-10,wo.flac,Asia/Riyadh,Costa Rica,6331794,-28.1673395,Azerbaijani,-165.981407,35:ee:84:d1:56:7e,02:49:36,Austermühle Tröst AG,ig
+2020-10-24 02:52:35,2016-07-08T06:33:28,"289,28 €",1973-10-14,brauchen.mov,Africa/Banjul,Taiwan,2594,-56.6112395,Haitian,-110.403621,f8:1f:09:f3:77:12,12:39:27,Gumprich,yo
+2023-04-29 00:24:46,2013-04-07T20:44:11,"3.391,83 €",1993-04-25,Abend.docx,Africa/Monrovia,Madagaskar,0,-28.2946625,Chamorro,-104.659697,19:79:58:b9:7c:79,06:21:03,Hethur Stiftung & Co. KGaA,da
+1997-03-31 16:56:00,1971-11-29T03:02:45,"94.733,32 €",1982-03-14,Freude.tiff,Asia/Beirut,Portugal,486,23.208613,Georgian,-48.204496,06:8b:91:92:41:b4,18:42:29,Hofmann AG,wae
+1977-03-28 10:39:02,1992-03-06T12:00:23,"128,52 €",2016-05-13,holen.xls,Africa/Khartoum,Türkei,467633,-27.221894,Breton,-56.842467,07:51:56:c1:83:ad,14:05:46,Adler,niu
+1985-01-02 06:04:28,2008-07-08T16:47:59,"744,25 €",1971-10-25,baden.css,Asia/Bangkok,Äquatorialguinea,430402,-86.267191,Avaric,129.560146,09:6b:4d:36:88:da,06:44:45,Schuchhardt,bhb
+1970-05-08 16:45:58,2017-04-26T23:22:08,"567,86 €",1995-04-13,Jahr.csv,Africa/Accra,Island,6,-89.080391,Rundi,-22.616029,23:df:10:50:36:fc,06:18:17,Wieloch,mi
+1975-08-11 09:38:26,2007-08-10T13:24:38,"5,75 €",1979-03-09,erzählen.wav,Europe/Skopje,Tunesien,6699885,15.739830,German,59.448840,12:05:48:fb:51:6d,19:54:20,Peukert Fechner AG & Co. KGaA,fil
+1984-06-02 20:40:55,2014-06-26T17:52:39,"60,76 €",1997-05-13,hinein.json,Africa/Maputo,Französisch-Polynesien,324540277,-76.0993505,Tibetan,105.863518,b7:b8:d1:ca:54:5b,23:51:37,Wulf Schuster AG,ia
+1971-09-26 02:32:46,1974-05-31T18:29:56,"90.291,60 €",2006-04-10,dein.avi,Africa/Dakar,Haiti,615904998,66.653561,Fijian,35.439881,95:15:c6:86:c5:10,21:36:48,Kitzmann e.G.,niu
+2020-09-29 16:11:43,1980-06-19T01:12:19,"9.223,48 €",1988-03-05,klettern.flac,Europe/Andorra,St. Vincent und die Grenadinen,19725115,-17.1758635,Quechua,10.431005,d0:0b:ff:be:14:44,00:43:37,Löffler Tschentscher AG & Co. OHG,fr
+1992-06-13 12:43:41,2017-10-13T21:18:59,"3.187,40 €",1974-09-01,Mädchen.wav,Africa/Conakry,São Tomé und Príncipe,649364,-30.954128,Slovak,-178.834043,7a:05:0c:ce:39:f3,21:12:21,Pölitz Bolnbach AG,br
+1983-05-10 08:47:30,1986-07-16T07:50:48,"24.915,41 €",1980-11-28,was.mov,Pacific/Funafuti,Britische Jungferninseln,6,-35.9313705,Basque,-34.611874,00:12:d4:42:d3:89,15:42:17,Boucsein,os
+1982-07-16 09:14:37,2012-04-14T20:36:45,"5,00 €",1992-08-02,geben.html,Europe/Copenhagen,Svalbard und Jan Mayen,8868879,75.2138575,Chamorro,-42.245472,b4:4b:a7:4b:c1:a4,12:21:35,Graf Ruppersberger KG,brx
+1972-04-12 12:00:12,2010-02-17T16:42:54,"44,89 €",2018-01-30,bin.xls,America/Guatemala,Nigeria,76675,75.1931295,Kazakh,-164.984011,0e:2f:8c:6d:ce:4b,06:26:11,Pechel,apn
+2019-04-10 15:30:38,1993-03-26T11:50:32,"78,42 €",1991-05-25,hat.ods,Asia/Tehran,Samoa,505180837,75.3960905,Faroese,140.879733,78:1b:5b:ed:65:48,16:45:01,Gröttner AG & Co. OHG,kn
+1996-01-22 06:36:08,2013-06-29T11:35:22,"5,79 €",1989-06-30,Ball.html,Asia/Muscat,Jordanien,3783718,7.5170485,Guarani,-54.203715,b2:ce:b2:53:0d:cd,02:11:08,Hörle AG,gv
+1970-12-06 09:08:47,1991-10-25T20:51:15,"5,17 €",2005-07-07,dauern.flac,America/Belize,Schweiz,146363278,-78.6208925,Chechen,162.536695,10:8b:f8:b3:72:c9,02:31:45,Seip AG,st
+2022-02-05 20:37:12,2019-08-05T23:55:20,"654,82 €",1982-11-20,Küche.bmp,Asia/Phnom_Penh,Katar,309,-16.6537805,Kalaallisut,1.345646,9e:64:ed:e7:ff:0c,01:31:21,Schlosser Ortmann KG,id
+1993-07-18 08:18:21,2003-01-29T17:51:09,"36.113,13 €",1970-11-27,machen.mp4,Asia/Pyongyang,Indonesien,262832,79.5782905,Yoruba,151.193696,a7:73:d4:74:39:6d,13:59:01,Ring e.G.,ta
+2018-12-05 09:46:06,1971-08-12T11:55:28,"9,25 €",2018-04-22,Wissen.jpg,Africa/Mbabane,Alandinseln,342,80.048861,Aymara,-83.124798,d9:c5:9b:88:78:48,06:50:54,Kobelt AG,tr
+1973-12-09 05:04:01,2001-02-24T19:35:47,"86.271,54 €",2018-12-26,wird.css,Asia/Kuala_Lumpur,Kasachstan,1481585,12.2499485,Afrikaans,-62.398670,ad:c9:1f:0f:f0:5c,20:34:39,Karz AG,is
+2017-09-09 07:02:00,1974-12-11T21:17:49,"41,83 €",1998-06-17,Tier.mov,Europe/Moscow,Namibia,8118,-14.4816975,Persian,112.579552,0e:3d:9c:2c:ee:19,03:04:05,Seip AG,ts
+2019-03-21 14:52:26,2003-01-08T14:22:41,"3,69 €",2001-07-07,schlagen.jpeg,Pacific/Palau,Philippinen,9390,78.7707545,Afar,41.796176,b4:35:6a:f5:df:44,18:39:33,Junk e.V.,apn
+2003-04-23 05:24:41,1976-03-29T08:02:08,"5,21 €",2015-08-03,versuchen.js,America/Costa_Rica,Britisches Territorium im Indischen Ozean,4874578,55.5787965,Twi,109.175503,1b:04:be:d7:dd:5d,20:28:29,Paffrath KGaA,eu
+2016-09-03 10:30:32,2021-04-27T19:02:40,"663,28 €",2015-01-29,fest.webm,Europe/Tirane,Bosnien und Herzegowina,131043242,72.3668615,Divehi,146.250706,b9:91:7f:a6:4a:76,11:59:26,Gutknecht GmbH,kn
+2013-05-09 01:33:20,1973-09-09T22:57:08,"529,29 €",1978-04-17,Straße.xlsx,Europe/Vaduz,Togo,60461,-25.7939435,Serbian,-2.771191,93:d1:83:b2:f0:55,02:32:35,Becker Riehl AG,tt
+1998-07-30 07:06:50,1986-10-08T04:22:02,"1.584,25 €",2002-11-06,viel.txt,America/Havana,Belize,77,4.6185595,Ukrainian,65.341781,2d:71:e2:ac:0f:4a,08:03:25,Huhn Hofmann AG,ss
+1998-05-01 23:54:55,1996-04-09T20:30:15,"3,95 €",2001-11-25,tief.wav,Indian/Mauritius,Südafrika,7195613,41.270356,Malagasy,-75.117446,22:34:ba:c6:18:ce,08:00:08,Hölzenbecher Jäntsch KG,ko
+1996-06-14 05:37:25,2008-07-27T08:25:47,"46,74 €",1972-02-23,Stein.wav,Europe/Oslo,Botsuana,619304,5.788437,Tonga,55.576390,a4:42:41:5d:d7:dc,16:31:55,Siering,ja
+1996-04-29 01:54:46,2017-06-22T23:14:46,"67.197,08 €",2000-11-30,sprechen.json,Europe/Podgorica,Vietnam,2570,44.3456855,Breton,92.606564,0b:51:b7:b5:1f:33,10:37:43,Förster Dörr AG,ht
+2018-07-15 05:27:47,1983-02-22T22:20:49,"2,28 €",1978-12-22,Geld.odp,Asia/Hovd,Mali,118643,-59.6343035,Breton,165.344685,3f:fe:a0:a2:ae:5f,19:32:46,Geisler AG & Co. OHG,te
+2015-10-14 07:05:55,2018-05-06T20:46:36,"1.833,69 €",2010-12-23,schön.webm,Africa/Freetown,St. Barthélemy,44056176,-85.2419175,Croatian,-66.317351,c5:29:44:fd:c6:5d,10:28:02,Kallert,sat
+2021-06-29 00:42:57,2011-04-14T04:29:35,"95,04 €",2014-10-20,dauern.key,Europe/Ljubljana,Suriname,389271,-39.113888,Greek,136.785112,3c:cb:f0:a5:16:ef,20:33:46,Schleich Jähn KG,pl
+1999-05-11 05:40:06,1996-03-27T20:14:34,"23.104,63 €",2003-07-14,bis.mp3,America/Havana,Turkmenistan,1,26.813837,Uzbek,-7.309516,3b:5d:e5:3e:73:c8,11:10:12,Henck Weitzel AG,gu
+2020-02-22 15:06:03,1989-01-31T03:47:59,"143,66 €",1970-01-20,sechs.png,Asia/Aden,Singapur,661504,60.855367,Haitian,52.713344,6f:da:3d:2c:4f:31,11:26:41,Hauffer AG,it
+2007-12-11 15:28:02,1982-04-01T21:32:32,"3.406,56 €",1995-11-16,heißen.css,Europe/Vatican,Bolivien,18748863,-18.6124425,Norwegian Nynorsk,-50.094762,ae:06:c9:ab:a1:bd,10:13:53,Mielcarek GmbH & Co. KG,the
+2021-08-01 12:11:27,1982-10-15T21:37:49,"77.457,45 €",2006-06-29,nah.flac,Europe/Skopje,Israel,89,22.8446625,Kongo,-9.942752,17:38:71:f8:b0:7b,21:20:02,Hendriks GmbH,hak
+1973-04-04 03:40:45,1976-12-10T21:18:36,"76.002,39 €",1984-02-29,vielleicht.html,Europe/Istanbul,Sonderverwaltungszone Hongkong,8,73.311898,Slovenian,-37.102838,50:15:86:eb:4a:49,06:51:16,Börner Kabus KGaA,pap
+2012-07-06 21:36:58,2019-03-04T09:30:24,"978,38 €",1972-08-12,rund.mp4,Pacific/Apia,Thailand,5,-7.771029,Bengali,-136.086275,e1:ca:96:57:f2:d3,06:24:10,Sager KG,ar
+2004-08-23 03:51:30,1976-12-15T08:13:44,"85.513,12 €",2019-11-05,kochen.gif,Asia/Jakarta,Österreich,567,-59.6348725,Esperanto,137.052258,72:fd:bb:0e:f4:5d,10:50:00,Roskoth,mn
+2022-02-10 20:52:04,2007-01-09T10:08:05,"7.807,94 €",2023-07-27,dafür.png,Asia/Tokyo,Benin,6789,80.354086,Portuguese,-73.884343,1f:db:c1:f4:7e:44,18:25:25,Wernecke AG,hr
+2000-02-07 21:00:19,2014-08-10T08:19:27,"91,41 €",2013-04-21,Bein.json,Asia/Katmandu,Peru,475074012,-41.337144,Yoruba,152.013391,66:49:43:00:a0:72,03:11:20,Schinke Rohleder Stiftung & Co. KG,ti
+2022-12-27 11:12:00,1975-10-25T17:33:11,"5,31 €",1988-09-11,her.csv,Asia/Hovd,Gabun,9387,-58.5080725,Indonesian,-51.033741,2c:b3:03:06:cf:6a,11:41:45,Kohl,tcy
+2018-04-12 18:28:11,2010-06-04T11:42:23,"7,85 €",1974-03-11,zeigen.gif,Africa/Mogadishu,Frankreich,464301139,-13.444431,Sichuan Yi,120.879493,ce:32:2d:40:4b:2b,16:21:38,Jäntsch AG,mi
+2016-01-18 01:50:49,1985-01-14T16:20:50,"5,76 €",2000-08-01,bald.html,Asia/Karachi,Swasiland,65564,83.6564135,Malay,-152.778503,ad:b0:2b:91:0c:2a,23:06:06,Adler Ruppert e.V.,os
+1990-03-05 09:36:00,2004-10-30T12:54:16,"78.908,64 €",1982-02-21,Erde.pdf,Pacific/Ponape,Malta,5,76.3847775,Bihari languages,-129.568064,6d:85:5e:0e:18:48,02:44:23,Hiller Stiftung & Co. KGaA,am
+2018-10-11 06:08:32,1998-11-10T16:50:34,"37.298,46 €",1979-05-27,Bild.odp,Europe/Rome,Äquatorialguinea,8,88.4389725,Estonian,-133.186134,47:e0:2d:02:27:37,22:02:47,Zobel,bhb
+1985-04-16 14:35:42,1988-06-03T02:09:04,"68.777,85 €",1980-07-01,allein.tiff,Asia/Urumqi,Israel,42176,-5.481596,Tamil,139.328468,d1:d8:a8:90:07:2b,16:49:34,Hamann Niemeier Stiftung & Co. KGaA,hr
+1991-09-16 05:34:06,1989-02-01T10:03:07,"4,79 €",1988-03-06,Mädchen.csv,Asia/Thimphu,Bahamas,446,47.818805,Persian,-90.501529,f2:2c:70:64:c3:c2,12:17:42,Mälzer KG,ne
+1978-01-28 23:31:54,1999-09-23T15:07:45,"921,33 €",2000-11-09,sind.jpeg,Europe/Podgorica,Brasilien,396,-20.360884,Kalaallisut,169.605120,13:56:c7:52:98:2e,05:22:58,Weitzel,as
+1990-10-26 15:09:20,1985-10-10T03:41:46,"3.553,37 €",1973-10-15,Uhr.wav,Asia/Anadyr,Island,58399,-17.066147,Haitian,123.749964,18:ea:fc:b9:24:0f,11:53:15,Karz,dv
+2009-02-21 10:27:12,2008-06-23T09:11:06,"43,08 €",1988-09-12,Sommer.flac,Asia/Qatar,Liechtenstein,8,1.4413045,Inupiaq,51.410836,44:1e:1c:7b:d1:36,16:41:32,Hauffer,ha
+1977-04-09 03:47:29,2021-09-30T19:11:36,"71.435,42 €",1997-01-15,Jahr.jpeg,Pacific/Apia,Botsuana,451041806,-79.3925495,Serbian,11.898251,6e:a7:09:c9:92:1a,00:01:21,Lindner,ms
+1983-12-09 23:50:00,1981-09-27T19:50:08,"66,30 €",1977-04-29,gern.pdf,Europe/Sofia,Äquatorialguinea,3,36.6775855,Georgian,117.996746,4a:94:40:4f:ae:4e,23:36:50,Hartung Langern KG,az
+1997-01-28 23:23:57,1987-04-25T01:38:53,"37,97 €",1971-10-30,wenig.wav,Asia/Dushanbe,Usbekistan,425555958,-56.229927,Divehi,117.331132,a7:4f:a7:51:29:dd,14:36:17,Buchholz,ha
+2005-09-06 15:37:23,2012-11-28T23:27:06,"1,34 €",1977-09-03,rechnen.numbers,Pacific/Apia,Burkina Faso,9568341,65.883513,Latvian,103.476226,07:6c:a6:93:fb:4e,17:36:34,Davids AG,ak
+2021-07-28 03:19:34,2020-06-30T01:34:42,"4.586,54 €",2018-11-14,Hase.gif,Africa/Conakry,Demokratische Volksrepublik Korea,299,75.520319,Ukrainian,107.271767,a1:4c:08:bf:7f:e5,02:56:30,Mülichen,th
+1988-06-19 19:50:31,1988-09-27T14:05:29,"9.796,04 €",1979-12-25,offen.flac,Africa/Bangui,Svalbard und Jan Mayen,7904466,10.4749965,Lingala,16.003937,60:68:09:7d:8b:90,14:15:21,Drubin e.V.,dv
+1980-11-27 12:21:02,1986-02-12T19:38:11,"3.301,50 €",2004-11-20,Luft.wav,Europe/Bucharest,Cookinseln,699,87.5436925,Navajo,11.018613,36:6b:8f:8f:76:98,13:50:03,Jüttner GmbH,brx
+1999-08-06 17:41:45,1994-03-16T13:59:10,"38,28 €",1991-02-22,Maus.avi,America/Santiago,Deutschland,918,-61.7526545,Rundi,45.573540,2c:4c:12:7d:19:74,05:29:37,Margraf Oestrovsky e.V.,mr
+1982-10-03 03:51:08,2006-09-09T02:33:25,"33.641,69 €",2014-03-16,Wagen.odp,Africa/Gaborone,Kiribati,255781861,-53.369051,Navajo,107.282143,91:85:e4:4a:72:92,22:27:44,Eigenwillig AG & Co. KGaA,tn
+1977-07-21 04:59:15,2006-09-26T04:06:33,"595,14 €",1998-02-17,schlafen.mp4,Europe/Chisinau,Südafrika,1846245,24.130436,Arabic,-163.014566,73:25:c3:e9:b4:92,14:16:53,Dowerg KGaA,ia
+2001-05-21 05:04:25,2019-01-09T02:58:17,"5,95 €",1977-02-21,Papa.avi,America/Santiago,El Salvador,40730204,-65.3689405,Lithuanian,128.847584,a5:6b:d4:22:12:5d,06:07:07,Lachmann KG,sq
+2016-10-10 21:07:56,1983-05-11T04:13:27,"897,06 €",1997-10-06,arbeiten.pages,Pacific/Palau,Grönland,2890,36.6098615,Ido,81.371347,32:cf:f5:d0:f8:cb,03:11:13,Wagenknecht,tr
+2018-09-11 01:32:41,1994-07-26T15:24:45,"98.778,18 €",2018-11-06,Gesicht.avi,America/St_Vincent,Sonderverwaltungszone Macao,32,-57.2981395,Sanskrit,21.610186,d8:f0:64:0f:78:81,02:13:09,Eckbauer Schmiedecke GmbH,ce
+2018-05-27 01:43:15,2013-03-13T11:50:03,"40,21 €",1999-06-17,können.numbers,America/Guatemala,Réunion,182,88.1917175,Sinhala,-145.626544,06:56:e7:84:09:2c,04:50:42,Grein Groth,ast
+2013-12-04 14:38:32,1998-03-27T11:41:00,"9,67 €",2010-10-20,Wiese.mp3,Africa/Kigali,Südafrika,37229761,29.0724785,Navajo,-55.777955,72:71:04:04:45:48,01:22:19,Wulff KG,nb
+1982-09-10 00:05:42,2023-06-22T09:01:56,"8,94 €",1990-06-10,zusammen.mp3,Asia/Saigon,Jamaika,15131213,26.122321,Albanian,175.539476,05:42:ab:68:60:2e,20:30:15,Bruder,en
+2012-04-05 00:31:18,2004-04-26T02:39:14,"528,61 €",1993-07-19,andere.jpeg,Asia/Qatar,Italien,820104,42.739308,Afar,31.165219,ab:e8:72:8a:6c:42,00:03:07,Finke AG,gv
+1977-01-12 15:42:58,2009-11-06T10:31:47,"59,60 €",2018-02-28,am.flac,Europe/Simferopol,Demokratische Republik Kongo,223523089,-51.512558,Panjabi,34.983461,0b:ae:6a:34:94:81,02:30:25,Döhn Kusch KGaA,sid
+2017-02-02 15:15:55,2012-03-02T08:38:42,"2.198,29 €",2020-10-17,wir.wav,Indian/Mauritius,Nigeria,62934,-74.852578,Tswana,-32.002267,00:1a:2e:17:75:1f,11:57:21,Beckmann,sw
+2022-08-29 03:05:27,1997-04-02T10:50:04,"7.890,23 €",1977-02-03,Boden.css,Africa/Asmera,Island,616448484,26.923838,Javanese,-158.901154,28:ca:5c:ac:74:15,11:23:35,Gutknecht GmbH & Co. KGaA,ku
+2012-05-28 19:04:14,1973-04-25T23:52:26,"55.375,38 €",2017-04-11,man.bmp,Europe/Minsk,Falklandinseln,9901,26.507154,Cornish,-122.835651,11:82:1c:c3:6a:28,05:27:16,Loos Anders Stiftung & Co. KG,ff
+2021-12-09 15:03:50,2009-04-14T10:27:49,"514,82 €",2002-04-12,Papa.flac,Asia/Aden,Andorra,99,10.960097,Kanuri,26.898210,bb:4e:f2:99:97:b1,19:43:54,Rogner,en
+2015-10-14 04:49:34,1994-04-17T22:25:35,"11.843,34 €",2010-12-26,noch.tiff,Asia/Tehran,Puerto Rico,7221,44.6410665,Gujarati,111.434713,b8:7e:d6:09:58:c6,04:53:25,Speer KG,lv
+2009-06-06 03:57:27,1980-06-29T03:31:03,"0,99 €",1985-01-22,plötzlich.flac,Asia/Muscat,Svalbard und Jan Mayen,232167,-77.500175,Sanskrit,49.528965,c2:64:aa:bf:37:b5,11:36:01,Klemt Trupp GmbH & Co. KG,lo
+2017-12-24 05:31:27,1971-12-25T18:08:05,"25.343,57 €",1981-08-26,Zug.css,Pacific/Nauru,Neuseeland,1772410,79.5442785,Esperanto,-160.792737,31:16:26:d2:04:29,12:45:02,Eimer Stiftung & Co. KGaA,ha
+1973-01-20 16:35:13,1975-06-15T18:28:05,"6,18 €",1982-05-31,am.mp3,Asia/Qatar,Aserbaidschan,43,-10.472961,Central Khmer,52.852340,63:33:14:c2:7a:28,15:06:10,Heuser KG,iw
+2005-02-05 19:36:37,2000-08-22T13:16:49,"34,85 €",1983-10-18,ins.mov,Africa/Maputo,Trinidad und Tobago,835615441,-39.6278135,"Sotho, Southern",-76.030835,fb:db:64:b7:94:a3,09:30:16,Jacob Langern KGaA,uz
+2011-12-09 17:52:28,1981-02-26T05:44:41,"7.136,07 €",1974-08-22,helfen.json,Asia/Phnom_Penh,Turkmenistan,75057176,-80.942886,Gujarati,-110.182070,d5:90:34:8e:ed:0e,21:51:42,Eberth AG & Co. KG,kk
+2017-12-06 22:46:28,1971-12-20T20:08:49,"47,03 €",2023-09-06,Winter.flac,Africa/Harare,Komoren,899851,83.393801,French,-179.112047,11:66:17:d7:75:e9,00:05:37,Hesse Adler GmbH & Co. OHG,mag
+1995-12-19 14:19:04,1996-02-18T04:27:26,"214,56 €",1975-03-03,sein.flac,Europe/Podgorica,Amerikanisch-Samoa,8678165,53.6101035,Tonga,-78.597588,ce:88:cc:f8:8c:5e,01:40:27,Butte Adolph e.V.,te
+2017-10-02 16:55:04,1972-11-22T09:47:38,"6.438,88 €",1987-01-08,Milch.key,America/Tegucigalpa,Guinea-Bissau,139,36.990461,Turkish,126.153457,bc:4f:54:f1:90:60,12:29:17,Kabus,fr
+1982-10-24 06:45:58,1998-12-06T00:25:55,"40,67 €",2003-03-11,hier.csv,Europe/Minsk,Turks- und Caicosinseln,80235620,72.2163845,Guarani,103.881466,23:db:e4:9e:3a:cc,22:54:09,Trüb Kallert AG & Co. KG,ro
+1996-08-27 01:31:01,1971-09-14T09:40:42,"7.823,65 €",2021-04-27,Welt.mp3,Asia/Damascus,Guinea,803586,47.1916285,Estonian,-155.995294,3a:19:12:48:1a:54,17:19:55,Wende e.V.,kl
+1970-06-29 18:34:52,2015-08-01T18:38:04,"76.422,84 €",1982-07-25,wo.avi,Europe/Sofia,Montenegro,302201752,79.614050,Kurdish,136.748052,ed:36:83:9b:ec:d7,21:14:36,Vogt Kühnert AG,sw
+2001-07-11 22:24:43,2007-11-12T10:30:00,"51,43 €",2014-05-23,offen.jpg,Pacific/Nauru,Dschibuti,32,22.014100,Yiddish,126.148405,a1:b0:63:b2:f8:f4,02:33:24,Eberhardt,sid
+2006-06-10 04:24:50,1996-11-07T15:43:52,"88.005,20 €",1996-11-06,rufen.js,America/Santiago,Tokelau,2,-29.761134,Ossetian,41.137551,1c:34:3c:81:47:3e,13:43:58,Bien e.G.,mk
+1981-08-02 15:45:57,1977-08-30T22:28:27,"0,62 €",1973-10-13,gehören.gif,Africa/Bissau,Nauru,42753843,88.976639,Malagasy,0.072544,c8:c7:20:7d:4b:82,20:26:15,Sager KG,uz
+2020-11-10 17:56:16,1981-09-06T20:31:19,"581,93 €",1991-12-10,gesund.doc,Africa/Luanda,Tokelau,780,-88.8223555,Russian,108.690900,e2:b0:bc:1d:bf:ea,18:46:43,Schönland,niu
+1976-12-28 17:03:47,2010-10-28T23:58:06,"427,60 €",1980-12-23,Minutenmir.avi,Africa/Accra,Réunion,2363777,8.9755885,Arabic,-130.661330,10:2e:20:dd:58:05,00:55:57,Dussen van AG & Co. OHG,sat
+2002-05-26 12:26:06,1979-11-26T17:02:10,"654,81 €",1999-03-22,holen.css,America/Lima,Türkei,442555,-67.653978,Russian,155.964978,26:0c:d5:c3:91:c0,19:37:38,Müller KG,hr
+1988-05-01 09:09:52,1976-08-18T11:37:56,"143,80 €",2023-09-05,hören.gif,Africa/Bangui,São Tomé und Príncipe,40,-83.5060685,Javanese,-5.506108,17:00:5a:19:9d:5f,07:06:14,Radisch GmbH & Co. OHG,tk
+1983-01-09 09:40:05,1998-02-07T01:20:15,"6,85 €",1976-01-12,fressen.js,Africa/Gaborone,Kirgisistan,444,77.7919675,Breton,171.158929,fc:ab:e8:dd:98:b8,05:22:16,Dörschner AG & Co. OHG,ast
+1980-11-20 05:28:16,1973-12-11T06:59:51,"535,16 €",2016-02-14,Wagen.jpg,Europe/Amsterdam,Kirgisistan,688682,-47.0004575,Tswana,107.307718,d9:8f:9c:ee:97:8f,16:44:33,Gorlitz Zirme GmbH & Co. OHG,szl
+1978-04-22 19:14:06,1998-07-23T19:03:23,"534,40 €",1987-05-02,Frage.bmp,America/Port_of_Spain,Bouvetinsel,701,-47.2809295,"Sotho, Southern",-25.299328,aa:31:c6:a7:6f:05,10:48:36,Oderwald,hi
+1998-01-12 07:20:56,1994-12-15T14:23:56,"954,48 €",1975-08-19,versuchen.mov,Indian/Mauritius,Anguilla,225,-78.0251235,Sinhala,-94.820099,90:4e:54:a0:ef:d9,22:58:13,Dobes,iw
+1990-12-01 17:35:03,1975-08-01T08:36:38,"3.265,13 €",1979-05-08,warm.wav,Pacific/Chatham,Tschechische Republik,23574,50.1078335,Afar,-96.102701,7d:cf:29:66:38:05,19:27:40,Keudel,sa
+2009-01-21 21:06:54,2001-07-08T10:02:58,"24.753,87 €",1998-06-24,Garten.flac,Africa/Luanda,Brunei Darussalam,8168,72.9345505,Icelandic,140.970333,60:9a:81:a8:61:40,05:18:50,Trupp Kensy AG & Co. OHG,ln
+1975-08-06 20:59:10,2015-09-21T04:26:45,"30,44 €",2011-05-15,der.odt,Europe/Amsterdam,Französisch-Guayana,8,25.7649215,Tigrinya,-116.160577,26:1e:f5:06:b7:b3,13:25:38,Girschner GmbH & Co. KG,ss

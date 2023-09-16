@@ -1,0 +1,10 @@
+./JeuxVideos/Final_Fantasy/FF6/Piano%20Collections
+./JeuxVideos/Final_Fantasy/FF6_piano
+./JeuxVideos/Final_Fantasy/FF7
+./JeuxVideos/Final_Fantasy/FF7/CD1
+./JeuxVideos/Final_Fantasy/FF7/CD2
+ PROC_COUNT Na21 : ALL = 234
+ PROC_COUNT Na22 : Transportation = 447
+ PROC_COUNT Na22 : ALL = 447
+ PROC_COUNT Na23 : Transportation = 594
+PROC_CREATOR_COUNT B11 : tInelastic = 3

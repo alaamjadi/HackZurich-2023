@@ -1,0 +1,30 @@
+*
+* Init Utilities
+*
+bootchartd (BOOTCHARTD) [N/y/?] n
+halt (HALT) [Y/n/?] y
+poweroff (POWEROFF) [Y/n/?] y
+sulogin (SULOGIN) [Y/n/?] y
+vlock (VLOCK) [Y/n/?] y
+*
+* Linux Ext2 FS Progs
+*
+chattr (CHATTR) [Y/n/?] y
+fsck (FSCK) [Y/n/?] y
+lsattr (LSATTR) [Y/n/?] y
+tune2fs (TUNE2FS) [N/y/?] n
+*
+* Linux Module Utilities
+*
+Simplified modutils (MODPROBE_SMALL) [N/y/?] n
+depmod (DEPMOD) [N/y/?] n
+insmod (INSMOD) [Y/n/?] y
+lsmod (LSMOD) [Y/n/?] y
+  Pretty output (FEATURE_LSMOD_PRETTY_2_6_OUTPUT) [Y/n/?] y
+modinfo (MODINFO) [N/y/?] n
+modprobe (MODPROBE) [Y/n/?] y
+  Blacklist support (FEATURE_MODPROBE_BLACKLIST) [N/y/?] n
+rmmod (RMMOD) [Y/n/?] y
+*
+* Options common to multiple modutils
+*

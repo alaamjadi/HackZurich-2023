@@ -1,0 +1,12 @@
+LogWindows: File 'aqProf.dll' does not exist
+    + add Wildcards / PROP_Wildcards, (tdf#72196) [Eike Rathke]
+    + add Wildcards configuration option, (tdf#72196) [Eike Rathke]
+    + add Wildcards to Find&Replace dialog [Eike Rathke]
+    + add wildcards to Tools->Options->Calc->Calculate dialog, (tdf#72196) [Eike Rathke]
+    + add Wildcards UNO API implementation, (tdf#72196) [Eike Rathke]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.34]
+JFX	ALABAMA	JASPER WALKER CO-BEVILL FLD	afd	se_29_25OCT2007.png
+7A3	ALABAMA	LANETT MUNI	afd	se_29_25OCT2007.png
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.

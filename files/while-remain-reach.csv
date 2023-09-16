@@ -1,0 +1,494 @@
+time,date_time,mac_address,timezone,company,latitude,pricetag,city,country,longitude,language_code,random_number,bank_country,date,hostname
+09:22:29,2002-10-04 04:51:54,71:8a:fd:85:e7:e2,Africa/Libreville,Hughes LLC,-1.7391075,"$9,044.46",Holmesberg,Rwanda,-162.373245,hu,25,GB,2002-09-27,web-61.pollard.com
+14:32:47,2011-02-21 19:17:42,08:f3:25:af:eb:da,America/St_Vincent,Fletcher-Waters,34.2998095,$5.54,Paigestad,Bahamas,3.122931,gu,558447,GB,1975-09-10,web-81.barber.com
+02:37:35,2016-10-29 00:48:11,ea:a1:cf:92:26:6c,Africa/Bamako,"Brennan, Morris and Whittaker",12.7572345,"$2,213.19",Frenchstad,Cape Verde,175.156495,ug,928,GB,2022-10-28,web-42.parkes-wilkinson.com
+20:07:20,2003-06-10 02:28:12,06:bd:95:15:b3:69,Europe/Zagreb,Thorpe Ltd,-35.1192265,$70.52,Taylortown,Saint Vincent and the Grenadines,-179.613547,li,93,GB,1993-05-09,desktop-97.evans.com
+18:04:18,1972-01-03 15:13:28,0e:fc:af:92:84:5f,Africa/Bamako,James Inc,-66.0297985,$206.55,New Jacqueline,Nepal,-64.622881,mai,484,GB,1984-03-25,email-44.barlow.com
+20:19:22,2010-04-14 17:40:03,c8:92:34:f4:5d:52,Europe/Belgrade,Thompson-Hammond,57.154498,$5.05,New Oliverchester,Greece,140.361206,mk,47455274,GB,2015-01-02,email-03.bowen.net
+16:51:51,2013-04-10 15:04:29,92:bd:2c:1a:f3:84,Africa/Freetown,Begum Group,-66.920802,$889.24,West Helenville,Afghanistan,-76.114830,nan,2537,GB,1996-04-03,laptop-26.stephens.biz
+22:07:29,2022-10-22 04:48:00,48:61:e7:35:41:54,Africa/Dakar,Brown-Dale,10.4144325,"$1,447.94",Haywardchester,Ethiopia,112.737074,bho,2,GB,1994-07-13,email-98.taylor-davies.biz
+23:10:26,1981-12-05 04:11:25,cd:a2:a5:72:82:95,Europe/Brussels,Lawrence PLC,43.171246,$90.28,Arnoldton,Tunisia,171.325099,yue,231750,GB,1981-04-24,email-01.potter.com
+11:14:47,1992-10-26 11:38:17,97:fb:c1:0f:ee:91,America/Bogota,"Vincent, Dixon and Harvey",33.3878725,$73.44,East Geoffreyview,Tunisia,77.733056,sid,8,GB,2000-08-28,srv-78.butcher.com
+20:07:39,2009-05-30 04:55:25,90:fc:73:37:e3:33,Pacific/Kwajalein,"Gibbs, Wilson and Cunningham",-17.279325,"$58,798.77",Sandrafort,Honduras,54.662678,zu,6918996,GB,1983-08-18,srv-90.jones.com
+20:34:13,1973-11-04 04:50:03,69:8e:15:85:3f:90,America/Nassau,Watson-Begum,52.454412,$548.16,Readton,Kenya,66.598220,ms,74963,GB,2009-06-29,laptop-72.thomas-clements.net
+15:14:47,2000-10-12 22:46:59,ac:c8:42:02:70:84,Asia/Bangkok,Wood-Taylor,-85.4445265,$62.30,Patrickton,Bolivia,49.788626,om,51,GB,1980-07-03,laptop-54.hodgson.org
+03:14:19,1970-04-07 19:57:09,75:c5:6d:05:d4:bc,Africa/Bamako,Bradley Ltd,-24.7463635,"$53,502.33",Jacquelinehaven,Mayotte,-129.342470,ky,859,GB,1988-10-22,web-81.walker.com
+16:28:21,1990-01-16 18:11:06,4f:ea:18:4f:4c:14,Africa/Kigali,Whittaker Inc,43.461465,$5.40,North Diane,Tokelau,57.104201,ar,38,GB,2009-04-18,web-10.johnson.org
+10:59:46,2017-06-08 11:44:33,52:db:75:0c:ad:c6,America/Chihuahua,Roberts and Sons,-33.3923895,$7.26,North Mitchell,British Indian Ocean Territory (Chagos Archipelago),-79.277046,id,2232480,GB,1986-06-10,db-29.hodgson.com
+20:07:20,2011-09-20 16:08:11,b1:80:8d:fb:fe:19,Europe/Sofia,Ahmed-Humphreys,-56.6756495,$7.18,Jameschester,Guinea-Bissau,141.190308,iu,7,GB,1986-11-28,lt-29.walsh-smith.co.uk
+19:35:35,2014-02-15 18:28:25,5c:2c:3d:2b:fc:a4,Asia/Kuwait,"Jones, French and Morris",42.782777,$2.76,Lake Aaron,Palestinian Territory,-132.979726,mr,42,GB,1970-06-09,desktop-12.mason.biz
+16:05:54,1975-11-08 04:51:40,4a:94:bd:21:33:e1,America/Tijuana,Smith Group,-29.062020,"$31,746.41",Port Dannyborough,Cambodia,43.815485,ky,74400953,GB,2018-02-23,desktop-36.mills.com
+21:42:33,1995-05-28 22:54:24,90:b2:0f:84:04:74,Africa/Monrovia,"Bailey, Edwards and Wilson",-11.943038,$36.03,Jeremytown,Kiribati,-117.398716,is,732,GB,1980-11-08,email-26.bryan.com
+16:15:06,1976-09-18 09:59:48,a2:8e:56:0b:bd:a4,Asia/Seoul,Bentley PLC,34.215311,$75.06,Nigelville,Sudan,56.640324,bs,30473060,GB,1989-12-27,laptop-33.cooke.com
+09:26:02,2009-02-14 07:17:35,64:16:3c:15:3e:54,Africa/Blantyre,Rice LLC,64.795216,$639.74,Tomside,Estonia,-56.871535,xh,9,GB,2014-09-15,desktop-38.obrien.com
+16:16:45,2022-05-20 11:26:05,15:38:7e:b0:93:b9,Asia/Shanghai,Lyons-Lamb,51.528690,$9.18,West Joantown,Cuba,137.136214,ts,0,GB,1981-07-03,srv-08.white.com
+13:27:01,1976-01-09 11:23:02,a9:7d:bb:d0:25:97,Africa/Bangui,Taylor and Sons,80.2457985,$59.59,Port Nicole,Eritrea,-36.973672,ha,750199459,GB,1989-04-29,web-94.williams.net
+01:12:34,1984-02-17 03:20:15,df:fd:a1:42:ad:0c,Africa/Banjul,Evans and Sons,2.2550875,$480.55,Rosemouth,Ghana,75.912461,mt,17584429,GB,1997-05-16,srv-06.ellis.com
+03:21:01,1979-04-19 22:02:55,e8:2d:bb:6f:45:86,America/Tegucigalpa,Russell-Newton,25.7475335,$97.15,Fletcherfurt,Senegal,-66.617439,fi,9,GB,1998-08-13,lt-44.sharpe.com
+16:02:00,1972-10-20 16:27:12,3f:41:a9:41:1c:db,Europe/Warsaw,Harris-Evans,37.240232,$459.20,Port Iainborough,Ethiopia,175.476056,uk,5102,GB,1982-07-15,desktop-10.white.info
+11:17:53,1972-12-24 23:39:15,84:a0:a2:cf:58:2f,Asia/Aqtau,"Butler, Rice and Bell",-53.5869795,"$9,155.40",Bernardhaven,Bolivia,29.458033,sl,9,GB,1976-12-29,db-50.wood-scott.com
+04:16:53,1993-05-07 04:09:55,fe:cf:8f:83:18:c6,Pacific/Apia,Murray Ltd,61.438092,"$99,447.80",New Sylviabury,Paraguay,-44.024658,ca,90027,GB,2023-04-26,desktop-14.campbell-scott.biz
+06:35:39,1992-12-05 02:24:22,59:b3:48:61:68:9b,Asia/Yerevan,Carter LLC,-88.834373,$9.73,North Sophiebury,Senegal,-79.494571,lij,52669,GB,2006-10-12,email-15.henderson-williams.co.uk
+06:31:45,2013-02-13 05:12:39,be:e5:2f:39:b8:4e,Europe/Malta,Brookes and Sons,77.995236,"$96,752.97",Bennettbury,Lithuania,107.046480,tcy,67496,GB,2015-12-19,srv-82.smith.com
+14:08:27,2005-11-18 17:28:52,84:72:c1:50:76:10,Pacific/Efate,Ali-Power,51.966474,"$5,809.97",Port Louise,Djibouti,-155.273237,bo,66,GB,2022-12-16,web-41.thompson.com
+15:38:52,1999-02-16 15:09:29,99:95:3d:b9:e5:96,Africa/Bujumbura,Elliott-Gregory,-32.049072,"$6,691.74",Port Benjamin,Aruba,-159.269117,ru,7,GB,1978-06-22,db-27.humphries-mcdonald.com
+12:27:05,1998-03-09 03:05:45,43:4d:39:35:6a:be,Africa/Tunis,Clarke LLC,-43.0094555,$261.88,Taylorton,Lithuania,120.764274,hy,84493,GB,2021-01-31,db-45.williamson.com
+03:33:31,2002-07-21 10:53:38,01:32:6f:5c:a7:13,Africa/Dakar,"Jones, Hughes and Rose",15.0188825,"$2,568.71",Port Sarahtown,Benin,36.310585,ru,97,GB,1982-01-30,web-00.edwards-hopkins.com
+08:37:52,1971-09-02 20:42:31,bf:c8:09:f5:a9:68,Australia/Hobart,"Howell, Jones and Gardner",48.5842945,"$56,519.07",Leeview,Peru,69.894021,tcy,4363037,GB,1992-12-14,email-21.wright.co.uk
+04:50:24,1991-05-19 03:36:58,3e:4f:a7:23:d8:0e,Africa/Cairo,Owen-Hammond,21.0784925,$524.59,Lake Sean,Netherlands,-142.971927,ce,123,GB,2006-02-19,db-96.evans.com
+18:40:49,2010-07-07 15:20:00,d7:4d:d5:f9:79:88,Africa/Accra,Butler Group,-12.7538705,"$5,218.44",Garyland,Bahamas,-126.415113,oc,576422499,GB,1988-09-04,srv-75.cooper.org
+18:02:13,2014-11-28 11:03:55,7e:1c:6f:b0:c1:2e,Asia/Jayapura,Anderson LLC,-18.8230385,$8.27,Davisshire,Switzerland,172.479683,mhr,92925,GB,1996-06-25,srv-34.williams.com
+18:09:31,1990-02-08 18:43:25,cb:79:0f:d4:93:e7,Atlantic/Reykjavik,Jones and Sons,-20.889376,"$57,989.39",South Tracy,Yemen,-6.616691,mt,639,GB,1985-09-04,db-27.taylor.co.uk
+07:02:41,1987-12-29 12:27:15,cf:c7:f6:48:98:0e,Pacific/Kwajalein,Singh Group,-54.7832405,$48.23,New Owen,Greenland,-103.877676,el,88,GB,2022-03-18,desktop-98.patterson.com
+18:15:12,1970-07-24 01:12:28,04:dd:50:9b:98:af,America/Montevideo,Edwards-Berry,-61.3038595,"$24,618.86",West Catherinechester,Argentina,-14.226663,el,976441,GB,1996-09-11,db-13.newton.info
+05:21:25,1992-06-16 05:58:05,67:da:15:d4:7f:ed,America/Costa_Rica,Dunn-Gibbons,-50.355985,$418.92,Allanchester,Comoros,25.165974,gu,3334214,GB,2010-06-03,desktop-30.bull-little.org
+19:07:18,2009-03-08 08:01:11,7b:77:72:f3:bb:64,Pacific/Funafuti,"Moore, Harvey and White",23.0736945,$7.32,Port Kelly,Togo,-33.821246,pap,37,GB,1974-08-28,srv-39.hughes.co.uk
+13:16:33,2011-04-12 17:31:27,56:1a:31:ff:fd:81,Europe/Tirane,Pollard and Sons,-26.9798815,$75.09,Nobleville,India,163.348627,ln,38203,GB,2011-11-08,email-43.potter.biz
+06:10:29,2019-11-02 19:41:14,e6:bf:0e:08:84:ea,America/Asuncion,"Parker, Wyatt and Gibson",-12.631808,$2.50,North Dianeshire,Ethiopia,81.901897,om,64011,GB,1994-12-22,laptop-90.harris.com
+02:38:00,1994-10-17 22:55:25,c9:1c:22:fc:d8:24,Indian/Antananarivo,Patel PLC,50.1375205,$6.62,New Lindamouth,Reunion,140.248101,sat,963,GB,1983-06-11,web-68.daly.com
+12:39:55,2016-11-21 03:01:25,75:99:41:05:48:e5,Asia/Manila,"Spencer, Patel and Watson",-8.9675065,"$3,938.76",Patrickmouth,Cayman Islands,-146.540156,or,318,GB,1984-03-09,lt-86.rowe.com
+00:26:45,2013-05-14 22:42:05,05:36:e7:bc:f2:33,Africa/Banjul,"Howe, Parry and Francis",1.099845,$22.16,North Sallyville,Poland,93.581957,gv,2505150,GB,2023-09-02,email-38.mason.net
+12:12:29,2011-04-22 19:14:36,6c:b7:8f:8e:68:6e,Asia/Bangkok,"Foster, Cole and Carr",13.620591,"$12,015.20",Gracetown,Germany,58.249033,mni,8,GB,2023-02-08,db-79.holden-kelly.net
+13:35:19,1994-06-08 01:24:35,6b:16:a0:3a:39:14,Asia/Dushanbe,Lawrence and Sons,10.303738,$9.59,Palmershire,Haiti,110.992856,et,92008,GB,1998-05-13,desktop-01.george.net
+05:32:27,1981-02-26 12:33:27,dd:6c:5d:50:a2:3c,Pacific/Palau,"Horton, Williams and Wilson",64.715272,$725.33,West Janethaven,Jordan,152.572195,pap,54847769,GB,1981-01-03,srv-74.jones.com
+01:11:25,2009-12-07 20:15:04,2e:65:de:6e:d7:1e,Asia/Ashgabat,Davis-Pope,-34.080548,$13.39,New Russell,American Samoa,-58.679818,th,58,GB,1988-01-13,srv-53.holloway-saunders.co.uk
+03:58:43,1997-05-18 00:42:19,93:32:9b:ae:b7:19,Africa/Ouagadougou,"Smith, Bennett and Smith",28.140703,"$8,426.78",Hallmouth,Croatia,-50.581794,dz,24140800,GB,1997-07-03,laptop-44.atkins-potter.com
+06:14:40,2003-08-05 05:57:49,68:4f:cb:b7:1e:87,Pacific/Palau,Thomas Ltd,-73.5134015,$99.68,South Janiceville,Cape Verde,-36.608533,mg,800113,GB,2017-12-16,desktop-80.rogers.com
+02:35:46,1996-02-27 05:22:10,00:d9:b1:05:74:cd,Asia/Phnom_Penh,"Rowley, Wood and Harris",55.7371235,$1.26,Gillbury,Saint Vincent and the Grenadines,-25.866561,as,8,GB,2003-06-07,lt-60.howarth.biz
+19:03:33,1989-01-11 14:36:08,a0:9e:b3:42:3e:ea,Asia/Taipei,Birch-Mason,-72.650036,$8.34,Bryanborough,Guinea,152.094893,lb,3137,GB,1987-07-06,db-61.savage.com
+03:01:09,2003-05-29 19:54:03,95:fe:8f:cd:12:23,Europe/Simferopol,"Ford, McDonald and Brown",-25.100714,$621.63,Lawrencebury,Morocco,81.998477,hi,1,GB,2021-06-01,lt-60.jones.com
+14:45:17,2004-08-02 00:13:06,78:2f:17:e8:eb:31,Europe/Dublin,O'Connor and Sons,-76.155040,"$95,484.24",Lake Vincentview,Venezuela,50.760222,uz,4,GB,1987-09-09,db-33.king.com
+05:49:33,2014-01-06 12:58:00,93:67:02:ee:c2:c5,Asia/Nicosia,Booth-Wilson,24.3465805,$61.29,Staceyhaven,Kyrgyz Republic,3.280997,eo,41,GB,1974-12-28,web-04.patel.com
+10:47:16,1980-07-30 05:19:14,41:53:17:79:23:1e,Pacific/Guadalcanal,Doherty-Taylor,-1.041768,"$14,626.75",Barberton,Liechtenstein,-131.647329,as,2189331,GB,1983-06-28,web-51.marshall-rowley.com
+00:45:58,2010-08-28 13:13:35,8e:8f:69:29:d3:c5,Africa/Mogadishu,Hurst-Harris,-37.7102345,$806.36,Port Adrian,Saint Barthelemy,88.163654,ig,56133,GB,1988-09-27,db-15.martin.info
+23:21:20,2003-04-23 02:33:51,b7:1c:89:30:7d:d4,Europe/Amsterdam,"Bates, Martin and Sims",-25.6330965,$826.38,Port Paigeborough,Bangladesh,92.747263,eo,431072418,GB,1981-09-06,desktop-71.whittaker.info
+18:05:20,1971-01-31 16:49:43,43:53:e9:b6:69:b6,America/La_Paz,"Sutton, Allen and Jones",73.8185195,"$69,942.52",Russellland,Moldova,141.441646,ne,67396,GB,2014-04-17,srv-17.savage.info
+15:26:42,1983-05-29 00:38:48,14:32:b6:7f:31:93,Africa/Ceuta,Hawkins Inc,-48.849313,"$8,612.76",Stewartside,Namibia,-15.776705,tg,61,GB,2014-11-16,db-05.mitchell.net
+07:36:19,1985-06-15 05:31:46,43:67:6e:b5:3b:fe,Asia/Yerevan,Wood-Howell,-50.3189425,$99.29,North Connorborough,Azerbaijan,-116.469777,pt,597813862,GB,1984-08-19,srv-86.thomas-smith.info
+09:23:50,1999-01-16 12:58:02,1d:fc:e6:33:ac:aa,Europe/Ljubljana,"Cross, Mellor and Norris",-15.1203675,"$2,999.38",Clarkeview,Montenegro,-99.830152,sa,514,GB,1993-03-15,srv-06.hughes-doyle.biz
+07:00:18,1981-04-20 20:31:41,10:9f:da:f0:5b:6e,America/Barbados,"Miller, Dickinson and Knight",7.838366,$542.88,Iainberg,Heard Island and McDonald Islands,119.864546,ug,95963,GB,2019-01-17,laptop-73.newman.org
+14:31:38,2004-09-25 20:30:57,fe:70:79:a5:9d:01,Africa/Lagos,Hudson-Foster,67.765332,"$9,451.10",Walkerstad,Malta,-124.567589,es,62879,GB,1994-02-13,email-84.webster-dickinson.com
+23:04:22,1973-12-04 23:53:17,4b:f7:65:c1:7e:c4,America/Paramaribo,Hardy Inc,80.124537,"$48,443.91",Lake Elliot,Timor-Leste,-112.307680,fi,977204,GB,2023-08-23,desktop-65.taylor.org
+16:53:19,1992-05-06 23:33:26,17:ed:8a:f1:fd:ab,Europe/Budapest,"Cooke, Henry and Stewart",46.3021635,$3.73,Gillianfurt,Togo,169.764364,doi,787,GB,1975-11-13,laptop-20.davis.com
+15:11:56,2000-01-12 20:13:45,9d:c9:4e:61:c0:39,Africa/Windhoek,Abbott-Potts,-41.188283,"$2,853.94",East Tracyberg,Tunisia,-15.583525,hr,44,GB,1987-01-11,lt-45.parry.co.uk
+18:02:57,2021-09-11 04:55:42,16:16:b1:a4:63:f7,Africa/Sao_Tome,Manning Inc,-8.596431,$30.07,Douglaschester,Angola,-8.824361,fil,84419,GB,1978-05-20,srv-22.carr-thomas.co.uk
+21:35:44,1986-06-08 21:15:21,3e:7e:f2:15:d3:8e,Asia/Urumqi,Jones-Roberts,40.3035165,$426.18,Whiteheadberg,Finland,-88.387921,kk,21458,GB,1990-01-20,lt-43.archer.org
+12:18:45,1976-02-15 11:19:37,44:1d:ee:f5:bb:ab,America/Belize,"Sinclair, Duffy and Smith",69.6117035,"$99,992.13",South Caroline,Guyana,-161.304352,tg,873290,GB,1997-12-13,srv-95.hanson.net
+20:51:00,2022-07-07 12:37:12,d7:bb:51:92:98:b5,Europe/Skopje,Clayton-McDonald,-54.6038035,$468.83,New Keithchester,Guinea,68.169523,so,869327371,GB,2012-08-18,web-85.clark.info
+15:41:12,1997-05-03 06:55:38,57:0f:28:e4:80:01,Pacific/Easter,"Mason, Moore and Morgan",-68.8657555,"$1,241.62",West Normanshire,Burundi,26.151642,bg,6736677,GB,1975-04-09,srv-77.stokes.org
+04:35:29,1990-09-01 15:02:11,c2:97:ee:c8:36:74,Africa/Algiers,Adams Inc,-48.404824,$6.59,Brownhaven,Mexico,-62.911811,sl,73519,GB,1980-02-22,email-68.ellis-gardner.com
+07:26:27,1975-02-08 07:52:32,f6:36:8a:f0:d5:0a,Asia/Urumqi,Hurst Inc,-27.394956,$153.66,South Michelle,San Marino,116.106880,ff,5804,GB,1999-05-19,laptop-10.fisher-ryan.com
+02:32:56,1998-02-14 12:00:43,6c:23:46:8b:e3:d1,Pacific/Fiji,"Curtis, Martin and Mitchell",-34.789131,"$4,482.16",Charlotteville,Turkey,-87.080214,sat,54223391,GB,2019-01-26,srv-92.jackson.com
+14:04:02,1995-11-28 20:04:31,ce:33:d7:e1:0e:7f,Asia/Baghdad,Glover-Williams,-13.4094245,$8.75,Port Trevorland,Somalia,174.726240,apn,14562,GB,1994-09-04,web-68.burke.org
+13:49:44,1983-06-13 04:57:05,d5:ea:e4:5b:80:f4,Africa/Tripoli,Clark-Clarke,64.5040075,$174.59,Gillfurt,Bahamas,10.440612,hi,9655,GB,1985-12-15,web-49.smith.com
+01:34:00,1991-06-13 07:30:55,0c:c1:db:3b:d0:b9,Pacific/Guadalcanal,"Martin, Smith and Smith",-9.2751625,$293.14,Port Trevorberg,Kenya,-134.480949,quz,617,GB,1984-04-24,db-31.fletcher.info
+23:29:45,1996-04-05 19:28:12,02:b9:c1:65:a2:9d,Pacific/Kiritimati,"Alexander, Jenkins and Brown",56.8003705,$522.52,Blakemouth,Korea,-11.973176,zu,343857838,GB,2014-02-05,db-08.dunn.com
+11:55:24,2010-10-17 11:29:56,0c:87:c8:d0:1f:a2,Africa/Ouagadougou,Williams-Evans,26.1433005,$806.90,Woodbury,Cocos (Keeling) Islands,-62.327580,en,9025711,GB,2010-04-20,web-17.short-andrews.co.uk
+20:54:35,2015-08-10 05:32:54,68:ef:0c:ab:cb:20,Africa/Lagos,"Hopkins, Perkins and Carpenter",48.2931095,"$96,398.98",Buckleyland,Samoa,-108.917959,ro,51448870,GB,1989-01-01,web-42.patel-patel.biz
+00:23:54,1990-04-06 10:21:31,69:a3:34:fc:54:5a,Europe/Helsinki,Kay-Francis,54.903132,$140.61,Elizabethhaven,Bouvet Island (Bouvetoya),-39.313654,be,737392574,GB,1974-06-25,lt-11.hussain-dixon.net
+20:56:17,2002-12-26 17:25:32,0f:af:f7:85:6d:2f,Europe/Luxembourg,"Jones, Bailey and Shepherd",-42.208135,$279.76,Danielborough,Spain,34.177272,se,1,GB,2017-01-01,db-80.read.com
+05:02:27,1999-02-13 01:25:12,c6:b0:6e:23:f7:10,Asia/Kabul,Stewart and Sons,-77.141084,$4.68,Jarvisside,Nigeria,-71.232936,ml,9658,GB,2012-06-27,email-93.slater.net
+16:05:06,1997-07-21 17:15:29,0c:40:83:29:90:4e,Africa/Ouagadougou,Rowe Inc,35.909610,$3.43,North Timothy,Belize,-20.148628,sat,22203615,GB,2019-04-21,db-99.poole.org
+04:33:41,1974-11-12 11:39:37,36:32:06:31:72:c8,America/Nassau,Parker and Sons,-1.6930145,$683.51,Lake Amberburgh,Benin,-163.394992,cv,30,GB,2022-08-11,laptop-64.clements.com
+10:28:38,2021-05-04 19:26:31,5a:bc:4a:c2:9f:ac,Asia/Bangkok,Hutchinson-McCarthy,-12.884565,"$24,289.41",Jonesmouth,Paraguay,121.720764,wa,19859,GB,1976-09-07,web-15.hunter.co.uk
+11:55:44,1986-05-31 23:08:36,bd:c7:fd:1e:53:ed,America/El_Salvador,"Austin, Fisher and Rowe",-80.2855525,"$7,628.91",Nelsonton,Slovenia,97.128252,ig,98,GB,1976-12-20,srv-79.patel.com
+01:39:52,1995-12-03 09:15:38,e4:64:8d:f0:b8:c8,Europe/Sofia,"Sims, Foster and Lewis",-75.2842295,"$4,682.24",New Charlene,Australia,40.922943,bo,14663768,GB,1980-04-22,email-31.bradley-oliver.com
+11:46:19,1971-12-23 05:51:03,c1:4b:5e:5b:2f:c3,Europe/Skopje,Davies-Barrett,87.751794,"$85,447.62",Lewisport,Belarus,115.213523,tl,40754,GB,2022-10-11,web-46.stevenson.com
+22:30:20,2009-08-20 00:33:51,3c:bd:0d:12:4f:73,Australia/Hobart,"Walsh, Chadwick and Mitchell",-6.148082,$5.64,Louisetown,Lithuania,-160.382342,eu,763350081,GB,1991-11-26,srv-60.richardson-smith.org
+04:46:31,2018-01-03 05:57:32,ce:3a:88:56:e8:dd,Europe/Riga,"Saunders, Wheeler and Bradley",26.509854,"$28,014.34",Geraldinefort,Thailand,-48.417783,ka,163,GB,1980-08-15,lt-58.henderson-harding.net
+19:32:04,1985-07-19 05:59:15,73:7e:b0:dd:72:d9,Asia/Dushanbe,Brown and Sons,71.464549,"$9,873.55",Pearsonfurt,Martinique,139.555235,csb,0,GB,2023-01-01,email-25.patterson-clayton.com
+17:54:38,1987-12-19 13:56:42,1b:4d:47:82:e9:b0,Africa/Maputo,Allen and Sons,24.0151445,$5.14,East Deanstad,Malawi,-88.045329,fo,578426822,GB,1981-03-13,desktop-90.black.biz
+09:27:40,2012-11-25 16:10:39,23:a5:27:83:90:e2,Asia/Kuwait,Power-White,5.452850,"$2,463.81",West Lauren,Somalia,-103.507612,fr,502675,GB,2006-07-16,desktop-77.wall-bryan.info
+05:40:51,1990-06-24 08:07:40,8e:0d:8d:84:52:48,Africa/Libreville,Martin and Sons,-50.6110725,$696.87,West Adrianberg,Turkey,-81.244313,fo,6,GB,2009-01-31,db-71.owen-brown.com
+23:21:15,1977-07-24 15:42:40,dc:58:c6:a2:32:2d,America/Dominica,"Evans, Brooks and Thomas",8.6090885,$23.25,Owensland,Ghana,-14.210636,it,80285771,GB,2006-03-21,lt-79.gill.info
+12:54:21,2004-10-29 03:46:04,f3:76:73:cc:9e:e2,Pacific/Tarawa,Lee-Griffiths,25.6053265,$360.63,Port Elliott,Poland,25.229068,hu,558550168,GB,2017-11-16,laptop-49.mistry.biz
+06:26:28,2007-01-04 05:40:39,1a:58:ac:e0:37:da,America/Grenada,Smart-Howell,54.8685375,$25.89,Port Colinstad,Tuvalu,105.151392,tn,0,GB,1972-08-26,srv-72.clements.com
+12:01:18,1980-04-26 20:13:44,b9:f6:c1:3f:05:c1,Africa/Accra,Wade-Robertson,36.101815,$201.07,Lydiaborough,Montenegro,55.471288,quz,77,GB,1988-03-11,db-16.mckenzie-phillips.net
+10:05:13,1970-11-23 17:00:26,9c:53:1e:80:9a:37,America/Nassau,Gould-Evans,2.1035295,$6.79,Raymondside,Djibouti,-161.665802,iw,95,GB,1999-07-15,srv-72.hill.com
+12:41:29,1986-08-15 09:54:19,c7:8b:f7:2f:a8:d8,Europe/Luxembourg,Phillips-Williams,85.273089,"$38,851.33",Jonathantown,Faroe Islands,108.431424,iu,8510,GB,2009-04-08,laptop-74.hutchinson.com
+18:06:22,2016-01-30 17:37:31,f8:f2:f8:f2:c5:70,Asia/Manila,Rogers Group,25.5174645,$588.12,East Alan,North Macedonia,42.976566,mag,4683,GB,1984-04-25,db-35.simpson-james.com
+03:18:45,1988-01-12 05:34:37,10:8c:70:47:d3:9f,Africa/Nairobi,Davies Ltd,73.5275225,$8.82,New Judithfurt,Papua New Guinea,145.275116,en,76,GB,2023-05-08,srv-55.chadwick.net
+20:33:22,1974-10-31 06:16:34,cd:82:82:b8:18:e3,America/Guatemala,"O'Sullivan, White and Ryan",35.4998925,$128.26,Mohammadmouth,Germany,29.268182,yo,80662,GB,1984-02-05,web-29.white.com
+01:43:47,2020-03-23 03:20:24,16:bc:ae:a8:61:00,Africa/Niamey,"Hayes, King and Hudson",-3.9392195,$390.83,West Janet,Isle of Man,117.743646,unm,6179,GB,1992-05-08,desktop-34.potter-richards.com
+14:48:47,2004-04-14 22:44:25,fa:93:c7:b9:7b:8d,Pacific/Efate,Richards-Fox,-5.614017,$65.09,Port Lee,Samoa,63.516902,ur,9,GB,1986-10-21,db-45.gibson-kennedy.com
+04:46:39,2005-09-10 13:06:54,a3:65:9d:39:50:2a,America/La_Paz,Saunders and Sons,87.9201915,"$4,163.65",Sheilachester,Somalia,18.673615,de,326894825,GB,1994-09-17,web-17.jones.org
+00:35:24,1979-12-16 04:09:44,72:06:0c:d4:7a:a4,Africa/Libreville,Sheppard LLC,-30.061498,"$8,119.57",Chelseachester,Norfolk Island,-20.377494,tk,7223108,GB,2023-07-28,web-45.hale.com
+23:40:13,1988-01-19 18:36:08,90:ef:e6:f3:f8:30,America/Jamaica,Jenkins Inc,14.610548,$97.14,Port Elizabeth,Mauritania,-138.328696,ml,60667,GB,2013-06-05,lt-75.henry.biz
+19:05:37,1995-03-12 08:41:01,85:52:78:ef:09:22,America/Pangnirtung,Wilson PLC,-4.8931105,$13.04,New Maureen,Benin,-108.658381,raj,887,GB,2014-10-03,lt-44.davies.com
+09:13:10,2018-05-25 22:56:21,95:47:58:07:4a:80,Asia/Thimphu,Jackson PLC,63.904271,$83.04,Callumview,Armenia,-175.761777,ts,639888764,GB,2005-04-16,desktop-78.pickering-stewart.com
+18:54:14,1999-05-16 11:06:59,cf:2b:b9:81:92:42,Europe/Dublin,Elliott and Sons,71.5569695,$3.38,Tylerfort,Jersey,-99.465091,sd,83,GB,2010-10-24,lt-51.stone-webb.biz
+01:54:27,1973-05-15 12:53:28,9e:b5:7b:04:53:e5,Africa/Johannesburg,Phillips-Morgan,-34.1948945,$471.19,Lake Marcus,Sweden,145.282348,sv,1,GB,1982-10-03,db-09.bailey-law.org
+13:05:13,2014-10-19 00:50:04,6c:e5:b8:4e:a8:88,Europe/London,"Todd, Hughes and Thomas",-1.268117,"$9,251.73",Vincentshire,Indonesia,19.104864,af,81,GB,1982-02-28,email-50.griffiths-collins.com
+22:54:13,1974-02-04 08:10:19,37:cf:7a:85:52:b1,Africa/Sao_Tome,"Kennedy, Goodwin and Burton",35.738594,"$97,472.91",North Albertside,Tonga,111.909962,om,61138,GB,2012-07-01,email-17.phillips-wilson.com
+18:34:45,1997-07-29 12:13:44,cb:fe:96:50:cc:0d,Europe/Zagreb,Kirby-Wilson,36.047535,$24.32,Lake Nathanfurt,Samoa,-139.732739,ts,24,GB,2003-04-03,laptop-62.wilkinson.com
+15:46:13,1997-06-29 10:12:21,ff:3d:51:c7:49:35,Africa/Banjul,Turner Ltd,89.5045635,"$2,373.98",New Nigelview,Netherlands Antilles,-172.803359,en,84,GB,1981-02-06,db-22.holloway.net
+11:23:15,2009-12-29 06:37:43,14:92:58:b4:49:1c,Europe/Rome,Kelly-Evans,2.4845555,$59.72,West Jacobmouth,Sri Lanka,-170.697048,wa,84494,GB,1989-09-29,srv-64.clark-davis.biz
+20:00:20,2017-01-07 15:28:45,40:b4:53:e1:11:7c,Africa/Addis_Ababa,"Turner, Shepherd and Middleton",5.1481925,$11.57,Daviesfurt,Isle of Man,11.161593,st,83417734,GB,2014-10-10,laptop-37.french.com
+06:55:06,2019-05-31 22:41:28,23:c6:58:4d:92:40,Asia/Hovd,Harvey-Hilton,-15.9954885,$34.71,Stevenside,Spain,105.666582,ms,6430,GB,2005-05-15,desktop-19.hopkins.com
+01:57:59,1975-08-10 23:47:25,73:49:e5:2c:6f:a2,Pacific/Fiji,Willis and Sons,34.7145725,"$3,450.91",Glenview,Sierra Leone,-54.859343,da,99219333,GB,1985-04-26,db-36.wright-kaur.com
+05:24:56,1984-08-22 12:09:05,ff:7e:8a:20:ae:eb,Africa/Dakar,Bowen PLC,-51.4831795,$389.75,Allenchester,Norway,146.755387,pa,218241,GB,2011-10-30,db-63.rogers-burton.com
+05:00:21,1988-10-12 05:50:35,fc:ec:f5:1a:69:be,Europe/Sofia,Newton-Willis,-14.919580,$47.41,West Bethville,Norway,34.979012,as,53623,GB,1990-06-05,laptop-49.singh-rose.info
+17:08:47,2023-03-14 17:31:43,83:4a:b8:a3:7a:54,Africa/Lubumbashi,James-Jones,63.8048805,$46.10,Perrymouth,Seychelles,-76.254290,unm,38,GB,1978-10-31,desktop-02.middleton.com
+14:21:14,1991-01-23 16:10:20,4c:27:d0:f2:06:16,Africa/Tripoli,Roberts LLC,-88.8890585,"$9,530.42",Emmaview,Guadeloupe,-70.375983,mni,365193,GB,1974-03-05,laptop-77.bibi.com
+14:20:46,1996-11-03 00:23:37,db:72:3a:2a:23:bc,Asia/Katmandu,"Roberts, Turner and Howard",-64.083134,"$39,035.48",Port Abigailton,Barbados,-29.647458,yo,2914,GB,1993-03-21,web-28.jackson.com
+05:43:06,1971-11-25 20:44:26,94:a5:78:4f:85:43,Africa/Lagos,"Lee, Bailey and Davis",-69.129034,$702.51,Jonesmouth,Pakistan,-170.169555,ff,37366353,GB,1997-06-06,email-57.jackson.info
+03:35:21,1979-08-15 13:10:23,30:48:d6:54:36:7b,America/Paramaribo,Field LLC,23.724157,$66.76,Murphyside,Georgia,-130.018852,sq,4,GB,2022-08-27,lt-92.smith.com
+01:03:37,1974-03-01 12:18:15,2b:0f:9c:b6:c5:c0,America/St_Vincent,Dobson Group,-26.090101,$410.65,Hawkinsmouth,Egypt,-133.607994,kw,460574114,GB,1990-07-24,web-75.middleton.net
+10:40:44,1972-05-24 12:01:48,09:a6:fa:40:92:1b,Europe/Luxembourg,"Evans, Bell and Morris",-13.6205915,"$64,014.78",Pughside,Bulgaria,-32.840844,ro,0,GB,1997-10-20,web-98.owen.com
+12:16:43,1983-01-14 04:19:58,6c:cf:be:1f:0d:cb,Europe/Sofia,Brennan-Lewis,78.5554895,$2.02,New Karl,Argentina,136.729402,mni,987951,GB,2010-09-20,lt-97.wilkinson.com
+04:45:49,1979-03-19 05:58:11,be:d4:5b:08:6e:9b,Europe/Andorra,"Shepherd, Patel and Lawrence",78.7452785,$4.15,Kirkside,Vanuatu,112.680184,fi,5410652,GB,1997-09-04,laptop-64.collins.org
+06:56:54,1996-03-06 09:47:08,ae:b2:48:21:34:91,Africa/Gaborone,Stephens Ltd,19.505709,$3.01,Alexport,Angola,138.435887,bem,6341628,GB,1970-10-08,srv-11.sykes.com
+02:38:14,2001-02-12 06:23:01,a8:b7:f9:84:ed:34,Africa/Maputo,"Edwards, Burns and Simpson",56.356718,$11.92,Forsterbury,Malaysia,-103.896275,fa,43,GB,1977-01-12,web-38.bowen.org
+06:00:01,2000-09-17 09:39:56,7e:3e:9d:5f:43:23,America/Santiago,Mills LLC,-35.493520,"$25,724.39",North Marieshire,Comoros,-73.108246,unm,61610,GB,2011-07-15,lt-60.john-oconnor.org
+02:28:24,1982-07-31 15:05:06,98:86:7e:f0:3d:68,Africa/Kigali,Richards and Sons,-69.4025025,$91.10,New Christian,Croatia,27.665112,ik,532,GB,1998-03-05,lt-45.williams.com
+19:38:48,1980-06-23 22:06:28,dd:46:f5:80:fc:8f,Asia/Almaty,King-Payne,-62.813706,"$25,461.55",Pamelaberg,Guadeloupe,101.617920,ms,804868675,GB,1972-11-10,db-46.griffiths-price.com
+12:04:00,2017-06-20 16:28:38,d0:da:ee:c6:32:c7,America/Montevideo,Johnson-Turner,-8.005910,$0.37,Port Valerie,Sweden,73.094983,cs,4114601,GB,2017-10-28,lt-88.wong-clark.com
+23:15:48,2020-09-11 09:46:10,7a:67:da:b8:4c:b5,Europe/Malta,Thomas Inc,-39.1606225,$264.93,Fionamouth,Saint Pierre and Miquelon,37.396435,ha,72173331,GB,1995-11-11,db-44.griffiths.com
+01:45:44,2013-05-01 06:28:00,2d:35:6d:a1:dd:3f,Asia/Nicosia,Whittaker-Gibson,-20.435249,"$3,206.29",New Graceview,Grenada,-60.761517,eu,88,GB,1975-10-18,laptop-53.vaughan-russell.com
+05:46:20,2015-04-06 10:13:44,9e:ab:ed:7d:c1:00,Asia/Jakarta,Smith PLC,-59.3684395,$20.83,West Chloetown,Mauritania,-144.513088,mt,845038,GB,1973-04-17,laptop-11.warner.org
+00:49:09,1974-10-29 17:36:07,2f:28:ff:ad:30:e0,Europe/Monaco,Holden-Atkinson,7.961475,"$2,145.40",Kerryburgh,Jordan,-10.851314,kn,34347,GB,1990-01-02,srv-87.robinson.info
+13:04:58,2023-08-05 21:58:38,20:2f:6c:24:3f:cf,Africa/Sao_Tome,Harris Inc,7.7610205,$290.03,Lesleymouth,Luxembourg,-41.825565,hne,826617,GB,1987-12-10,desktop-59.parsons.net
+01:27:26,1978-05-01 13:23:31,1e:5a:20:62:da:d4,America/Caracas,"Whitehead, Taylor and Carroll",-36.722281,"$3,794.27",South Megan,Mayotte,-59.147865,mai,19,GB,1978-04-21,desktop-23.simpson.info
+07:01:49,2005-03-17 09:18:44,0b:42:e9:39:e4:9e,Pacific/Fiji,Owen-Wright,64.6121405,"$3,240.12",Leonmouth,United States Virgin Islands,-151.300809,os,62825814,GB,1970-04-27,srv-64.gill.co.uk
+10:17:57,1994-02-20 12:07:01,54:4d:dc:bb:f2:ce,Pacific/Guadalcanal,Simpson Ltd,55.248450,"$7,752.70",North Philip,Georgia,28.987590,da,185310,GB,1994-08-13,email-46.ford.com
+10:12:58,1972-05-08 00:25:14,16:82:f0:61:6d:db,Pacific/Fiji,Clark-Porter,16.378044,$676.77,Ryanshire,Kuwait,49.425821,en,51321,GB,2016-01-02,db-47.austin-poole.org
+05:58:43,1992-11-02 23:08:07,1f:9d:e1:0f:37:6f,Europe/London,"Morgan, Howell and Burke",-9.640258,"$84,596.87",West Jenna,Syrian Arab Republic,35.480711,nhn,4245781,GB,1987-12-08,db-13.reeves.info
+20:36:12,2011-08-16 05:32:47,ae:ee:16:db:26:bf,Europe/Oslo,"Matthews, Hewitt and Dunn",-83.2085265,"$65,810.97",South Alan,Belarus,136.767152,rw,22,GB,2000-09-20,desktop-31.smith-pritchard.com
+04:13:01,2023-05-06 11:14:12,94:03:b3:dc:0e:f7,America/Argentina/Rio_Gallegos,Adams-Richardson,39.3305035,$397.06,Jadeberg,Kuwait,-132.136426,sq,539892979,GB,2017-05-08,lt-51.morris.com
+11:12:48,2014-09-30 03:23:40,a1:3b:e6:f0:b8:be,America/La_Paz,Kirby-Lawrence,-30.1775705,"$7,460.23",North Barbarabury,Bolivia,105.126985,mni,36660,GB,1992-10-23,web-52.jones-jones.co.uk
+16:58:12,1988-05-12 18:19:31,23:4d:05:27:65:ba,Africa/Ndjamena,Begum-Gallagher,-76.084801,$9.28,New Rachelhaven,Kiribati,-134.299327,lv,1260527,GB,2021-01-26,db-06.parry.info
+07:33:20,2012-11-01 18:04:36,f1:4c:b8:78:52:f8,Asia/Tokyo,Wright Group,-46.8436875,$268.77,West Royhaven,Russian Federation,10.642904,si,7536158,GB,1980-11-30,lt-50.armstrong.com
+05:18:31,2020-10-29 08:28:20,53:e1:31:6a:c1:6c,Asia/Manila,Black Group,-70.298320,$795.50,Glenmouth,Mozambique,-59.449423,bhb,64191,GB,2016-12-30,email-08.russell.info
+08:40:16,1978-08-05 13:38:12,2f:7f:0c:74:7b:a3,America/Montevideo,Patel LLC,27.2272955,$8.25,West Robinbury,Somalia,9.764119,az,405761,GB,1981-04-20,srv-07.myers.net
+21:16:26,1987-11-18 05:19:24,ce:6b:55:ee:20:1b,Asia/Taipei,Lewis-Wright,59.642406,"$2,306.69",South Vincent,Slovenia,-87.537756,br,9065,GB,2002-06-08,srv-29.palmer.info
+22:41:31,2003-12-01 23:51:23,ee:ec:04:e1:30:dc,Europe/San_Marino,"Pearson, Porter and Baxter",-71.0198505,$1.37,Lake Sophiefurt,Belgium,-75.813375,ks,7194601,GB,2017-01-11,email-28.fisher.com
+17:16:59,1971-07-10 01:31:26,af:c7:17:3e:43:ff,Pacific/Chatham,"James, Bell and Ford",32.158239,"$57,060.55",North Rhys,Pitcairn Islands,11.250416,unm,71,GB,2009-11-04,email-04.lloyd.com
+21:24:41,2020-02-14 13:42:44,4c:b5:63:20:07:ee,Africa/Nairobi,Moss-Powell,-71.4886405,$61.39,Dalyside,Algeria,145.847822,fi,97,GB,2015-02-06,laptop-29.tomlinson.com
+06:58:31,2004-09-25 01:05:33,1d:ba:eb:84:0b:fe,Asia/Tehran,Fletcher Ltd,26.279865,$4.01,East Stuart,Mali,-153.015984,he,8,GB,1980-02-15,web-87.morgan.co.uk
+03:07:24,1991-12-18 15:02:45,18:ac:43:33:a4:3a,Pacific/Enderbury,"Bailey, Hall and Robinson",8.3924475,$45.60,North Barry,Tonga,-131.825416,nso,7,GB,2013-09-06,lt-91.king-shaw.org
+14:49:32,1989-10-19 18:57:29,e5:82:39:fe:9c:9d,Africa/Tripoli,Francis-Smith,-88.2447475,$36.83,East Ireneside,Romania,-128.777869,et,723035,GB,2001-08-08,desktop-19.hall.com
+05:55:15,1977-06-24 18:54:42,9f:69:ae:36:38:3e,America/Kentucky/Monticello,"Davis, Akhtar and Carey",83.4786775,"$6,746.41",New Shirley,Oman,-130.936938,tl,6190,GB,1972-11-21,desktop-12.barnes.net
+15:56:20,1978-08-27 09:19:38,f1:48:5e:3d:d9:a0,America/Belize,"McKenzie, Mills and Sullivan",-21.516452,$52.98,Paulstad,Belarus,-128.294922,ga,745748405,GB,2021-12-11,srv-55.harris.info
+13:32:32,1988-03-01 11:28:41,c0:40:77:a2:71:b9,Pacific/Apia,"Wood, Martin and Walsh",78.7602885,"$8,321.75",West Danieltown,Madagascar,-119.477396,sid,692,GB,2010-06-26,laptop-20.thomas.com
+12:28:09,2018-02-04 11:11:45,9a:e2:e7:85:82:eb,Africa/Djibouti,Randall-Browne,29.979438,"$56,099.37",Geoffreyville,Guatemala,-127.216438,pa,29,GB,1997-12-10,srv-87.williams.com
+08:49:44,1979-12-02 11:00:15,27:bb:59:55:e3:06,Africa/Harare,Davies-Alexander,-65.694314,"$6,110.66",East Louiseview,Switzerland,70.872473,ko,91,GB,1974-04-07,email-00.oconnor.com
+13:46:43,1979-07-27 03:50:14,5c:ba:4b:9e:d3:70,Europe/Berlin,"Kay, Smith and Bryan",-23.1998245,$722.56,Geoffreyburgh,Nigeria,72.081054,el,448377121,GB,2011-09-27,web-84.blake-martin.com
+19:41:01,1974-08-20 16:01:55,21:bf:d3:c4:e4:2c,Pacific/Efate,Rowe PLC,-85.0803935,$72.04,Smithfort,Vanuatu,-50.326959,wae,8100,GB,2013-01-18,email-33.mitchell-reed.co.uk
+12:07:55,2009-01-26 09:12:44,e0:69:cf:d3:ec:ff,Asia/Thimphu,"Brown, Johnson and Flynn",-47.8832555,$9.18,East Paigeland,North Macedonia,173.026386,ur,71,GB,1996-06-25,desktop-53.barnes-bull.com
+17:28:24,1992-11-08 03:08:32,09:e9:90:8e:1b:4a,Indian/Mauritius,Lee-Saunders,-0.4506145,$450.79,Neilmouth,Cameroon,-78.534505,vi,15998018,GB,2001-03-14,db-45.collier.com
+14:54:36,1989-03-14 06:16:26,a1:be:c3:44:52:97,Europe/Luxembourg,"James, Edwards and Watson",47.075843,"$6,406.75",Phillipstown,Bhutan,-99.318256,os,349,GB,2020-10-07,desktop-54.scott.org
+06:55:52,1981-10-07 12:28:32,7c:53:92:9c:f1:6e,Africa/Ouagadougou,Lawson-Archer,-7.1434915,$427.03,Wallchester,Norway,-171.208178,mr,4229,GB,1989-07-27,lt-61.giles.com
+19:53:37,2015-12-09 14:35:38,cb:fa:60:56:33:e7,Europe/Skopje,Thomas and Sons,87.2537635,$378.72,Port Deanstad,Guernsey,111.189525,eo,918302,GB,1995-04-20,email-84.smith.com
+09:03:30,1971-03-15 13:07:52,b8:9d:b3:4d:48:71,Africa/Libreville,Dennis-Jones,41.3381455,$15.68,East Bradleyton,Belarus,121.091691,ur,11907691,GB,1994-01-26,srv-31.williams-harris.com
+21:45:19,1985-04-19 03:04:06,e9:c4:7c:fb:5f:06,Asia/Damascus,"Harris, Rice and Jones",51.085216,$6.21,Matthewsmouth,Timor-Leste,155.852606,mn,14300688,GB,2009-03-11,lt-17.payne.com
+04:33:50,2011-08-21 01:42:52,07:20:5c:9b:48:25,Africa/Lome,Barber-Hughes,-1.6685475,"$76,339.49",Ahmedville,Tanzania,-131.941274,wal,93610239,GB,2002-10-15,srv-69.cross-evans.info
+18:03:01,2012-11-05 10:53:15,64:86:34:f7:46:a6,Atlantic/Azores,"Atkinson, Allan and Wilson",9.7732025,$65.20,North Bryanfort,Cook Islands,64.163376,wae,52704032,GB,1970-04-22,srv-09.lamb.org
+15:22:38,2012-01-13 03:24:01,f6:ad:ad:e3:db:cc,America/Paramaribo,Mann-Parsons,17.6122095,"$89,481.00",Clarkefort,Mali,131.350848,lt,321305,GB,1986-10-30,web-43.west.com
+16:37:20,1973-05-14 01:30:18,5f:08:86:0b:a3:d4,Africa/Banjul,"Hopkins, Fuller and Nicholls",9.635760,$229.87,New Ronaldton,Algeria,-93.469484,nds,15,GB,2013-03-09,lt-19.brown.com
+17:28:00,1992-08-25 21:21:12,50:e6:68:27:18:82,Asia/Tbilisi,Matthews-Sinclair,63.268101,"$5,061.08",Port Alexandrastad,Saint Barthelemy,141.527814,bho,2935843,GB,1972-09-28,web-77.johnson.net
+02:41:25,2002-10-26 16:31:00,5d:29:5a:2d:5a:d4,Asia/Dili,Harvey LLC,74.2402005,"$6,498.22",Barretttown,Liechtenstein,-36.317721,sl,47,GB,1985-02-17,desktop-34.goodwin.com
+13:42:28,2019-03-26 05:53:14,7d:c4:45:7a:2a:31,Indian/Antananarivo,King and Sons,-25.4602705,"$6,578.43",New Stephanie,French Guiana,168.571030,ru,75413,GB,1992-03-13,srv-87.brown-roberts.org
+18:50:37,2016-12-11 07:11:41,33:6e:5d:5a:51:07,America/St_Lucia,Porter Ltd,-15.532630,"$64,083.01",Port Lynnefort,Armenia,125.614811,gl,9059,GB,1994-11-22,web-03.allen.org
+06:56:10,1984-11-30 07:28:19,16:1c:8f:84:60:f7,Africa/Freetown,Russell Group,-85.8949155,$537.61,New Graham,Finland,50.889440,tk,159856750,GB,1985-08-05,srv-57.thompson-jones.org
+11:26:19,1980-05-16 08:57:26,cc:70:69:78:cc:31,Africa/Gaborone,Sheppard PLC,21.941160,$787.08,Edwardmouth,Vietnam,145.027463,pt,374666561,GB,1979-01-29,email-68.martin.com
+18:51:56,1995-06-19 16:13:48,da:b8:12:e7:cf:9f,America/Nassau,"Evans, Cunningham and Smith",51.3572295,"$97,854.50",Lukeberg,Isle of Man,-116.303393,hy,1244314,GB,2003-01-21,srv-52.griffiths-hudson.com
+10:04:44,2013-08-18 16:53:51,41:3b:a2:be:2d:1d,Europe/Skopje,"Preston, Stone and Jordan",-53.3497185,$17.81,Stewartport,Nauru,-84.338381,shs,99962,GB,1999-10-10,laptop-79.osullivan.org
+09:45:48,1994-11-04 03:14:22,2f:6d:2b:be:93:cc,Asia/Gaza,Dobson-Field,1.800573,$56.66,New Davidfort,Andorra,-134.990521,is,422,GB,1991-04-18,desktop-66.lee.org
+21:04:05,1977-09-15 21:48:52,5a:dc:f2:e7:1b:8a,Asia/Nicosia,"Hamilton, Martin and Bates",76.016362,$0.36,Francisburgh,Timor-Leste,9.424112,hy,85,GB,2006-10-01,web-51.henderson.net
+05:50:13,2023-05-11 14:10:52,03:7f:a9:06:12:12,Europe/Stockholm,"Evans, Gibbons and Roberts",24.8399475,$45.59,East Sallyton,Heard Island and McDonald Islands,-98.655466,doi,482358,GB,1988-08-23,lt-51.williams.com
+23:01:09,1999-06-12 10:23:04,fa:63:a2:fa:38:46,America/Panama,"Dodd, Williams and Chandler",-52.9836995,"$37,000.85",Meganmouth,Denmark,95.795613,ht,98,GB,2022-10-31,web-70.ryan.org
+19:56:38,1994-06-19 13:01:00,8f:3b:f3:7b:02:f7,America/Santo_Domingo,Vaughan Inc,-23.432140,"$1,697.93",New Gregory,Thailand,161.233701,ha,36935,GB,2019-08-26,laptop-13.murray-frost.com
+06:07:26,1989-06-26 16:08:37,db:47:fe:b0:6d:e5,America/Santo_Domingo,"Hanson, Ellis and Singh",1.554204,"$8,195.59",Charlenefort,Israel,108.803384,nr,9769296,GB,1992-02-17,srv-08.holland.biz
+08:21:03,2007-06-12 19:40:57,80:25:5b:25:c4:cf,America/Panama,Birch-Williams,72.914352,$964.24,Rosieview,Belarus,31.725188,so,707,GB,2006-08-15,srv-72.jones-hall.com
+06:15:54,1982-02-03 19:47:17,5a:50:3d:18:57:b7,Europe/Amsterdam,Hughes-Patel,-50.415766,$94.54,New Kyle,Norfolk Island,-176.514004,om,2564262,GB,1998-11-29,email-05.webster-coleman.com
+09:05:06,1978-09-09 12:28:24,65:99:1d:45:3d:d3,America/Indiana/Vincennes,Taylor Inc,-68.3155805,$4.16,North Amymouth,Faroe Islands,159.887892,ku,70,GB,2021-01-26,email-32.tomlinson-smith.biz
+19:40:48,1985-05-18 08:18:46,e7:49:eb:1d:c6:0f,America/Paramaribo,Wilson LLC,-14.5115295,$935.28,Alisonshire,Bolivia,-126.967662,fo,58,GB,2020-04-27,db-61.davies-hill.com
+02:42:04,1976-10-17 22:31:37,f9:72:31:79:5b:a3,Africa/Freetown,Miller LLC,72.994316,$510.75,North Ben,Malta,147.300179,mai,250499744,GB,2000-01-12,web-03.smith.net
+15:47:57,2010-03-21 15:20:10,7b:39:e9:c0:1b:7d,Asia/Ulaanbaatar,"Grant, Clarke and Parry",-45.067541,$6.51,East James,Sweden,-12.997499,hy,2,GB,1986-05-25,email-95.henderson.biz
+16:24:50,2022-07-10 19:27:07,5c:a1:1c:23:2d:97,Africa/Luanda,"Smith, Evans and Doherty",42.5590885,$9.63,Khanmouth,Niger,161.245506,my,6976072,GB,2014-03-20,srv-41.turner.info
+10:25:37,1981-06-26 14:23:51,13:67:62:57:19:35,Africa/Luanda,"Stewart, Shaw and Thomas",0.395845,"$49,755.09",Gracebury,Heard Island and McDonald Islands,-27.480929,ik,444755970,GB,2011-04-27,lt-53.peacock.com
+09:42:01,2005-12-02 00:57:49,84:9d:e5:59:8b:df,Africa/Tunis,"Cox, Mellor and McDonald",-58.086690,"$34,439.03",New Emilyhaven,Kyrgyz Republic,-52.277492,mn,4116,GB,1979-01-09,desktop-40.nolan.org
+01:27:12,1975-12-04 07:25:45,e3:dd:85:60:ff:ea,Asia/Jerusalem,Barton-Wilson,-14.2546755,"$13,703.75",Sianport,Kyrgyz Republic,43.864989,si,3,GB,2011-06-25,laptop-15.woods.com
+09:24:57,2006-05-16 08:51:36,d7:46:81:01:78:53,Asia/Nicosia,Chambers PLC,40.5878235,$2.64,Leslieton,Eritrea,-18.942607,gv,9,GB,1997-11-18,srv-13.lee.com
+12:38:48,1997-06-09 09:15:40,a8:c2:23:06:8b:50,Africa/Harare,"Evans, Chambers and Carter",-28.224063,"$16,183.10",Thomasside,French Polynesia,178.092148,tig,509344986,GB,2014-06-27,db-20.saunders-davies.com
+09:22:05,2006-10-16 16:25:13,f1:7f:c8:17:0a:9c,Asia/Amman,"Harris, Powell and Evans",79.887564,"$5,564.26",Wilsonborough,Antigua and Barbuda,-41.752684,fy,3520800,GB,1995-02-03,lt-75.wood-nelson.net
+01:45:37,1992-03-17 01:08:23,b0:45:1f:35:57:b0,Europe/Skopje,"Thomas, Fox and Reynolds",16.8052405,$0.97,Ricemouth,Maldives,145.688769,tr,1,GB,1971-04-15,desktop-18.oconnor.org
+21:42:50,1996-10-24 19:14:01,4b:56:e3:0c:49:65,Asia/Hebron,"Lewis, Foster and Yates",17.7714325,$3.51,Hughesport,American Samoa,-133.846768,cmn,10,GB,2006-11-20,laptop-73.wood.com
+19:03:57,1971-07-25 19:49:17,e3:8c:f5:76:90:78,Asia/Vientiane,"Parker, Reid and Hughes",88.800166,$534.35,West Norman,Russian Federation,102.235324,dz,54108,GB,1987-07-22,laptop-80.read.com
+03:02:00,2014-11-20 16:28:16,1e:55:db:2f:dc:c2,Europe/Stockholm,Bolton-Phillips,-36.1528895,"$2,616.08",Christianland,Papua New Guinea,140.293888,mag,0,GB,1984-05-12,laptop-06.holmes-crawford.com
+01:15:15,1996-06-01 09:25:52,2c:1e:03:64:46:04,America/Nassau,Webb-Hall,-7.953218,"$41,167.09",West Colin,Afghanistan,130.438819,fil,94369554,GB,1989-01-25,db-30.wood-ryan.org
+14:49:46,1980-06-10 16:57:06,28:9b:30:bb:45:af,America/Nassau,George and Sons,-30.081163,"$7,711.96",North Teresa,Puerto Rico,122.738033,pap,0,GB,2016-04-06,srv-09.russell.info
+14:53:33,1994-01-16 07:19:03,dd:8e:69:53:b0:35,Europe/Istanbul,"Walters, Stephenson and Moran",-69.368397,$8.88,Jonesburgh,Ethiopia,28.372421,sk,28893,GB,1987-08-02,lt-98.smith-duncan.org
+07:32:08,1984-04-16 16:09:01,c2:df:ad:a3:f2:0e,Pacific/Palau,"Elliott, Short and Mason",-87.3732705,$6.51,Declanburgh,Nauru,-18.459785,nso,9771,GB,2001-04-12,web-54.jennings-dunn.com
+09:28:01,1982-03-19 23:05:46,ba:24:46:d9:46:f1,Australia/Melbourne,Patel Group,67.9505165,$84.50,East Jessicaborough,French Guiana,-166.972175,hne,8329,GB,1999-07-11,web-75.taylor.co.uk
+15:33:01,2013-08-16 18:39:26,2e:d4:83:c4:df:61,America/Dominica,"Knight, Morris and Myers",-28.3241345,"$5,650.16",Royfort,Myanmar,-122.782191,ar,4146684,GB,2021-05-01,laptop-24.jones-payne.com
+18:54:38,2015-12-30 22:37:14,27:6f:1c:a7:6e:c9,Africa/Djibouti,Cunningham-Armstrong,-27.514786,"$2,458.11",Lake Erichaven,Heard Island and McDonald Islands,-22.907810,kw,4063,GB,2004-02-15,srv-02.williams-barlow.net
+08:17:08,2002-05-18 05:33:29,83:67:c4:9b:ec:ee,Europe/Athens,Harris-Hawkins,-83.3299225,$761.83,South Stanley,Costa Rica,170.688466,mt,1,GB,2014-04-15,laptop-99.harrison-marsh.info
+19:24:46,2014-03-08 14:10:51,0b:b7:17:7e:d6:5d,Indian/Antananarivo,Doyle-Porter,34.9382335,"$7,793.79",Elaineton,Turkey,39.079891,et,743,GB,1995-10-19,desktop-77.marsh.com
+10:59:51,2006-05-04 14:07:12,ce:42:78:22:4e:68,Africa/Brazzaville,Evans LLC,-47.9576185,$59.24,Lake Bryanhaven,Switzerland,95.751444,ar,144,GB,1983-01-28,email-23.flynn.com
+16:53:09,1987-07-27 11:01:21,e9:c1:9c:53:d6:d3,Africa/Johannesburg,Morgan PLC,-89.964482,$8.44,Katieburgh,Slovakia (Slovak Republic),-147.403057,ta,4,GB,2013-10-14,srv-33.adams-hill.com
+21:17:15,2002-01-09 14:27:41,0a:ba:71:da:a7:40,Asia/Amman,Cook Ltd,-45.284048,$23.04,South Michellemouth,Mexico,-89.167343,nan,814849055,GB,2014-03-04,laptop-37.fletcher-harrison.com
+11:10:49,1994-10-06 15:41:35,dc:3e:7d:54:99:92,Indian/Comoro,Alexander-Burrows,-77.7504705,$544.78,Fowlerborough,Sao Tome and Principe,161.686651,be,626908,GB,2018-02-06,srv-27.marsh-hargreaves.com
+18:31:49,1995-08-24 21:57:19,6b:ce:85:db:27:67,America/Asuncion,Allen-Ward,-25.227326,"$3,020.83",Frederickview,Anguilla,127.139052,da,83,GB,1979-10-01,db-46.dawson.info
+23:52:58,2010-11-14 14:08:43,01:43:14:59:8c:85,Africa/Algiers,"Clarke, Barlow and Kelly",-84.3640905,$611.02,East Gareth,Saint Barthelemy,-146.596191,szl,2297723,GB,2021-09-05,web-11.pearson.info
+22:55:28,1970-12-01 13:28:29,31:05:9c:60:32:6d,Asia/Pyongyang,Wilson Ltd,-3.708096,"$7,534.59",East Amy,Gambia,-114.487772,dv,20924533,GB,2009-02-27,lt-17.ryan.co.uk
+19:16:17,1974-06-20 17:26:46,66:2c:fb:95:b8:2e,Europe/Copenhagen,Browne-Smith,-30.925039,$36.56,Annaside,Saint Kitts and Nevis,143.045455,as,5737,GB,1994-04-19,desktop-47.day.com
+04:39:58,1978-01-27 05:55:40,ac:cd:5f:6f:0f:e0,Asia/Kuala_Lumpur,Sinclair-Fletcher,33.191608,$739.52,West Clairemouth,Swaziland,99.052632,ur,838638924,GB,1994-09-02,laptop-62.richardson.com
+17:33:07,2021-06-26 18:37:33,16:88:83:99:2e:98,Europe/Ljubljana,Edwards-McDonald,-61.7690625,$852.82,West Shaunport,Malta,-38.519276,ti,361088160,GB,1977-12-17,email-62.graham-wood.com
+23:50:46,1996-10-15 07:06:45,19:d7:4a:c7:c7:d2,Africa/Niamey,Payne PLC,45.847127,"$8,137.11",South Brenda,Mali,162.513490,wo,43034,GB,2007-02-27,lt-33.davison.org
+14:44:09,1986-05-13 09:39:52,ea:9b:30:1e:36:cc,America/Tijuana,Ryan-Webb,75.8706405,$44.99,West Barbaraton,Andorra,-154.856725,sid,8,GB,2015-10-30,srv-58.lewis-smith.com
+04:12:50,2014-01-02 05:49:20,5a:89:c8:a7:07:4e,Asia/Beirut,Jenkins LLC,-27.9677865,$73.70,Colinfurt,Faroe Islands,32.940860,apn,695,GB,2007-06-22,desktop-00.gibson-taylor.com
+18:08:08,1987-10-27 00:07:28,55:d9:98:78:cf:61,Africa/Porto-Novo,"Cox, Reynolds and Russell",-2.885532,"$1,992.36",Donaldberg,Ukraine,49.387492,ts,7629,GB,2000-09-06,srv-35.moore.com
+05:33:54,2020-02-17 20:56:32,ec:f5:2c:e0:55:3d,Asia/Vientiane,Reed Ltd,-10.606312,"$78,428.66",North Karen,Korea,135.955561,fur,57397,GB,1991-11-01,lt-02.wood.net
+13:49:39,1986-04-09 10:50:04,f0:03:f2:9e:53:ce,America/Guyana,"Roberts, Mitchell and Craig",85.8391975,"$16,081.64",Littlefort,Namibia,55.300782,ro,7,GB,1979-11-02,web-65.evans.org
+08:19:47,1977-05-21 16:39:00,34:7d:06:85:0b:0f,Pacific/Guadalcanal,"Rowe, McDonald and Begum",28.0863135,$89.28,Benburgh,Antarctica (the territory South of 60 deg S),-29.337688,ht,66802144,GB,2012-02-18,db-07.buckley.org
+02:54:48,1980-04-06 18:11:28,b1:79:51:06:0e:ab,Pacific/Tarawa,"Wong, Booth and Kennedy",-29.983114,$71.80,West Roymouth,Colombia,73.309529,zu,977154526,GB,1988-03-24,desktop-13.morris.info
+13:13:49,2020-07-13 14:05:10,33:b4:1a:5b:ce:05,Africa/Tunis,Davison-Cooke,25.877116,$38.49,West Nicholashaven,Russian Federation,-128.726160,my,674,GB,2012-09-04,desktop-33.butler.com
+15:41:15,1972-01-06 09:12:10,4c:8f:2b:6f:3f:78,Pacific/Auckland,Armstrong PLC,8.577147,$0.25,Melissabury,Timor-Leste,128.217943,ve,411,GB,1997-01-16,srv-54.davis.com
+18:43:53,2013-05-21 14:44:45,de:d4:c6:9c:ea:63,America/Bogota,Wells-Barton,-24.1931975,$17.76,West Stephen,Botswana,-150.718188,gl,604594,GB,2002-11-07,web-10.morgan.net
+03:53:12,2017-09-07 01:58:49,07:1d:3f:a0:76:ab,Asia/Bangkok,"White, Finch and Butler",-56.5405855,$8.69,Milesville,Guadeloupe,0.839296,ast,262,GB,1990-07-30,db-59.cole-brown.com
+16:31:09,2003-09-21 09:32:13,e8:39:e5:9d:2d:fd,America/Nassau,Austin Ltd,-25.120172,"$4,829.08",Caroleton,Uganda,81.129762,mg,573,GB,2012-06-14,laptop-04.edwards.com
+07:27:22,1975-07-19 14:58:02,b3:da:f7:88:c4:ab,Europe/Tallinn,Williams Inc,13.138493,$345.06,West Eric,Oman,159.154994,sid,237,GB,1976-12-09,web-11.abbott.com
+06:38:09,2004-02-06 23:18:41,3b:e9:dc:cd:f9:23,America/Belize,Williams Ltd,1.829794,$5.98,South Valerie,Bolivia,-145.215974,brx,8154876,GB,1989-03-06,email-72.leonard.com
+03:17:45,1992-08-08 22:08:48,58:e8:1d:bf:fa:44,America/Cambridge_Bay,Wood-Fry,-57.626029,$39.00,West Anthony,Djibouti,17.591336,or,589339013,GB,1983-10-31,desktop-19.freeman.com
+10:56:00,1988-10-28 17:22:17,78:d3:77:f0:4d:ea,America/Argentina/Rio_Gallegos,Bryan Inc,-30.060200,"$77,836.47",Russellberg,Turkey,-179.164920,gv,90891,GB,2010-07-14,email-08.smith.co.uk
+06:41:06,2001-04-21 22:38:30,d7:cb:d0:62:f8:ef,Asia/Bangkok,Burns Group,22.8517605,"$82,173.89",Port Ian,Wallis and Futuna,120.743232,uz,65184,GB,2013-03-17,desktop-48.moore-davies.biz
+21:44:16,2006-04-27 10:13:42,4e:ce:59:29:5a:41,Asia/Baghdad,Pearson-Thomas,-24.6907195,"$7,321.97",West Heather,Georgia,83.747257,niu,7231,GB,1995-09-23,lt-28.bibi.com
+10:12:37,2000-10-23 03:09:21,be:e6:6e:2d:70:03,America/St_Lucia,Robinson LLC,27.3676495,$13.15,North Kyle,Congo,-91.514437,az,82866845,GB,1973-07-04,email-29.robinson.co.uk
+08:33:51,1990-03-15 21:00:43,d6:99:71:66:07:15,Europe/London,McDonald Inc,-56.8958495,$0.87,New Maureenchester,Germany,-100.723352,hne,536598574,GB,2021-01-03,laptop-84.gilbert-atkins.com
+18:18:24,1976-01-11 13:43:52,25:a6:1a:fc:fd:61,Europe/Sarajevo,"Griffin, Bray and O'Brien",-45.4967555,$412.46,Hudsonland,Ecuador,-11.968465,ht,707224584,GB,2005-03-19,email-62.wright.com
+10:02:06,2017-03-26 14:10:48,d9:e0:95:47:67:a9,America/Montevideo,Jenkins-Thornton,29.0870305,"$26,051.09",Deborahhaven,Argentina,-58.984422,ff,27246,GB,1994-09-29,lt-50.morris.biz
+12:55:08,1989-09-19 19:20:52,84:4d:e1:0b:35:1d,Africa/Banjul,"Smith, Leonard and O'Connor",-7.389131,$28.45,Port Geoffreystad,Swaziland,81.051897,ar,753428255,GB,1978-12-26,web-73.gregory.com
+03:44:37,1980-03-31 02:43:54,3b:b3:72:6a:5e:01,Africa/Maseru,"Bennett, Taylor and Clark",-53.548295,"$17,472.43",New Stewart,Montserrat,-165.745064,mt,91,GB,1978-10-21,srv-79.hutchinson.org
+20:24:46,2020-02-26 18:10:13,24:fc:4e:c4:52:87,Asia/Yerevan,"Smith, Collins and Woods",4.330782,$453.52,Jamiebury,Bangladesh,-94.131349,oc,72,GB,2023-05-14,db-88.lloyd-burgess.co.uk
+22:51:57,2004-09-27 00:36:57,8f:82:1f:3b:92:a4,Europe/Copenhagen,Morton Ltd,78.320304,"$70,722.59",Port Leonberg,Guyana,43.473713,lij,608358066,GB,1998-03-16,email-91.barber-wright.com
+16:45:35,1973-09-13 03:20:39,bd:6c:3e:85:12:c8,Asia/Thimphu,Knight Ltd,61.418696,$805.59,Lake Naomi,North Macedonia,-51.954215,is,9641063,GB,1995-08-28,srv-25.johnson.com
+01:37:12,2013-05-13 10:40:02,ad:73:f8:c8:c7:32,Europe/Dublin,Taylor-Forster,-60.4119815,$0.15,Lake Deanton,Marshall Islands,84.313860,ko,877993,GB,2018-12-22,desktop-59.reed.com
+13:47:28,2022-03-31 17:00:57,18:ef:95:85:3e:01,Europe/Stockholm,Jones-Carpenter,-69.3163895,$46.83,East Rachelville,Thailand,16.167106,dv,632336780,GB,1978-11-20,web-00.taylor.com
+18:59:04,1976-09-03 13:20:12,a2:63:1c:36:38:38,Europe/Riga,"Smart, Clarke and Smith",-17.1602885,$354.73,Dominicfort,Eritrea,-130.072564,eu,36,GB,1980-11-16,db-30.crawford.net
+22:41:30,1996-06-20 05:51:02,18:76:24:c1:d4:90,Asia/Tehran,Schofield-Taylor,77.3499805,"$3,432.01",Campbellstad,Micronesia,7.801650,ms,9,GB,2019-02-12,email-94.morris-short.com
+19:09:33,2020-12-25 00:41:45,db:0e:b1:ba:5a:45,Asia/Baghdad,Moore-Watson,28.308601,$9.23,Port Rickyview,Namibia,-87.647923,hy,554893,GB,1994-06-27,email-35.ali.com
+18:56:46,1988-03-19 03:24:31,3c:0d:62:7e:44:01,Asia/Katmandu,Briggs-Pratt,-73.320996,$1.17,Morrisville,Botswana,-71.634907,gu,770761446,GB,1983-10-04,srv-96.lewis-hargreaves.com
+21:17:44,1976-08-27 16:31:35,62:4c:96:f5:bb:80,Europe/Kiev,Griffiths-Power,-74.661781,"$20,688.13",East Zoeshire,Finland,4.974620,hne,816,GB,1976-06-02,laptop-74.dawson.co.uk
+03:46:53,1996-02-06 08:49:28,e1:e1:85:34:4d:19,Africa/Conakry,Bell-Lewis,-31.692378,"$8,795.64",East Nicola,Nepal,56.511276,gd,78,GB,1997-07-28,laptop-50.young.biz
+21:42:04,1971-12-14 00:20:22,52:26:c5:9e:6d:9f,Asia/Bishkek,"Fuller, Steele and Brown",-36.548280,$22.74,North Donna,Palestinian Territory,-26.272275,id,9,GB,1985-05-04,email-52.byrne.net
+08:43:20,1991-04-25 13:41:09,4b:47:3d:c2:de:8d,Asia/Yerevan,Haynes and Sons,-41.586739,"$26,830.30",North Jacobview,Mauritius,78.835443,am,908,GB,1974-08-26,srv-08.turner.co.uk
+18:26:17,1981-11-14 03:56:23,6f:dd:93:64:0e:94,Indian/Maldives,"Hamilton, Leonard and Morris",-74.4229545,$719.23,South Fiona,South Africa,150.606954,tk,5210761,GB,1978-10-22,web-91.kerr-lyons.info
+14:25:38,2017-07-27 23:07:36,a1:b9:09:f3:5a:93,Pacific/Fiji,Bishop-Holmes,64.3272535,"$18,050.15",Port Henrybury,Mauritania,-58.235700,tk,3391308,GB,2004-06-08,lt-81.holland.org
+11:34:13,1989-06-22 15:54:41,f2:25:d5:e2:79:8a,Africa/Bangui,"Dyer, Gordon and Evans",65.3892035,"$9,177.29",Jenniferstad,Mayotte,111.192214,quz,848116657,GB,2019-10-04,srv-46.gibson.com
+11:53:45,1979-06-11 22:01:18,57:0a:74:cb:20:e8,America/Argentina/Jujuy,Clarke-Price,72.7760255,$638.33,Carolynstad,Morocco,-52.520330,hne,87,GB,2018-01-01,db-86.jarvis.com
+14:01:48,1994-07-06 00:46:14,aa:a0:6e:a9:2b:2e,America/Belize,Parry and Sons,45.496512,"$2,953.82",Danielleborough,Mauritania,-45.340235,ig,4221223,GB,2013-05-24,email-51.davies-davis.com
+06:24:43,2011-11-06 17:18:15,aa:2b:9d:9a:c4:84,Asia/Dhaka,Fox-Miller,19.3477415,"$55,116.50",New Chelseaport,Saint Barthelemy,-154.054005,hu,6,GB,1973-12-01,srv-33.kelly.net
+23:07:56,1975-06-04 03:14:20,f0:f9:fd:1e:25:fa,Asia/Kuwait,Bailey and Sons,-89.197908,$7.82,Clarkeberg,New Caledonia,-9.421224,lv,9315,GB,2002-12-10,lt-49.begum-jones.co.uk
+17:27:16,2005-02-25 09:06:42,4f:e6:d2:b1:8f:90,America/Guayaquil,"Marshall, Ellis and Evans",-42.7656735,$61.80,South Wayne,Moldova,-122.018031,xh,2,GB,2009-05-27,srv-59.osborne.co.uk
+07:33:29,1996-08-12 05:58:43,9a:a3:df:09:54:51,America/Antigua,"Thompson, Matthews and Slater",-0.302377,$123.81,Iainside,Belarus,-145.968045,byn,821444753,GB,2007-10-09,db-64.carter-whittaker.com
+15:44:24,1993-03-30 21:22:42,63:73:8c:4c:44:3d,Pacific/Palau,Baker-Woods,41.8283455,$851.88,Metcalfeborough,Georgia,-115.456340,hr,2819,GB,1993-06-07,laptop-64.patel-richards.info
+08:01:05,1988-05-23 17:45:19,2d:eb:9f:7e:86:39,Africa/Algiers,Foster PLC,-1.8564845,$69.00,Baileyville,Wallis and Futuna,-15.638575,dv,245234668,GB,1975-11-23,srv-74.pugh.com
+11:13:35,2006-05-22 12:08:59,15:a0:57:70:03:73,America/El_Salvador,"Morgan, Edwards and Dale",24.279766,"$83,025.63",Mayborough,Japan,131.987522,kw,59031410,GB,2008-02-14,web-57.moore.com
+10:01:35,1993-11-02 02:55:23,44:80:f0:0d:16:e7,Africa/Accra,"Khan, Manning and Hill",-70.7467275,$796.31,Macdonaldside,Cape Verde,44.041212,lij,707437716,GB,1982-03-30,db-54.murphy.co.uk
+07:21:57,1999-08-09 14:10:59,8d:e9:4c:03:d9:e5,Africa/Addis_Ababa,Doherty-Evans,13.287292,"$39,034.80",New Donaldbury,Falkland Islands (Malvinas),133.934307,kk,89,GB,2001-12-06,lt-47.jones.com
+16:10:23,1996-10-16 01:16:45,67:0b:e0:cf:a9:ce,Asia/Dili,Smith Group,4.176628,$2.42,Lake Rosie,Bermuda,-22.264052,ku,895162355,GB,1986-07-15,desktop-69.robinson.com
+05:58:11,1977-02-24 15:22:03,d7:13:a4:5b:94:b3,Asia/Baku,Atkinson and Sons,23.611350,$364.18,South Hannah,Western Sahara,81.687058,te,81633673,GB,2013-07-31,web-62.sullivan-clarke.biz
+16:56:09,2023-04-20 14:41:20,3c:df:58:5f:05:a5,Indian/Comoro,Smith Ltd,-85.8453395,"$89,591.93",Lake Maxshire,Albania,-64.676847,hr,76832761,GB,2008-05-07,desktop-63.west.com
+21:29:05,2008-04-10 04:22:48,1b:38:a1:ff:21:ff,Asia/Dubai,Gardner PLC,-84.116462,$904.83,Chamberlainburgh,Anguilla,-139.381590,mg,8,GB,1982-06-07,srv-76.turner.com
+15:51:13,1975-09-23 02:49:16,0d:e3:a2:05:bf:91,Africa/Niamey,Sullivan Group,13.444009,"$93,486.59",Port Heathershire,Turks and Caicos Islands,113.152779,ff,747593846,GB,1983-08-18,lt-73.scott.co.uk
+18:47:13,1978-01-19 17:45:08,53:f8:bf:8c:98:bf,Asia/Riyadh,Thompson-Pickering,14.748440,$0.37,New Sheilaside,Guam,-150.916306,nb,835,GB,2017-09-28,web-89.davidson.com
+02:45:43,2023-01-09 22:49:50,4a:5a:03:d3:5d:a0,Europe/Vilnius,Webster-Bentley,68.950683,$444.79,New Amymouth,Japan,-7.888457,bg,50080193,GB,1977-12-17,lt-37.holmes.com
+21:54:45,2009-05-27 00:51:33,a8:90:f2:c8:7f:e7,America/Nassau,"Watson, Hill and Daniels",67.7803205,"$84,178.58",Brettland,New Zealand,-68.421712,wa,172860,GB,1991-09-24,web-12.watts.net
+12:34:02,1985-02-25 02:36:26,7f:3c:5f:ab:b3:50,Pacific/Kiritimati,"Bird, Newton and Ward",89.0734815,$463.93,Saundersview,Greenland,-172.150081,cy,33,GB,2009-04-07,web-23.allan.com
+00:17:06,2006-07-15 05:34:49,e6:90:ad:b6:5f:ef,Asia/Thimphu,"Walker, Brown and Spencer",-44.710071,$23.75,Rogerborough,Canada,62.966491,el,2020907,GB,1994-09-09,srv-94.wilson.com
+15:57:39,1977-05-24 15:36:25,6e:82:07:bd:61:98,Africa/Gaborone,Lees-Rice,-21.1722585,$90.21,North Robert,Norfolk Island,-163.863247,csb,20,GB,1983-03-31,srv-43.thompson.com
+10:16:50,1971-06-22 06:46:39,02:6f:66:73:f9:d9,Europe/Stockholm,"Gill, Williams and Richardson",-5.2741105,"$71,175.57",Johnsonside,Philippines,66.289119,nl,617201,GB,1974-07-28,srv-21.dawson.biz
+02:11:28,2022-05-01 09:57:00,b5:ae:2b:0c:1d:ed,Europe/Bucharest,Pearce-Wall,76.8005175,$47.83,New Edward,Saint Lucia,-10.757314,gu,0,GB,1986-02-11,srv-13.evans.com
+18:13:49,1974-04-09 01:21:13,a6:74:f9:4d:e9:bf,America/Guatemala,Yates and Sons,0.239563,$1.66,Holmesville,Zambia,166.571425,nb,270678075,GB,2022-10-24,lt-24.reynolds.com
+10:58:34,1999-11-10 20:11:58,66:d8:e6:1b:f6:a7,Africa/Kampala,Marsh-Smith,-20.7765875,"$96,503.69",East Denise,Venezuela,44.193829,niu,27496475,GB,1999-10-21,web-98.moore-mcdonald.info
+14:03:25,1993-12-09 01:41:56,d0:a8:89:b9:d1:54,Asia/Beirut,Foster-Marshall,-62.4591455,$27.15,West Adrianview,Antarctica (the territory South of 60 deg S),-94.895923,sr,15230,GB,2007-09-06,lt-32.thompson.com
+22:24:31,1988-04-11 20:15:19,c3:c3:f5:cd:f9:e2,Pacific/Port_Moresby,"Smith, Lloyd and Houghton",-65.7745805,"$1,321.08",Lesleyview,El Salvador,-122.187305,my,6146,GB,1976-03-13,email-07.oliver.info
+09:21:19,2004-06-26 12:26:26,c5:60:f9:76:72:07,Asia/Taipei,Fox-Buckley,-22.773140,"$5,512.07",West Denis,Mongolia,163.167611,zu,9588,GB,2018-05-30,db-94.nolan.com
+19:42:36,2004-10-07 11:16:23,d4:3b:22:41:89:16,Africa/Lagos,"Burke, Parsons and Hudson",-53.6104045,$14.02,Pearsonhaven,Ethiopia,-15.685447,wae,71720491,GB,1975-08-09,lt-10.davis.com
+12:45:36,2021-12-20 18:56:13,31:d7:6b:a7:71:f3,Europe/Tallinn,"Robinson, Jones and Barber",23.2981315,"$7,053.91",South Sophieton,Comoros,87.118881,ce,818,GB,1999-12-06,lt-12.fraser.info
+11:57:36,1981-04-16 14:49:37,37:a0:82:44:2b:37,Europe/Luxembourg,Young Group,-4.6024595,"$4,342.89",Sheilaton,Mauritius,-62.269162,et,563,GB,1999-01-27,lt-89.henry.com
+13:35:37,1977-10-30 03:18:55,49:57:8a:fc:46:e3,Asia/Manila,"Harrison, Jones and Cook",-38.321720,$955.15,Howardchester,Cocos (Keeling) Islands,-106.471967,os,14,GB,1971-02-11,email-42.pearson.com
+00:11:48,1990-02-10 12:36:27,e6:17:67:eb:f2:28,Asia/Kuching,Brown Ltd,58.8434815,"$3,917.16",West Juliaville,Tuvalu,-49.360058,cv,593,GB,2012-08-07,desktop-83.hodgson.com
+19:46:28,1980-03-03 08:16:27,02:ca:13:d9:f1:30,Europe/Sarajevo,"Wood, Grant and Smith",-41.587464,"$3,456.56",Coxview,Uganda,121.379843,os,8122,GB,2021-12-23,lt-85.wood.co.uk
+14:41:20,2008-10-05 03:43:15,4a:8e:c6:8e:17:66,America/Belize,Gregory-Palmer,-54.424068,$573.65,East Lindaland,Denmark,-43.881900,or,7312476,GB,2009-01-13,lt-49.cox.com
+16:54:27,1983-01-25 11:56:29,bd:6f:54:05:3f:52,Europe/Riga,"Owen, Hardy and Saunders",52.0997745,"$76,156.65",Waynetown,Andorra,120.404183,se,608,GB,1998-01-26,laptop-99.kennedy-wilson.com
+21:13:41,2009-10-05 19:05:57,28:88:89:35:ac:67,Asia/Samarkand,Davies Ltd,-22.870840,"$7,974.28",North Philipshire,Cuba,-159.123487,gu,3530,GB,1994-05-21,lt-32.edwards.co.uk
+13:08:00,2020-02-27 08:39:22,e0:09:d3:25:0f:9f,Africa/Bamako,Davies-Green,-69.107177,"$1,258.19",Emmaborough,Reunion,-16.974367,ru,6172,GB,2004-08-28,db-95.moore-richardson.biz
+23:23:41,1983-12-18 10:04:42,6e:22:24:30:63:aa,Africa/Bangui,Stephenson-Scott,10.379433,$49.10,Smithshire,Burkina Faso,-30.163768,ve,2,GB,2000-01-21,srv-53.richards.info
+21:40:46,2007-11-07 01:10:48,e0:df:c2:6b:5c:bb,Africa/Windhoek,Garner Ltd,-63.450250,"$26,257.80",Timothyberg,Dominican Republic,-177.048144,en,87175414,GB,2021-06-07,desktop-39.osborne.com
+18:55:04,1994-10-05 12:57:59,85:1f:32:18:ab:d3,Europe/Athens,"Parkinson, Davison and Dodd",46.0552055,$674.18,South Philip,Bangladesh,143.477921,kk,825975,GB,1978-09-02,laptop-44.foster.com
+18:27:16,1991-12-21 09:56:03,90:92:73:df:b1:96,Africa/Dakar,Powell Inc,12.0588235,$905.45,Hollyport,Niger,65.826239,be,6864276,GB,1986-05-23,db-39.holmes.net
+15:10:04,1980-01-14 21:30:27,68:3b:f6:3f:91:ff,Pacific/Kwajalein,Holland-Owens,84.539572,"$5,865.31",North Marc,Greece,-95.086832,yue,5062,GB,2022-04-03,desktop-36.taylor.com
+20:25:16,2013-10-06 19:48:53,2d:f8:f7:fc:5e:3f,Africa/Mbabane,Hughes Group,88.6725055,"$50,735.15",Browneton,Netherlands Antilles,48.936984,wal,3628621,GB,2010-09-24,laptop-61.daly.net
+13:53:10,2014-05-31 19:01:39,d2:2a:a6:3d:9d:30,Europe/Budapest,"Perry, Clark and Bryan",-3.806915,$497.69,Dianeview,Tuvalu,47.356724,ve,86,GB,2007-06-30,laptop-91.dodd.co.uk
+03:35:28,1977-04-16 12:46:16,c7:8a:b6:59:3e:9a,Africa/Casablanca,Williams Ltd,-75.6353945,$5.89,North Cameronmouth,Swaziland,87.319664,cmn,629169579,GB,1976-05-09,laptop-21.smith.org
+21:53:59,1979-02-06 08:17:24,93:68:e7:3d:17:ff,Africa/Ouagadougou,"Jones, Hammond and Alexander",87.135335,"$3,528.72",West Stephen,Libyan Arab Jamahiriya,-150.605341,kk,362706636,GB,2002-08-03,lt-81.williams-wood.com
+19:25:49,1986-09-28 20:10:30,92:e0:0b:71:8f:4a,Asia/Aqtobe,Walker-Butcher,10.322662,$75.43,Stevenhaven,Vietnam,46.000028,crh,369,GB,2023-02-05,email-84.howard.co.uk
+16:24:31,1971-11-23 10:27:40,00:e4:e5:88:1f:76,Africa/Ndjamena,Davies Ltd,-17.8045325,$78.50,Glenshire,Colombia,18.465708,my,78689170,GB,1980-04-02,email-41.stevens.co.uk
+14:12:32,2020-01-03 22:31:15,2c:f8:a9:ae:f5:3a,Africa/Bangui,Carter-Green,78.217308,$695.39,Pickeringchester,Nauru,90.314354,fa,151,GB,1973-02-07,db-86.brown.com
+22:30:31,1995-07-01 06:08:58,c4:ee:d7:98:b1:2d,Africa/Lome,Riley-Fletcher,-65.566817,"$5,765.67",East Lorraineside,Guinea-Bissau,-58.802431,sd,8937378,GB,1991-08-16,srv-71.morris-parsons.co.uk
+06:57:31,2013-01-23 04:48:17,d7:31:3f:22:e7:26,America/Grenada,"Stewart, Griffiths and Lee",39.337444,$86.69,Lake Catherineton,Botswana,-55.593653,hr,5231,GB,2011-09-19,desktop-04.jones.org
+11:55:11,1993-07-16 14:06:55,eb:ae:f2:8a:9b:5e,Indian/Antananarivo,Finch Inc,-10.391615,"$42,750.20",Lawrencestad,Costa Rica,-164.302322,bo,497031861,GB,1996-03-16,srv-24.evans.org
+04:21:40,1982-01-11 07:14:23,0e:b1:1a:ce:90:8c,Asia/Karachi,"Arnold, Cole and Arnold",49.7589225,"$6,050.81",Evanschester,Zambia,92.503301,tk,13633,GB,1988-01-18,desktop-05.graham-parkin.co.uk
+21:43:42,1976-02-06 14:57:29,91:91:6c:da:d3:26,Asia/Bahrain,"Taylor, Dale and Davies",-87.8901615,$7.17,Bethanton,Afghanistan,55.920355,nl,1,GB,2014-11-03,srv-43.rogers.net
+05:42:58,1978-01-15 08:02:01,58:c9:1c:90:10:ae,Pacific/Apia,Jones-Holmes,36.242351,$50.73,New Henry,Niger,124.930744,dz,72186785,GB,2005-08-28,srv-87.phillips.com
+03:03:48,1992-01-08 13:45:50,f0:2c:1c:ca:69:26,America/Barbados,Smith-Jones,81.385697,$216.58,Lake Hugh,Jordan,15.370385,da,8,GB,2011-02-27,srv-44.harris-thomas.com
+12:10:20,1981-07-20 05:35:54,f0:01:e2:05:51:0e,America/Costa_Rica,Knight Inc,4.260792,$244.38,New Adamstad,Namibia,-135.846634,zh,939,GB,2005-12-28,lt-30.crawford.com
+18:49:17,1986-09-02 06:56:10,10:bb:03:cf:ff:14,Europe/Lisbon,"Hodgson, Smith and Bradley",-73.4656535,$74.43,East Stephen,Antigua and Barbuda,-61.481143,mhr,297097656,GB,1991-01-08,db-39.patel.com
+01:03:11,1992-02-24 01:35:20,76:9d:bd:94:44:85,Asia/Thimphu,Davies Ltd,28.965530,$37.00,North Michael,Benin,-147.042351,om,55,GB,2008-02-26,laptop-91.baker.org
+00:59:04,1990-04-30 21:49:41,54:35:19:85:47:c2,Asia/Jerusalem,Morgan Inc,73.2639035,$582.45,Stevensonchester,Isle of Man,-13.424414,cy,92053323,GB,1973-06-23,web-25.watson.com
+04:07:07,1975-10-05 07:20:28,95:99:9a:d2:72:f9,Europe/Stockholm,Thomson-Archer,69.2795315,"$7,686.91",Lake Brettland,Switzerland,-132.619571,kok,3337,GB,1991-06-27,desktop-70.lewis.info
+18:55:42,1982-11-03 19:36:34,cf:d3:3b:59:a6:8e,America/Nassau,Ali-Bird,-10.4618605,$5.73,Leeside,Armenia,127.748653,csb,619696545,GB,2002-06-29,srv-64.kirk.com
+04:18:34,2016-09-02 07:28:29,50:29:00:51:13:14,Africa/Conakry,Jackson-Sullivan,76.2658125,"$35,454.39",Ronaldburgh,Malta,177.937212,ak,301010,GB,1990-04-02,laptop-92.hill.com
+03:30:15,2000-06-15 10:13:22,9b:16:a7:f4:d9:3e,Africa/Porto-Novo,Clarke PLC,61.678756,"$6,770.85",East Shanefurt,Italy,95.812045,hne,7564442,GB,1981-12-21,lt-81.smith.com
+21:07:21,2005-06-27 05:26:13,a6:9e:d9:46:16:e0,Europe/Paris,"North, Kirby and Kelly",18.1069605,$576.94,Kirstyfort,Kiribati,-156.586377,st,77817983,GB,2018-04-01,laptop-47.shah.biz
+20:21:19,1992-07-27 04:21:26,55:7e:f1:88:d7:52,Asia/Jayapura,Davies-Naylor,16.127351,"$1,995.97",New Williamton,Pitcairn Islands,-34.781379,lzh,4,GB,2002-04-12,lt-32.hall.com
+08:51:30,1996-10-29 01:55:49,5b:4e:7d:2f:07:81,Asia/Colombo,Clarke and Sons,16.2193995,$8.19,New Laurenfort,Estonia,102.892965,yue,6177,GB,1981-03-01,lt-35.davies.com
+05:33:24,1992-09-27 22:51:16,4c:db:88:33:42:03,Pacific/Tongatapu,Davis Group,-59.798401,"$64,636.73",South Elliott,Saint Barthelemy,-155.834585,wo,82189965,GB,2023-02-03,db-25.williams.com
+05:41:46,2018-04-11 20:27:57,a8:7f:61:0b:c7:12,Africa/Bamako,Craig-Campbell,50.1369055,$9.02,Hollychester,Thailand,45.840236,mt,73415377,GB,2013-10-30,laptop-37.heath.com
+09:50:51,2011-02-14 05:47:27,30:f8:ab:7e:6e:ab,Europe/Skopje,Wood-Bowen,12.4224655,"$37,450.28",South Andrew,Russian Federation,132.565917,sa,5218,GB,2010-10-18,desktop-15.peters.com
+06:44:12,2002-12-01 01:54:48,aa:39:7c:2f:cb:c6,Asia/Tokyo,Martin Ltd,86.400232,$199.53,Glennborough,Sierra Leone,108.565144,mg,307175832,GB,2013-11-06,web-29.gibson.co.uk
+17:49:52,2017-06-21 06:13:55,f1:04:39:b5:5a:d1,America/Havana,Taylor and Sons,-87.6880275,$2.33,Allenland,Northern Mariana Islands,158.913963,iw,74087,GB,1980-12-16,db-17.cox.org
+20:55:47,2012-08-22 05:52:44,5e:c9:b3:59:ea:8c,Indian/Maldives,"Short, Mason and Sutton",-13.161038,$14.93,Shannonview,Slovakia (Slovak Republic),97.670813,cmn,1,GB,1991-12-05,db-97.humphreys.com
+19:40:48,1984-04-08 12:10:24,8a:48:13:e7:59:01,Africa/Porto-Novo,Turner Group,45.4014285,$66.46,New Brucefort,Nepal,-156.748810,fy,85339685,GB,1981-12-06,web-42.hawkins.net
+13:15:32,1974-05-15 17:27:28,1d:dd:cb:8d:26:91,Europe/Amsterdam,"Watson, Bryant and Williams",-34.3376125,$97.34,New Cliffordtown,Mauritania,90.967679,szl,54413712,GB,2020-09-20,web-18.wood-richardson.com
+11:47:01,1981-11-17 04:52:53,03:13:6d:c9:87:3c,Pacific/Ponape,Robson-Howell,-31.3093925,"$71,893.46",Wrightton,Belarus,144.654614,wal,6,GB,1987-10-15,web-99.smith-murray.com
+20:56:40,2017-10-11 16:33:13,6f:3a:3e:42:56:d4,America/Nassau,Hudson Group,-7.544123,$17.84,Annbury,Switzerland,-73.845528,ht,71029246,GB,1998-11-29,lt-95.butler-lawrence.info
+08:41:51,2002-08-02 11:14:52,f6:70:25:aa:e5:96,Asia/Colombo,Fox-Moss,16.806006,$36.61,East Jane,Niue,-60.937881,wae,90,GB,1977-04-19,db-76.mistry.com
+02:59:22,1987-05-10 12:49:52,a1:c2:ac:9f:ed:7c,Europe/Kiev,"Blake, Cross and Wilson",66.9752695,$8.74,Port Frederickhaven,Ethiopia,-85.293905,kok,4,GB,1971-03-25,srv-49.williams.info
+11:10:43,1998-03-02 08:48:56,19:06:db:3e:b4:25,America/Barbados,"Barker, Cox and Wilkinson",-71.4016895,$283.76,East Philip,South Georgia and the South Sandwich Islands,-116.574104,iu,33413711,GB,2018-11-20,laptop-74.reed.net
+11:24:16,2013-03-24 06:42:05,80:d6:3e:f5:7e:79,Asia/Rangoon,Sullivan-Morton,82.144967,$83.71,Aliceland,Albania,-72.458305,ak,55,GB,1978-04-10,laptop-30.ashton.com
+05:20:48,1973-11-13 01:40:11,96:20:b7:f3:64:6c,Asia/Katmandu,"Frost, Bennett and Reynolds",52.785740,$60.36,East Julia,Senegal,-47.578435,am,704218991,GB,1970-01-28,db-17.morgan-fox.com
+19:38:33,1970-04-26 22:01:25,05:b5:63:3e:3a:d9,Asia/Bahrain,Bishop-Schofield,-77.925439,"$57,575.96",Cameronhaven,Turkmenistan,76.290144,aa,29351343,GB,2022-09-16,srv-89.bull.com
+02:24:53,1970-12-03 04:41:18,9e:0d:93:86:1a:41,Indian/Comoro,Robson LLC,57.345698,"$7,408.94",Keithborough,Morocco,100.081399,shs,7561160,GB,2011-01-17,lt-40.wells.com
+15:34:26,2018-08-29 18:12:00,ca:c1:56:26:6d:e7,Africa/Ndjamena,"Atkins, Williams and Williams",26.921258,"$1,758.11",Jonathantown,Angola,-11.158913,hne,93,GB,1988-06-22,db-59.doyle-ferguson.com
+18:48:18,1972-02-09 18:21:36,fc:39:8c:b4:bc:16,America/Guatemala,Fisher Inc,-26.415865,"$6,311.70",New Jadehaven,Chile,-156.680268,tt,365823471,GB,1974-08-23,lt-76.byrne-allen.com
+16:15:48,2004-11-09 00:41:13,56:7e:8c:6c:66:78,Africa/Khartoum,Wells-Bell,77.580326,$45.42,Mohamedport,France,125.157571,gl,274500262,GB,1998-07-20,laptop-54.wells.com
+12:15:38,2000-06-25 04:33:21,18:1e:33:6f:41:5c,Africa/Luanda,"Graham, Francis and Lee",10.414704,"$61,048.38",Dawsonmouth,Brunei Darussalam,136.171920,oc,2,GB,2019-11-15,web-01.humphries.org
+16:14:11,2014-04-19 19:24:52,6d:3c:5b:89:10:a1,Asia/Beirut,James Group,-13.365805,"$9,992.10",Lake Conorburgh,Italy,-104.455929,nl,478536,GB,1975-08-16,web-34.roberts-johnson.net
+01:30:34,1992-11-16 22:14:38,ba:b3:96:52:f7:08,Africa/Casablanca,"Walton, Bartlett and Lewis",80.224290,$248.69,Wilsonhaven,Jamaica,-156.605399,ro,9,GB,1990-07-20,db-26.sims.net
+08:49:04,1997-08-13 07:07:20,f4:00:9f:31:cb:2c,Asia/Aden,Chapman and Sons,54.2781685,"$15,689.93",South Nicholas,Benin,73.788814,cmn,4,GB,1970-12-19,email-43.coates.com
+09:58:29,1982-12-15 17:20:53,03:0e:56:b2:ed:c2,Pacific/Kiritimati,"Green, Henry and Hammond",61.869743,$981.74,Woodview,United States Minor Outlying Islands,-49.534106,de,8,GB,2006-04-28,srv-57.smith-bryan.org
+20:41:57,1995-05-24 18:29:25,30:cb:3f:a7:03:e4,Africa/Freetown,"Shaw, Reynolds and White",1.820435,$3.15,Lake Nicoleberg,Belgium,-10.655963,br,47449,GB,2003-12-03,desktop-49.hill-tomlinson.com
+00:13:36,2007-04-29 22:08:00,de:17:bf:20:d9:8e,Africa/Casablanca,"Newton, Bishop and Cooke",88.2105595,$37.90,Lake James,Gibraltar,-113.093986,mi,15493891,GB,2003-02-25,web-97.brown.info
+07:58:37,2008-08-07 15:27:31,a5:fb:4f:df:ed:97,Europe/Chisinau,Fraser-Harding,44.2528435,"$8,762.20",Stevenston,Kiribati,157.127080,wa,59571265,GB,2008-01-31,srv-27.jones.com
+23:21:22,1999-08-16 20:40:10,c6:86:0d:2d:21:68,Pacific/Nauru,Richardson-Clarke,54.1486905,$49.27,New Charlie,Korea,-78.547250,th,5600594,GB,1977-05-04,lt-67.hill.com
+04:24:36,1996-11-12 07:29:45,b5:12:20:36:e0:44,Asia/Saigon,"Ward, Jackson and Barry",-32.4289965,"$7,188.91",New Louis,Guinea-Bissau,22.244026,da,40610,GB,2018-12-23,laptop-39.richardson-jones.info
+01:41:07,1991-06-14 19:11:36,a5:a9:ff:37:50:ed,Africa/Addis_Ababa,"Burgess, Nicholson and Williams",49.962989,$70.12,West Dianefurt,Sweden,55.415455,si,825,GB,1976-05-13,web-73.cross.biz
+07:30:09,1974-08-06 23:17:00,7f:98:76:a4:e2:96,Asia/Bangkok,Martin Inc,-33.9703985,"$1,135.15",Lake Mohamed,India,-33.445418,ig,26509,GB,2004-11-13,laptop-31.watson.com
+23:25:12,1989-10-08 08:59:03,88:50:65:0d:e3:31,Europe/Chisinau,Marshall-Bray,-9.9800545,"$84,143.80",Mariefurt,Tuvalu,119.662995,en,36714682,GB,2007-07-07,db-45.jones.biz
+07:55:31,1990-02-01 17:58:40,0c:72:88:17:01:17,America/Lima,Murphy-Baker,-23.9284985,"$3,658.78",New Trevor,New Caledonia,-62.465898,vi,74425059,GB,2003-12-17,laptop-80.russell.net
+10:25:10,2012-05-04 12:12:09,a1:20:ed:e2:3e:fa,America/Belize,"Chambers, Brennan and Mills",11.628278,$313.05,Marieland,Syrian Arab Republic,131.078226,eu,2,GB,1979-03-30,srv-26.martin.co.uk
+23:41:07,2017-08-11 13:46:08,c7:a0:a2:56:58:24,Africa/Addis_Ababa,Murphy PLC,-36.495699,$5.17,Conorstad,Norway,123.208324,ka,43661,GB,2003-09-23,lt-85.quinn.com
+03:52:47,1992-07-24 20:09:16,87:cb:16:06:7c:92,Africa/Accra,Robinson-Hughes,-81.434352,$74.60,North Liam,Ghana,-74.371725,ln,5144649,GB,1997-08-08,db-81.singh.com
+00:08:21,1988-09-04 17:01:08,b2:b6:20:c0:ac:8c,Pacific/Efate,"Knight, Edwards and Rogers",-78.8200915,$235.92,Carolineland,Morocco,171.585042,ar,711,GB,2010-10-02,db-04.glover-lewis.com
+09:33:40,1995-12-17 14:10:52,c7:e5:8e:d8:03:71,America/Guyana,Kelly-Summers,-36.8233245,"$45,688.13",North Oliviabury,Cuba,55.507142,yue,8372353,GB,1992-06-01,email-78.moore.com
+08:12:10,1996-04-19 19:00:58,89:bd:74:0b:e5:c0,Europe/Malta,Harrison-Bond,-11.0668515,"$33,184.49",Brownmouth,Ghana,142.917428,bho,185899,GB,1985-01-18,laptop-03.harris-gould.com
+18:16:06,1983-06-12 01:59:07,e9:e9:cc:c9:d2:37,Indian/Antananarivo,Duffy-Banks,88.868126,"$76,638.97",Georgeborough,Luxembourg,97.334782,ks,5,GB,1989-07-27,srv-26.warner-wright.info
+13:53:54,1999-11-16 19:24:05,55:cf:82:6d:e8:85,Africa/Porto-Novo,"Turner, Smith and Humphreys",-68.094146,$92.55,Debrastad,Faroe Islands,-29.374216,kn,94,GB,2001-06-21,desktop-38.king-perkins.net
+13:17:43,1990-04-13 22:57:12,8a:7d:52:1e:a9:4d,Africa/Accra,Kaur PLC,57.941566,$946.61,Lake Heathertown,Uganda,-154.448707,ku,2804339,GB,1972-06-29,web-47.farmer.net
+05:59:55,2003-06-17 14:38:05,7e:7d:b4:d1:da:c2,America/Panama,Clarke and Sons,85.811751,$872.11,Charleneborough,Niue,-141.123218,mi,5076332,GB,1981-08-08,srv-58.mckenzie.com
+13:56:17,2016-12-14 05:31:06,b8:34:ba:2b:1b:d7,Europe/Sofia,Collins-Ferguson,5.331220,$52.93,West Amy,Niger,114.270563,bo,22,GB,1984-07-16,db-74.elliott-young.com
+01:27:47,2023-06-22 02:01:14,28:8e:62:4f:72:35,Africa/Maseru,Miah-Taylor,-48.113457,"$50,558.06",South Diane,Angola,-160.943536,gd,72303,GB,1989-06-02,web-76.white.biz
+16:54:29,2014-12-26 22:01:05,39:c4:9f:fe:ee:46,Africa/Luanda,Cross-Murray,18.598043,$689.15,Judithburgh,Croatia,172.024129,hak,626,GB,1979-11-04,laptop-83.cox-stephens.org
+11:26:52,2013-11-15 13:04:38,f3:18:1c:59:2e:07,America/Merida,Watkins Inc,-19.650872,$841.05,Port Samantha,Ukraine,-24.061414,bhb,425904327,GB,2021-08-16,laptop-59.pugh.com
+20:06:49,2023-06-28 14:01:15,50:c9:42:7d:42:14,Pacific/Efate,Robinson-Davies,52.508284,"$5,408.87",Normanmouth,Paraguay,-96.715007,bhb,8321509,GB,2011-09-18,lt-33.greenwood.com
+14:38:18,1977-02-11 16:16:20,aa:5b:af:94:3a:3b,Europe/Sofia,Ali and Sons,11.5688295,"$3,601.28",Gordonberg,Angola,156.386478,te,150,GB,2000-06-09,laptop-01.hudson.info
+11:55:44,1981-12-22 21:20:57,fd:c2:d2:7b:19:7f,Europe/Monaco,Harvey LLC,-15.504360,$244.64,Lake Jeremyside,Albania,-26.980086,sa,118597,GB,2010-02-15,lt-97.brown.biz
+05:04:51,2011-09-07 23:11:25,f5:03:ab:9d:5f:26,Europe/Warsaw,Wells Group,21.749741,$58.20,Hendersonbury,Haiti,-11.750707,nb,65261,GB,2021-05-05,laptop-60.brown.com
+21:54:24,2015-12-27 16:01:01,30:1f:f0:e4:81:f3,Asia/Bahrain,Barker LLC,-21.4329605,"$9,283.11",Burkehaven,Jersey,78.711867,is,99,GB,1971-01-08,srv-67.andrews.org
+04:06:45,1991-10-03 21:15:53,90:64:f1:e7:8c:20,America/Chihuahua,Young and Sons,-39.2113515,$5.23,New Jacqueline,Germany,89.270819,sk,4276402,GB,1970-07-22,email-32.douglas-scott.com
+16:41:35,2015-05-15 08:53:47,0f:1f:ac:a3:72:df,Asia/Colombo,Horton and Sons,67.6688815,$773.41,Christianborough,Guyana,47.479008,am,67584,GB,1991-02-14,lt-61.riley.com
+15:11:02,2014-10-22 16:44:04,3b:b3:a8:20:33:f5,Africa/Luanda,Parker PLC,-12.8687705,$891.77,Chapmanchester,Djibouti,-19.494662,eu,341742,GB,1997-01-26,desktop-07.thompson.com
+00:59:23,2016-01-23 02:35:26,cc:ed:71:ee:32:98,Asia/Rangoon,Warner-Owens,-32.7983615,$126.24,New Emily,Iceland,74.878049,rw,77819,GB,1976-10-19,email-42.stokes-gordon.com
+03:29:23,1994-08-20 18:52:53,25:5f:81:12:42:e3,Africa/Libreville,"Wood, Robinson and Johnson",57.5420125,$1.11,West Chloe,Ecuador,-166.945630,oc,246178,GB,2020-08-28,desktop-46.parker.org
+18:17:10,1985-03-12 00:10:51,af:6b:a2:25:b9:06,Pacific/Nauru,"Jones, Henderson and Knight",10.610584,"$9,102.95",Connormouth,Aruba,20.203555,mag,2,GB,1998-02-05,desktop-47.white.com
+17:21:47,1987-07-26 13:46:02,9b:82:f4:6f:22:84,Africa/Maseru,Smith-Patterson,36.692933,$6.96,Annetteside,Pakistan,36.465883,ak,155322895,GB,1984-12-30,lt-72.hall.com
+15:38:13,1979-06-18 21:52:01,7a:c8:36:82:0b:0e,Africa/Nouakchott,Griffiths-Baldwin,-45.106561,"$1,994.80",New Albertmouth,Albania,-88.905098,ln,7,GB,2017-05-24,web-37.horton-whitehouse.com
+00:17:05,1985-12-23 05:24:34,9f:6f:55:d1:ac:f7,Asia/Nicosia,"Patel, Carter and Williams",24.756863,$0.35,Deantown,Libyan Arab Jamahiriya,77.476136,nn,35107,GB,1970-02-25,laptop-46.little-murray.com
+19:22:43,1985-11-07 11:19:37,67:a6:8f:00:81:3f,Africa/Freetown,"Woods, Little and Allen",73.7624935,$128.48,Hilarymouth,Paraguay,82.050312,lb,718871469,GB,1988-08-10,db-59.cooke.biz
+03:00:12,1985-12-23 22:14:44,e5:83:73:6d:3b:65,Asia/Taipei,Iqbal PLC,-66.189896,$40.57,Vanessaport,Cameroon,146.731161,iu,8600,GB,1987-10-14,laptop-22.russell.net
+14:56:58,1990-08-01 19:37:19,77:0b:17:fb:fa:4c,Africa/Mogadishu,Smith-Bradshaw,25.7812645,$298.64,New Kathryntown,New Zealand,-27.754158,cmn,2,GB,1993-10-04,web-51.owen-wright.co.uk
+07:05:48,1991-07-06 11:20:46,6b:13:37:f1:9b:13,America/St_Lucia,Evans and Sons,65.194313,$213.77,Frederickview,Austria,-71.840598,ig,706,GB,1989-11-13,web-60.lewis.biz
+03:31:10,1976-02-01 13:39:35,96:6e:bd:55:f2:8b,Asia/Seoul,"Kemp, Palmer and Harrison",40.753530,"$17,609.95",New Harriet,Vanuatu,112.135833,vi,845252238,GB,1972-08-31,desktop-32.king.com
+01:46:03,2016-11-03 08:02:13,b1:e7:7f:28:06:ba,Asia/Beirut,"Woodward, Thomas and Payne",-40.7345465,$31.68,North Samstad,Korea,64.903450,ug,46596,GB,2006-01-13,srv-58.parker.com
+20:48:42,1973-05-16 10:46:32,45:ef:3b:2f:05:c5,America/Jamaica,"Evans, Hill and James",-17.295472,$782.14,New Charleneshire,Russian Federation,-100.740055,ks,685268,GB,2004-06-18,laptop-17.cunningham-morrison.org
+19:13:41,1986-06-11 06:16:23,da:c7:37:48:69:4f,Asia/Bahrain,"Harris, Davis and Williams",-0.6888575,$5.46,Jakeborough,Malawi,98.038266,fi,86,GB,1984-06-27,srv-31.banks-smith.com
+13:10:47,2018-07-25 16:03:27,bf:83:9d:09:c5:ec,Europe/Sofia,"Brown, Leach and Bell",71.9995535,$6.47,North Arthur,Paraguay,-161.155158,apn,14884,GB,1982-10-27,web-62.lawrence-mccarthy.com
+07:04:15,2005-01-15 05:11:58,ff:f3:63:f4:d4:74,Africa/Accra,"Jones, Griffiths and Hammond",79.738903,$2.16,Alexandraburgh,Reunion,-131.407056,gl,1,GB,1972-11-28,laptop-23.wilson.com
+15:02:57,1981-02-27 07:23:57,90:aa:1a:79:94:50,Asia/Manila,Bell LLC,59.3682535,$828.24,Leonstad,Zambia,154.263179,fy,71729,GB,2003-05-08,laptop-41.whitehouse.org
+16:29:34,1971-03-02 23:26:58,8c:9c:12:8f:dc:17,Africa/Tripoli,"Adams, Henry and James",57.183188,"$6,202.83",North Thomasport,Reunion,38.050347,mag,368303,GB,1971-12-10,srv-00.baker.com
+17:38:11,1987-08-25 20:05:36,52:99:cd:85:b4:99,America/Barbados,Thompson-Curtis,50.185411,$485.61,East Claireside,Chile,-144.945504,hr,87,GB,1988-09-23,email-04.pollard.com
+07:38:23,2014-04-26 11:51:16,5c:63:81:22:c7:64,Africa/Porto-Novo,"Harper, Wilkinson and Fisher",-4.8485215,$5.96,Gemmafurt,Malaysia,-116.629582,mag,6863,GB,1973-02-20,db-68.dawson.info
+02:02:08,2013-01-10 06:35:00,c4:4c:9c:c1:7b:eb,Asia/Baku,Burton LLC,-20.464802,$559.98,East Eileen,Western Sahara,-93.583121,xh,760355719,GB,2002-06-12,email-05.harvey.com
+05:39:20,2007-12-23 20:26:05,d7:d6:7c:aa:1b:23,Europe/Vilnius,"Goodwin, Jones and Wood",-85.799663,$1.50,New Natasha,Mauritius,-1.507390,zh,2408,GB,1979-07-06,db-02.garner.net
+18:04:39,1992-03-10 06:40:02,62:5c:bd:15:d5:ff,America/Tegucigalpa,"Edwards, Gill and Jackson",83.9493075,$49.82,Hallbury,Mayotte,-88.693883,af,4,GB,1997-08-20,web-30.white.com
+12:34:03,2015-08-24 22:38:32,cd:8a:7c:96:84:e7,Asia/Manila,Parry LLC,28.332314,"$1,677.52",Nigelbury,Tokelau,99.487194,kw,8894,GB,1991-06-21,email-25.ellis-johnson.org
+18:06:10,2017-04-13 01:57:43,27:4c:59:ba:dc:23,Africa/Djibouti,Edwards Inc,-40.842503,"$6,458.45",Bakerport,United States of America,-3.069523,so,62,GB,2013-09-25,web-36.hunt-smith.com
+02:55:14,1972-04-22 20:26:15,75:b4:0e:37:44:f5,Europe/Vienna,Nicholson Inc,-79.060232,$23.79,Carolemouth,Benin,-153.816943,ak,516310,GB,2021-09-07,srv-88.carter.co.uk
+09:37:18,2006-08-19 18:01:53,52:b0:2d:3d:4a:b8,Europe/Rome,Smith-Hartley,68.5828795,$844.57,Lake Julianshire,India,-112.262280,mai,776643261,GB,1996-01-06,lt-31.yates.net
+07:22:07,2004-11-17 08:09:14,39:59:ba:3a:91:44,Europe/Vatican,"Holmes, Richards and Stevenson",79.192139,$521.27,Walshmouth,Italy,105.175118,my,8731382,GB,1988-01-26,email-75.wilkinson-hicks.co.uk
+21:13:00,1970-03-07 04:14:35,37:41:b9:d1:af:9f,Pacific/Tongatapu,Gregory Inc,-69.108227,$64.04,Bondshire,Portugal,73.099440,be,23,GB,2020-08-23,lt-48.mitchell.com
+11:53:58,1999-09-27 08:17:51,26:2f:8c:6c:e5:03,America/Asuncion,Barnes and Sons,53.9079495,"$9,430.94",Richardsfurt,Hungary,146.950065,nl,5,GB,2012-03-23,web-30.hutchinson.com
+11:25:23,2004-03-10 16:01:16,dd:db:84:b6:24:7b,Africa/Kampala,Whitehouse LLC,-19.137400,$476.37,Tobymouth,Jordan,-45.430451,eu,593886,GB,2009-11-17,desktop-31.fowler.com
+14:49:35,1982-03-03 19:25:10,95:87:86:ca:47:dc,Pacific/Chatham,Wilson-Cole,-6.425504,"$29,219.35",Nataliechester,Croatia,-162.355270,sq,729096821,GB,2002-10-13,lt-41.daly.com
+12:05:35,2015-12-03 20:10:36,f9:de:74:aa:0d:28,Europe/Vatican,Francis-Jones,44.7308055,$5.83,Shaneville,Heard Island and McDonald Islands,142.872743,yue,22,GB,1971-03-31,desktop-79.smith.com
+20:30:23,1986-08-08 19:01:51,74:44:79:90:2b:a1,Asia/Jerusalem,"Edwards, Williams and Owen",55.847439,$801.08,Joannetown,Chile,-39.457135,nb,584405253,GB,2021-12-08,email-15.henry.com
+05:15:19,2005-03-08 19:44:25,85:29:4e:65:d2:a4,Asia/Bahrain,Smith-Slater,-5.5459115,"$29,085.12",Normanstad,Latvia,155.821470,ast,320361672,GB,1985-01-31,web-91.baker.com
+07:47:44,1985-10-05 13:30:57,4d:4e:09:78:1c:a2,Asia/Manila,Lewis-O'Connor,-13.890589,$8.78,Port Olivia,Bouvet Island (Bouvetoya),-37.010152,ff,256663,GB,1992-08-26,db-03.ross.com
+00:24:34,1987-04-13 07:55:59,a6:a7:5a:3b:fd:a9,Africa/Casablanca,"Wong, Evans and Gilbert",86.190396,$8.97,East Eileenbury,Korea,-174.569157,kw,82513,GB,2008-12-15,laptop-77.murray.biz
+05:58:54,1973-11-14 22:21:25,1c:88:ee:0b:6b:0d,Asia/Beirut,Smith and Sons,-5.309170,"$75,613.68",East Lesliechester,Kuwait,127.672118,ts,4034,GB,2013-01-25,web-49.gill-wells.com
+02:54:19,2018-12-23 00:41:20,c3:37:f3:91:b2:db,Africa/Cairo,Thornton-Wright,56.273442,$20.39,Lindseyshire,Finland,-63.836041,mn,7,GB,1985-07-21,laptop-35.gray.com
+17:15:25,1993-04-15 14:57:12,e3:30:61:df:74:a9,Europe/Ljubljana,"Taylor, Martin and Swift",-59.2845405,$3.21,New Harriet,Albania,-8.873198,bs,93741261,GB,2017-08-03,laptop-48.finch.com
+19:04:24,1970-09-10 08:02:03,2f:22:88:1a:c6:a0,Asia/Aden,"Bennett, Lynch and Talbot",73.804680,$849.43,New Keithbury,Northern Mariana Islands,-116.526925,ga,9165323,GB,2013-11-27,desktop-46.ingram-taylor.com
+05:36:48,2020-02-13 16:09:39,ff:b4:f6:0c:af:70,Atlantic/Azores,Page Inc,39.249528,$66.05,Masonmouth,Cote d'Ivoire,130.549542,nb,878239277,GB,1974-03-27,db-21.ferguson-brown.com
+20:24:39,1973-08-27 14:45:04,d3:a7:3b:ad:78:ea,Asia/Qatar,"Parsons, Coates and Gibson",-76.775658,"$9,024.18",East Paul,Slovakia (Slovak Republic),-133.251416,hr,7,GB,2013-04-13,web-65.newton.com
+09:48:58,1983-07-28 13:07:35,bd:0f:98:f7:39:af,Asia/Baghdad,Wood-Scott,-66.857155,$395.84,New Carol,Solomon Islands,-15.805929,nr,1,GB,1976-08-01,srv-85.morris.com
+22:40:24,1986-04-19 23:05:32,9b:44:32:67:b6:e9,Europe/Zagreb,Simpson-Harding,-35.1296685,"$54,677.81",Port Carole,Canada,80.321715,fil,41,GB,2003-11-14,lt-95.brown.com
+09:39:40,1995-09-20 17:35:32,e1:4c:dd:70:a7:36,Pacific/Truk,Lloyd-Williams,-14.962375,$75.88,Smithville,Chad,-131.403706,wal,4,GB,1999-09-10,lt-72.jones.net
+10:52:14,2020-04-21 03:51:36,83:09:8d:20:6a:f1,Asia/Tokyo,Summers Ltd,-4.816758,"$74,554.66",Elliottfort,Iran,-160.622913,ko,13,GB,2001-11-04,email-55.holland.info
+19:58:52,1981-03-22 17:57:30,a4:44:68:0d:5c:15,Europe/Warsaw,"Webb, Shaw and Pugh",48.5315095,$950.99,West Sheila,Azerbaijan,-73.924849,tr,262,GB,2001-08-10,db-31.williams-morris.net
+05:16:13,2016-10-04 07:41:30,3e:45:6e:5f:23:bd,Asia/Kuala_Lumpur,Sheppard-Patel,-66.5593515,$1.90,Port Alexanderborough,United States Virgin Islands,-101.523377,doi,643339175,GB,1989-02-22,srv-63.bull-sharp.net
+04:11:54,1974-02-12 01:03:03,69:54:c6:1d:b4:00,Africa/Accra,"Moore, Williams and Holmes",9.986884,"$7,519.23",East Rachel,Timor-Leste,-136.923228,cy,792,GB,2004-08-16,srv-82.cross.org
+21:08:13,1997-08-20 08:31:30,b3:e4:47:c0:16:1c,Asia/Amman,Wilson PLC,80.8294325,"$83,398.44",Carlyshire,Niger,-65.527522,ber,41524457,GB,2021-09-06,laptop-58.palmer.com
+23:22:45,2020-07-23 20:38:45,00:71:51:10:b5:8c,Europe/San_Marino,"Mitchell, Farmer and Bradley",8.222556,"$4,474.77",Leanneland,Kiribati,-119.706656,hr,842076008,GB,1990-03-06,desktop-12.thorpe.com
+09:23:07,2000-07-18 00:22:09,2c:43:82:ab:96:be,Europe/Chisinau,Taylor PLC,63.2223415,"$6,357.99",Port Rita,Cote d'Ivoire,99.214194,fi,5023,GB,2020-09-04,lt-44.john-lynch.net
+01:40:37,1997-07-30 05:52:28,50:61:88:54:10:9e,Africa/Windhoek,Barrett Inc,-79.4664255,$7.60,Bryantside,Greenland,-106.654249,ia,327701140,GB,1976-06-22,srv-08.powell.net
+16:32:07,1982-03-02 08:15:37,33:7a:2b:b8:13:4e,Africa/Algiers,Powell-Cook,-6.732392,"$34,145.30",Lake Jasminefort,Dominican Republic,61.605796,om,81561135,GB,1982-07-30,web-72.day-dixon.com
+08:33:31,2007-08-13 23:03:31,f7:d1:33:91:c0:b4,Europe/Riga,Donnelly and Sons,58.6659695,"$7,427.25",West Brendafurt,Falkland Islands (Malvinas),-30.422352,ce,51060686,GB,2002-08-04,desktop-44.george.net
+08:53:13,2005-04-27 07:40:27,d6:e5:86:ab:4a:24,Asia/Kashgar,Mills Inc,6.6762675,"$9,070.66",Graceview,Gabon,-13.448235,mi,84755868,GB,1989-10-15,lt-01.hudson.biz
+09:59:56,2003-05-12 14:43:22,71:89:bd:e3:cd:75,America/Regina,Elliott Inc,21.884694,"$4,096.48",South Abdulton,Micronesia,69.416915,rw,6527,GB,1977-04-28,desktop-27.lloyd.com
+20:00:27,2014-08-19 14:36:29,9c:f4:a6:6e:c6:6d,Asia/Makassar,Griffiths-Glover,-20.416937,"$7,633.57",New Patricia,Timor-Leste,139.162817,kl,935036,GB,2011-06-26,email-15.hussain.com
+03:32:16,2019-08-04 01:34:40,03:bd:6d:77:d3:df,Europe/Dublin,Cooper PLC,-85.9549515,"$53,918.21",Lake Declan,Estonia,-20.612931,lt,444011,GB,2014-03-22,web-38.roberts.com
+02:48:08,2014-07-28 23:35:30,e0:9a:77:02:04:40,Europe/Luxembourg,Chapman and Sons,2.5173535,$206.85,New Jamesfurt,Cuba,-0.262642,ka,954,GB,1975-03-06,web-80.smart.com
+18:01:05,1990-08-22 05:57:39,36:88:65:ef:ee:60,Africa/Abidjan,"Parsons, Wright and Grant",-69.9250725,$57.80,South Carolyntown,Uganda,95.240065,aa,913,GB,2004-11-30,email-84.rogers.com
+07:02:00,1991-02-01 00:05:29,33:ce:b9:59:f7:57,Asia/Dhaka,"Jones, Graham and Webb",-19.7469105,$5.75,North James,Cote d'Ivoire,159.136100,ta,652,GB,2022-04-28,desktop-23.mclean.org
+06:18:30,2004-10-13 14:40:52,72:20:4c:f7:bb:46,America/Maceio,"Clark, Jordan and Stokes",-8.5049205,"$2,831.32",Joanborough,Somalia,-170.450108,lij,20,GB,1972-04-28,laptop-29.carroll-cooper.com
+16:33:09,1970-12-17 07:02:01,70:91:dc:7a:e0:81,America/Tegucigalpa,"Howard, Parkin and Patel",-47.403372,$3.76,Saraburgh,Paraguay,-90.235782,ce,22641305,GB,1989-01-29,db-82.burgess.info
+18:03:32,1977-01-07 03:42:31,7f:e7:39:eb:f8:f9,Asia/Damascus,Miller and Sons,68.3515355,$1.01,East Martin,Western Sahara,163.191379,sq,61876760,GB,2018-09-27,desktop-99.barber-white.com
+10:24:17,1999-07-14 14:02:58,c2:2f:ae:9c:6b:50,Europe/Vilnius,Dawson-Mitchell,-37.754636,$35.93,East Marilyn,Senegal,23.860604,mr,41712120,GB,2011-04-17,db-86.stanley.info
+10:23:27,2005-03-08 21:13:21,a6:d0:53:a7:c6:10,Asia/Bishkek,Reeves-Williams,59.2171905,"$7,880.89",Arthurland,Ireland,99.322334,ur,9169644,GB,1984-02-03,email-21.bennett.net
+07:23:30,1992-11-20 11:56:02,9f:ba:9d:1e:ba:db,Europe/Sarajevo,Reid Ltd,71.3012415,"$7,589.12",West Albert,Georgia,45.198367,brx,69955,GB,1984-08-17,desktop-37.bibi-archer.net
+11:31:17,2003-09-18 03:24:30,d6:d7:66:9f:bf:39,America/Porto_Velho,Jones PLC,40.550268,$463.25,South Jayborough,Moldova,-169.165772,nds,2,GB,1983-08-26,srv-06.smith.net
+18:48:33,1980-02-29 15:43:22,f8:49:d9:a0:bd:29,Africa/Gaborone,"Barnes, Price and Ahmed",-34.809613,"$95,504.01",East Joanneville,Christmas Island,82.967985,aa,561120,GB,1993-04-27,db-02.chan.com
+04:43:15,1981-11-02 05:32:50,ca:78:d6:a0:13:71,Indian/Comoro,Thompson-Ford,-5.843149,$676.32,Bernardland,Vietnam,-26.530653,ik,294,GB,2001-12-30,laptop-52.thompson-reid.com
+22:24:04,2000-06-04 17:55:16,f1:63:32:da:a3:29,Asia/Bahrain,"Campbell, Taylor and Heath",-17.0278555,$6.83,North Mohamedton,Barbados,-76.032656,xh,2932,GB,2000-08-02,laptop-99.field-brown.co.uk
+11:04:02,2013-09-04 00:06:52,b0:0d:e6:64:78:95,Africa/Asmera,Jordan-Allen,-51.436287,"$22,423.86",West Guyfurt,Reunion,98.455913,quz,413442,GB,1986-04-30,db-61.gibbs.net
+09:32:09,1984-06-24 03:06:02,45:56:d4:c9:08:f3,Europe/Minsk,Naylor PLC,-0.7020245,$754.44,North Kayleigh,Paraguay,80.375139,tr,46364,GB,2004-01-19,srv-33.edwards.com
+15:39:24,1983-03-16 20:56:18,c2:09:43:03:b1:65,Indian/Comoro,Wilson Ltd,-1.1126615,"$5,616.23",South Kelly,French Polynesia,-67.382662,am,7058,GB,2013-11-29,desktop-08.lee.com
+18:36:26,1985-08-01 07:51:51,23:f6:52:0a:48:af,Africa/Ouagadougou,Noble-Murphy,78.0655525,$3.83,East Dianaside,Pakistan,-152.018281,li,28290707,GB,2019-07-31,web-40.jones.org
+18:44:59,1976-10-18 06:23:47,67:bb:af:09:87:e7,Asia/Calcutta,"Jones, Kaur and Atkins",1.7605215,"$93,651.89",South Jacquelineville,Cambodia,178.379239,sv,49,GB,1978-12-28,desktop-63.clarke.info
+07:17:45,2012-04-05 04:31:15,39:e0:86:1a:47:32,Africa/Gaborone,"Manning, Lamb and Hall",10.160972,$731.94,Pattersonchester,Afghanistan,76.262661,ka,38,GB,2017-02-11,laptop-31.taylor.com
+20:04:27,1984-05-19 17:00:08,ea:df:89:c4:55:ba,Africa/Mbabane,Taylor PLC,-55.475728,$8.56,East Kyle,Dominican Republic,-43.747762,pa,359631455,GB,2000-06-18,email-01.graham.com
+04:10:31,1984-08-22 09:40:44,ee:68:33:22:4e:7c,America/Grenada,Herbert Group,-23.711715,"$6,765.76",Andrewsport,Guyana,-102.688135,ga,993,GB,2008-04-10,laptop-64.green.com
+03:07:26,1972-01-16 15:07:34,95:06:dc:23:e1:35,Asia/Kabul,"Hodgson, Smith and Roberts",61.601286,$516.13,North Jasmineside,Central African Republic,-83.567658,szl,7,GB,1982-03-06,laptop-43.bruce-morrison.com
+08:14:14,1980-07-17 10:38:15,94:7c:36:23:f6:96,Europe/Samara,Bird PLC,75.4448575,"$79,245.66",North Dale,Liechtenstein,-48.980596,pt,4471121,GB,1991-07-20,srv-34.osborne.info
+22:37:27,1982-07-19 08:28:02,8c:0f:09:a5:c1:35,Asia/Kuala_Lumpur,Ahmed-Williams,-30.534127,"$54,586.04",Charlieport,Namibia,-62.452700,lg,466,GB,2014-10-26,laptop-74.collins.com
+22:46:29,2021-01-29 20:14:39,1a:d5:f9:49:9d:82,Asia/Saigon,Holden LLC,36.683843,"$9,559.14",North Paul,Anguilla,127.560899,st,81,GB,1985-03-16,db-26.williams-fisher.biz
+17:13:01,2012-06-27 02:12:44,d9:65:f7:c1:1f:81,Pacific/Apia,Walsh Group,20.9591685,"$33,453.66",Lake Suzanne,Albania,-60.833462,hi,286978445,GB,1984-11-07,web-07.robertson.net
+13:36:58,2007-05-12 00:37:21,9c:a3:af:da:75:4b,Pacific/Tarawa,Roberts Inc,-88.1928215,"$68,914.22",West Rebeccabury,Bolivia,85.749629,lzh,8702386,GB,1985-04-08,lt-84.baker.org
+22:35:47,1977-10-13 01:29:46,08:98:06:78:ec:88,Africa/Kigali,Rose-Bailey,42.190457,$209.18,Turnermouth,Andorra,135.858623,cmn,95748,GB,1999-09-15,laptop-33.nicholson.com
+20:10:38,1980-09-17 10:19:05,f2:37:24:29:5e:a2,Europe/Tirane,Akhtar-Harding,3.247519,"$1,187.54",Karenton,Bhutan,174.895403,cv,4309,GB,1991-01-07,desktop-53.knight-brown.net
+03:51:51,2002-07-19 19:28:24,b6:77:d1:c2:90:c7,America/Montevideo,Cook Group,-8.5319955,"$82,413.69",Kayleighfort,Latvia,-65.414188,be,36310,GB,1997-02-05,db-39.humphreys-foster.biz
+17:02:42,2020-12-09 07:08:15,3a:5a:8d:53:59:1f,Asia/Colombo,"Howard, Knight and Smith",7.002138,$572.40,Palmermouth,Ecuador,-165.316399,ks,17,GB,1987-03-04,srv-60.smith.net

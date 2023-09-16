@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>H-Store - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6MTM5LCJpc3MiOiJjb3VudGVyOnN5c3RlbSIsIm5iZiI6MTY5NDYxNDI3MX0.uOr984blgaVj_t2P90endloWetd6mvPKFwmqsBHvUNE">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/h-store" />
+<meta name="twitter:url" content="https://dbdb.io/db/h-store" />
+<meta property="og:title" content="Database of Databases &mdash; H-Store" />
+<meta property="og:description" content="H-Store was an experimental database management system designed for on-line transaction processing applications." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/h-store.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; H-Store" />
+<meta name="twitter:description" content="H-Store was an experimental database management system designed for on-line transaction processing applications." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/h-store.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/h-store/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+H-Store
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<a class="badge badge-secondary" style="font-size: 12px;" href="/browse?tag=newsql">NewSQL</a>
+<p class="card-text">
+<p>H-Store was an experimental database management system designed for on-line transaction processing applications.</p>
+</p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>H-Store was originally conceived as the academic prototype. The original version of H-Store was a single-node proof-of-concept used in the 2007 VLDB paper. In the beginning of 2008, researchers at Brown, MIT, and Yale started working on a full-fledged, general purpose H-Store system. At the same time, Horizontica was launched as an secret internal project at Vertica. Once again, these were separate code bases that were to serve separate purposes.</p>
+<p>In the spring of 2008, it was decided to merge together the backend execution engine of H-Store and the front-end transaction coordinator and query planner of Horizontica. After the VLDB demo in the fall of 2008, the H-Store codebase was forked off and became VoltDB.</p>
+<p>The final version was announced in 2016. There have been no new developments since then. The code</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://hstore.cs.brown.edu/2016/06/final-release-june-2016/">http://hstore.cs.brown.edu/2016/06/final-release-june-2016/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="checkpoints" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Checkpoints
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?checkpoints=consistent">Consistent</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=deterministic-concurrency-control">Deterministic Concurrency Control</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=relational">Relational</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="isolation-levels" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Isolation Levels
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?isolation-levels=serializable">Serializable</a>
+</p>
+<p><p>All transactions execute with <code>SERIALIZABLE</code> isolation. It is not possible to execute transactions at a lower isolation level.</p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="logging" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Logging
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?logging=command-logging">Command Logging</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-compilation" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Compilation
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-compilation=not-supported">Not Supported</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-execution=materialized-model">Materialized Model</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=sql">SQL</a>
+<a class="badge badge-info" href="/browse?query-interface=stored-procedures">Stored Procedures</a>
+</p>
+<p><p>The primary query interface for H-Store was through stored procedures written in Java.</p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=in-memory">In-Memory</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=n-ary-storage-model-rowrecord">N-ary Storage Model (Row/Record)</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-organization" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Organization
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-organization=heaps">Heaps</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="stored-procedures" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Stored Procedures
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?stored-procedures=supported">Supported</a>
+</p>
+<p><p>All transactions are executed as Java-based stored procedures.</p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-nothing">Shared-Nothing</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=virtual-views">Virtual Views</a>
+</p>
+<p><p>H-Store only supports simplistic views based on aggregations (e.g., <code>COUNT</code>, <code>SUM</code>).</p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/h-store/revisions/" title="View All Revisions for H-Store">
+<div class="card-body">
+Revision #7
+&nbsp;|&nbsp;
+<time datetime="2022-06-29T23:15:47.030000-04:00">
+Updated 06/29/2022 11:15 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+Derivative Systems
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/voltdb" title="VoltDB">
+<img class="logo-recommendation" src="/media/logos/voltdb-2018.svg" alt="VoltDB" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/voltdb" title="VoltDB">
+<img class="logo-recommendation" src="/media/logos/voltdb-2018.svg" alt="VoltDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/nuodb" title="NuoDB">
+<img class="logo-recommendation" src="/media/logos/nuodb.svg" alt="NuoDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/hyper" title="HyPer">
+<img class="logo-recommendation" src="/media/logos/hyper.png.200x50_q85.png" alt="HyPer" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/singlestore" title="SingleStore">
+<img class="logo-recommendation" src="/media/logos/singlestore.svg" alt="SingleStore" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/hstore.svg"><img class="logo-thumbnail" src="/media/logos/hstore.svg" style="border:none;" alt="H-Store Logo" title="H-Store"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="https://hstore.cs.brown.edu/">https://hstore.cs.brown.edu/</a></p>
+<h6 class="card-title">Source Code</h6>
+<p class="card-text"><a href="https://github.com/apavlo/h-store">https://github.com/apavlo/h-store</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="https://hstore.cs.brown.edu/documentation/">https://hstore.cs.brown.edu/documentation/</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">Brown University, Massachusetts Institute of Technology, Carnegie Mellon University</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=US" title="View other systems from United States of America">
+<i class="flag-sprite flag-u flag-_s"></i>
+US
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2006</p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+<h6 class="card-title">
+End Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2016</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://hstore.cs.brown.edu/2016/06/final-release-june-2016/">http://hstore.cs.brown.edu/2016/06/final-release-june-2016/</a></li>
+</ul>
+</cite>
+<h6 class="card-title">Former Name</h6>
+<p class="card-text">Horizontica</p>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=academic" title="View other Academic systems">Academic</a>, <a class="card-title" href="/browse?type=open-source" title="View other Open Source systems">Open Source</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=cplusplus" title="View other systems that are written in C++">C++</a>, <a class="card-title" href="/browse?programming=java" title="View other systems that are written in Java">Java</a>
+</p>
+<h6 class="card-title">Derived From</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?derived=hypersql" title="View other systems derived from HyperSQL">HyperSQL</a>
+</p>
+<h6 class="card-title">Operating Systems</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?os=linux" title="View other systems that support Linux systems">Linux</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=bsd" title="View other systems that use BSD">BSD</a>, <a class="card-title" href="/browse?license=gpl-v3" title="View other systems that use GPL v3">GPL v3</a>
+</p>
+<h6 class="card-title">Wikipedia</h6>
+<p class="card-text"><a target="wikipedia" href="https://en.wikipedia.org/wiki/H-Store">https://en.wikipedia.org/wiki/H-Store</a></p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/h-store/revisions/" title="View All Revisions for H-Store">
+<div class="card-body">
+Revision #7
+&nbsp;|&nbsp;
+<time datetime="2022-06-29T23:15:47.030000-04:00">
+Updated 06/29/2022 11:15 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+Derivative Systems
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/voltdb" title="VoltDB">
+<img class="logo-recommendation" src="/media/logos/voltdb-2018.svg" alt="VoltDB" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/voltdb" title="VoltDB">
+<img class="logo-recommendation" src="/media/logos/voltdb-2018.svg" alt="VoltDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/nuodb" title="NuoDB">
+<img class="logo-recommendation" src="/media/logos/nuodb.svg" alt="NuoDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/hyper" title="HyPer">
+<img class="logo-recommendation" src="/media/logos/hyper.png.200x50_q85.png" alt="HyPer" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/singlestore" title="SingleStore">
+<img class="logo-recommendation" src="/media/logos/singlestore.svg" alt="SingleStore" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#f09d91999cb094929492de999f" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="e2f4aee54e11f8ad51889716-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="e2f4aee54e11f8ad51889716-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="e2f4aee54e11f8ad51889716-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="e2f4aee54e11f8ad51889716-text/javascript"></script>
+<script type="e2f4aee54e11f8ad51889716-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="e2f4aee54e11f8ad51889716-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="e2f4aee54e11f8ad51889716-text/javascript"></script>
+<script type="e2f4aee54e11f8ad51889716-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="e2f4aee54e11f8ad51889716-text/javascript"></script>
+<script src="/static/core/js/system.js" type="e2f4aee54e11f8ad51889716-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="e2f4aee54e11f8ad51889716-|49" defer></script></body>
+</html>

@@ -1,0 +1,500 @@
+[2023.05.20-22.07.43:062][  0]LogDeviceProfileManager: 	[00000A60F7A8A200][00000A60F7FE7800 52] iPhone13, 
+Sushi:   File: /scratch/ig-build-temp-JHXSGN/repo/input/fsh/instances/us-ph-supplemental-library-example.fsh (04:23.453)
+[   1899734] [op-court]
+[   1899750] [sessionmanager]
+[   1899750] [taximeter]
+[   1899765] [wk_wrs]
+[   1899781] [op-bridge]
+[   1920468] ResourceCache::AddEntry: Saved cache:v1:18c326a7f624759f056d6fecacb8ae1ca39b62cd to the index cache.
+[   1920484] ResourceCacheDevice: downloaded resource.rpf in 184 msec (size 26624)
+[   1920531] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 4a5aa5110355a20f71c6750c48d255c1f26e36fa) from http://139.99.125.59:30124/files/webadmin/resource.rpf
+[   1920687] ResourceCache::AddEntry: Saved cache:v1:4a5aa5110355a20f71c6750c48d255c1f26e36fa to the index cache.
+[   1920703] ResourceCacheDevice: downloaded resource.rpf in 173 msec (size 6144)
+[   1920765] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 03944a15dfabd50fe168322fff86c87f8913f978) from http://139.99.125.59:30124/files/assets-interiors/resource.rpf
+[   1920937] ResourceCache::AddEntry: Saved cache:v1:03944a15dfabd50fe168322fff86c87f8913f978 to the index cache.
+[   1920968] ResourceCacheDevice: downloaded resource.rpf in 187 msec (size 6144)
+[   1921047] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 58ed2c291dd08fc30932315bfa8c75970234f877) from http://139.99.125.59:30124/files/assets-civ-imports/resource.rpf
+[   1923000] ResourceCache::AddEntry: Saved cache:v1:58ed2c291dd08fc30932315bfa8c75970234f877 to the index cache.
+[   1923015] ResourceCacheDevice: downloaded resource.rpf in 1974 msec (size 1361920)
+[   1923093] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 60a657f6daa76c3139b140f3060cd544729d826f) from http://139.99.125.59:30124/files/assets-handlings/resource.rpf
+[   1924765] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Friends.asmx/GetFriends
+[   1925687] ResourceCache::AddEntry: Saved cache:v1:60a657f6daa76c3139b140f3060cd544729d826f to the index cache.
+[   1925703] ResourceCacheDevice: downloaded resource.rpf in 2610 msec (size 1724416)
+[   1926187] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 294da5fe58255bb7a027735eb38147540290c58d) from http://139.99.125.59:30124/files/assets-eup/resource.rpf
+[   1926359] ResourceCache::AddEntry: Saved cache:v1:294da5fe58255bb7a027735eb38147540290c58d to the index cache.
+[   1926375] ResourceCacheDevice: downloaded resource.rpf in 191 msec (size 6144)
+[   1926437] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash ad170671ed73e53ce880ebb30020eb725802fda7) from http://139.99.125.59:30124/files/op-base/resource.rpf
+[   1926765] ResourceCache::AddEntry: Saved cache:v1:ad170671ed73e53ce880ebb30020eb725802fda7 to the index cache.
+[   1926797] ResourceCacheDevice: downloaded resource.rpf in 355 msec (size 198656)
+[   1926843] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash d39a8dd2eb8555d4af1a3d0f7a4ece1b808cb198) from http://139.99.125.59:30124/files/assets-lafuenteblanca/resource.rpf
+[   1927000] ResourceCache::AddEntry: Saved cache:v1:d39a8dd2eb8555d4af1a3d0f7a4ece1b808cb198 to the index cache.
+[   1927015] ResourceCacheDevice: downloaded resource.rpf in 173 msec (size 6144)
+[   1927062] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash c8db9426df1efdb3b2fa2eedd66b4a25642ac7cd) from http://139.99.125.59:30124/files/chat/resource.rpf
+[   1927328] ResourceCache::AddEntry: Saved cache:v1:c8db9426df1efdb3b2fa2eedd66b4a25642ac7cd to the index cache.
+[   1927343] ResourceCacheDevice: downloaded resource.rpf in 273 msec (size 147456)
+[   1927390] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 467efa7dbebc1e3ccc4bf5b07325fa62c49d865b) from http://139.99.125.59:30124/files/op-banking/resource.rpf
+[   1927734] ResourceCache::AddEntry: Saved cache:v1:467efa7dbebc1e3ccc4bf5b07325fa62c49d865b to the index cache.
+[   1927750] ResourceCacheDevice: downloaded resource.rpf in 353 msec (size 258048)
+ofz#4940 null-dereference READ [Caolán McNamara]
+ofz#4943 direct-leak [Caolán McNamara]
+* \evensidemargin=1.0pt
+* \topmargin=-2.73714pt
+* \headheight=27.5pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=20.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count352
+\scratchdimen=\dimen301
+\scratchbox=\box74
+\nofMPsegments=\count353
+\nofMParguments=\count354
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count355
+\MPscratchDim=\dimen302
+\MPnumerator=\count356
+NOTE: There were 1715 observations read from the data set THIS.MYTICKER.
+[      3985] [    GTAProcess]               Render/ Changing video mode success: 1.
+[      3985] [    GTAProcess]               Render/ Changing video mode.
+tdf#51352 EDITING nested TABLE with undo / redo will CRASH [Zdeněk Crhonek]
+tdf#51368 EDITING: CRASH when Merge Cells with "move contents" and first of merged Cells is involved in calculation [Zdeněk Crhonek]
+tdf#114677 Base Form titles incorrect [Szymon Kłos]
+tdf#114681 No support for Glagolitic in LibreOffice [Aleksandr Andreev]
+tdf#114684 Entering invalid print range (with two hyphenated numbers greater than max page number) prints last page [Mike Kaganski]
+tdf#114701 [UI] Missing widget labels and tooltips in Customization dialog [heiko tietze]
+tdf#114703 FILEOPEN: DOCX: Incorrect numbering alignment (follow-up bug) [Miklos Vajna]
+tdf#114709 New online help looks terrible [Ilmari Lauhakangas]
+tdf#114719 New RYB based standard palette: violet name assigned to magenta colors, indigo is the violet [heiko tietze]
+tdf#114720 crashing with insert subtotals in Calc [Zdeněk Crhonek]
+tdf#114724 Outline headings remain highlighted in Navigator content navigation view after cursor is positioned to different outline heading in document [Jim Raykowski]
+tdf#114726 Area tabpage: Pattern editor doesn't work, preview not shown [Vasily Melenchuk]
+tdf#114732 Undo make bullet reappear unexpectedly. [Mark Hung]
+tdf#114736 Crash with CJK characters in status bar (OpenGL) [Tamas Bunth]
+tdf#114743 PRINT: angled text does not display [Tamas Bunth]
+tdf#114746 Improve CJK and CTL fonts setting in default Impress templates [Laurent BP]
+tdf#114749 Template font settings cleanup [Laurent BP]
+tdf#114751 Preferred font order for Japanese locale [Takeshi Abe]
+tdf#114768 Preferred font order for Chinese locales [Yousuf Philips]
+tdf#114771 Focus rectangle misplaced in Navigator content navigation view after promote or demote or dnd [Jim Raykowski]
+tdf#114817 New bitmap presets for Area Fill [andreas kainz]
+tdf#114821 FILEOPEN PPTX: In some files bar chart data labels are incorectly positioned [Szymon Kłos]
+tdf#114833 Dutch locale: date input without year (pattern D-M) displays as dd-mm-yy, while with year (pattern D-M-Y) displays as ISO yyyy-mm-dd [Eike Rathke]
+tdf#114837 FILEOPEN: Image is blank [Noel Grandin]
+tdf#114842 FILESAVE: to XLSX: comments lose background colour [Bartosz Kosiorek]
+tdf#114848 FILESAVE: PPTX: Shape's colour lost after RT [Szymon Kłos]
+tdf#114872 Broken selection from other user [Tamás Zolnai]
+tdf#114873 Letter, fax and agenda wizard not localized [Caolán McNamara, Julien Nabet]
+tdf#114882 Error Message: File format error found at SAXParseException: '[word/document.xml line 2]: Opening and ending tag mismatch: txbxContent line 0 and sdtContent ', Stream 'word/document.xml', Line 2, Column 3157(row,col). [Mike Kaganski]
+tdf#114901 UI: TSCP Classification dialog: too much vertical white space and Part list too wide [Tomaž Vajngerl]
+tdf#114907 [NEW HELP] Contents folder symbol not rendered in Windows 7 [Ilmari Lauhakangas]
+tdf#114913 FILEOPEN: PPTX: Bullets size is too small [Paul Trojahn]
+[   1919515] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash d9f58dc16daa4913ed61c9be12ab17f1c35837ea) from http://139.99.125.59:30124/files/sessionmanager/resource.rpf
+[   1919687] ResourceCache::AddEntry: Saved cache:v1:d9f58dc16daa4913ed61c9be12ab17f1c35837ea to the index cache.
+[   1919703] ResourceCacheDevice: downloaded resource.rpf in 180 msec (size 6144)
+[   1919734] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash a91e2823e7d871258d6bea46a6e53d73ab7df915) from http://139.99.125.59:30124/files/taximeter/resource.rpf
+[   1919906] ResourceCache::AddEntry: Saved cache:v1:a91e2823e7d871258d6bea46a6e53d73ab7df915 to the index cache.
+*
+adjtimex (ADJTIMEX) [N/y/?] n
+bbconfig (BBCONFIG) [N/y/?] n
+beep (BEEP) [N/y/?] n
+chat (CHAT) [N/y/?] n
+chrt (CHRT) [Y/n/?] y
+conspy (CONSPY) [N/y/?] n
+crond (CROND) [Y/n/?] y
+  Support option -d to redirect output to stderr (FEATURE_CROND_D) [N/y/?] n
+  Report command output via email (using sendmail) (FEATURE_CROND_CALL_SENDMAIL) [N/y/?] n
+  crond spool directory (FEATURE_CROND_DIR) [/var/spool/cron] /var/spool/cron
+crontab (CRONTAB) [Y/n/?] y
+dc (DC) [Y/n/?] y
+  Enable power and exp functions (requires libm) (FEATURE_DC_LIBM) [N/y/?] n
+devfsd (obsolete) (DEVFSD) [N/y/?] n
+Use devfs names for all devices (obsolete) (FEATURE_DEVFS) [N/y/?] n
+devmem (DEVMEM) [Y/n/?] y
+eject (EJECT) [Y/n/?] y
+  SCSI support (FEATURE_EJECT_SCSI) [N/y/?] n
+fbsplash (FBSPLASH) [N/y/?] n
+flash_eraseall (FLASH_ERASEALL) [N/y/?] n
+flash_lock (FLASH_LOCK) [N/y/?] n
+flash_unlock (FLASH_UNLOCK) [N/y/?] n
+flashcp (FLASHCP) [N/y/?] n
+hdparm (HDPARM) [Y/n/?] y
+  Support obtaining detailed information directly from drives (FEATURE_HDPARM_GET_IDENTITY) [Y/n/?] y
+  Register an IDE interface (DANGEROUS) (FEATURE_HDPARM_HDIO_SCAN_HWIF) [N/y/?] n
+  Un-register an IDE interface (DANGEROUS) (FEATURE_HDPARM_HDIO_UNREGISTER_HWIF) [N/y/?] n
+  Perform device reset (DANGEROUS) (FEATURE_HDPARM_HDIO_DRIVE_RESET) [N/y/?] n
+  Tristate device for hotswap (DANGEROUS) (FEATURE_HDPARM_HDIO_TRISTATE_HWIF) [N/y/?] n
+staticfield java/lang/System in Ljava/io/InputStream; java/io/BufferedInputStream
+staticfield java/lang/System out Ljava/io/PrintStream; java/io/PrintStream
+staticfield java/lang/System err Ljava/io/PrintStream; java/io/PrintStream
+tdf#116297 Remove table tooltips [heiko tietze]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+int main() {
+  int b = foo(1);  if (b);
+;
+status code: 200
+
+./JeuxVideos/The_Elder_Scrolls_V__Skyrim_/CD2
+
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) [tomcat-coyote.jar:9.0.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.34]
+	at info.magnolia.cms.security.BaseSecurityFilter.doFilter(BaseSecurityFilter.java:57) [magnolia-core-6.2.3.jar:?]
+[22:42:46] Computer T2: [-] 7735/8530 no engine matches (HTTP-Status: 502) - http://www.faragirnews.ir
+[22:42:46] Agriculture T2: [-] 3871/8565 download failed (Return: -) - http://pgam.co.kr/xe/a2/16354
+[22:42:46] Amazon: [-] 3696/7825 download failed (Return: -) - http://www.conpap.net/zenphoto/Giona14/Giona14_DSC5976.jpg.php
+[22:42:46] Digital Marketing: [-] 0137/7912 download failed (Return: -) - https://getonlinegeldverdienen.wordpress.com/2013/12/10/5-concepts-of-how-to-online-geld-verdienen/
+[22:42:46] Web Design: [-] 0796/7978 no form at all - http://www.arriazavega.com/wp-login.php?action=register
+
+This message is contained in the SAS news file, and is presented upon
+initialization.  Edit the file "news" in the "misc/base" directory to
+display site-specific news and information in the program log.
+The command line option "-nonews" will prevent this display.
+
+
+
+
+NOTE: SAS initialization used:
+      real time           0.29 seconds
+      cpu time            0.03 seconds
+      
+1          *
+2          ________________________________________________________________________________________________________________________
+3          
+4          analyzeTrades.sas
+5          Joel Hasbrouck
+6          September 2011
+7          
+8          This program runs on rnd.stern.nyu. It builds a dataset of transactions for one ticker symbol, plots the trade prices,
+9          and computes descriptive statistics.
+10         _______________________________________________________________________________________________________________________
+11         ;
+12         options source nodate nocenter nonumber ps=max ls=110 orientation=landscape;
+13         libname taq '/homedir/fin/fac/jhasbrou/public_html/ftp/phd2011Fall';
+NOTE: Libref TAQ was successfully assigned as follows: 
+      Engine:        V9 
+      Physical Name: /homedir/fin/fac/jhasbrou/public_html/ftp/phd2011Fall
+14         libname this '.';
+    + - Removed the only-used-once FontLevelVector typedef [Ryan McCoskrie]
+    + -fsanitize=function [Stephan Bergmann]
+    + -fsanitize=nonnull-attribute [Stephan Bergmann]
+    + -Werror,-Wconstant-conversion (from 255 to -1) [Stephan Bergmann]
+    + -Werror,-Wdelete-non-virtual-dtor [Stephan Bergmann]
+6M0	ARKANSAS	HAZEN MUNI	afd	sc_18_25OCT2007.png
+HBZ	ARKANSAS	HEBER SPRINGS MUNI	afd	sc_18_25OCT2007.png
+      manliDepth                        = 100
+      manliMaxDELINSSize                = 1
+================================================================================
+Executing: ['git', 'describe', '--match=v*']
+stdout: v3.11.3-1885-g204d4ae
+Executing: ['git', 'log', '-1', '--pretty=format:%H']
+stdout: 204d4ae47a5e3720741196f46e57ea3f23a5ecc7
+Executing: ['git', 'log', '-1', '--pretty=format:%ci']
+stdout: 2019-08-19 07:36:37 +0200
+Executing: ['git', 'branch']
+stdout:
+* (HEAD detached at origin/next)
+  denera/tao-bounded-newton
+  master
+  next
+  scott/ts_for_loop_fixes
+            Defined "VERSION_GIT" to ""v3.11.3-1885-g204d4ae""
+            Defined "VERSION_DATE_GIT" to ""2019-08-19 07:36:37 +0200""
+            Defined "VERSION_BRANCH_GIT" to ""(HEAD detached at origin/next)""
+================================================================================
+TEST setNativeArchitecture from PETSc.options.arch(/sandbox/petsc/petsc.next/config/PETSc/options/arch.py:31)
+TESTING: setNativeArchitecture from PETSc.options.arch(/sandbox/petsc/petsc.next/config/PETSc/options/arch.py:31)
+================================================================================
+TEST configureArchitecture from PETSc.options.arch(/sandbox/petsc/petsc.next/config/PETSc/options/arch.py:43)
+XDG_SESSION_ID=9192
+_=/sandbox/petsc/petsc.next/lib/petsc/bin/maint/buildtest
+SSH_CONNECTION=140.221.8.249 35558 140.221.11.38 22
+OLDPWD=/home/petsc
+PWD=/sandbox/petsc/petsc.next
+MAIL=/var/mail/petsc
+MACHTYPE=x86_64
+================================================================================
+TEST resetEnvCompilers from config.setCompilers(/sandbox/petsc/petsc.next/config/BuildSystem/config/setCompilers.py:1609)
+*** Netsplit at 10:20:10 (irc-2.mit.edu hub.cs.jmu.edu)
+    + add default XCommandEnvironment to ... (tdf#88502) [Giuseppe Castagno]
+     Agency                   : 
+     Preferred Abbreviation   : 
+     Mailing Address          : 
+2.7_percent          ==> _
+of                   ==> _
+the                  ==> the
+people               ==> people
+infected             ==> infected
+with                 ==> with
+HIV                  ==> HIV
+live                 ==> _
+in                   ==> in
+Africa               ==> _
+.                    ==> .
+Alignment score: 13.350
+
+Features ------------------------------------------------
+
+[ 1.000] Alignment.isGood: Weight for score based on closeness to 'good' threshold
+[-0.000] Alignment.isBad: Weight for score based on closeness to 'bad' threshold
+[16.968] Alignment.score.scaled: Alignment score scaled by exponentiated hypothesis size.
+[ 0.500] Alignment.hypSpan NULL JUSTIFICATION
+[ 0.045] Alignment.txtSpan NULL JUSTIFICATION
+[-1.000] Adjunct.addPosCxt: It is not okay that the hypothesis added the word "Africa" modifying "live"
+[ 0.500] Adjunct.dropPosCxt: It is okay that text word "Nigeria" modifying "infected" is dropped on aligned hypothesis word "infected"
+Running AntonymFeaturizer 0.1
+Checking copula in apposition
+argH.first: det
+argH.first: partmod
+argT.first: num
+                ./.-28  ==  ./.-6                 SUB    $0.867  [E, sim, Esz]
+                                                       --------
+                                                TOTAL   $15.372
+	at info.magnolia.cms.i18n.I18nContentSupportFilter.doFilter(I18nContentSupportFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+    + add EDB-39395-1 test-case [Caolán McNamara]
+	New feature
+		- Add feature export to excel for BOM Report menu
+		
+ Version 1.35.0 (29 MARCH 2019)	
+	New feature
+
+Installing hl7.fhir.uv.extensions#1.0.0 done.
+Version mismatch. This IG is version 4.0.1, while the IG 'hl7.fhir.uv.extensions' is from version 5.0.0 (will try to run anyway) (05:43.524)
+(WildEep/#earthquake) Tua: yes, and by drawers openning.
+advmod, 
+
+[-1.948] NullPunisher.other: illegally
+nsubj, 
+[-0.000] NullPunisher.nsubj: personnel
+
+[-1.588] NullPunisher.other: personnel
+prep_into, 
+
+[-4.000] NullPunisher.other: computer_networks
+Matching relations are: []
+[-2.000] RootEntailment.unalignedRoot: "entered" not aligned to anything
+
+Initializing hand-weighted classifier with threshold 0.00000...
+Doing alignment for problem 10
+<SimpleProblem id="RTE2_dev.10.p0">
+  <answer>?</answer>
+  <p>In Nigeria , by far the most populous country in sub-Saharan_Africa , over 2.7_million people are infected with HIV .</p>
+  <h>2.7_percent of the people infected with HIV live in Africa .</h>
+</SimpleProblem>
+<MANLIResult id="RTE2_dev.10.p0" score="13.350" normscore="0.431">
+                        ==  2.7_percent/CD-0      INS    $0.377  [I]
+               In/IN-0  ==                        DEL    $0.429  [D]
+         Nigeria/NNP-1  ==                        DEL    $0.429  [D]
+                        ==  of/IN-1               INS    $0.377  [I]
+                 ,/,-2  ==                        DEL    $0.429  [D]
+               by/IN-3  ==                        DEL    $0.429  [D]
+              far/RB-4  ==                        DEL    $0.429  [D]
+              the/DT-5  ==  the/DT-2              SUB    $0.866  [E, sim, Esz, d:0.063]
+            most/RBS-6  ==                        DEL    $0.429  [D]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+		- Add date type filter[manufacture, transport] for Bom Summary Report
+Version 1.49.0 (4 AUGUST 2021)
+2016-02-23 15:45:25,609  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.RoutingModule, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=44, type=MAPBINDER, keyType=java.lang.String)], provider=Key[type=org.matsim.core.router.Transit, annotation=[none]]}
+2016-02-23 15:45:25,609  INFO Injector:68 org.matsim.core.router.RoutingModule @com.google.inject.multibindings.Element(setName=,uniqueId=46, type=MAPBINDER, keyType=java.lang.String)
+2016-02-23 15:45:25,609  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.RoutingModule, annotation=@com.google.inject.multibindings.Element(setName=,uniqueId=46, type=MAPBINDER, keyType=java.lang.String)], provider=org.matsim.core.router.NetworkRouting@2b6faea6}
+2021-10-26T21:50:50.131Z,1.131957,ab3bf380,6 [channel] Caps: Border Color 1
+2021-10-26T21:50:50.131Z,1.131974,ab3bf380,6 [channel] Caps: Texture: RGB10A2 1 RG11B10F 1
+2021-10-26T21:50:50.131Z,1.131993,ab3bf380,6 [channel] Caps: Texture: DXT 1 PVR 0 ETC1 0 ETC2 0 Half 1
+2021-10-26T21:50:50.132Z,1.132006,ab3bf380,6 [channel] Caps: Texture: 3D 1 Array 1 Depth 1 MSAA 1 MSAAFP16 8
+2021-10-26T21:50:50.132Z,1.132018,ab3bf380,6 [channel] Caps: Texture: NPOT 1 PartialMips 1 CubeMipGen 1 CubeFramebuffer 1
+2021-10-26T21:50:50.132Z,1.132029,ab3bf380,6 [channel] Caps: Texture: Size 8192 Units 16
+2021-10-26T21:50:50.132Z,1.132040,ab3bf380,6 [channel] Caps: ConstantBufferSize 65536
+2021-10-26T21:50:50.132Z,1.132051,ab3bf380,6 [channel] Caps: 32bIdx 1 Memoryless 0
+2021-10-26T21:50:50.132Z,1.132062,ab3bf380,6 [channel] Caps: ColorBGR 0 RTFlip 0 MinusOneToOneDepth 0
+2021-10-26T21:50:50.138Z,1.138685,ab3bf380,6 [FLog::Graphics] Metal: creating framebuffer 1000x665
+2021-10-26T21:50:50.138Z,1.138807,ab3bf380,6 [FLog::Graphics] Video memory size: 1610612736
+2021-10-26T21:50:50.187Z,1.187902,ab3bf380,6 [FLog::Graphics] Loaded 620 shaders from pack metal_osx variant default (4412629 bytes)
+2021-10-26T21:50:50.187Z,1.187949,ab3bf380,6 [FLog::Graphics] Compiled 620 shaders in 49 ms
+2021-10-26T21:50:50.235Z,1.235548,ab3bf380,6 [FLog::SurfaceController] SurfaceController[_:1]::initialize view(0x7f97b020eb70)
+2021-10-26T21:50:50.235Z,1.235603,ab3bf380,6 [FLog::SurfaceController] SurfaceController[_:1]::start dataModel(0x7f97ae098a00)
+2021-10-26T21:50:50.235Z,1.235684,ab3bf380,6 [FLog::SurfaceController] SurfaceController::RenderJob[_:1]::RenderJob
+2021-10-26T21:50:50.235Z,1.235712,ab3bf380,6 [FLog::SurfaceController] SurfaceController[_:1]::run dataModel(0x7f97ae098a00)
+2021-10-26T21:50:50.236Z,1.236310,4337000,6 [FLog::LocalStorage] LocalStorage flushing
+2021-10-26T21:50:50.236Z,1.236478,4337000,6 [FLog::SurfaceController] SurfaceController::RenderJob::stepDataModelJob: No DM yet. Continue...
+2021-10-26T21:50:50.236Z,1.236582,44c0000,6 [FLog::LocalStorage] LocalStorage writing to file: /Users/studioagain/Library/Roblox/LocalStorage/memProfStorage11138.json
+2021-10-26T21:50:50.236Z,1.236665,44c0000,6 [FLog::LocalStorage] LocalStorage will flush 5212 bytes to /Users/studioagain/Library/Roblox/LocalStorage/memProfStorage11138.json
+2021-10-26T21:50:50.237Z,1.237119,44c0000,6 [FLog::LocalStorage] LocalStorage: Wrote 5212 bytes to disk
+2021-10-26T21:50:50.277Z,1.277900,ab3bf380,6 [FLog::SurfaceController] SurfaceController::RenderJob::scheduleRender: No data model. Bind workspace now...
+2021-10-26T21:50:50.388Z,1.388939,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest, response:
+{"jobId":"4d64c44d-360b-41f4-8227-71b4dc927481","status":2,"joinScriptUrl":"https://assetgame.roblox.com/Game/Join.ashx?ticketVersion=2&ticket=%7b%22UserId%22%3a3520967%2c%22UserName%22%3a%22FruitySama%22%2c%22DisplayName%22%3a%22FruitySama%22%2c%22CharacterFetchUrl%22%3a%22https%3a%2f%2fapi.roblox.com%2fv1.1%2favatar-fetch%2f%3fplaceId%3d4996049426%26userId%3d3520967%22%2c%22GameId%22%3a%224d64c44d-360b-41f4-8227-71b4dc927481%22%2c%22PlaceId%22%3a4996049426%2c%22UniverseId%22%3a1720936166%2c%22ServerId%22%3a127548%2c%22ServerPort%22%3a51561%2c%22IsTeleport%22%3afalse%2c%22FollowUserId%22%3anull%2c%22TimeStamp%22%3a%2210%2f26%2f2021+4%3a50%3a49+PM%22%2c%22CharacterAppearanceId%22%3a3520967%2c%22AlternateName%22%3anull%2c%22JoinTypeId%22%3a10%2c%22MatchmakingDecisionId%22%3a%2252dbe11e-713d-4d14-bcec-c1a9407f58f5%22%2c%22GameJoinMetadata%22%3a%7b%22JoinSource%22%3a0%2c%22RequestType%22%3a0%2c%22
+2021-10-26T21:50:50.439Z,1.439988,ab3bf380,6 [FLog::Graphics] Metal: resizing main framebuffer to 1440x900
+2021-10-26T21:50:50.441Z,1.441478,4337000,7 [FLog::Network] NetworkClient:Create
+2021-10-26T21:50:50.441Z,1.441950,4337000,6 [FLog::LocalStorage] LocalStorage flushing (blocking)
+2021-10-26T21:51:05.215Z,16.215679,43ba000,6 [FLog::Output] Info: Stack End
+2021-10-26T21:51:05.215Z,16.215710,43ba000,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.FruitySama:WaitForChild("DataLoad")'
+mountaineer+race+track	01.08.2009 22:11:50	http://www.google.com/search?hl=en&ie=ISO-8859-1&q=charles+town+horse+races+august1+2009&aq=f&oq=&aqi=	Mozilla/4.1 (compatible; MSIE 6.0; ) 400x240 LGE VX10000	97.33.142.109
+tdf#116216 LOOKUP on array doesn't handle sorted error values correctly [Eike Rathke]
+            Substituting "CPPFLAGS" with ""
+[22:42:38] Hollywood: [-] 8223/8544 no engine matches (HTTP-Status: 301) - https://komikangkot.wordpress.com/
+[22:42:38] Precious metals: [-] 0096/8003 no engine matches (HTTP-Status: 400) - https://en.wordpress.com
+[22:42:38] Car Insurance: [-] 4190/8012 no engine matches (HTTP-Status: 400) - https://www.colorado.gov
+[22:42:38] Mesa DUI lawyer: [+] 8177/8415 matches engine Wordpress Article - https://hardwarejournal.com.au/
+[22:42:38] Health: [-] 8180/8339 no engine matches (HTTP-Status: 503) - https://bricomagazine.com/index.php/component/k2/item/3967-home-depot-/3967-home-depot-?start=10
+[22:42:38] Car Insurance: [-] 4191/8012 no engine matches (HTTP-Status: 503) - http://www.xihua.es/forum.php?mod=forumdisplay&fid=86&filter=sortid&sortid=226
+[22:42:38] Online Degree: [-] 7892/8073 no engine matches (HTTP-Status: 503) - http://fatlittletrucker.com
+[22:42:38] Agriculture T1: [-] 0900/1000 no engine matches (HTTP-Status: 503) - http://www.patheos.com/blogs/voodoouniverse/2017/12/top-ten-voodoo-videos-on-voodoo-universe/
+[22:42:38] Social Media: [-] 0494/7976 no engine matches (HTTP-Status: 503) - http://fondo-de-link-download.downloads.filetransit.com/
+[22:42:38] Sai: [-] 8086/8249 no engine matches (HTTP-Status: 503) - http://valeciastone.com/archives/106/floor_2
+[22:42:38] Mesa DUI lawyer: [+] 8177/8415 new URL - https://hardwarejournal.com.au/home
+[22:42:38] Cooking TIPS: [-] 0201/7845 no engine matches (HTTP-Status: 503) - http://cardco.blogspot.com/2014/05/the-tiki-room.html
+[22:42:38] eBay: [-] 8125/8467 no engine matches (HTTP-Status: 503) - http://www.wolviston.org.uk/?p=696
+[22:42:38] Currency: [-] 7908/8085 no engine matches (HTTP-Status: 503) - https://northeastnow.com/
+[22:42:40] Justice degree: [-] 8018/8289 required variable "your e-mail" was not used in form. http://suomiblog.com/login?action=register
+[22:42:40] Precious metals: [-] 0097/8003 no engine matches (HTTP-Status: 501) - https://www.pwyp.org/areas-of-work/environmental-and-social-impact
+[22:42:40] Computer: [-] 0312/8028 no engine matches (HTTP-Status: 503) - http://www.luckystarnhatrang.com/vi/y-ki-n-khach-hang/item/65-the-best-choice-for-the-businessman.html
+[22:42:40] Internet VOIP: [-] 0122/8096 no engine matches - https://brooklynfarmgirl.com
+[22:42:40] Mesa DUI lawyer: [-] 8179/8413 no engine matches (HTTP-Status: 400) - https://sexpectations89.wordpress.com
+[22:42:40] Injury Lawyers: [-] 7871/7969 no engine matches (HTTP-Status: 501) - https://joybmink.wordpress.com/
+[22:42:40] Hindu temples: [ ] Verifying links...
+[22:42:40] Hindu temples: [ ] Checking E-Mail chongseekamp7207@hidebox.org for links (2  waiting)...
+[22:42:40] Travels: [-] 8126/8261 no engine matches (HTTP-Status: 0) - http://zincubate.wpengine.com/central-desktop-and-microsoft-office-integration
+[22:42:40] Digital Marketing: [-] 0132/7912 no engine matches (HTTP-Status: 501) - https://www.publicjustice.net/team/leah-m-nicholls/
+[22:42:40] Amazon: [-] 3686/7825 no engine matches - http://wecognize.blogspot.com/2012/09/how-to-ask-questions.html
+[22:42:40] Web Design: [+] 0792/7978 matches engine Wordpress Article - https://in-memory-of-pets.com/
+[22:42:40] Web Design: [+] 0792/7978 new URL - https://in-memory-of-pets.com/wp-login.php?action=register
+[22:42:40] Web Design: [+] 0792/7978 new URL - https://in-memory-of-pets.com/wp-login.php?action=register
+[22:42:40] Web Design: [-] 0792/7978 no form at all - https://in-memory-of-pets.com/wp-login.php?action=register
+[22:42:40] Mesothelioma: [+] 0524/7981 matches engine Wordpress Article - http://pinturasgaena.es/?page_id=53
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 21:19:15	http://www.google.com/search?hl=en&q=invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch&aq=3z&oq=invicta&aqi=n1g-z1g1g-z1g7	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	69.231.67.167
+================================================================================
+TEST configureMercurial from config.sourceControl(/sandbox/petsc/petsc.next/config/BuildSystem/config/sourceControl.py:35)
+TESTING: configureMercurial from config.sourceControl(/sandbox/petsc/petsc.next/config/BuildSystem/config/sourceControl.py:35)
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-blood-pressure|6.1.0]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+2021-10-26T21:50:49.426Z,0.426680,ab3bf380,6 [FLog::SurfaceController] SurfaceController[_:1]::SurfaceController, count: 1
+2021-10-26T21:50:49.690Z,0.690962,ab3bf380,6 [FLog::Output] Authentication request URL: https://auth.roblox.com/v1/authentication-ticket/redeem ticket: C6789C0FBF13D4A310A6EF6DEAEB8AA507FB800F7B541A9D2E7ECAEEB8B38EE39FE45949BAE299719BF2C9C173D09FB702AB241EE61FDB6EAA7ADD234D66B6D82F12793A132558690616CC9B21D14566D56346182909CC8AFDFD9BCF18D9137C06E32091E76C85EFD9FB07350F698B2E815FB0E714EE84EFB9E8AAC31BCDD2560D8A8973854A1B36A5166E6829CF3C07C278B10FB9954A775E9D20EF027620D4D629CBEB
+2021-10-26T21:50:50.035Z,1.035542,ab3bf380,6 [FLog::Output] Hello to all (CLI-46686)
+2021-10-26T21:50:50.035Z,1.035588,ab3bf380,6 [FLog::Output] hello from a happy cactus (:
+2021-10-26T21:50:50.035Z,1.035602,ab3bf380,6 [FLog::Output] Hello (smiling bashfully)!
+2021-10-26T21:50:50.119Z,1.119557,ab3bf380,6 [FLog::UGCGameController] UGCGameController, initialized DataModel(0x7f97ae098a00)
+2021-10-26T21:50:50.119Z,1.119632,ab3bf380,6 [FLog::GameJoinUtil] GameJoinUtil::joinGame
+2021-10-26T21:50:50.119Z,1.119676,ab3bf380,6 [FLog::GameJoinUtil] GameJoinUtil::joinGamePostStandard: URL: https://gamejoin.roblox.com/v1/join-game BODY: {"placeId":4996049426,"browserTrackerId":"73171453269"}
+2021-10-26T21:50:50.119Z,1.119712,ab3bf380,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest: requestCount: 0, url: https://gamejoin.roblox.com/v1/join-game.
+2021-10-26T21:50:50.119Z,1.119756,ab3bf380,6 [FLog::GameJoinUtil] Delaying request by 0.00 seconds
+2021-10-26T21:50:50.131Z,1.131707,ab3bf380,6 [FLog::Graphics] Metal renderer: Intel(R) Iris(TM) Graphics 6000
+2021-10-26T21:50:50.131Z,1.131883,ab3bf380,6 [channel] Caps: ThreadSafe 1 Framebuffer 1 FpFramebuffer 1 Shaders 1 Compute 1 Instancing 1 ConstBuffers 1
+2021-10-26T21:50:50.131Z,1.131916,ab3bf380,6 [channel] Caps: Framebuffer: MRT 4 MSAA 8 Stencil 1
+2021-10-26T21:50:50.131Z,1.131938,ab3bf380,6 [channel] Caps: Framebuffer: Depth16 1 Depth24 0 DepthFloat 1 DepthClamp 1
+2021-10-26T21:50:50.131Z,1.131957,ab3bf380,6 [channel] Caps: Border Color 1
+2021-10-26T21:50:50.131Z,1.131974,ab3bf380,6 [channel] Caps: Texture: RGB10A2 1 RG11B10F 1
+2021-10-26T21:50:50.131Z,1.131993,ab3bf380,6 [channel] Caps: Texture: DXT 1 PVR 0 ETC1 0 ETC2 0 Half 1
+2021-10-26T21:50:50.132Z,1.132006,ab3bf380,6 [channel] Caps: Texture: 3D 1 Array 1 Depth 1 MSAA 1 MSAAFP16 8
+2021-10-26T21:50:50.132Z,1.132018,ab3bf380,6 [channel] Caps: Texture: NPOT 1 PartialMips 1 CubeMipGen 1 CubeFramebuffer 1
+2021-10-26T21:50:50.132Z,1.132029,ab3bf380,6 [channel] Caps: Texture: Size 8192 Units 16
+2021-10-26T21:50:50.132Z,1.132040,ab3bf380,6 [channel] Caps: ConstantBufferSize 65536
+2021-10-26T21:50:50.132Z,1.132051,ab3bf380,6 [channel] Caps: 32bIdx 1 Memoryless 0
+2021-10-26T21:50:50.132Z,1.132062,ab3bf380,6 [channel] Caps: ColorBGR 0 RTFlip 0 MinusOneToOneDepth 0
+2021-10-26T21:50:50.138Z,1.138685,ab3bf380,6 [FLog::Graphics] Metal: creating framebuffer 1000x665
+2021-10-26T21:50:50.138Z,1.138807,ab3bf380,6 [FLog::Graphics] Video memory size: 1610612736
+2021-10-26T21:50:50.187Z,1.187902,ab3bf380,6 [FLog::Graphics] Loaded 620 shaders from pack metal_osx variant default (4412629 bytes)
+2021-10-26T21:50:50.187Z,1.187949,ab3bf380,6 [FLog::Graphics] Compiled 620 shaders in 49 ms
+2021-10-26T21:50:50.235Z,1.235548,ab3bf380,6 [FLog::SurfaceController] SurfaceController[_:1]::initialize view(0x7f97b020eb70)
+2021-10-26T21:50:50.235Z,1.235603,ab3bf380,6 [FLog::SurfaceController] SurfaceController[_:1]::start dataModel(0x7f97ae098a00)
+2021-10-26T21:50:50.235Z,1.235684,ab3bf380,6 [FLog::SurfaceController] SurfaceController::RenderJob[_:1]::RenderJob
+BVX	ARKANSAS	BATESVILLE RGNL	afd	sc_3_25OCT2007.png
+SUZ	ARKANSAS	BENTON SALINE CO RGNL	afd	sc_3_25OCT2007.png
+       Serial Number          : 
+       Data Sampling Interval : 
+       Accuracy               : 
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+21:38:12 T:139832623855360    INFO: CAESinkALSA::Initialize - Opened device "hdmi:CARD=HDMI,DEV=0,AES0=0x04,AES1=0x82,AES2=0x00,AES3=0x00"
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count334
+\c@continuedfloat=\count335
+Package caption Info: float package is loaded.
+<09:48AM NPR_News> KNBC: Test Message.
+<09:48AM DrStupid> KNBC - rescued dude from smashed apartments
+<09:48AM KNBC> NPR_news works
+<09:48AM KFWB> [Q]  How can I ignore the cannot send messages?  /on SERVER_NOTICE doesn't work
+<09:48AM DrStupid> KNBC - "oh that sky looks beautiful"
+<09:48AM CNN_news> CNN lost KTLA live coverage
+<09:49AM tasm> barbara bocer: really nice to have a FEMA director who is a real human being... on TODAY SHOW
+<09:49AM tasm> what a liberal bimbo
+<09:49AM KNBC> Anyone have info on Laguana Hills?
+<09:57AM KNBC> hold on
+<09:57AM me> hey does anyone know about USC campus????
+--> "-b kd4cqy!*@*" mode change by KNBC on #earthquake
+<09:57AM CNN_news> Sherman Oaks: 3 dead, maybe 6 many damaged homes & buildings
+<09:57AM me> hey does anyone know about USC campus????
+(WildEep/#earthquake) KNBC: May be incorrect.  H&W net reports not true
+--> "+v KD4CQY" mode change by KNBC on #earthquake
+--> "-b *!*@192.*" mode change by tasm on #earthquake
+<09:57AM CNN_news> several gas mains broken & burning
+-me:#earthquake- Does anyone know about USC campus????
+-me:#earthquake- Does anyone know about USC campus????
+<09:58AM DrStupid> KNBC - Community Desk newsroom - LA Dept of Water and Power - all LA residents do not drink tap water - broken water mains contaminated the water.
+--> "+o Jup1" mode change by cuisund.unige.ch on #earthquake
+* Sea-Marie shut up!
+(Sea-Marie/#earthquake) Ack!
+<09:58AM DrStupid> KNBC - MWD safe (maybe).  DWP - unsafe.
+--> "-b *!*@192*" mode change by KNBC on #earthquake
+<09:58AM DrStupid> KNBC - boil it for 20 minutes IF you are not running gas stove.
+<09:58AM CNN_news> no info of CSUN here
+--> "-m" mode change by KNBC on #earthquake
+(WildEep/#earthquake) shock!
+[   1963922] overriding handle for mp_f_freemode_01/jbib_diff_012_e_uni.ytd (was 4cd042f) -> 26c
+[   1963937] overriding handle for mp_f_freemode_01/jbib_diff_012_f_uni.ytd (was 4cd0430) -> 26d
+[   1963953] overriding handle for mp_f_freemode_01/jbib_diff_012_g_uni.ytd (was 4cd0431) -> 26e
+instanceKlass sun/security/util/Debug
+mountaineer+race+track	01.08.2009 22:23:37	http://www.google.com/search?hl=en&rlz=1G1GGLQ_ENUS294&q=mountaineer+horse+race+track+history&btnG=Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)	75.213.183.163
+buick+open+tee+times	01.08.2009 22:25:00	http://www.google.com/search?q=Buick+Open+Tee+Times+4th+round&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GFRC_en	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322)	24.255.131.212
+what+did+greg+mcmackin+say	01.08.2009 22:25:17	http://www.google.com/search?hl=en&q=what+did+greg+mcmackin+say&aq=0z&oq=what+did+greg&aqi=g-z1g9	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	204.99.250.45
+gold+coast+art+fair+2009	01.08.2009 22:25:52	http://search.aol.com/aol/search?s_it=comsearch40&query=gold+coast+art+fair&do=Search	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.1)	68.165.46.244
+buick+open+tee+times	01.08.2009 22:26:05	http://www.google.com/url?sa=t&source=web&ct=res&cd=2&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fbuick%2Bopen%2Btee%2Btimes&ei=-MB0StnHKoH-NePHjLEM&rct=j&q=final+round+tee+times+2009+buick+open&usg=AFQjCNE3ISNRtk65iZlknwEPhIStiFwIvA	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	75.7.200.95
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:16]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.SceneColorFormat:2]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DetailMode:2]]
+ofz#7359 integer overflow [Caolán McNamara]
+ofz#7364 integer overflow [Caolán McNamara]
+ofz#7365 integer overflow [Caolán McNamara]
+\c@pgf@countc=\count314

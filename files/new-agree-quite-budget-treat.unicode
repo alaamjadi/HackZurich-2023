@@ -1,0 +1,511 @@
+build	14-Jul-2020 09:19:53	[INFO]     Updating parent com.XXXXXX.eps.epdg:epdg-app-aggregator
+build	14-Jul-2020 09:19:53	[INFO]         from version 1.0.0-SNAPSHOT to 1.0.16-SNAPSHOT
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-lab|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-occupation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancyintent|6.1.0]
+\pgfmath@box=\box59
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+  Turn on output of extra information (FEATURE_LAST_FANCY) [N/y/?] n
+less (LESS) [Y/n/?] y
+build	14-Jul-2020 09:19:57	[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.apache.poi:poi:jar -> version 3.8-beta3 vs 3.7 @ com.XXXXXX.eps.epdg:epdg-app-war:[unknown-version], D:\BambooAgent\xml-data\build-dir\EPDG-EPWBD-JOB1\epdg-app-war\pom.xml, line 5885, column 15
+build	14-Jul-2020 09:19:57	[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: commons-net:commons-net:jar -> version 1.4.1 vs 3.3 @ com.XXXXXX.eps.epdg:epdg-app-war:[unknown-version], D:\BambooAgent\xml-data\build-dir\EPDG-EPWBD-JOB1\epdg-app-war\pom.xml, line 6236, column 15
+build	14-Jul-2020 09:19:57	[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: com.jcraft:jsch:jar -> version 0.1.50 vs 0.1.54 @ com.XXXXXX.eps.epdg:epdg-app-war:[unknown-version], D:\BambooAgent\xml-data\build-dir\EPDG-EPWBD-JOB1\epdg-app-war\pom.xml, line 6241, column 15
+build	14-Jul-2020 09:19:57	[WARNING] 'build.pluginManagement.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.eclipse.m2e:lifecycle-mapping @ com.XXXXXX.enterprise.build:enterprise-pom:3.0.0, d:\MavenRepo\com\XXXXXX\enterprise\build\enterprise-pom\3.0.0\enterprise-pom-3.0.0.pom, line 197, column 13
+build	14-Jul-2020 09:19:57	[WARNING] 
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "German QWERTZ" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Greek QWERTY" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Hebrew QWERTY" successfully loaded
+<09:19AM DrStupid> KNBC - LA Fire Dept. - 50 fires in Norht San Fernando area
+<09:19AM FOX_live> (reporting from KTTV)
+jerry+garcia+birthday	01.08.2009 22:26:35	http://www.google.com/search?hl=en&client=safari&rls=en&q=jerry+garcia+birthday+tribute+santa+cruz&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	99.170.149.41
+outre	01.08.2009 22:27:14	http://www.google.com/url?sa=t&source=web&ct=res&cd=9&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Foutre&ei=XsB0StyzNanEtge999GWCQ&rct=j&q=discount%2Fcheap+remi+outre+hair&usg=AFQjCNHxe7_aRM9UNTHjc82RFxh20yVq6w	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 GTB5 (.NET CLR 3.5.30729) FBSMTWB	71.51.65.14
+what+did+greg+mcmackin+say	01.08.2009 22:29:27	http://www.google.com/search?q=what+did+he+say+greg+mcmakin+slur+thursday&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	71.202.108.102
+buick+open+tee+times	01.08.2009 22:30:20	http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=tiger+woods+tee+off+time+buick	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.37 Safari/530.5	24.239.169.55
+buick+open+tee+times	01.08.2009 22:30:27	http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=tiger+woods+tee+off+time+buick	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.37 Safari/530.5	24.239.169.55
+west+virginia+derby	01.08.2009 22:30:51	http://www.google.com/m/search?q=west+virginia+derby+race+results+aug+1	BlackBerry8330/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/104	206.53.153.122
+west+virginia+derby	01.08.2009 22:30:53	http://search.aol.com/aol/search?s_it=topsearchbox.search&q=west+virginia+derby+winners+list	Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.1; AOLBuild 4334.5006; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322)	64.12.116.134
+west+virginia+derby	01.08.2009 22:31:23	http://www.google.com/m/search?q=west+virginia+derby+race+results+aug+1	BlackBerry8330/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/104	206.53.153.122
+buick+open+tee+times	01.08.2009 22:31:48	http://www.google.ca/search?hl=en&q=buick+open+final+round+pairings&meta=&aq=f&oq=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)	24.57.58.52
+petty+officer+jonathan+campos	01.08.2009 22:34:08	http://www.google.com/search?hl=en&q=Petty+Officer+Jonathan+Campos+&btnG=Google+Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	132.18.128.4
+sayville+summerfest	01.08.2009 22:34:11	http://search.aol.com/aol/search?s_it=topsearchbox.search&q=sayville+summer+fest+ny	Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	205.188.116.76
+drake+falls+on+stage	01.08.2009 22:34:35	http://www.google.com/search?q=drake+bell+falls+on+stage&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	130.13.97.46
+gold+coast+art+fair+2009	01.08.2009 22:35:08	http://search.aol.com/aol/search?s_it=comsearch40&query=gold+coast+art+fair+chicago%2C+il&do=Search	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)	98.228.222.176
+friendship+quotes	01.08.2009 22:35:32	http://www.google.com.bd/search?q=famous+friendship+day+quetations&hl=en&start=10&sa=N	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)	124.109.19.82
+beach+to+beacon+2009	01.08.2009 22:36:37	http://www.google.com/search?client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&channel=s&hl=en&q=search+beach+to+beacon+2009+by+runner&btnG=Google+Search	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	74.75.64.209
+beach+to+beacon+2009	01.08.2009 22:37:15	http://www.google.com/search?client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&channel=s&hl=en&q=search+beach+to+beacon+2009+by+runner&btnG=Google+Search	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	74.75.64.209
+what+did+greg+mcmackin+say	01.08.2009 22:38:04	http://www.google.com/search?source=ig&hl=en&rlz=&q=what+did+greg+mcmackin+say&aq=0z&oq=what+did+&aqi=g%3Az1g9	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	76.164.102.232
+sayville+summerfest	01.08.2009 22:38:16	http://www.google.com/search?q=sayvillefest+NY+aug+1&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7DKUS_en-US	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	72.89.188.115
+shun+ken+onion+11+piece+knife+block+set	01.08.2009 22:38:17	http://www.google.com/search?q=shun+ken+onion+11+piece+set+sale&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	68.13.91.191
+west+virginia+derby	01.08.2009 22:38:20	http://www.google.com/m/search?ct=fsh&q=west+virginia+derby+results+aug+1+2009	BlackBerry8330/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105	151.138.254.21
+cancun+beach+closed	01.08.2009 23:03:45	http://www.google.com/m/search?ct=fsh&q=cancun+closed	BlackBerry8703e/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105	206.53.157.19
+shun+ken+onion+11+piece+knife+block+set	01.08.2009 23:03:49	http://www.google.com/search?q=shun+7+piece+classic&hl=en&rlz=1T4ADBF_enUS284US286&start=10&sa=N	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506)	69.182.153.137
+fayette+county+fair	01.08.2009 23:03:56	http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=jfi&ei=m8l0StS8EI--NvCGjbEM&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=schedule+of+fayette+county+free+fair&spell=1	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	70.106.206.182
+101+dalmations	01.08.2009 23:04:29	http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=PzN&q=watch+101+dalmations+cartoon+online&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	68.227.114.77
+drake+falls+on+stage	01.08.2009 23:05:10	http://www.google.com/url?sa=t&source=web&ct=res&cd=5&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fdrake%2Bfalls%2Bon%2Bstage&ei=IMp0SomNMJewtgf4wtWWCQ&rct=j&q=Drake+Bell+falls&usg=AFQjCNG7C1YkrCZ-4j89_FwTZgF9m63gKg&sig2=kgrvx38DSmrxTQy-qhZkQw	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	70.115.221.181
+sono+arts+festival	01.08.2009 23:05:35	http://www.google.com/search?hl=en&q=sono+arts+festival&aq=0&oq=sono+arts&aqi=g1	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727)	68.199.173.128
+what+did+greg+mcmackin+say	01.08.2009 23:06:11	http://www.google.com/search?hl=en&safe=off&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=Wgi&q=Greg+McMackin+what+did+he+say&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	207.190.125.111
+market+days+chicago+2009	01.08.2009 23:06:14	http://www.google.com/search?hl=en&rls=com.microsoft%3A*%3AIE-SearchBox&rlz=1I7DKUS&q=chicago+market+days+halsted&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506)	99.140.180.57
+petty+officer+jonathan+campos	01.08.2009 23:06:16	http://www.google.com/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fpetty%2Bofficer%2Bjonathan%2Bcampos&ei=Y8p0Sq6zCozqsQOP_P3nCA&rct=j&q=Petty+Officer+Second+Class+Jonathan+Campos&usg=AFQjCNEfwCdxt7slWX7dD8SrXdUGwDcOVQ&sig2=IbUg640H4xtwVVX-ZdNbcw	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.5; en-US; rv:1.9.0.5) Gecko/2008120121 Firefox/3.0.5	66.180.199.196
+jonathan+campos	01.08.2009 23:06:41	http://www.google.com/url?sa=t&source=web&ct=res&cd=2&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fjonathan%2Bcampos&ei=Y8p0Sq6zCozqsQOP_P3nCA&rct=j&q=Petty+Officer+Second+Class+Jonathan+Campos&usg=AFQjCNGI-cX6oaPhwePbeYlIekSqW1AQYA&sig2=buMkopq3LDb2NF3J5ZP7lA	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.5; en-US; rv:1.9.0.5) Gecko/2008120121 Firefox/3.0.5	66.180.199.196
+ofz#5539 stricter on strings in dxf [Caolán McNamara]
+ofz#5561 integer-overflow [Caolán McNamara]
+./Film/Tonari_no_Totoro/Soundtrack%20Collection
+	at info.magnolia.dam.app.contentview.column.AssetNameColumnDefinition$ValueProvider.apply(AssetNameColumnDefinition.java:64) ~[magnolia-dam-app-3.0.3.jar:?]
+	at com.vaadin.ui.Grid$Column.generateRendererValue(Grid.java:1111) ~[vaadin-server-8.9.4.jar:8.9.4]
+\Fld@charsize=\dimen287
+build	14-Jul-2020 09:19:57	[DEBUG] Reading global toolchains from D:\Maven\apache-maven-3.3.9\conf\toolchains.xml
+build	14-Jul-2020 09:19:57	[DEBUG] Reading user toolchains from C:\Windows\system32\config\systemprofile\.m2\toolchains.xml
+build	14-Jul-2020 09:19:57	[DEBUG] Using local repository at d:\MavenRepo
+build	14-Jul-2020 09:19:57	[DEBUG] Using manager EnhancedLocalRepositoryManager with priority 10.0 for d:\MavenRepo
+build	14-Jul-2020 09:19:57	[INFO] Scanning for projects...
+-- [download 53% complete]
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/tamer-wagih-salem' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/wael-zeyadah' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+      "lint": "yarn lint:sol && yarn lint:ts",
+      "lint:sol": "solhint 'contracts/**/*.sol'",
+      "lint:ts": "eslint --max-warnings 0",
+      "prettier": "prettier 'contracts/**/*.sol' -w && prettier '**/*.js' -w && prettier '**/*.ts' -w",
+      "coverage": "hardhat compile && hardhat coverage",
+ []
+
+instanceKlass sun/misc/PerfCounter
+instanceKlass java/util/zip/ZipCoder
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/corporate/business-divisons/sme' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/personal/accounts-and-savings' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+staticfield com/android/dx/rop/type/StdTypeList LONG Lcom/android/dx/rop/type/StdTypeList; com/android/dx/rop/type/StdTypeList
+ Entering Gaussian System, Link 0=g09
+ Input=wat-sp.com
+For [4mChanson Plus Bifluorée[24m: [01;33m30[01;37m photos, [01;35m0[01;37m subdirs.
+tdf#116733 UI: The settings in the expert configuration won't expanded [Jan Holesovsky]
+tdf#116789 UNO API: XText of cell is not the same object all the time [Miklos Vajna]
+* \paperwidth=597.50787pt
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+12:32:06 T:6224   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - recording id:2085455399, state:scheduled, title:Börse vor acht, desc:Moderation: Markus Gürne, error:none
+21:38:12 T:139832867932032   DEBUG: CPlayerSelectionRule::Initialize: creating rule: dvd
+<09:53AM DrStupid> KNBC - no bad columns of black smoke
+[   1341265] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/GeoLocation.asmx/GetLocationInfoFromIP
+[  0%] Built target G4EMLOW
+Scanning dependencies of target G4NDL
+21:38:12 T:139832867932032   DEBUG: ADDON: cpluff: 'Plug-in webinterface.default has been installed.'
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/tarek-fayed' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/amr-el-shafei' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/amal-esmat' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/hazem-hegazy' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/corporate-governance' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/hisham-sanad' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/ramy-el-borai' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/tamer-wagih-salem' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/wael-zeyadah' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/sustainability/our-strategy' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/financial-information' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/ashraf-bakry' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/sustainability/our-memberships' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/corporate/corporate-banking-details' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/corporate/products' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+      x=a
+      foo = bar(x)
+      end
++ exit 0
+build	14-Jul-2020 09:19:57	[DEBUG]   Imported: org.apache.maven.exception < plexus.core
+build	14-Jul-2020 09:19:57	[DEBUG]   Imported: org.apache.maven.execution < plexus.core
+build	14-Jul-2020 09:19:57	[DEBUG]   Imported: org.apache.maven.execution.scope < plexus.core
+build	14-Jul-2020 09:19:57	[DEBUG]   Imported: org.apache.maven.lifecycle < plexus.core
+build	14-Jul-2020 09:19:57	[DEBUG]   Imported: org.apache.maven.model < plexus.core
+
+make: Entering directory '/builds/free-electrons/toolchains-builder/buildroot'
+/usr/bin/make -j1 O=/builds/free-electrons/toolchains-builder/build/tmp/test-x86-64-core-i7--uclibc--stable HOSTCC="/usr/bin/gcc" HOSTCXX="/usr/bin/g++" silentoldconfig
+instanceKlass java/net/Parts
+gold+coast+art+fair+2009	01.08.2009 20:11:49	http://www.google.com/m/search?oe=UTF-8&client=safari&hl=en&q=gold+coast+art+fair%2C+Chicago%2Cil	Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16	166.205.4.154
+yours+mine+and+ours+1968	01.08.2009 20:11:50	http://www.google.com/search?sourceid=ie7&q=north-beardsley+family+album&rls=com.microsoft:en-us:IE-Address&ie=UTF-8&oe=UTF-8&rlz=1I7TSHB_en___US334	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	71.101.8.242
+[     14656] del cfxcollection 0x26ab5db0
+[     14656] TaskManagerStub::CreateTask
+[     14672] somefunc found dlc_patchDay20NG:/!
+          Initialized LDFLAGS to 
+1989-041     1989 Jun  5 2237:18  1989-041A      Superbird A                    Superbird A               S20040  Ariane 44L             V31              CSG ELA2                 0.0
+-- [download 80% complete]
+-- [download 81% complete]
+providence+journal	01.08.2009 18:31:50	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4ADBF_enUS282US325&q=projo+august+1	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322)	72.209.61.202
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+
+  Process: kaon-Inelastic
+        Model:                      QGSP: 12 GeV ---> 100 TeV
+        Model:                      FTFP: 4 GeV ---> 25 GeV
+        Model:            BertiniCascade: 0 eV  ---> 5 GeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns: ChipsKaonMinusInelasticXS: 0 eV  ---> 100 TeV
+     Cr_sctns:          GheishaInelastic: 0 eV  ---> 100 TeV
+
+  Process: hBertiniCaptureAtRest
+
+---------------------------------------------------
+                           Hadronic Processes for lambda
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+
+  Process: lambdaInelastic
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+        Model:                      FTFP: 2 GeV ---> 100 TeV
+     Cr_sctns:   ChipsHyperonInelasticXS: 0 eV  ---> 100 TeV
+     Cr_sctns:          GheishaInelastic: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for mu+
+
+  Process: muonNuclear
+      2          1           0        0.000000    0.756950   -0.468706
+      3          1           0        0.000000   -0.756950   -0.468706
+ ---------------------------------------------------------------------
+ Rotational constants (GHZ):    822.4826392    437.5899056    285.6264918
+ Standard basis: 6-31G(d) (6D, 7F)
+ There are    10 symmetry adapted basis functions of A1  symmetry.
+ There are     1 symmetry adapted basis functions of A2  symmetry.
+ There are     3 symmetry adapted basis functions of B1  symmetry.
+ There are     5 symmetry adapted basis functions of B2  symmetry.
+ Integral buffers will be    131072 words long.
+ Raffenetti 1 integral format.
+ Two-electron integral symmetry is turned on.
+    19 basis functions,    36 primitive gaussians,    19 cartesian basis functions
+     5 alpha electrons        5 beta electrons
+       nuclear repulsion energy         9.1949648140 Hartrees.
+ NAtoms=    3 NActive=    3 NUniq=    2 SFac= 1.69D+00 NAtFMM=   80 NAOKFM=F Big=F
+ One-electron integrals computed using PRISM.
+ NBasis=    19 RedAO= T  NBF=    10     1     3     5
+ NBsUse=    19 1.00D-06 NBFU=    10     1     3     5
+ Harris functional with IExCor=  205 diagonalized for initial guess.
+ ExpMin= 1.61D-01 ExpMax= 5.48D+03 ExpMxC= 8.25D+02 IAcc=1 IRadAn=         1 AccDes= 0.00D+00
+ HarFok:  IExCor=  205 AccDes= 0.00D+00 IRadAn=         1 IDoV= 1
+ ScaDFX=  1.000000  1.000000  1.000000  1.000000
+ FoFCou: FMM=F IPFlag=           0 FMFlag=      100000 FMFlg1=           0
+         NFxFlg=           0 DoJE=T BraDBF=F KetDBF=T FulRan=T
+         Omega=  0.000000  0.000000  1.000000  0.000000  0.000000 ICntrl=     500 IOpCl=  0
+         NMat0=    1 NMatS0=    1 NMatT0=    0 NMatD0=    1 NMtDS0=    0 NMtDT0=    0
+         I1Cent=           4 NGrid=           0.
+ Petite list used in FoFCou.
+ Initial guess orbital symmetries:
+ ----------------------------------------------------------------------
+ # opt=cartesian rpbepbe/gen scrf=cpcm geom=connectivity empiricaldispe
+ rsion=gd3 iop(1/8=5) scf=xqc temperature=363
+ ----------------------------------------------------------------------
+ 1/8=5,10=7,14=-1,18=10,26=3,38=1,57=2,112=363000/1,3;
+ 2/12=2,17=6,18=5,29=2,40=1/2;
+ 3/5=7,11=2,16=1,25=1,30=1,70=2101,71=1,72=1,74=1009,116=1,124=31/1,2,3;
+ 4//1;
+ 5/5=2,8=3,13=1,38=5/2,8;
+ 6/7=2,8=2,9=2,10=2,28=1/1;
+ 7/7=1,29=1/1,2,3,16;
+ 1/8=5,10=7,14=-1,18=10,26=3/3(2);
+ 2/29=1/2;
+ 99/12=1/99;
+ 2/29=1/2;
+ 3/5=7,6=1,11=2,16=1,25=1,30=1,70=2105,71=1,74=1009,82=7,116=1,124=31/1,2,3;
+ 4/5=5,16=3,69=1/1;
+ 5/5=2,8=3,13=1,38=5/2,8;
+ 7/7=1/1,2,3,16;
+ 1/8=5,14=-1,18=10,26=3/3(-5);
+ 2/29=1/2;
+ 6/7=2,8=2,9=2,10=2,19=2,28=1/1;
+ 99/9=1,12=1/99;
+ -------------------
+ Title Card Required
+ -------------------
+     2  O    2.173265   0.000000
+     3  O    2.173265   3.366973   0.000000
+     4  Sn   2.709139   2.173265   2.173265   0.000000
+     5  Sn   2.709139   2.173265   3.720844   2.709139   0.000000
+[      2547] [    GTAProcess]             MainThrd/ >16 GiB of system RAM, increasing streaming allocator size to 2 GiB
+[      2547] [    GTAProcess]             MainThrd/ pre-gameload component citizen:level-loader:five
+[      2547] [    GTAProcess]             MainThrd/ pre-gameload component net:base
+[      2547] [    GTAProcess]             MainThrd/ pre-gameload component profiles
+[      2547] [    GTAProcess]             MainThrd/ pre-gameload component net
+<use images/datadriven/SI_Gain.png>
+Package pdftex.def Info: images/datadriven/SI_Gain.png  used on input line 50.
+(pdftex.def)             Requested size: 418.25368pt x 369.18199pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//18_40_Argon.z
+
+ofz#4526 null-reference READ with openssl crypto backend [Caolán McNamara]
+                   \relax 
+l.9 
+</ActivateLexScorer>
+<ActivateLexScorer strSimIgnoringNonAlphaNumerics="name">
+  <ObtainLexScorer name="strSimIgnoringNonAlphaNumerics" />
+
+7          
+ PART_COUNT: O17 = 48
+ PART_COUNT: O18 = 9
+ PART_COUNT: alpha = 5117
+ PROC_COUNT C8 : ALL = 1
+ PROC_COUNT F15 : RadioactiveDecay = 1
+ PROC_COUNT F15 : ALL = 1
+ PROC_COUNT F16 : RadioactiveDecay = 1
+ PROC_COUNT F16 : ALL = 1
+ PROC_COUNT F17 : Transportation = 2761
+ PROC_COUNT F17 : ALL = 2761
+ PROC_COUNT F18 : Transportation = 4917
+ PROC_COUNT F18 : ALL = 4917
+ PROC_COUNT F19 : Transportation = 2433
+ PROC_COUNT F19 : ALL = 2433
+ PROC_COUNT He3 : He3Inelastic = 50
+ PROC_COUNT He3 : Transportation = 30199
+ PROC_COUNT He3 : hadElastic = 72
+ PROC_COUNT He3 : ALL = 30321
+ PROC_COUNT He6 : Transportation = 14
+ PROC_COUNT He6 : ionInelastic = 1
+ PROC_COUNT He6 : ALL = 15
+ PROC_COUNT Li4 : RadioactiveDecay = 3
+ PROC_COUNT Li4 : ALL = 3
+ PROC_COUNT Li6 : Transportation = 52052
+ PROC_COUNT Li6 : ionInelastic = 35
+ PROC_COUNT Li6 : ALL = 52087
+ PROC_COUNT Li7 : Transportation = 11779
+ PROC_COUNT Li7 : ionInelastic = 12
+ PROC_COUNT Li7 : ALL = 11791
+ PROC_COUNT Li8 : Transportation = 138
+build	14-Jul-2020 09:19:57	[WARNING] 
+./Film/The_Hobbit
+./Film/The_Lord_of_the_Rings__Complete
+./Film/The_Lord_of_the_Rings__Complete/1%20-%20The%20Fellowship%20Of%20The%20Ring
+./Film/The_Lord_of_the_Rings__Complete/2%20-%20The%20Two%20Towers
+./Film/The_Lord_of_the_Rings__Complete/3%20-%20The%20Return%20Of%20The%20King
+./Film/Tonari_no_Totoro
+./Film/Tonari_no_Totoro/Hi-Tech%20Series
+./Film/Tonari_no_Totoro/Sound%20Book
+./Film/Tonari_no_Totoro/Soundtrack%20Collection
+./Film/Willow
+./Haruhi_Suzumiya
+./Haruhi_Suzumiya/The%20Melancholy%20of%20Suzumiya%20Haruhi%20-%20SOS%20Dan%20Radio%20Shibu%20Bangai%20Hen%20CD%20Vol.1
+./Haruhi_Suzumiya/The%20Melancholy%20of%20Suzumiya%20Haruhi%20Character%20Song%20Vol.5%20-%20Asakura%20Ryouko%20[Kuwatani%20Natsuko]
+./Haruhi_Suzumiya/Suzumiya%20Haruhi%20no%20Gensou
+./Haruhi_Suzumiya/Suzumiya%20Haruhi%20no%20Kioku
+./Haruhi_Suzumiya/Suzumiya%20Haruhi%20no%20Kiroku
+./Haruhi_Suzumiya/Suzumiya%20Haruhi%20no%20Shoushitsu%20-%20Imaginary%20ENOZ%20featuring%20HARUHI
+./Haruhi_Suzumiya/Suzumiya%20Haruhi%20no%20Shoushitsu%20Main%20Theme%20Single%20-%20Yasashii%20Boukyaku%20[Chihara%20Misato]
+./Haruhi_Suzumiya/Suzumiya%20Haruhi%20no%20Shoushitsu%20Original%20Soundtrack
+./Haruhi_Suzumiya/Suzumiya%20Haruhi%20no%20Shoushitsu%20Original%20Soundtrack/CD1
+./Haruhi_Suzumiya/Suzumiya%20Haruhi%20no%20Shoushitsu%20Original%20Soundtrack/CD2
+./Haruhi_Suzumiya/Suzumiya%20Haruhi%20no%20Shoushitsu%20Original%20Soundtrack/Scans
+./Haruhi_Suzumiya/Suzumiya%20Haruhi-chan%20no%20Yuuutsu%20OP%20Single%20-%20Ima%20Made%20no%20Arasuji%20[SOS%20Dan]
+./Haruhi_Suzumiya/The%20Melancholy%20of%20Suzumiya%20Haruhi%20-%20Geki%20Chuu%20Kashuu%20Single%20[Hirano%20Aya%20%20%20Yuko%20Goto]
+./Haruhi_Suzumiya/The%20Melancholy%20of%20Suzumiya%20Haruhi%20-%20SOS%20Dan%20Radio%20Shibu%20Bangai%20Hen%20CD%20Vol.2
+./Haruhi_Suzumiya/The%20Melancholy%20of%20Suzumiya%20Haruhi%20-%20SOS%20Dan%20Radio%20Shibu%20Bangai%20Hen%20CD%20Vol.3
+./Haruhi_Suzumiya/The%20Melancholy%20of%20Suzumiya%20Haruhi%20-%20SOS%20Dan%20Radio%20Shibu%20OP%20ED%20Single%20[Hirano%20Aya%20%20%20Chihara%20Minori%20%20%20Goto%20Yuko]
+./Haruhi_Suzumiya/The%20Melancholy%20of%20Suzumiya%20Haruhi%20Character%20Song%20Vol.1%20-%20Suzumiya%20Haruhi%20[Hirano%20Aya]
+./Haruhi_Suzumiya/The%20Melancholy%20of%20Suzumiya%20Haruhi%20Character%20Song%20Vol.2%20-%20Nagato%20Yuki%20[Chihara%20Minori]
+./Haruhi_Suzumiya/The%20Melancholy%20of%20Suzumiya%20Haruhi%20Character%20Song%20Vol.3%20-%20Asahina%20Mikuru%20[Goto%20Yuko]
+<09:38AM KFWB> 5 freeway shutdown near mcbean parkware
+<09:38AM KFWB> Bullocks is NOT completely destroyed (I saw pictures) I portion collapsed however.
+(KD4CQY/#earthquake) Amateur Radio Radiograms OUTBOUND of stricken area, go to channel #ARES to send radiogram OUTBOUND from LA
+<09:39AM KFWB> 118 Shutdown from Reseda to the 5
+*** Netsplit at 09:39:33 (irc-2.mit.edu polaris.ctr.columbia.edu)
+(KD4CQY/#earthquake) KFWB, what I'm looking at on TV looks COMPLETELY DESTROYED
+(KD4CQY/#earthquake) all floors collapsed
+<09:39AM DrStupid> KCRA-NBC - OES - Director of FEMA is on the way out to LA from East Coast.
+<09:39AM KNBC> I dont have specific city info but if you need any other info, /msg me
+(Sea-Marie/#earthquake) <-- will relay for ppl w/out voice
+<09:40AM KRON-SF> KNBC -- see this?
+<09:40AM KFWB> KD4: REally?  It looked like a portion of the roof collapsed.  That's not an old building (I've shopped their) and it looked like it was at least 70% ok
+(WildEep/#earthquake) KNBC: Granda Hills hospital calling for medical personal available to report for volunteer help.  They are swamped.
+<09:40AM KNBC> kron- yes
+<09:41AM tasm> cbs - 50,000 lines down in culver city
+--> "+v NPR_News" mode change by KNBC on #earthquake
+<09:41AM DrStupid> KCRA-NBC - OES - there are a number of roads closed.  high wind advisories...
+<09:41AM KNBC> NPR news you can talk now
+(KD4CQY/#earthquake) KFWB, just what I see. All floors collapsed. :( I'm from LA but been gone 10 years... :)
+<09:41AM KFWB> I have info for Northridge area (I live(d) there)  /msg me
+<09:49AM tasm> and Katey cut her off
+<09:49AM DrStupid> tasm: :)
+<09:50AM DrStupid> Northridge Meadows Apartments
+<09:50AM KNBC> NPRnews- no
+<09:50AM DrStupid> 5 confirmed dead at the 3story -> 2 story collapse
+<09:50AM DrStupid> from the onsite fire chief.
+<09:50AM KNBC> Any info on Tarzana, CA in san fernando?
+<09:51AM DrStupid> near the CSUN campus
+<09:51AM KFWB> [repeat] DVP advises boiling drinking water for health reasons
+<09:51AM NPR_News> NPR's Talk of the Nation will devote its first hour (2 pm EST) to coverage of the Earthquake.
+tdf#116403 DOC(X): Adding borders to a document with TOC doesn't correct TOC tabbing [Mike Kaganski]
+tdf#116407 option "Border" for new table redundant [heiko tietze]
+ The following legend is applicable only to US Government
+ contracts under FAR:
+* checking examples ... [3s] OK
+* checking for unstated dependencies in vignettes ... OK
+
+
+7.   Collocation Information
+tdf#116138 Insert Special Character also inserts selected character in current cursor in Title numbering [Caolán McNamara]
+tdf#116150 [NEWHELP] CASE and CASEINLINE for 'sys' logic flawed, default cannot be WIN [Olivier Hallot]
+bullet+express	01.08.2009 19:18:48	http://www.google.com/search?q=%22bullet+express%22+reviews+8+minutes&btnG=Search&hl=en&client=safari&rls=en-us&sa=2	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	71.138.143.151
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+(Sea-Marie/#earthquake) cav:  Nothing, here.
+Executing: mpif90 -c -o /tmp/petsc-uGvYRc/config.setCompilers/conftest.o -I/tmp/petsc-uGvYRc/config.setCompilers   /tmp/petsc-uGvYRc/config.setCompilers/conftest.F90 
+Successful compile:
+                                                <regexp>Season[\._ ]([0-9]+)[\\/]([0-9]+([a-i]-[0-9]+[a-i]+)?)([^\\/]*)$</regexp>
+                                                <regexp>Specials[\\/]([^\\/]*)$</regexp>
+12:32:05 T:7432    INFO: CKeyboardLayoutManager: loading keyboard layouts from special://xbmc/system/keyboardlayouts...
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Arabic QWERTY" successfully loaded
+.config:1068:warning: trying to assign nonexistent symbol FEATURE_SH_IS_HUSH
+.config:1069:warning: trying to assign nonexistent symbol FEATURE_SH_IS_NONE
+Executing: mpicc  -o /tmp/petsc-uGvYRc/config.setCompilers/libconftest.so  -shared  /tmp/petsc-uGvYRc/config.setCompilers/conftest.o 
+          Accepted C PIC code without compiler flag
+          Trying Cxx for PIC code without any compiler flag
+
+[      2422] [    GTAProcess]             MainThrd/ pre-gameload component scripting:gta
+[      2422] [    GTAProcess]             MainThrd/ pre-gameload component conhost:v2
+
+
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box63
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box64
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen275
+\pgf@nodesepend=\dimen276
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks50
+\verbatim@line=\toks51
+\verbatim@in@stream=\read4
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+2021-10-26T21:52:01.045Z,72.045395,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.24 seconds
+./Iron%20Maiden/Naereen%20BEST%20OF
+./Iron%20Maiden/No%20Prayer%20for%20the%20Dying
+./Iron%20Maiden/Powerslave
+./Iron%20Maiden/Seventh%20son%20of%20a%20seventh%20son
+./Iron%20Maiden/Somewhere%20in%20Time
+./Iron%20Maiden/The%20Essential
+./Iron%20Maiden/The%20Essential/CD%201
+./Iron%20Maiden/The%20Essential/CD%202
+./Iron%20Maiden/The%20Number%20Of%20The%20Beast
+./Iron%20Maiden/The%20X%20Factor
+./Iron%20Maiden/Virtual%20XI
+./Téléphone
+./Téléphone/Dure%20Limite
+./Téléphone/La%20Totale
+./Téléphone/Telephone-Best%20Of
+./Téléphone/Telephone-Rappels%202
+./Téléphone/Téléphone%20-%2020th%20Anniversary%201976-1996
+./Téléphone/Téléphone%20-%20Au%20Coeur%20De%20La%20Nuit
+./Téléphone/Téléphone%20-%20Crache%20Ton%20Venin%20!
+./Téléphone/Téléphone%20-%20La%20bombe%20humaine
+./Téléphone/Téléphone%20-%20Le%20Live
+./Téléphone/Téléphone%20-%20Rappels
+./Téléphone/Téléphone%20Plus
+./Téléphone/Téléphone-Paris%20'81
+./Téléphone/Téléphone-Un%20Autre%20Monde
+./The_Beatles
+./The_Beatles/cd1
+./The_Beatles/cd2
+./The_Beatles/cd3
+./The_Beatles/cd4
+./Inconnus/Le%20Nouveau%20Spectacle
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in pvr.stalker has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in audiodecoder.snesapu has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in plugin.video.ardmediathek_de has been installed.'
+stty (STTY) [Y/n/?] y
+[   1900812] [op-base]
+ubirename (UBIRENAME) [Y/n/?] y
+volname (VOLNAME) [N/y/?] n
+
+[-1.297] NullPunisher.other: benefits
+
+[-0.050] NullPunisher.functionWord: has
+nsubj, 
+[-0.000] NullPunisher.nsubj: legalization
+        progress/NN-37  ==                        DEL    $0.429  [D]
+         towards/IN-38  ==                        DEL    $0.429  [D]
+               a/DT-39  ==                        DEL    $0.429  [D]
+        solution/NN-40  ==                        DEL    $0.429  [D]
+              to/TO-41  ==                        DEL    $0.429  [D]
+               `/``-42  ==                        DEL    $0.429  [D]
+             the/DT-43  ==                        DEL    $0.429  [D]
+         Cyprus/NNP-44  ==                        DEL    $0.429  [D]
+         problem/NN-45  ==                        DEL    $0.429  [D]
+               '/''-46  ==                        DEL    $0.429  [D]
+                ./.-47  ==  ./.-8                 SUB    $0.867  [E, sim, Esz]
+                                                       --------
+                                                TOTAL   $24.660
+</MANLIResult>
+All txt words are: [Hands-NNS, Across-IN, the-DT, Divide-NN, was-VBD, formed-VBN, in-IN, March_2001-CD, ,-,, and-CC, one-CD, of-IN, its-PRP$, immediate-JJ, aims-NNS, was-VBD, to-TO, press-VB, for-IN, more-JJR, freedom-NN, of-IN, contact-NN, and-CC, communication-NN, right-RB, away-RB, between-IN, the-DT, two-CD, parts-NNS, of-IN, Cyprus-NNP, ,-,, and-CC, for-IN, early-JJ, progress-NN, towards-IN, a-DT, solution-NN, to-TO, `-``, the-DT, Cyprus-NNP, problem-NN, '-'', .-.]
+<alignment>
+  Cyprus               ==&gt; Cyprus
+  was                  ==&gt; was
+  divided              ==&gt; Divide
+  into                 ==&gt; _
+  two                  ==&gt; two
+  parts                ==&gt; parts
+  in                   ==&gt; in
+  March_2001           ==&gt; March_2001
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-exposure-contact-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-smokingstatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-exposure-contact-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-vital-signs|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/head-occipital-frontal-circumference-percentile|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-bmi-for-age|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-weight-for-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-blood-pressure|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-bmi|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-temperature|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-weight|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-head-circumference|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-heart-rate|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-lab|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-occupation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancyintent|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancystatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-screening-assessment|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-sexual-orientation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-pulse-oximetry|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-respiratory-rate|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-simple-observation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-smokingstatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-characteristics-of-home-environment|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-vital-signs|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/head-occipital-frontal-circumference-percentile|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-bmi-for-age|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-weight-for-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-blood-pressure|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-bmi|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-pregnancy-outcome-observation|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-height|6.1.0]

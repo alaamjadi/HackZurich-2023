@@ -1,0 +1,123 @@
+[     21500] rage::gameSkeleton::RunInitFunctions: Invoking CControllerLabelMgr INIT_CORE init (31 out of 52)
+[     21531] rage::gameSkeleton::RunInitFunctions: Invoking CStuntJumpManager INIT_CORE init (32 out of 52)
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+staticfield sun/misc/Unsafe ARRAY_SHORT_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_CHAR_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_INT_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_LONG_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_FLOAT_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_DOUBLE_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_OBJECT_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_BOOLEAN_INDEX_SCALE I 1
+staticfield sun/misc/Unsafe ARRAY_BYTE_INDEX_SCALE I 1
+staticfield sun/misc/Unsafe ARRAY_SHORT_INDEX_SCALE I 2
+staticfield sun/misc/Unsafe ARRAY_CHAR_INDEX_SCALE I 2
+4 sun/misc/Unsafe Volkan Schnyder ARRAY_INT_INDEX_SCALE CH8557045491263949141 JB-3492-4792-BANK I staticfield
+staticfield sun/misc/Unsafe ARRAY_LONG_INDEX_SCALE I 8
+staticfield sun/misc/Unsafe ARRAY_FLOAT_INDEX_SCALE I 4
+staticfield sun/misc/Unsafe ARRAY_DOUBLE_INDEX_SCALE I 8
+staticfield sun/misc/Unsafe ARRAY_OBJECT_INDEX_SCALE I 4
+staticfield sun/misc/Unsafe ADDRESS_SIZE I 8
+instanceKlass com/android/dx/util/ByteArray$MyInputStream
+instanceKlass java/util/zip/ZipFile$ZipFileInputStream
+instanceKlass java/io/FilterInputStream
+instanceKlass java/io/FileInputStream
+instanceKlass java/io/ByteArrayInputStream
+ciInstanceKlass java/io/InputStream 1 1 63 10 10 100 10 100 10 10 100 100 5 0 10 8 10 7 100 1 1 1 3 1 1 1 1 1 1 1 1 1 1 100 1 1 100 100 1 1 1 1 1 1 1 1 1 12 12 1 1 12 1 1 100 12 1 12 1 1 1 1 1 1 1
+ciInstanceKlass java/io/ByteArrayInputStream 1 1 62 10 9 9 9 9 10 100 10 100 10 10 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 12 12 12 12 12 100 12 1 1 7 12 1 1 1 1 1 1 1 1 1
+ciInstanceKlass java/io/File 1 1 593 9 9 10 9 9 9 10 9 100 10 8 10 9 10 100 10 10 10 10 10 100 8 10 10 8 10 8 10 8 10 8 10 8 10 8 10 8 10 9 10 10 10 10 10 10 7 10 10 10 10 10 100 8 10 10 10 8 10 7 10 10 10 10 100 10 100 10 10 10 10 10 8 100 10 100 100 10 10 10 7 10 10 10 10 10 10 10 10 10 10 10 100 10 11 11 11 7 11 100 10 10 10 10 100 11 10 10 10 10 10 10 10 8 10 10 10 10 10 10 10 10 100 8 10 10 10 8 8 10 10 100 8 10 10 10 10 10 10 10 10 8 10 10 9 9 10 9 10 9 10 10 10 10 10 10 9 10 9 9 10 10 10 8 100 7 100 100 100 1 1 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 1 1 1 1 1 1 1 1 1 100 100 1 1 1 1 1 100 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 100 100 1 100 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 100 100 1 1 100 100 100 1 1 100 1 1 1 1 12 12 12 12 12 12 12 12 1 1 12 12 12 1 12 12 12 12 1 1 12 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 12 12 12 12 12 12 12 1 12 12 12 12 12 1 1 12 12 1 12 1 12 12 12 1 1 12 12 12 12 1 1 12 1 1 12 7 12 100 12 1 12 12 12 12 12 12 12 12 100 12 12 12 1 100 12 100 12 12 1 12 1 12 1 100 12 12 12 12 12 12 12 12 1 12 12 12 12 12 12 12 12 1 1 12 12 1 1 12 12 1 1 12 12 12 12 100 12 12 100 12 100 12 12 12 12 7 12 12 12 12 100 12 100 12 7 12 7 12 12 12 12 12 12 12 12 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+staticfield java/io/File fs Ljava/io/FileSystem; java/io/WinNTFileSystem
+staticfield java/io/File separatorChar C 92
+staticfield java/io/File separator Ljava/lang/String; "\"
+staticfield java/io/File pathSeparatorChar C 59
+staticfield java/io/File pathSeparator Ljava/lang/String; ";"
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-head-circumference|6.1.0]
+ Version 1.20.1 (15 DECEMBER 2017)
+        Ssz                    0.372889
+1971-F10     1971 Nov  5 1300     1971-F10       STV 4                          STV 4                     F00636  Europa II              F-11             CSG CECLES               0.0
+1971-F14     1971 Dec  5 1620     1971-F14       D-2A Polaire                   D-2A Polaire              F00644  Diamant B              No. 4            CSG Diamant              0.0
+             1971 Dec 16 1957     -              VA92                           Cisaspe                           Veronique 61M          61M/92           CSG ALFS V             227.0
+
+     City or Town             : Marietta
+ciMethod com/android/dx/rop/cst/Constant isCategory2 ()Z 0 0 1 0 -1
+ciMethod com/android/dx/rop/cst/CstString <init> (Lcom/android/dx/util/ByteArray;)V 3905 1 7368 0 -1
+3A7	ALABAMA	EUTAW MUNI	afd	se_17_25OCT2007.png
+GZH	ALABAMA	EVERGREEN MIDDLETON FLD	afd	se_18_25OCT2007.png
+Underfull \hbox (badness 7064) in paragraph at lines 756--766
+-- [download 83% complete]
+1997-053     1997 Sep 23 2358     1997-053A      Intelsat 803 (NSS 803)         Intelsat 803              S24957  Ariane 42L             V100             CSG ELA2                 0.0
+1997-066     1997 Oct 30 1343     1997-066B      Maqsat-B                       Maqsat-B                  S25024  Ariane 5G              V101 (502)       CSG ELA3                 0.0
+                                  1997-066A      Maqsat-H                       Maqsat-H                  A04766
+                                  1997-066A      TEAMSAT                        TEAMSAT                   S25023
+                                  1997-066C      YES                            Young Engineers Satellite S25025
+Average time to get PetscTime(): 0
+#PETSc Option Table entries:
+CYOC	ALASKA	OLD CROW	afd	al_162_25OCT2007.png
+6R7	ALASKA	OLD HARBOR	afd	al_162_25OCT2007.png
+OLM	ALASKA	OLYMPIA	afd	al_162_25OCT2007.png
+Z17	ALASKA	OPHIR	afd	al_163_25OCT2007.png
+CYPU	ALASKA	PUNTZI MOUNTAIN	afd	al_181_25OCT2007.png
+01A	ALASKA	PURKEYPILE 	afd	al_181_25OCT2007.png
+20K_1	ALASKA	QUAIL CREEK	afd	al_182_25OCT2007.png
+5QC	ALASKA	QUARTZ CREEK (KOUGAROK)	afd	al_182_25OCT2007.png
+UIL	ALASKA	QUILLAYUTE	afd	al_182_25OCT2007.png
+AQH	ALASKA	QUINHAGAK	afd	al_183_25OCT2007.png
+6AK	ALASKA	RAINY PASS LODGE 	afd	al_183_25OCT2007.png
+RMP	ALASKA	RAMPART	afd	al_184_25OCT2007.png
+RDV	ALASKA	RED DEVIL	afd	al_184_25OCT2007.png
+RDM	ALASKA	REDMOND, OR ROBERTS FLD	afd	al_185_25OCT2007.png
+RNT	ALASKA	RENTON MUNI	afd	al_185_25OCT2007.png
+RBG	ALASKA	ROSEBURG RGNL	afd	al_186_25OCT2007.png
+CYDM	ALASKA	ROSS RIVER	afd	al_186_25OCT2007.png
+RBY	ALASKA	RUBY	afd	al_186_25OCT2007.png
+9AK2	ALASKA	RUSSIAN MISSION KAKO	afd	al_186_25OCT2007.png
+RSH	ALASKA	RUSSIAN MISSION	afd	al_187_25OCT2007.png
+A23	ALASKA	SAGINAW BAY SAGINAW SEAPLANE	afd	al_187_25OCT2007.png
+PBV	ALASKA	ST GEORGE	afd	al_188_25OCT2007.png
+KSM	ALASKA	ST MARYS	afd	al_188_25OCT2007.png
+SMK	ALASKA	ST MICHAEL	afd	al_189_25OCT2007.png
+SNP	ALASKA	ST PAUL ISLAND	afd	al_189_25OCT2007.png
+SLE	ALASKA	SALEM, OR MCNARY FLD	afd	al_190_25OCT2007.png
+Z81	ALASKA	SALMON LAKE	afd	al_190_25OCT2007.png
+SDP	ALASKA	SAND POINT	afd	al_191_25OCT2007.png
+CYZP	ALASKA	SANDSPIT	afd	al_191_25OCT2007.png
+SVA	ALASKA	SAVOONGA	afd	al_192_25OCT2007.png
+                                  1990-F01       BS 2X                          BS 2X                     F01042
+1990-063     1990 Jul 24 2225:00  1990-063A      TDF 2                          TDF 2                     S20705  Ariane 44L             V37              CSG ELA2                 0.0
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+[   1924765] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Friends.asmx/GetFriends
+Sushi:   File: /scratch/ig-build-temp-JHXSGN/repo/input/fsh/instances/us-ph-travel-history-eve-everywoman-1999.fsh (04:23.742)
+Sushi:   Line: 14                                                                (04:23.742)
+Sushi: warn  Element Observation.component:travelLocation.value[x] has its cardinality satisfied by a rule that does not include the slice name. Use slice names in rule paths when possible. (04:23.783)
+Sushi: warn  Sliced element Observation.component is being accessed via numeric index. Use slice names in rule paths when possible. (04:23.812)
+Sushi:   File: /scratch/ig-build-temp-JHXSGN/repo/input/fsh/instances/us-ph-travel-history-eve-everywoman-201610.fsh (04:23.812)
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in audioencoder.xbmc.builtin.wma has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in audioencoder.vorbis has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in audioencoder.wav has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in script.module.simplejson has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in screensaver.xbmc.builtin.dim has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in metadata.themoviedb.org has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in xbmc.metadata has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in pvr.wmc has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in service.xbmc.versioncheck has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in pvr.dvblink has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in audioencoder.flac has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in skin.confluence has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in audiodecoder.ym has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in kodi.resource has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in xbmc.gui has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in visualization.milkdrop has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in script.module.pil has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in visualization.dxspectrum has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in pvr.vuplus has been installed.'
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Bulgarian АБВ" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Danish QWERTY" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "English QWERTY" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "English AZERTY" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "English ABC" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "German QWERTZ" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Greek QWERTY" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Hebrew QWERTY" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Hebrew ABC" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Hungarian QWERTZ" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Lithuanian AZERTY" successfully loaded

@@ -1,0 +1,10 @@
+[   1946718] rage::gameSkeleton::RunInitFunctions: Done running INIT_BEFORE_MAP_LOADED init functions!
+Sushi: warn  Sliced element Observation.component is being accessed via numeric index. Use slice names in rule paths when possible. (04:23.814)
+build	14-Jul-2020 09:19:52	[INFO] ------------------------------------------------------------------------
+build	14-Jul-2020 09:19:52	[WARNING] The POM for org.eclipse.m2e:lifecycle-mapping:jar:1.0.0 is missing, no dependency information available
+build	14-Jul-2020 09:19:52	[WARNING] Failed to retrieve plugin descriptor for org.eclipse.m2e:lifecycle-mapping:1.0.0: Plugin org.eclipse.m2e:lifecycle-mapping:1.0.0 or one of its dependencies could not be resolved: Failure to find org.eclipse.m2e:lifecycle-mapping:jar:1.0.0 in https://artifactory.XXXXXX.com/artifactory/public was cached in the local repository, resolution will not be reattempted until the update interval of artifactory-release-snapshot has elapsed or updates are forced
+     7  O    2.173265   3.366973   3.366973   3.720844   2.173265
+     8  O    3.720844   3.366973   3.366973   2.173265   2.173265
+                    6          7          8
+     6  Sn   0.000000
+     7  O    2.173265   0.000000

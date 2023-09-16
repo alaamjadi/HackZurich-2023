@@ -1,0 +1,992 @@
+latitude,pricetag,hostname,random_number,timezone,language_name,date,iso8601,time,bank_country,company,mac_address,language_code,date_time
+-14.734143,$3.58,lt-78.hardy.org,3854211,Europe/Helsinki,Korean,1997-10-14,1981-09-04T01:04:27,07:11:21,GB,Jones-Hussain,a8:65:46:7d:14:a2,mk,1987-10-17 18:19:32
+63.505951,"$80,152.37",web-62.banks.info,2034580,Europe/Riga,Arabic,2001-09-21,2020-07-14T11:49:08,09:42:51,GB,"White, Evans and Butler",3a:fc:ba:4f:b0:82,pap,2005-06-27 06:49:51
+23.9005345,"$4,405.19",laptop-07.turner.net,32474237,Africa/Johannesburg,Indonesian,2014-02-22,1994-08-29T23:51:57,19:36:44,GB,"Butler, Parker and Morris",e3:31:1a:63:12:28,byn,2018-10-26 12:51:43
+46.626519,"$41,857.35",srv-08.patel.com,957,Pacific/Enderbury,Tahitian,2006-10-10,1982-05-07T18:55:48,23:56:08,GB,Wright-Singh,da:c1:13:d2:f9:88,mt,2016-11-28 21:25:24
+-74.010965,"$42,409.01",srv-14.bell-jackson.co.uk,49379796,Africa/Bamako,Sardinian,1983-04-30,2010-05-02T05:35:02,08:39:01,GB,Wilkinson LLC,82:ea:42:ef:81:01,ckb,2022-11-21 20:46:42
+-28.4541275,$94.04,laptop-52.spencer-hall.biz,3141683,America/Rio_Branco,Central Khmer,2015-09-13,2004-07-11T01:19:57,12:44:59,GB,Smith and Sons,f4:db:4c:14:11:7f,sw,1974-02-17 14:14:16
+51.139030,"$4,446.91",web-10.white.com,175355345,Atlantic/Cape_Verde,Tamil,2021-09-20,1971-12-28T10:03:08,21:29:46,GB,"Bryant, Smith and Roberts",de:67:8c:f3:8e:72,aa,1998-04-04 06:17:07
+-37.6188925,$43.64,web-36.stone.info,6314,Asia/Phnom_Penh,Zhuang,2015-03-04,2015-07-21T23:02:51,10:36:29,GB,"Naylor, Reed and Williams",bb:ce:e7:e8:93:63,tl,2016-01-19 20:29:55
+-74.916589,$109.17,desktop-76.pearce-lees.net,882004310,Europe/Kaliningrad,Spanish,2017-10-31,1982-02-22T18:29:26,12:17:21,GB,Murphy-Martin,39:e4:40:0f:64:a7,uz,1986-05-15 00:12:56
+17.707689,$643.26,email-63.lawson-wright.co.uk,1,Asia/Samarkand,Akan,1971-04-15,1974-03-26T06:11:58,19:42:03,GB,White-Rahman,74:e3:e8:6e:18:66,quz,1981-11-16 15:32:30
+-77.1438405,$526.77,web-29.poole.biz,363382450,Pacific/Easter,Tibetan,2017-12-30,1995-05-14T01:51:47,04:58:29,GB,Clarke-Jones,c3:a6:df:6b:3d:48,ig,2006-11-01 18:20:02
+34.5170825,$152.98,email-21.myers-brown.com,7,Asia/Choibalsan,Ossetian,1976-08-13,2018-03-27T15:06:50,13:23:35,GB,Clark Group,67:3e:48:fe:11:e7,wa,1979-06-30 05:39:35
+-18.8834975,$8.49,web-16.adams.com,92079,Asia/Makassar,Western Frisian,1992-07-02,2009-03-05T22:32:32,10:46:26,GB,"Parkin, Hammond and Elliott",16:85:c9:f1:56:84,sid,2013-10-01 09:13:31
+16.747975,"$28,364.90",desktop-09.clayton.co.uk,653927,Africa/Addis_Ababa,Finnish,2004-01-01,2004-05-05T10:52:38,18:05:17,GB,Andrews-Williams,2f:ae:cc:33:df:9c,ru,2020-10-03 19:14:06
+-69.853868,$89.19,lt-24.gregory.net,376752,Asia/Phnom_Penh,Portuguese,2001-09-06,1979-05-16T22:11:22,14:27:28,GB,Griffiths-Wyatt,2d:d3:80:7b:cf:80,sc,1970-10-04 17:50:58
+48.568741,$796.22,db-82.mason-phillips.com,672090487,Pacific/Tarawa,Marathi,1995-09-23,1971-06-08T20:47:45,23:12:16,GB,"Ali, Watson and Smith",7e:8f:f6:c4:68:44,iw,1981-10-20 21:02:14
+79.504585,$82.86,email-10.taylor.com,1999219,Europe/Riga,Tajik,1993-09-24,2016-12-22T10:33:35,05:50:19,GB,Wallace LLC,32:83:22:70:ac:04,bho,1993-05-10 08:51:46
+-25.590433,"$2,212.13",web-45.pearce.com,398114001,Asia/Amman,Czech,2018-08-09,2008-07-17T10:08:11,07:35:58,GB,Morris-Parker,fc:26:6d:d4:51:eb,lzh,2015-05-25 08:57:12
+79.062498,$7.90,lt-37.roberts.net,947,America/Guatemala,Hiri Motu,2009-04-28,1983-04-16T07:04:20,03:40:41,GB,Kent-Dixon,bb:bd:ea:07:e7:36,kn,1991-07-12 03:59:43
+30.5667465,$93.48,email-91.powell.co.uk,62037,Africa/Douala,Turkmen,2003-01-02,1972-12-28T11:41:29,20:39:31,GB,Rose PLC,a6:96:50:ab:a3:87,mn,1977-08-31 02:20:17
+-13.0573935,$6.17,lt-59.davies-roberts.com,39326,Europe/Bucharest,Bashkir,1971-07-05,2000-05-21T14:36:00,07:53:26,GB,Preston-Davies,28:89:46:87:54:98,nr,1976-05-24 09:32:24
+31.474743,"$3,656.20",desktop-07.miller.com,258400392,America/Caracas,Afrikaans,1985-02-11,1973-08-03T15:04:59,18:03:48,GB,Gray-Dale,cb:c7:a5:c7:e8:7d,dz,1988-10-13 02:00:44
+77.2677245,$235.46,srv-63.collins.co.uk,80637,Africa/Cairo,Thai,1988-11-03,2000-01-17T05:45:00,03:49:41,GB,Walker-Roberts,45:4b:95:0a:3b:0f,nl,2000-03-17 06:19:27
+-9.6845965,$36.75,email-38.powell.com,289470952,Asia/Baku,Western Frisian,1991-06-06,2021-08-12T20:11:56,04:53:03,GB,Benson LLC,a1:11:c1:39:96:74,tl,1997-08-07 22:56:11
+-41.513060,"$1,696.59",email-95.stephens.com,440,Africa/Ouagadougou,Abkhazian,2010-11-22,2018-01-21T17:41:44,14:51:17,GB,Griffin-Jennings,bd:7a:28:fe:a6:00,be,2013-01-02 02:24:18
+14.6557135,$128.52,db-04.williams.net,60798,America/Tegucigalpa,Bihari languages,2011-04-03,2016-03-11T06:49:08,13:42:17,GB,Austin-Thomas,3c:78:36:8c:b5:8c,lij,2008-01-07 15:03:47
+58.1898205,"$69,574.05",web-73.bennett-moss.com,269255,Africa/Conakry,Ossetian,2023-05-20,2011-01-26T09:48:35,03:59:52,GB,Mellor-Ashton,da:14:ba:f2:47:3d,byn,1976-01-02 03:10:08
+80.1384885,"$34,711.12",laptop-15.daly-elliott.info,5,America/Costa_Rica,Turkish,2006-03-28,1998-11-17T18:12:20,05:28:02,GB,Stephenson-Rogers,57:6d:7f:a7:db:4e,fr,2004-01-04 07:25:30
+81.881632,"$96,435.06",db-34.nolan-davis.com,2,America/Port_of_Spain,Northern Sami,1992-06-05,1994-04-06T07:42:51,10:25:59,GB,"Morris, Preston and Hughes",7f:6f:85:7a:09:23,ss,1986-08-08 08:45:44
+-12.632858,$64.86,web-70.lewis.org,766,Europe/Belgrade,Catalan,2009-04-03,1975-10-09T09:12:43,22:53:56,GB,West-Collins,70:e7:9b:8d:82:11,iu,2012-10-20 00:53:44
+9.542856,$92.38,laptop-92.williams.biz,7167,Asia/Kabul,Kirghiz,2018-06-15,2005-05-11T19:51:41,23:56:27,GB,Owen-Khan,30:ba:2a:b3:21:48,ss,1988-08-26 23:22:58
+-66.2853815,$49.02,srv-52.white.biz,4,Africa/Brazzaville,Tajik,1970-02-13,1991-12-30T13:52:27,08:59:18,GB,"Wright, Taylor and Ali",84:34:0e:ba:66:af,da,1994-12-07 14:15:02
+30.155726,"$2,000.20",desktop-36.ward.com,13,Europe/Copenhagen,Afar,1974-09-21,2015-09-17T05:47:00,02:07:49,GB,"James, Stephenson and Lyons",f2:f4:98:10:17:5a,hne,2016-05-30 23:16:47
+62.170600,$9.73,laptop-58.jones-hart.org,423458,Indian/Mauritius,Avaric,1998-02-25,2017-04-27T16:33:59,03:59:38,GB,Nicholson-Saunders,b0:27:f3:11:9b:51,st,2007-03-03 07:56:28
+13.943127,$43.65,desktop-94.carr.com,1053,Asia/Tashkent,Marathi,1978-11-06,2005-04-14T17:48:18,17:47:09,GB,Mason Ltd,c0:7c:15:b9:2f:51,ak,1978-01-11 23:02:20
+-59.655883,$5.48,laptop-17.cooper.com,761440,Asia/Vientiane,Ido,1991-01-14,1975-11-07T04:07:59,15:32:02,GB,"Taylor, Bray and Campbell",c4:39:28:35:13:ee,nhn,2016-06-24 12:15:43
+84.9682035,"$41,156.14",web-07.williams.com,4518,America/Nassau,Bihari languages,2001-01-29,2013-10-26T19:09:02,07:48:02,GB,North PLC,f5:e9:30:37:78:bf,iw,2007-08-27 19:04:41
+27.1575455,$68.25,email-03.oconnor.com,63858215,Europe/Brussels,Ojibwa,1996-05-07,1988-07-27T07:51:57,20:52:29,GB,"Brown, Johnson and Bishop",52:0a:2e:43:b3:e4,sk,1991-06-22 20:42:18
+-55.0374155,"$3,542.58",web-72.brown.com,735609,Africa/Kampala,Burmese,2015-07-26,1982-04-02T05:39:58,20:13:15,GB,Thompson LLC,bf:94:ef:2e:4b:59,yue,1990-09-10 21:40:50
+29.2037545,"$5,461.66",desktop-38.nixon.co.uk,8932303,America/Guayaquil,Russian,1993-02-08,2021-10-12T12:01:31,20:09:06,GB,Davies-Finch,12:0a:7a:22:00:e3,tig,1984-05-01 10:39:40
+-62.2022825,$12.64,web-53.rees-king.biz,53,America/Merida,Romanian,1972-02-10,2020-01-24T05:14:18,22:50:31,GB,Turner PLC,33:13:a1:a5:ed:8b,sid,1998-06-05 22:59:41
+-79.369830,$4.92,laptop-53.kennedy.org,6,America/Barbados,Macedonian,1989-08-23,1974-11-11T01:59:25,21:46:41,GB,Clarke-Brown,49:0a:60:3a:5c:5f,gu,1993-01-10 00:03:03
+-29.1887955,$790.64,lt-74.benson-dyer.net,3,Europe/Rome,Fijian,2015-05-27,1993-02-15T03:40:23,19:04:49,GB,Baldwin-Morris,a9:36:0f:fb:c7:02,tig,1973-09-30 10:52:56
+-31.463124,"$53,728.53",lt-55.bell.org,660,Asia/Riyadh,Catalan,1972-08-10,1971-05-19T13:52:47,16:23:35,GB,White-Johnston,cb:6f:96:67:32:e7,szl,1971-06-20 05:40:14
+76.4701305,"$6,986.37",laptop-91.rogers.com,6,Asia/Hebron,Basque,1993-01-31,2015-02-14T17:45:19,14:35:56,GB,Warner-Smith,47:1a:47:41:77:d8,mn,2013-10-11 08:33:00
+72.395987,$70.14,srv-05.naylor.com,60210534,Europe/Berlin,Afrikaans,1972-04-07,2011-06-14T10:47:16,05:53:56,GB,Clarke LLC,5e:58:90:0a:99:74,lt,2022-06-18 11:11:34
+-43.680415,$5.99,web-74.tomlinson-phillips.com,72083203,Europe/Bucharest,Kurdish,2019-02-26,1976-10-01T19:59:58,17:02:40,GB,"Smith, Khan and McCarthy",d7:0f:41:1e:ce:b1,br,2005-12-01 06:35:49
+78.370353,$97.15,laptop-13.newman.com,851,Africa/Bangui,Latin,1986-04-27,2012-05-11T04:57:49,09:00:29,GB,"Moss, Turner and Webster",40:bd:5d:2d:b2:fa,ko,1983-02-12 22:23:02
+67.017543,"$7,651.95",lt-91.bentley.com,8751,Asia/Dhaka,Marathi,2016-10-13,2009-02-04T15:59:45,10:04:41,GB,"Holloway, Hudson and Bates",99:28:14:bd:27:26,dz,2012-11-16 05:37:12
+3.802543,"$1,276.75",web-85.smith.biz,95,America/Mexico_City,Hiri Motu,1982-09-26,2022-12-26T09:30:16,23:37:14,GB,Skinner LLC,f9:8d:32:1f:56:05,am,1981-02-12 03:58:51
+29.030909,$953.59,lt-84.dean-bates.com,1,Asia/Vientiane,Sango,2002-11-28,1987-04-12T01:23:49,00:21:34,GB,Allen-Myers,7f:d5:05:24:4e:b4,xh,2000-01-28 16:21:31
+7.5289285,$40.80,db-48.smart.com,875299,Indian/Mauritius,Slovenian,1994-11-02,2021-03-27T03:17:51,06:20:49,GB,May-Knowles,a3:16:af:c0:03:f5,lg,2017-02-07 18:25:40
+13.3402745,$9.81,lt-58.ahmed.com,71,Africa/Bangui,Javanese,2012-01-22,1977-06-13T02:43:39,06:29:09,GB,Holden PLC,1b:75:04:49:ec:d1,bg,1974-11-26 06:21:35
+-35.5798795,$19.83,srv-59.williams.net,8,Europe/Bratislava,Nauru,1976-06-04,2016-06-01T17:56:16,09:15:52,GB,Marsden Group,8f:b0:6a:d3:f3:e0,ru,1981-03-20 20:58:49
+80.8230395,$9.24,db-20.west-williams.com,52845,Africa/Niamey,Swahili,1983-08-24,1971-01-05T01:21:27,22:43:55,GB,"Bryan, Byrne and Bennett",f0:49:44:65:3f:f1,nso,2013-05-14 09:01:42
+41.7985835,"$82,664.47",laptop-07.buckley-west.org,605,Pacific/Auckland,Shona,1992-08-02,1991-01-16T15:16:58,05:42:37,GB,Cox-Willis,97:c1:2f:1b:cc:2d,iu,1984-07-24 06:03:13
+-41.266195,$982.12,desktop-46.shah-cox.com,834602,Asia/Katmandu,Akan,1982-09-12,1971-06-15T15:43:29,07:56:02,GB,Day-Evans,57:c2:36:e2:b5:bd,lt,1978-02-06 07:39:18
+-0.413660,"$8,273.76",lt-91.brown-russell.com,1286574,Asia/Muscat,Kuanyama,1974-04-14,2009-05-29T19:52:57,11:04:38,GB,Wood-White,11:d2:48:e4:4c:d8,ayc,2011-06-26 09:58:11
+-78.127137,"$78,221.85",desktop-80.moore.biz,7136,Africa/Gaborone,Akan,2022-01-13,2002-05-22T16:14:21,11:04:27,GB,Tyler and Sons,55:05:b3:c1:97:66,se,1978-12-13 04:38:09
+76.9353805,$9.38,web-87.bond.com,83247,Africa/Blantyre,Thai,1990-07-23,2001-01-27T14:05:45,14:32:24,GB,"Rees, Turner and King",f4:98:9d:e5:aa:4b,nso,1985-05-06 15:46:04
+-40.2574945,$47.90,lt-50.palmer.com,751251,Europe/Paris,Slovak,1975-06-27,2000-03-23T13:21:29,21:47:21,GB,Thompson Inc,39:4d:9e:ce:c5:3c,tg,2017-05-10 08:30:29
+39.693845,$3.31,email-06.taylor.com,450645460,Asia/Ashgabat,North Ndebele,1979-02-04,1971-06-04T23:40:55,23:00:09,GB,Anderson-Harrison,4e:ea:23:56:94:8d,om,1980-07-19 22:11:47
+-20.4381605,"$9,141.25",srv-73.ferguson-burke.info,8053,Europe/Sofia,Abkhazian,2022-07-04,2000-05-03T19:46:19,01:59:31,GB,Baker Group,17:86:e6:19:b6:1a,sd,2016-04-22 10:09:19
+-67.471083,"$29,600.25",web-28.richardson-carpenter.net,740254,Asia/Dhaka,Walloon,1974-07-07,1987-06-11T00:00:42,15:34:32,GB,Pearson-Waters,ba:87:b5:af:1f:0b,hi,2003-02-04 16:08:06
+48.391418,$3.82,db-22.wyatt-brooks.org,260127292,Europe/London,Romansh,1976-04-02,1996-08-10T07:51:39,19:44:09,GB,Walker-Jones,4f:f2:cb:cc:d2:d2,ce,2013-02-10 15:54:51
+81.860331,$74.15,srv-44.nash-robinson.com,1149,Africa/Douala,Uzbek,1978-10-10,1994-08-16T05:47:17,13:58:37,GB,Wilson-Jones,b2:1e:39:96:ca:1f,cy,2018-01-25 16:50:52
+-44.8436745,"$8,409.40",srv-78.curtis-poole.net,5476,Africa/Harare,Komi,1970-01-12,1972-07-09T02:28:51,18:26:23,GB,"Stokes, Clarke and Miah",13:a6:4d:85:c7:f9,ar,1993-10-24 00:16:47
+-66.718955,$15.29,lt-39.clark.com,67451743,Europe/Ljubljana,Walloon,1980-09-27,2001-06-01T02:04:45,07:17:41,GB,Tucker-Edwards,2c:3b:7f:85:22:f0,ts,2014-10-21 06:50:50
+-29.390269,"$77,270.65",laptop-87.sullivan.com,235288435,America/Belize,Lao,2005-05-16,1984-10-18T08:04:04,09:43:41,GB,Fraser-Ward,85:44:9f:36:c1:51,tl,2019-05-05 12:46:27
+0.509646,$9.04,lt-90.bentley.com,189859615,Africa/Luanda,Armenian,1986-04-05,1976-05-26T04:17:35,23:28:07,GB,Jones-Matthews,83:b0:78:e3:86:7a,mr,1998-02-10 01:32:39
+11.035862,$15.17,email-84.wilson.com,7,Europe/Skopje,Welsh,2007-09-05,2009-10-10T21:05:04,10:48:44,GB,"Hall, Shah and Russell",8a:9f:22:3d:cb:99,ms,2023-06-18 22:10:19
+64.184658,$728.29,srv-34.davis.biz,45167244,America/Costa_Rica,"Sotho, Southern",1995-10-09,2015-10-08T07:33:12,03:20:52,GB,Graham-Wallace,8f:a2:f2:21:18:07,ka,2005-07-24 04:36:22
+-63.9100455,"$34,578.69",email-65.humphreys-dyer.co.uk,19,Europe/Monaco,Georgian,2008-12-10,2010-08-14T04:29:41,10:51:36,GB,Hale Inc,fe:25:01:62:0e:1e,dz,1976-04-14 12:54:10
+0.902720,$86.08,email-20.richards-allen.com,597288,Africa/Monrovia,Hebrew,2002-05-28,1995-07-10T08:08:52,20:39:46,GB,Morris-Morton,a7:6c:89:d6:28:08,bn,2017-01-18 13:12:28
+81.562478,"$4,502.43",srv-28.harrison.com,845,America/Indiana/Marengo,Persian,2008-06-11,1970-02-12T19:53:04,07:00:02,GB,Smith and Sons,98:80:01:ee:8c:2f,af,2008-11-04 06:41:35
+-1.9513455,$563.99,lt-30.hodgson-bennett.net,52734,Asia/Singapore,Romansh,1975-05-03,1992-02-09T23:00:22,06:01:39,GB,Ellis-Cox,76:9f:bd:de:6c:cb,nl,2017-05-03 15:40:35
+-88.9251445,"$90,425.10",lt-24.ferguson.com,4538407,Europe/Helsinki,Breton,2013-02-04,1977-12-18T10:25:23,04:16:44,GB,Field and Sons,74:c7:72:ec:cf:74,am,1980-10-28 07:17:18
+16.527070,$4.51,db-90.jones.co.uk,92,Asia/Baku,Bislama,1987-05-01,1993-03-06T19:52:02,05:16:09,GB,"Jackson, Bishop and Francis",cb:69:09:8e:6c:ca,wa,1981-09-28 18:30:30
+-33.536044,$887.89,srv-25.johnson.com,67925783,America/Panama,Hausa,1974-12-30,1999-12-27T00:40:19,10:41:40,GB,Wade Inc,27:04:a0:50:17:a9,lzh,1984-01-21 22:13:52
+-4.051579,$533.87,db-65.wright.com,938,Europe/Ljubljana,Kikuyu,2018-10-01,2017-03-20T01:42:56,07:50:35,GB,Rogers and Sons,25:1b:26:74:45:a0,fur,2016-08-24 03:56:36
+6.623221,"$71,273.41",lt-30.russell.com,5,Europe/Riga,Assamese,1977-07-29,2006-08-18T18:08:47,06:55:29,GB,Hunt Ltd,57:6b:94:f1:fb:21,sk,1971-02-03 14:32:22
+-27.468486,"$6,638.56",db-36.stephenson.com,346117,Europe/Monaco,French,1982-03-06,1978-05-11T14:36:34,07:48:19,GB,Baker-Thomas,42:53:54:30:f1:d3,shs,2014-10-29 00:16:00
+77.2513105,"$1,827.76",srv-02.brown-hammond.info,6870,Europe/London,Bashkir,1975-04-22,1983-01-21T04:16:36,22:03:23,GB,"Johnson, Wilkinson and Griffiths",4c:12:8d:f0:bc:20,zh,2014-04-17 11:46:45
+-17.4621295,"$79,852.18",laptop-63.king.com,75676496,Pacific/Kwajalein,Bengali,2021-12-20,2021-06-03T03:44:21,17:38:13,GB,"Nixon, Knowles and Price",1b:a5:49:ce:40:74,mi,1972-03-09 18:36:38
+26.444156,"$61,637.19",lt-89.jones.com,705105,Asia/Bangkok,Swati,1993-01-04,1987-05-29T20:46:49,22:08:10,GB,Kemp Group,61:4b:3a:67:32:5e,ta,1990-07-12 01:25:38
+-33.440727,"$6,119.96",web-48.horton.info,27606568,Europe/Berlin,Norwegian,2015-07-10,1987-08-29T08:41:23,00:45:43,GB,"Moss, Howard and Roberts",42:b5:20:8a:16:dd,mg,2000-11-27 08:42:47
+-81.1443945,$132.34,laptop-64.kelly-webb.com,6106,Africa/Malabo,Avestan,1989-11-27,1997-12-09T10:00:47,14:12:46,GB,"Nicholls, Fraser and Robson",51:32:85:66:11:30,doi,1999-09-09 04:12:34
+25.968753,$5.52,db-40.chapman.com,736,America/Bogota,Czech,1993-01-07,2015-04-04T05:39:36,16:44:20,GB,Brown-Kaur,7e:63:2f:41:e1:04,cs,1978-06-24 12:41:40
+-60.938629,"$3,953.44",lt-96.mahmood.biz,41,Europe/Vatican,Gaelic,1970-02-08,1993-08-12T23:23:16,11:43:54,GB,"Davies, Morgan and Jones",94:d9:69:f5:dd:d3,oc,2017-06-06 07:08:13
+-34.972705,"$27,617.45",srv-59.webster-potter.co.uk,2709,America/Guatemala,Esperanto,2001-11-01,1989-07-23T03:04:28,15:00:30,GB,Johnson and Sons,95:12:50:3c:c1:6f,tr,1990-10-29 18:53:02
+-1.264853,"$3,339.56",lt-88.bentley.com,6839,Africa/Monrovia,Bosnian,1999-12-18,1983-03-01T11:19:28,10:51:18,GB,"Hancock, Sutton and Simmons",88:08:d4:33:57:ef,he,2014-10-15 23:57:11
+88.796137,$17.45,web-56.jackson-chapman.com,4179194,Asia/Pyongyang,Serbian,2001-10-07,1998-07-11T00:19:44,17:15:25,GB,"Briggs, Yates and Poole",14:95:06:2c:95:94,mk,1992-03-05 05:12:25
+-15.3759665,"$5,577.20",lt-13.austin.info,4,Europe/Paris,Tibetan,2013-02-22,1975-04-04T07:37:25,09:55:26,GB,"Slater, Stevens and Cooper",5f:f9:3e:6e:d5:df,pap,2010-07-22 05:06:02
+-37.208174,"$71,961.33",email-57.jackson.com,98967,America/Tegucigalpa,Lao,1984-11-13,2009-04-03T21:29:17,21:55:06,GB,Taylor PLC,18:34:93:ca:05:1f,kl,2007-04-09 23:48:48
+-28.519706,$6.03,srv-31.fraser-stevenson.net,14532937,Pacific/Tarawa,Sinhala,1999-04-07,1982-12-31T11:41:38,21:17:30,GB,"McKenzie, Houghton and Booth",76:9f:f9:21:58:d7,iw,2011-04-06 11:45:45
+75.1141885,$29.27,db-14.hunt.com,540056,Asia/Kabul,Inupiaq,1993-08-07,2015-12-03T08:33:50,11:36:36,GB,"Fox, Williams and Williams",26:4d:f1:4e:ee:f4,lzh,2020-04-16 07:49:33
+-41.875887,"$10,785.48",srv-78.shah.net,6339911,Europe/Monaco,Uzbek,1997-07-30,1993-12-26T13:28:58,14:39:57,GB,Duffy PLC,92:74:5c:ec:21:69,tr,2009-02-08 03:19:51
+-27.2808495,"$54,918.58",laptop-86.robinson.info,70133,Africa/Luanda,Guarani,2016-11-02,2020-09-29T16:21:09,02:22:28,GB,Fisher and Sons,1f:8d:cd:97:39:67,ast,1981-07-27 16:53:21
+-48.254362,"$48,652.24",srv-81.reed.com,640,America/El_Salvador,Tahitian,2012-07-01,2021-01-19T00:21:17,03:24:39,GB,Lucas-Matthews,d2:37:a2:11:2b:12,sl,2011-12-07 18:11:21
+-85.4114705,$856.80,db-44.lowe-begum.com,88,America/Grenada,Vietnamese,1973-03-26,1986-03-09T03:21:55,15:39:29,GB,"Fry, Wyatt and Hunt",e5:09:f2:dd:53:fd,gv,2006-08-23 08:14:40
+-11.910937,$580.30,db-49.martin.net,85,Asia/Amman,Serbian,1977-11-16,1992-10-29T21:37:59,17:44:29,GB,Skinner-Dennis,2f:dc:da:e3:25:98,mn,2017-01-20 00:35:10
+-9.571695,$0.48,db-71.rose.co.uk,172970,Africa/Luanda,Korean,2011-06-28,2002-06-24T20:34:48,15:25:24,GB,Burgess LLC,6c:76:9f:c8:93:02,fr,2007-03-31 02:29:33
+86.9031705,$9.62,lt-78.iqbal.com,85,Europe/Tallinn,Portuguese,1986-08-23,1987-04-02T15:19:51,12:18:41,GB,"O'Connor, Foster and Thompson",a8:45:9b:e1:f4:db,wae,1977-09-15 20:47:18
+-53.755961,"$2,861.89",laptop-30.hill.com,5,Asia/Oral,Hebrew,2012-06-10,1971-02-18T02:31:11,13:46:01,GB,Wilkins-Robinson,ea:65:24:93:a6:50,kw,2010-04-03 12:40:56
+76.822379,$0.50,lt-00.pickering.biz,917514,America/Havana,Ossetian,2012-11-28,1987-04-02T05:53:22,22:06:23,GB,Taylor and Sons,44:18:90:f7:c4:49,oc,1997-11-09 05:49:12
+-23.639086,"$2,253.00",email-14.hanson.com,359,Asia/Hebron,Fijian,1986-04-06,2003-03-30T17:50:13,01:05:49,GB,Ward Ltd,45:88:92:37:19:03,ja,2023-02-13 16:43:01
+-56.8183445,$1.29,lt-72.fry-griffiths.info,26182,Asia/Jakarta,Thai,1975-09-12,2011-04-19T15:35:17,12:12:30,GB,Morgan Group,24:19:ea:16:2a:a1,ia,1995-06-27 10:30:06
+-59.6954875,"$9,346.03",srv-32.khan-harper.net,9539,Africa/Maseru,Turkmen,1978-03-05,1987-08-19T07:06:28,10:02:21,GB,"Parry, Khan and Webb",b1:75:e2:fe:1c:05,as,1990-10-07 01:19:08
+-66.097353,$3.36,laptop-67.wood-ingram.biz,1,Indian/Antananarivo,Maltese,2018-06-29,2008-03-25T13:21:54,22:19:54,GB,Coates PLC,b7:8b:91:f4:cd:eb,lv,1978-10-18 21:16:05
+64.417017,$656.37,laptop-99.ford-carter.biz,692924,Indian/Mahe,Divehi,1971-08-29,1989-03-17T11:24:34,02:59:04,GB,Williams-Hall,d6:91:0b:13:9e:5f,am,1978-12-22 04:11:03
+49.236973,$36.79,db-10.baker.com,931183,America/Asuncion,Kuanyama,2013-01-25,2013-09-24T15:02:54,03:35:25,GB,"Parsons, Hill and Barnes",03:5f:8d:f3:74:d4,ha,1974-11-11 01:14:31
+3.9133355,$88.61,web-76.ahmed-patel.net,495,Europe/Zaporozhye,Sardinian,1997-09-06,1992-10-16T05:58:08,00:36:10,GB,Mills PLC,91:c9:1c:20:5a:ca,br,1987-06-06 21:49:34
+23.008760,"$99,331.66",laptop-42.lawrence.com,281,Africa/Ouagadougou,Nauru,2014-02-13,2002-03-08T20:37:07,03:40:00,GB,Cunningham-Smith,6b:a5:9e:28:09:ad,se,1997-03-11 03:28:18
+-7.2895375,"$1,828.71",srv-14.allen.net,7692659,Europe/Belgrade,Marathi,2002-05-11,1975-09-07T03:21:19,01:41:51,GB,"Owens, Clarke and Evans",4b:12:6c:76:e0:55,kok,1981-11-16 07:05:20
+62.2894595,$9.82,email-15.morley.org,10529523,Asia/Karachi,Sindhi,1986-08-18,2010-05-14T03:13:47,02:08:07,GB,Griffiths-Williams,f8:91:b2:83:9c:13,te,1978-11-22 00:06:19
+-31.708460,$28.90,db-28.davies-taylor.info,240868396,America/Managua,Bulgarian,1987-02-02,1971-07-09T14:01:39,23:23:16,GB,Gibbons-Smith,3e:37:c1:80:3e:b3,fa,1989-08-07 02:17:53
+-12.641424,"$1,314.84",web-61.jennings.com,956,Africa/Ceuta,Czech,1976-02-28,2001-06-06T03:54:11,01:21:49,GB,"Jones, Norton and Gardner",b0:4c:ae:26:48:c8,shs,1985-02-22 11:55:45
+-30.780994,"$8,630.58",srv-08.slater.biz,39,America/Guyana,Spanish,1985-01-14,2004-12-05T03:38:52,00:59:32,GB,"Newton, Lynch and Johnson",89:96:dc:68:0d:c7,brx,1974-06-28 14:04:35
+-8.406426,$6.94,lt-22.alexander.org,0,Africa/Tripoli,Sinhala,1999-06-05,2006-10-27T13:49:37,01:02:15,GB,"Ward, Akhtar and Carter",d1:c1:da:ca:30:1d,os,2001-07-13 06:32:40
+78.5976715,$3.16,srv-92.young-johnson.net,672483830,Africa/Nairobi,Kinyarwanda,2000-05-08,2022-02-17T04:34:54,22:49:05,GB,Sharpe and Sons,1c:58:e2:06:ae:62,ky,2001-03-09 16:34:22
+38.424922,"$94,700.36",lt-68.allen.com,930,Asia/Damascus,Kinyarwanda,2019-11-23,2010-11-09T03:47:20,09:30:17,GB,Howell-Wilson,88:b9:9b:d6:57:2a,nhn,2016-09-19 09:59:48
+45.0086365,"$70,235.98",lt-76.johnson.com,7,Africa/Maputo,Tajik,1986-03-18,1982-06-03T03:07:40,05:58:34,GB,Fox-Owens,c9:3c:ac:7b:39:e8,ia,2021-03-11 01:48:39
+35.1264435,"$8,392.64",lt-62.wilson.org,9402773,Africa/Algiers,Lao,2014-08-30,1980-05-03T02:00:45,05:35:25,GB,Baker Ltd,2e:5f:21:2b:42:c3,nds,2000-02-20 17:07:08
+-37.725016,"$4,983.48",web-73.parkes-pritchard.net,700493,America/Barbados,Icelandic,1975-12-30,1993-08-02T18:45:10,23:05:31,GB,Cox-Butler,70:28:5e:ec:6c:cf,gez,1973-06-03 23:03:17
+8.7645725,$52.48,lt-26.johnson-cooper.net,22,America/Cancun,Sango,2020-08-11,2014-05-09T04:34:46,03:26:23,GB,Lee-Wright,59:ae:d2:d7:5e:e8,mk,1973-05-01 11:22:05
+-13.5895055,"$85,136.17",db-11.hartley.com,8035689,Indian/Mahe,Maltese,2014-03-31,1992-03-16T15:38:58,19:11:11,GB,"Rogers, Powell and Burgess",35:5b:f8:b5:1d:78,ml,1986-03-30 18:02:14
+60.797136,$937.93,email-48.allen-thompson.org,492,America/Caracas,Tigrinya,2023-08-19,2003-03-06T06:54:04,17:56:07,GB,"Jenkins, Powell and Griffiths",39:d7:35:3c:d8:35,bhb,2012-01-07 03:26:33
+-68.436169,$40.18,email-40.ellis-sykes.com,43489,Africa/Ouagadougou,Dutch,2022-09-24,1971-05-20T15:29:14,07:49:18,GB,Barry-Ellis,65:52:16:41:9a:87,om,1996-08-04 19:22:01
+49.5536425,"$47,295.39",srv-83.morton.net,435040,Europe/Kiev,Quechua,1978-01-06,1983-08-06T23:15:50,06:51:02,GB,Harper PLC,a8:c9:e9:ae:ac:02,tn,1983-09-14 18:00:20
+64.2799485,$10.93,laptop-64.thompson.com,317048,America/Edmonton,Samoan,2012-01-20,1986-12-17T18:34:45,01:59:22,GB,Carpenter-Arnold,41:f1:dd:8f:da:08,hsb,1972-07-22 10:12:04
+-26.9420795,$331.00,email-46.marshall.com,8,Europe/Bratislava,Bislama,2016-01-09,1970-07-22T05:26:03,00:49:37,GB,"Davis, Gilbert and Collins",a0:5f:79:f6:e6:64,fa,2016-09-27 11:50:32
+86.176743,$166.99,email-08.dunn.com,9424522,Africa/Accra,Sindhi,1996-01-14,1978-03-10T15:56:18,08:41:00,GB,"Evans, Wood and Robson",f0:15:11:d7:e9:9a,mag,2010-05-26 23:44:08
+13.7358535,$6.98,lt-56.harrison-ali.co.uk,742277,America/Havana,Bosnian,1974-12-05,1977-09-08T19:12:30,17:49:01,GB,Fisher-Conway,1f:36:55:c5:6c:4e,ak,2022-07-23 21:40:27
+-14.8741935,"$11,296.86",laptop-82.walker.com,17654035,Asia/Dhaka,Panjabi,1998-07-30,1993-06-05T02:31:47,15:23:04,GB,"Harrison, Hussain and Butler",c2:28:38:47:cb:7f,kw,1977-09-25 01:19:29
+73.205207,$36.31,laptop-33.hartley-thomas.org,534,Africa/Algiers,Lao,2008-10-03,1998-06-17T20:24:14,12:00:26,GB,Hart-Barnett,ec:25:a6:3b:d8:8d,ce,2005-03-06 07:42:54
+-48.977907,$9.87,laptop-42.rice.info,900974,Europe/Zagreb,Ganda,2002-09-11,1992-03-23T13:39:18,18:39:14,GB,"Brown, Potter and Lewis",16:4d:a1:38:23:df,yo,2019-08-20 17:27:53
+57.545819,$37.24,desktop-99.poole.biz,8793460,Africa/Nouakchott,Wolof,1999-05-12,2017-01-12T13:30:55,07:14:30,GB,"Allan, Ashton and Kerr",79:33:7e:02:b3:a1,ckb,1993-02-17 16:10:23
+44.335995,"$7,545.84",laptop-06.brown.com,763581,Asia/Dili,Slovak,1990-09-16,2022-08-07T12:28:02,21:28:09,GB,Parry-Gray,ac:c8:82:ef:5d:16,ky,2012-04-27 08:36:54
+27.0518785,"$7,586.50",lt-82.buckley.co.uk,3,Asia/Dubai,Malayalam,1973-12-04,1990-11-23T11:18:46,00:53:34,GB,Barker Group,d6:c8:be:0e:bc:b0,ml,2007-06-16 12:16:53
+-39.648497,$53.84,srv-19.moore.info,323,Asia/Manila,Kinyarwanda,2018-02-12,1997-08-21T08:21:17,20:14:20,GB,Barrett PLC,e4:8a:99:b4:8c:f7,pa,2017-07-17 11:49:16
+-44.5696415,$1.30,lt-18.ali.com,15591,Europe/Vilnius,Luxembourgish,2018-10-02,1979-10-28T14:50:11,14:12:09,GB,Jones-Sheppard,78:ac:bc:1c:4e:0b,bhb,2011-01-01 20:45:39
+84.8736615,"$22,509.77",srv-45.taylor-joyce.com,72696309,Pacific/Majuro,Lingala,2020-02-04,1989-09-24T14:12:41,20:29:48,GB,Davies-Edwards,d4:e5:bc:da:0f:72,sat,1984-01-17 10:12:48
+30.0154895,"$30,220.99",desktop-58.cunningham.net,212620243,Pacific/Kwajalein,Kinyarwanda,1980-08-08,1999-08-05T09:06:35,21:41:58,GB,Jackson-Cole,17:f9:26:4f:38:1d,ha,1972-01-17 02:01:56
+-28.460430,$8.84,srv-55.thorpe-blackburn.com,13096,Asia/Samarkand,Lingala,2012-05-04,2000-01-21T15:35:32,05:43:53,GB,Holmes Inc,7b:bd:e2:40:5a:5e,da,2010-02-12 10:55:46
+-61.3583755,$113.81,laptop-72.donnelly.net,9597,Asia/Manila,Turkish,2023-06-15,2019-04-01T09:24:24,12:23:51,GB,Gough LLC,c5:83:a9:8a:07:a0,ka,1972-05-17 11:29:23
+55.795564,$241.64,srv-64.jackson.com,402,Asia/Bishkek,Venda,1988-06-05,1982-05-31T04:12:51,22:22:42,GB,"Robinson, Butler and Noble",10:9e:d6:bf:62:e2,wal,1998-04-05 02:45:08
+-72.384019,"$19,290.23",db-97.james.com,76880,Europe/Vienna,Arabic,1972-12-19,1987-08-06T11:11:58,02:35:54,GB,"Hudson, Price and Wilson",c2:3b:fb:45:f5:70,ko,1998-07-02 07:47:08
+34.7457535,"$86,640.50",email-07.smith.org,9306251,Asia/Tbilisi,Quechua,2009-05-14,1976-04-18T14:40:11,13:49:16,GB,Richards-Willis,40:19:41:be:90:d4,mai,2004-09-01 01:13:14
+-45.9000165,"$8,873.93",db-25.osborne-black.biz,40,America/El_Salvador,Gujarati,2012-12-11,2005-10-03T11:34:20,04:37:29,GB,"Hooper, Smith and Davies",4d:c2:c9:10:a7:40,mi,2014-06-29 18:58:29
+87.583116,"$16,566.12",srv-37.jones-martin.com,13,Europe/Rome,Belarusian,1999-05-04,1992-07-07T04:19:59,09:17:12,GB,"Jackson, Scott and Price",36:f8:71:55:fd:7d,mg,2000-05-10 04:48:37
+31.617640,$5.24,lt-88.williams.com,20,Africa/Khartoum,Catalan,2021-08-17,1981-01-02T07:47:08,07:07:01,GB,Hyde LLC,e5:c3:a8:10:4e:7d,bg,1996-04-08 18:46:58
+13.798929,"$9,561.21",desktop-55.howell.biz,1314,America/Paramaribo,Maltese,1989-11-26,1988-10-17T04:58:34,04:08:58,GB,Potts-Palmer,a5:60:db:e3:8e:f0,nb,2005-03-02 17:26:33
+85.8994525,$30.00,email-11.johnson.com,9016,Asia/Damascus,Macedonian,2018-04-29,1995-04-30T20:18:52,02:39:19,GB,Parry Ltd,21:23:d2:2f:de:34,uk,1979-06-30 03:12:14
+-30.7253985,"$2,249.00",laptop-85.lee.co.uk,87352319,Africa/Kampala,Kazakh,1989-02-20,2003-10-15T11:03:29,14:04:33,GB,Hardy-Parry,3c:20:f8:bc:4f:c7,ta,1982-04-14 17:16:12
+-63.624277,$85.57,email-98.wilson.co.uk,1,Indian/Antananarivo,Thai,2020-09-02,1986-11-24T15:47:31,10:25:18,GB,"Graham, Bell and Gibbs",51:31:ad:c2:d5:84,lt,2006-10-07 18:17:08
+-80.2383125,"$39,293.87",laptop-91.johnson.com,46235028,Africa/Dar_es_Salaam,Gaelic,1996-07-02,1975-05-19T21:12:41,17:47:55,GB,"Spencer, Williams and Harrison",2e:61:0b:43:e6:08,raj,1988-10-25 16:05:29
+46.8700505,$8.49,web-33.stewart.com,971131,Europe/Chisinau,Abkhazian,2007-11-26,1975-06-05T22:51:13,11:24:22,GB,"Smith, Barrett and Jones",b1:78:22:ae:44:18,fy,2004-04-25 09:17:49
+-51.8207875,$857.40,srv-59.robinson.com,99843277,Europe/Ljubljana,Lao,2004-08-20,1996-12-14T14:52:12,04:42:10,GB,Sullivan-Harris,36:c1:00:be:71:aa,ne,1986-12-18 13:03:32
+-13.273922,$50.17,email-93.palmer.net,165202,Asia/Tbilisi,Greek,2022-03-27,2012-03-29T14:05:03,06:20:21,GB,"Kirby, Wallis and Smith",eb:b0:75:ed:e4:c6,aa,2009-04-19 04:37:50
+-2.2636375,$810.06,lt-44.carr-daniels.biz,1220,Africa/Mbabane,Afar,1989-10-18,1998-10-10T10:33:38,05:45:16,GB,Simpson Inc,90:35:fc:de:b1:d8,nso,1992-09-08 16:18:04
+-31.608524,$1.28,desktop-14.king.biz,320856,America/Bogota,Ganda,1974-10-13,2001-12-20T15:35:25,08:21:14,GB,Smith-White,e0:b2:94:52:24:a1,unm,1987-09-18 08:07:16
+41.339338,$987.93,email-88.evans.com,17815,Europe/Bucharest,Malayalam,1989-01-06,2018-02-07T21:18:41,17:30:30,GB,"Lloyd, Williamson and Smith",ea:00:4a:60:eb:f0,pa,2022-04-28 12:35:36
+-79.605950,"$68,841.75",laptop-30.brown.com,327605849,Africa/Mogadishu,Albanian,1983-07-20,2022-07-02T13:44:40,07:38:57,GB,"Bryant, Williams and Martin",57:62:3a:00:17:94,gv,2001-01-09 15:13:21
+5.101518,$0.75,web-64.richardson-hill.info,87090,Africa/Mogadishu,Fulah,2003-04-05,2008-08-16T09:01:13,09:17:35,GB,Cox PLC,a9:d5:a4:14:d5:64,ve,1983-01-30 19:13:01
+-33.2502875,$2.78,web-48.hartley-dobson.info,9,America/Guatemala,Kurdish,2007-08-31,1984-11-13T00:10:02,14:38:24,GB,Patterson-White,e6:57:28:07:69:af,os,2017-04-17 11:28:35
+-48.1521445,"$29,110.84",laptop-41.evans.org,3842,Europe/Chisinau,Cree,2010-08-12,1985-03-10T01:55:12,01:06:58,GB,Myers Inc,b8:3c:4c:c9:67:a1,ga,2007-12-20 21:02:03
+-82.1683575,"$5,882.81",lt-28.godfrey.co.uk,7196064,Asia/Jerusalem,Ido,2012-08-04,1970-01-20T02:50:36,13:53:50,GB,Vincent Group,13:14:51:2d:fb:51,tcy,2009-05-12 13:57:51
+-32.1559375,$587.49,db-15.howell.net,9,America/Jamaica,Kashmiri,2020-07-30,1997-09-17T12:32:49,20:09:48,GB,"Booth, Akhtar and Moss",13:d0:0e:b9:bb:53,uz,2009-03-26 17:31:20
+-67.942816,$0.68,srv-97.walton.biz,34,Africa/Mogadishu,Tigrinya,1970-01-29,1993-03-20T01:56:08,18:34:35,GB,"Atkinson, Mellor and Parkinson",06:dd:40:f4:ca:4e,brx,1994-03-21 10:25:40
+-82.085694,"$24,443.81",email-69.webb.com,56,Africa/Luanda,Zulu,2010-09-18,2007-05-11T21:21:56,01:52:35,GB,"White, Hughes and Matthews",e6:8c:65:2b:41:5f,ja,1971-01-21 21:29:50
+81.117494,$90.58,db-56.mitchell.biz,6188035,Asia/Dhaka,Greek,1995-05-01,1988-01-29T02:24:19,15:19:37,GB,Baker Ltd,f3:be:c2:f1:6c:32,br,1978-11-27 18:16:15
+-62.3907625,$57.08,lt-40.nolan.com,5463829,Asia/Dubai,Portuguese,2012-06-15,1970-07-10T07:27:39,06:19:28,GB,"Wood, Smith and Hughes",88:f4:1c:3f:14:f7,zh,1994-07-29 14:13:50
+-84.6858535,"$2,144.92",lt-76.johnson-davies.co.uk,117810856,America/St_Lucia,Russian,2000-12-30,1975-02-18T21:00:36,14:43:53,GB,"Johnson, French and Murray",dd:36:7f:2b:42:6a,az,2014-06-05 07:11:57
+64.9192265,"$19,560.05",web-97.robinson.biz,426,Europe/London,Manx,1988-08-19,1988-01-29T23:01:12,15:29:04,GB,Coleman Ltd,2e:34:fa:c0:64:51,hne,2005-08-14 01:47:20
+85.451405,"$17,410.35",srv-57.jones.com,65,Africa/Khartoum,Icelandic,1993-12-27,2003-06-29T17:07:10,12:12:20,GB,O'Connor-Robinson,e0:c6:f2:59:aa:24,lzh,2010-01-05 03:23:06
+59.648367,"$70,759.56",laptop-12.parkinson.com,83,Africa/Khartoum,French,1991-05-30,1973-12-18T10:43:16,05:34:37,GB,Robson Inc,64:38:5f:af:69:00,raj,1976-02-12 09:28:58
+65.792718,$9.15,lt-47.barnes-fisher.com,5505,Pacific/Efate,English,1976-11-05,2009-09-05T22:51:23,17:18:44,GB,Stokes-Cunningham,47:4a:3a:6b:c7:8e,fy,1971-07-18 12:32:08
+48.0993835,$518.99,db-25.odonnell.net,5950073,America/Santiago,Fijian,1974-12-28,1970-04-01T22:33:44,12:29:30,GB,Howard LLC,84:60:e6:d0:50:9f,vi,2012-03-10 20:39:32
+74.1529015,$73.63,laptop-06.atkins-allen.co.uk,9099085,Asia/Dhaka,Chinese,1992-11-19,1976-09-05T12:16:17,04:37:29,GB,Baker Ltd,22:1d:be:51:d1:b8,pl,1978-06-22 18:39:38
+73.3830015,"$9,472.27",db-73.griffiths.com,143027,America/Guatemala,Galician,1981-08-19,1975-01-09T16:38:50,23:41:17,GB,"Roberts, Elliott and Smith",f9:b6:e4:97:bd:77,cs,1982-07-10 19:40:16
+-41.485259,"$3,787.49",web-19.stone.com,553550127,Asia/Kuwait,Gaelic,1989-05-10,2003-11-06T06:49:58,04:43:19,GB,"Allen, Edwards and Lloyd",86:c2:65:1d:4f:9b,sa,2006-12-09 01:35:58
+11.1843295,$47.47,srv-97.lucas.com,412934,America/Belize,Sango,1970-10-01,1976-10-05T19:09:33,15:14:17,GB,Jordan LLC,c1:0e:18:3a:16:c4,nb,2013-12-08 01:53:25
+71.457522,$79.21,laptop-44.dickinson.net,5630,Asia/Baku,Burmese,1986-06-21,2010-05-24T17:16:25,05:31:05,GB,"Thompson, Davis and Lloyd",b3:bf:f9:63:23:b0,li,2008-04-20 22:37:40
+-67.842100,$72.21,web-32.barlow.com,5,Pacific/Apia,Spanish,1974-10-05,2012-06-30T10:18:18,15:43:48,GB,Brown-Stevens,cb:97:fb:1f:e2:23,apn,2011-11-17 04:43:51
+30.5693805,$26.22,desktop-50.butler-perry.com,723120988,America/Guatemala,Gaelic,1980-07-02,1970-08-15T15:06:14,10:55:23,GB,Hill and Sons,be:42:2b:5c:5e:12,el,1979-03-08 12:14:37
+89.925475,$0.35,desktop-97.thomas.org,5482408,Europe/Luxembourg,Hebrew,1986-01-06,2009-03-06T06:39:03,13:32:22,GB,Taylor and Sons,f2:69:52:c4:46:6c,pa,1988-01-02 06:09:15
+-23.0736465,"$6,698.77",web-06.lees-harrison.com,292,Africa/Sao_Tome,Ossetian,2008-09-15,2022-01-24T17:40:37,17:49:39,GB,"Baker, Jordan and Khan",9a:81:5c:5f:1f:15,bn,1998-05-25 04:10:01
+-71.419040,$9.02,srv-31.ellis.com,47597514,Asia/Ashgabat,Lithuanian,2018-03-11,1973-02-12T14:01:46,10:13:58,GB,Manning-Carpenter,00:e6:c0:b3:e8:eb,ayc,1970-12-26 18:43:23
+5.075737,$41.19,db-48.hall.com,834851,Asia/Tokyo,Ganda,2021-07-31,2017-07-24T18:25:42,14:16:18,GB,"Green, Taylor and Coates",0a:87:31:d7:b4:6f,ckb,1994-10-11 10:25:22
+-76.8260045,"$28,728.54",web-68.wilson-hughes.com,367131424,America/El_Salvador,Fijian,1974-11-14,1987-02-23T21:38:00,21:13:32,GB,Davies Ltd,f8:90:9c:2a:3c:e0,ka,1995-06-10 10:53:30
+28.688910,$767.13,laptop-49.jones.org,8930213,Pacific/Apia,Occitan,2023-04-13,2007-10-31T16:36:58,23:41:59,GB,"Crawford, Marsh and Stevenson",e4:12:c8:b3:0d:76,shs,1987-08-10 12:22:11
+58.2237425,"$2,875.48",web-56.wilson.com,91881,Africa/Nairobi,Malayalam,1980-07-13,1986-02-12T21:30:48,12:57:38,GB,Thomas-Burton,99:24:2c:34:20:7e,oc,1998-02-15 04:48:34
+81.1613495,$269.55,srv-87.richards.com,843898700,Pacific/Guadalcanal,Fulah,2018-12-06,1982-02-12T12:57:17,16:57:26,GB,Nicholson-Stevens,0e:17:b8:5c:61:0a,th,2004-06-19 16:24:28
+-45.628698,$7.52,db-00.jones-parsons.org,73823,Africa/Freetown,Interlingue,1986-06-16,2016-12-22T06:18:01,19:14:44,GB,Sutton LLC,95:c0:c4:03:29:de,ht,1978-10-30 07:44:49
+-8.618481,$98.02,db-42.stevens.com,308580334,Europe/Prague,Sindhi,1971-04-13,1988-10-10T03:13:05,22:00:27,GB,Gray-Baker,73:f6:c2:fc:a5:1f,lb,1996-05-28 11:43:38
+50.640158,"$4,833.16",srv-70.dickinson-allen.com,248798,Asia/Samarkand,Irish,1990-03-18,1976-03-24T01:27:32,08:06:00,GB,"Allen, Taylor and White",dd:f8:55:81:eb:23,bn,1998-08-25 20:02:04
+40.880498,"$98,867.83",db-03.hill.com,2464405,Africa/Djibouti,Sango,2010-08-31,2019-02-24T00:02:02,05:25:27,GB,Taylor-Reid,a5:c9:3c:20:1d:cf,eo,1985-02-05 10:42:13
+-60.6050965,$720.41,laptop-14.price.co.uk,878,America/Tegucigalpa,Hebrew,2018-08-14,1984-06-15T12:27:46,19:36:37,GB,Scott-Baker,7c:5f:31:07:dd:95,eo,1982-05-18 09:09:18
+31.687414,$1.94,desktop-96.cox-thompson.com,960906390,Europe/Vilnius,Oromo,1980-06-06,2013-03-05T16:32:23,17:58:11,GB,"Ward, Sutton and White",62:78:1d:26:93:91,ln,2010-03-20 08:26:42
+84.5104535,"$6,827.76",lt-55.parsons-atkinson.com,747,Asia/Yerevan,Fijian,1996-01-13,2020-08-18T14:07:37,07:25:11,GB,O'Connor-Jenkins,1a:dd:e2:6e:7e:b7,hak,1985-01-02 20:05:33
+-57.332327,$238.78,desktop-59.dixon.com,282,America/Tijuana,South Ndebele,2018-06-18,2019-12-18T13:30:47,07:11:42,GB,Reid-Jones,34:8d:27:43:cf:3f,bem,2016-09-20 12:34:30
+83.692630,"$29,350.50",desktop-70.ward-knight.net,8,America/Nassau,Guarani,1998-05-25,2019-10-14T07:44:19,15:48:28,GB,"Harding, Davies and Read",43:1e:87:79:f7:a1,lv,1988-02-06 11:24:46
+-58.433977,"$20,096.04",desktop-28.wells-roberts.com,4887158,Indian/Mauritius,Arabic,1994-01-18,2021-09-06T01:02:56,12:18:57,GB,Jones-Pearson,ed:12:3c:29:5f:55,ms,1991-01-23 11:11:47
+11.5943405,$2.80,web-50.brown.com,5840,America/Caracas,Chichewa,2016-11-04,2011-11-17T15:59:09,16:12:05,GB,"Brown, Simpson and Dobson",28:23:ba:4a:12:36,ha,2010-05-02 15:15:42
+1.7184795,$478.83,desktop-42.jones.co.uk,196369772,Africa/Kigali,Pali,1979-03-13,1996-07-23T18:05:13,21:00:23,GB,Ward Group,12:cd:d4:a6:f8:16,sw,2016-08-12 10:46:33
+-75.299645,$39.55,lt-28.ward.com,933,Asia/Singapore,Norwegian,2007-11-16,1999-06-29T19:26:03,19:36:38,GB,"Lloyd, Dickinson and Knight",6a:ee:6c:7e:b7:eb,ce,1976-03-23 16:13:21
+-70.998777,$34.07,db-77.williams-power.info,3,Africa/Niamey,Portuguese,2009-07-09,2018-07-05T06:24:30,18:31:59,GB,Miles Ltd,bc:b8:31:0d:ce:3f,yi,2015-10-07 07:32:42
+32.818983,$7.66,lt-93.wells.co.uk,650,Asia/Qyzylorda,Irish,1993-10-22,1994-12-22T13:14:16,02:36:23,GB,"Hamilton, Smith and Parsons",6c:c5:91:b5:95:af,tg,1993-06-09 21:55:37
+5.127893,$203.72,web-79.kennedy-smith.com,209,Pacific/Guadalcanal,Czech,1984-07-11,2018-08-08T10:53:28,12:18:04,GB,King Ltd,e8:27:a3:f9:59:28,mr,2009-09-04 23:57:49
+72.6004885,$76.08,laptop-95.ferguson.com,792194,America/Montevideo,Portuguese,2002-07-29,2014-03-30T20:41:18,13:23:06,GB,"Phillips, Taylor and Bird",c2:92:b7:34:a3:c5,km,2023-05-21 16:18:36
+41.697673,"$4,968.93",laptop-22.martin.net,4856,America/Dominica,Cornish,2021-06-13,2006-08-24T06:39:36,15:47:38,GB,"Palmer, Shepherd and Bates",ac:08:e3:47:5b:cb,nr,2012-12-19 10:54:47
+-81.044933,$5.77,srv-23.williams.info,313923421,Africa/Addis_Ababa,Zulu,1991-12-19,2008-11-07T17:47:37,13:42:14,GB,White and Sons,29:de:98:bb:2a:9b,cs,2020-06-27 10:28:36
+69.4664695,"$47,869.62",laptop-09.naylor.com,99,Asia/Kuwait,Twi,2014-09-04,1998-12-26T20:19:58,13:31:43,GB,Smith Ltd,c4:75:4a:29:9d:f0,vi,2001-10-26 21:45:00
+74.919426,$14.71,db-97.johnson.com,4520975,Africa/Mogadishu,Uzbek,1982-09-24,2015-12-15T12:33:21,04:06:47,GB,Berry-Reeves,7a:87:1e:76:22:ce,apn,2018-03-23 06:19:34
+15.077532,$13.18,laptop-72.gilbert.com,857079,Asia/Dushanbe,Chamorro,1970-12-07,2009-06-14T16:40:49,06:40:27,GB,Poole-Dixon,9c:03:b9:9b:b9:cc,bo,2018-02-12 03:42:34
+52.3742365,$452.49,db-12.patel-kelly.com,24141,Europe/Belgrade,Marshallese,2021-02-05,1988-10-06T21:48:02,13:55:17,GB,Banks and Sons,8d:56:62:eb:09:02,fil,1974-04-04 22:10:53
+-71.7882825,$560.45,db-62.burgess-morris.org,56107,Indian/Mauritius,Shona,2022-11-27,2012-03-30T13:35:56,04:47:03,GB,Smith Inc,19:aa:3a:f4:fd:bb,tig,2023-06-09 11:51:19
+-1.518593,"$59,871.13",email-78.reeves.com,6916,Europe/Brussels,Pali,2006-12-18,1977-07-28T00:09:24,23:45:19,GB,Henderson Ltd,a4:6e:32:d1:29:d1,iu,2012-07-11 05:31:49
+82.9956605,"$45,864.81",lt-11.duffy.com,84357,Pacific/Chatham,Indonesian,2020-09-16,2004-08-19T00:11:47,14:22:18,GB,Hooper Ltd,d0:ac:09:55:cf:ce,tcy,1997-02-15 04:03:03
+-21.186119,$675.98,db-02.sinclair-whitehouse.com,3792,Asia/Tokyo,Turkish,2000-11-28,1995-10-28T02:37:38,13:00:52,GB,Hall-Rogers,a5:da:7f:31:e7:da,kok,1985-01-24 03:36:50
+80.3531645,$162.11,desktop-31.shaw.com,92,Europe/Lisbon,Zhuang,2006-02-12,1983-08-16T00:04:45,16:41:26,GB,Young-Yates,e1:9a:22:46:94:d9,nl,2011-08-20 11:11:14
+-17.934443,"$7,154.85",desktop-71.knight.com,90676,Africa/Monrovia,Twi,1990-01-06,1997-04-30T06:33:41,06:01:13,GB,"Gibbons, Smith and Matthews",43:b1:ba:a1:96:fd,nr,2018-08-21 15:53:55
+33.681800,$790.94,desktop-82.thorpe-johnson.info,2,Europe/Istanbul,Latvian,1996-07-23,1989-04-23T05:25:22,21:40:31,GB,Edwards-Hamilton,b2:70:70:79:70:99,lij,2011-08-03 20:13:08
+-29.429323,$44.30,desktop-19.chapman.com,46,Indian/Mahe,Hindi,2010-04-04,1980-06-06T05:46:04,10:10:01,GB,King Ltd,e0:60:9d:e4:03:30,yo,1994-09-29 14:30:36
+-18.284198,"$35,894.58",srv-37.cameron-williams.org,302236,Asia/Oral,Bosnian,1984-10-24,2022-08-27T22:40:33,23:13:58,GB,Gibson-Robinson,48:33:d1:34:f0:3f,ht,1998-01-04 08:50:25
+-51.373455,"$37,466.48",web-05.armstrong-douglas.com,7354,Europe/Bratislava,Lithuanian,2007-01-13,1999-12-07T14:17:20,23:04:27,GB,"Lee, Woodward and Allen",6b:57:7e:0d:12:58,uk,2022-05-30 12:15:36
+6.8765735,"$4,919.21",db-25.russell.org,823,Africa/Sao_Tome,Catalan,2019-08-18,1972-11-08T19:48:29,19:02:47,GB,Kelly and Sons,c8:d5:02:9a:56:73,dz,1970-12-02 15:37:12
+20.037293,$7.64,web-69.weston.biz,27260910,Europe/Dublin,Malagasy,1998-08-09,1991-11-12T19:47:15,05:31:44,GB,Francis LLC,78:c4:2c:91:73:d8,nb,2013-08-12 05:19:45
+18.5530185,$31.24,web-30.holland.com,20,Pacific/Apia,Tajik,1994-03-19,2014-03-24T11:21:36,02:38:30,GB,Bailey Ltd,02:96:8b:e5:a6:9c,niu,1984-07-27 13:26:15
+-44.4011945,$4.32,web-99.reid-parker.com,375994225,Asia/Kuwait,Northern Sami,1991-02-18,1979-08-17T12:54:39,02:51:47,GB,"Jones, Turner and Stevens",d6:f7:dd:f4:68:c2,sr,2018-11-02 21:32:38
+-43.712344,$7.17,web-78.norman.com,22,Europe/Copenhagen,Malayalam,1976-08-07,1986-09-03T12:31:48,00:04:05,GB,"Baker, Duncan and Owen",3a:ca:83:0d:e8:86,ks,1994-11-25 17:42:46
+49.2233135,$576.04,desktop-94.cox-osborne.com,6225,Africa/Khartoum,Kazakh,1984-07-12,2020-09-29T06:58:21,01:33:02,GB,Evans-Clark,13:58:cd:ce:95:ff,lt,1988-05-14 09:28:50
+-76.167745,$73.93,laptop-77.smith.biz,8328,Europe/Vaduz,Marshallese,2014-10-01,2000-10-19T19:08:01,12:30:00,GB,"Newton, Thorpe and Richardson",ed:9f:08:8d:ce:40,az,1992-02-13 12:01:35
+49.871128,$91.87,email-45.griffiths-williams.com,51,Africa/Gaborone,Aymara,2009-07-08,1985-01-03T00:15:17,07:13:31,GB,Brown-Jones,40:87:e2:89:63:ef,eo,1984-07-28 04:08:58
+-4.7735815,$738.96,srv-18.watson.org,95394686,Africa/Maputo,Spanish,1987-01-21,1979-10-24T12:26:41,09:17:19,GB,"Hussain, Walker and Hughes",c1:55:00:86:b9:78,uz,2020-10-18 07:14:11
+27.354863,$28.84,email-34.vaughan.org,6366,America/St_Kitts,Armenian,1990-12-02,1983-04-24T01:55:18,03:09:31,GB,Allen PLC,f9:6b:b7:99:2d:90,xh,1972-01-24 21:36:05
+84.864533,$8.89,srv-16.morris.com,1622174,Africa/Tripoli,Armenian,1983-01-16,1983-03-31T03:08:41,02:34:48,GB,"Jones, Begum and Carter",66:9f:49:e2:8c:96,ml,1977-06-20 06:19:44
+-57.823296,"$7,064.82",db-89.smith.com,3708107,Asia/Baku,Luxembourgish,2017-02-23,1978-06-28T22:52:07,06:10:36,GB,"Smith, Goodwin and Tomlinson",aa:b1:ca:6b:5b:b0,tig,2013-08-29 09:42:48
+22.9984545,"$81,364.33",web-32.stevenson.com,6,Europe/Belgrade,Avaric,1996-10-20,2010-06-04T21:35:01,02:11:50,GB,"Ellis, Newton and Matthews",49:9f:2e:53:2a:38,ia,2019-08-24 15:17:14
+-47.976929,$67.94,laptop-62.chambers.com,5,Asia/Dhaka,Kirghiz,1979-06-06,2007-04-26T11:00:43,13:42:58,GB,"Simpson, Patterson and Allen",21:c7:bf:94:a3:61,bo,1975-04-16 04:27:18
+-54.9219805,$3.14,srv-96.campbell.co.uk,8,Asia/Tbilisi,Gujarati,1979-09-17,2015-04-02T09:59:18,12:06:47,GB,"Wilson, Bailey and Pritchard",92:e4:7c:7d:97:8b,sq,1994-12-17 16:01:40
+-50.8306395,"$67,137.90",lt-50.smith-bolton.com,14047,America/Panama,French,1984-02-05,1981-01-28T22:14:40,10:04:04,GB,Brown-Smith,67:82:29:93:5b:17,ti,2006-01-02 03:56:44
+35.6799955,"$5,402.26",desktop-48.thompson.com,71522167,Asia/Taipei,Spanish,1974-01-12,1988-09-08T05:28:46,15:40:16,GB,"Ellis, King and Allen",e9:dd:d7:70:72:fa,gez,2009-09-22 06:22:24
+-6.6137325,$682.21,db-64.kent.net,4275,Africa/Brazzaville,Akan,1978-04-21,1971-04-17T18:21:53,01:14:44,GB,"Hargreaves, Hanson and Sullivan",80:eb:52:92:e4:19,ar,1970-06-03 00:22:13
+-83.2716655,$229.33,desktop-02.smith-phillips.com,8,Europe/Tallinn,Limburgan,2015-01-27,2010-02-15T20:09:19,07:38:48,GB,"Holt, Lewis and Myers",2d:12:9f:07:31:fe,yo,1971-09-11 12:55:25
+-29.079508,"$51,412.71",email-50.graham-marshall.info,46687580,Pacific/Funafuti,Ido,2004-04-09,1989-08-27T03:06:56,16:25:20,GB,Allen PLC,65:dd:ef:ac:0e:22,kok,2003-09-10 00:48:22
+19.5924105,$4.08,db-83.frost.net,87885,Asia/Qatar,Kannada,1979-01-20,1997-09-17T02:17:41,06:34:01,GB,"Watts, Evans and Dixon",6b:3b:db:6b:5d:db,af,2001-09-22 09:09:52
+-39.199743,$0.71,laptop-24.sharpe-gray.com,86650073,Asia/Kabul,Indonesian,1973-11-30,1992-03-18T20:22:17,01:55:20,GB,"Turner, Sharp and Francis",20:dd:ae:00:8e:18,sk,1975-10-06 03:58:51
+43.057578,"$9,115.02",desktop-52.stephenson-french.com,41,America/Nassau,Javanese,2008-09-09,2002-04-02T10:03:36,08:45:35,GB,"Williams, Mason and Turner",36:29:62:7e:ec:9b,gv,1990-08-30 13:32:36
+-64.2115995,"$30,350.52",db-61.wilson-smith.co.uk,30202321,Asia/Ulaanbaatar,Xhosa,2014-01-10,1992-08-18T03:37:28,09:02:57,GB,Morgan Inc,e7:74:6b:d4:33:55,sl,1993-08-25 15:02:27
+-84.898304,$74.89,srv-29.ali.co.uk,0,Atlantic/Azores,Breton,2014-10-16,2014-01-04T21:15:54,19:36:45,GB,Stokes PLC,f3:2c:d2:d5:4e:c1,wae,2016-05-11 11:33:24
+3.3374575,"$74,312.86",desktop-71.owens.info,5594695,Atlantic/Madeira,Tagalog,1980-04-01,1973-06-30T18:21:32,04:19:59,GB,Smith-French,e9:d4:f1:0b:71:19,mni,2007-12-12 07:22:27
+2.5013155,"$5,102.92",web-08.hanson.biz,6265785,Asia/Ashgabat,Fijian,1977-03-18,1986-11-21T08:34:50,12:47:49,GB,"Watts, Gardiner and Franklin",bf:23:24:97:30:bb,bho,1982-06-17 16:11:03
+-53.3489945,$272.42,srv-40.walker-andrews.com,431957,Europe/Bucharest,Armenian,2010-04-25,1984-07-07T14:34:30,01:52:25,GB,"Davey, Burgess and Dickinson",90:1f:d8:1b:4c:71,bem,2012-03-01 17:54:41
+8.7985615,"$6,779.53",desktop-55.walton.biz,77,America/Argentina/Cordoba,Xhosa,2015-09-05,1976-07-25T02:05:41,22:47:52,GB,"Ward, Shaw and Humphreys",7b:60:95:52:ca:0b,cs,1972-04-01 18:41:08
+55.102356,$9.97,srv-38.sykes.com,216798,Asia/Saigon,Tajik,2003-02-22,2002-09-17T00:20:34,13:05:52,GB,Parkin-Jones,76:bf:a0:58:cb:f1,it,1988-08-17 05:38:51
+16.2841505,$94.23,db-49.sims.net,7139281,Europe/Vaduz,English,2023-03-10,1982-04-07T09:10:07,17:23:02,GB,Duffy Inc,5c:78:35:d6:d3:99,li,2015-01-12 19:57:47
+-68.9616815,$0.25,laptop-66.hudson.com,31020,Asia/Phnom_Penh,Kinyarwanda,2022-05-08,1998-10-25T10:33:31,12:14:02,GB,Turner-Wilkinson,f8:38:ca:c3:96:d9,cs,1985-06-13 15:47:09
+-0.4476795,$748.85,email-18.taylor.net,136,Asia/Tokyo,Tamil,1986-11-29,1991-05-09T14:59:24,09:46:25,GB,Robinson Group,5d:51:6b:54:6e:6b,crh,2014-07-28 20:11:00
+-81.6124325,"$56,338.52",email-78.hall.info,161815954,Pacific/Apia,Slovak,1985-06-26,2015-12-26T13:59:51,17:54:00,GB,Harris-Brown,9a:8a:47:86:eb:ca,tg,2004-12-08 09:33:22
+-88.040551,$790.84,lt-05.morgan.org,40,Europe/Prague,Bengali,2009-10-24,1971-08-03T15:31:32,14:17:31,GB,Williams PLC,4b:a5:11:47:58:91,the,1976-07-15 00:11:06
+49.238599,$4.72,laptop-43.moore.com,8,Africa/Casablanca,Inuktitut,1997-08-19,1971-12-21T17:03:49,10:57:45,GB,Robinson PLC,18:1e:14:df:66:e4,ak,1982-02-06 14:43:43
+-41.8499065,"$16,960.55",srv-37.fowler-jones.com,62328,Indian/Maldives,Aragonese,2019-09-30,1998-05-01T00:01:50,23:19:54,GB,Rhodes PLC,ba:8b:e9:e1:47:d9,ln,1971-08-31 14:16:38
+-4.358994,$8.40,laptop-85.begum.com,7560393,Africa/Bujumbura,Macedonian,2017-06-29,1981-10-26T11:48:56,04:57:07,GB,"Jones, Watson and Harris",9a:6c:d4:de:cc:08,fa,1997-12-22 19:02:40
+-30.802513,$95.12,desktop-87.pearce.org,693285,Pacific/Port_Moresby,Sardinian,1981-04-11,1977-07-04T04:14:44,05:56:32,GB,Hardy Ltd,6d:19:a5:9f:e5:0f,pa,2010-05-17 06:58:19
+-40.436454,"$86,196.24",email-83.mistry.com,596786660,Europe/Tallinn,Hindi,1970-10-20,2021-05-14T06:01:41,00:12:16,GB,Cox Group,80:e2:93:52:2c:69,te,2022-03-25 12:25:05
+78.3660735,"$5,005.03",web-85.shaw-andrews.com,13253698,Pacific/Port_Moresby,German,2023-02-28,1979-06-23T09:05:51,09:03:35,GB,Thornton LLC,9e:f4:e7:e0:f2:48,ik,2014-05-15 11:24:15
+-37.4321855,"$8,045.80",desktop-84.kirby.com,35,Asia/Pyongyang,Inuktitut,1999-10-29,1981-12-02T01:48:37,19:08:10,GB,"Burns, Parkin and Fraser",d6:8c:66:3e:45:8c,the,2015-02-01 23:52:15
+-17.8459155,$513.54,desktop-48.williams.net,91042552,America/Port_of_Spain,Fulah,2006-07-28,1978-11-30T18:24:58,17:34:35,GB,Harrison Group,e8:00:de:1a:b5:b4,the,2009-08-19 19:30:52
+32.9397985,"$6,851.31",laptop-47.bell-turner.com,39004,Europe/Monaco,Abkhazian,1985-08-20,1976-05-27T03:24:00,12:22:21,GB,"Jones, Evans and Curtis",89:c3:20:d6:5c:66,sq,1980-01-26 14:12:11
+-36.6901235,"$6,862.39",srv-83.lee.com,8724940,Asia/Karachi,Finnish,1980-01-05,2002-01-08T12:16:11,18:30:26,GB,Rose Group,67:ed:d9:e1:d9:90,it,1973-10-27 05:23:31
+84.5119695,"$97,691.82",lt-30.smith.org,722671,Asia/Riyadh,Estonian,2009-08-17,2006-01-21T10:50:39,21:49:58,GB,Johnston-Gardner,73:86:1d:e0:c1:4d,eu,1977-01-31 23:03:59
+40.5884305,$255.34,desktop-15.brown-jones.com,14975,Asia/Almaty,Tamil,1995-03-31,1978-06-08T21:47:33,18:53:46,GB,Barnes Ltd,e0:62:e3:58:68:4d,fr,1999-07-23 14:52:46
+56.260502,$20.79,desktop-28.rogers-hayes.biz,905618271,Africa/Lubumbashi,Belarusian,2019-03-15,2015-11-01T02:30:17,16:00:24,GB,Robson-Harris,13:d4:c6:28:d3:b5,om,1984-04-19 06:14:01
+-20.0692315,"$53,754.19",srv-00.price.org,530044527,America/Goose_Bay,Ewe,1979-01-21,1988-05-08T02:22:05,05:28:32,GB,Harris PLC,35:a7:c3:88:9e:c2,fi,2017-12-04 19:54:32
+58.4049985,"$91,760.68",desktop-85.wilson.com,9,Europe/Dublin,Croatian,1988-09-07,2000-10-03T05:54:30,23:36:47,GB,"Morgan, Howe and Robinson",e4:09:8b:75:76:d5,niu,1980-05-28 05:00:30
+-82.0983365,$584.15,desktop-15.hodgson.info,1371,America/St_Kitts,Macedonian,1992-08-15,2001-03-18T03:28:20,23:01:43,GB,Wilson Group,1d:5b:64:32:73:02,tl,2005-11-14 21:01:55
+-78.153937,"$42,833.79",laptop-43.jones.com,426263316,America/Argentina/Buenos_Aires,Javanese,1976-12-23,1985-03-16T19:49:43,02:43:01,GB,Wood-Rice,84:6f:85:75:90:c6,cy,1988-12-16 12:07:02
+-3.5881335,$341.07,web-62.cunningham.com,48,Asia/Saigon,Kanuri,2021-09-12,1974-05-05T02:33:45,00:13:58,GB,Robson-Murray,c7:46:60:bb:d2:47,si,1995-06-03 23:49:27
+-75.2033805,"$44,606.08",lt-02.mckenzie.com,63,Africa/Freetown,Norwegian Nynorsk,2012-06-09,1974-11-17T01:38:32,18:55:37,GB,"Price, Wilkinson and Knight",d3:7b:98:47:b3:fb,te,2022-09-25 20:50:32
+52.3434855,$6.32,db-92.hill-fuller.com,77,Africa/Ceuta,Ndonga,1986-04-16,2020-12-03T22:34:15,09:10:19,GB,"Thomas, Thompson and Parker",b7:07:7a:fe:7a:8c,mhr,2016-02-27 17:52:34
+-20.882398,"$23,720.15",srv-12.taylor.com,595,Atlantic/Cape_Verde,Turkmen,2001-09-25,1974-01-27T14:14:30,07:02:28,GB,"Steele, Johnson and Howard",d2:ab:ae:ed:a7:19,lv,1970-09-09 06:13:35
+-12.5601985,$256.73,web-81.roberts-edwards.com,8432629,Europe/Amsterdam,Czech,1997-02-26,1975-12-15T20:07:03,11:31:46,GB,Bruce-Cross,ab:83:f8:30:cd:f2,tg,1970-08-20 06:10:43
+-29.731921,"$91,764.25",desktop-38.parsons.com,0,Pacific/Fiji,Aragonese,2005-12-12,2016-01-09T04:10:40,19:29:16,GB,"Smith, Lynch and Hunt",0a:e3:c9:13:13:7a,sd,1987-08-25 11:32:52
+41.890734,$864.71,email-37.donnelly.com,883,Asia/Colombo,Romansh,1989-04-20,1978-05-20T02:44:30,13:03:08,GB,Coates-Long,d3:1c:12:d4:2d:31,ve,1986-07-06 09:20:06
+51.4905335,$1.04,lt-08.andrews-smith.biz,8685,Asia/Tokyo,Hiri Motu,2000-12-12,1987-09-03T14:59:01,15:31:42,GB,Edwards-Fraser,e2:d8:4b:25:c8:97,es,1982-02-15 08:33:50
+-69.0627205,$1.08,db-22.frost.com,8535399,America/St_Vincent,Pushto,2004-07-31,1998-11-27T04:03:50,09:17:59,GB,Russell LLC,68:e9:58:d9:10:b1,oc,2009-11-05 12:20:41
+18.463885,$25.68,srv-83.bennett-woodward.biz,59204627,Pacific/Auckland,Latvian,1998-04-29,1978-10-25T01:38:10,03:48:01,GB,Brown and Sons,64:90:6a:bd:a0:56,xh,1973-01-14 20:51:32
+-89.0710815,"$85,299.04",web-36.russell.com,6,Africa/Ouagadougou,Zulu,1983-11-04,1991-12-27T22:35:19,21:12:17,GB,Fitzgerald and Sons,c1:33:4d:da:67:61,sd,2011-05-04 13:22:09
+-20.3959335,$10.17,email-07.joyce.biz,554394,Asia/Manila,Gujarati,1983-07-19,1976-06-10T08:09:18,16:41:26,GB,Patel Ltd,89:c5:d1:b8:72:8f,sl,1970-12-15 00:09:31
+46.280921,"$37,568.13",db-39.collins.com,400,Indian/Mahe,Bosnian,2010-07-13,1974-03-09T02:24:07,08:20:13,GB,"Tucker, Pritchard and Carroll",e4:43:e8:f5:88:d8,doi,1984-04-21 19:17:47
+86.725440,$60.08,srv-14.marsh-odonnell.biz,85408542,Africa/Banjul,Chichewa,1983-09-30,2003-10-28T07:04:51,11:52:52,GB,Thomas Inc,9a:df:10:b9:1e:78,dz,2006-12-20 07:58:14
+71.7230585,"$72,177.37",web-73.watkins-hayes.com,8030,Africa/Bamako,North Ndebele,1985-09-15,1982-08-24T09:04:45,17:58:02,GB,King Inc,c6:91:68:d5:ac:c3,crh,1983-01-22 15:38:05
+80.0697975,"$49,120.40",lt-94.mccarthy-finch.com,889965274,Europe/Luxembourg,Rundi,2020-05-12,1991-05-03T19:18:27,19:00:12,GB,"Harrison, Holmes and Butler",c2:a9:54:2d:a5:2d,gez,2010-07-29 10:00:50
+31.557802,$698.67,web-58.gough-lawrence.co.uk,5,Asia/Saigon,Oromo,1988-07-12,1978-10-16T10:21:44,05:45:07,GB,Evans Inc,0e:5f:97:49:c1:bd,bo,2007-05-31 06:07:42
+39.179236,"$68,744.66",web-89.roberts.com,1175418,Asia/Tbilisi,Welsh,1993-09-11,1995-05-28T12:42:00,23:19:48,GB,Perkins Group,e0:94:9f:16:63:aa,an,1999-10-03 12:43:49
+24.7640035,$50.78,desktop-46.gill-parker.co.uk,8658787,Asia/Jerusalem,Latvian,1996-07-17,2000-10-26T12:18:19,07:43:58,GB,"Baker, Hill and Stewart",c7:88:39:ac:87:84,se,1980-05-02 03:38:15
+21.9358515,$24.41,laptop-52.simpson.com,7585,Europe/Paris,Serbian,1977-10-09,2016-09-06T15:13:30,16:50:54,GB,"Moore, Bowen and Gill",7e:59:91:15:ee:35,ff,2000-07-04 04:58:53
+45.8821745,$862.65,desktop-81.holmes.com,511734146,America/Tegucigalpa,"Sotho, Southern",1992-12-12,1977-08-23T04:00:04,10:50:24,GB,"Brown, Harvey and Roberts",df:b2:b0:c0:12:5f,ar,2006-04-08 17:37:40
+20.427646,"$24,395.92",email-07.taylor.net,83416,Europe/Belgrade,Bulgarian,1997-04-04,1971-06-24T17:31:10,02:24:24,GB,Field LLC,99:77:dd:4a:cd:91,sq,2013-07-19 17:21:23
+76.662074,$894.65,desktop-37.hutchinson-elliott.com,921,Asia/Ulaanbaatar,Chamorro,1980-06-19,1973-01-25T14:26:02,16:28:07,GB,"Parkin, Wyatt and Nolan",95:db:24:cc:39:72,nso,1984-11-01 10:51:15
+-82.485428,"$93,258.17",desktop-51.scott.com,8,Europe/Luxembourg,Kuanyama,2013-03-17,1990-03-23T00:07:10,23:53:31,GB,Jones PLC,05:c8:c1:7d:6c:ae,az,1992-10-05 16:17:10
+-44.5940105,"$7,090.07",laptop-59.turner.com,10,Africa/Johannesburg,Sindhi,2004-02-18,1989-10-24T08:22:34,08:20:50,GB,"Jones, Davies and Gould",21:2c:ff:16:4f:eb,as,1987-03-03 01:09:06
+81.097674,"$7,091.11",web-23.andrews-hope.com,3619680,Europe/London,Northern Sami,1992-05-10,1997-03-24T18:16:43,19:22:32,GB,Smith LLC,59:99:cb:f2:c2:f2,fur,1978-09-01 10:47:50
+-10.7620655,$45.18,email-94.bond.com,6469298,America/Asuncion,Bashkir,1984-05-15,2012-01-24T13:13:52,06:25:17,GB,Hill-Stone,e9:3f:ed:48:8b:d9,pap,2012-09-17 04:33:19
+59.029628,$892.75,laptop-55.humphries-webb.com,474094,America/Guatemala,Kanuri,2008-09-21,1999-09-27T06:31:50,21:20:56,GB,Morley-Spencer,bd:76:b3:95:f6:69,or,1995-06-28 14:34:36
+-70.595723,$88.82,web-86.allen-may.biz,737788915,Africa/Conakry,Serbian,1994-08-25,1984-01-31T03:40:12,21:10:56,GB,Hall-Myers,13:10:f5:b1:14:82,et,2009-03-17 09:39:59
+46.412925,"$6,842.89",email-41.king.com,140,Africa/Sao_Tome,Kongo,1978-04-21,1999-02-27T20:27:29,14:29:11,GB,Evans-Price,08:00:72:3a:9d:18,nl,2007-09-22 00:15:16
+68.7974825,$281.81,desktop-21.robinson.com,955673237,America/Antigua,Inupiaq,1984-02-24,2018-10-08T10:21:59,18:38:21,GB,Morris Group,39:e3:7b:31:7d:18,om,1974-07-07 01:15:28
+22.956806,$41.01,lt-22.freeman.com,6470,Europe/Vatican,Yoruba,1997-06-18,2021-05-25T11:58:14,18:22:21,GB,"Walton, Harding and Armstrong",27:52:28:de:63:de,fil,1984-02-04 15:35:27
+75.616670,"$13,295.16",laptop-33.jones.com,4441342,Asia/Bangkok,Catalan,1994-01-24,2011-11-05T21:20:51,02:36:59,GB,"Stone, Lambert and Bird",b5:51:80:4c:5e:0d,ks,1989-08-07 06:22:17
+13.8462035,"$53,712.60",lt-47.price.com,2,Europe/Vatican,Avaric,2001-10-22,1986-04-27T12:43:36,00:14:49,GB,Jennings-Whitehouse,56:2b:31:03:88:14,dv,1986-04-19 11:47:58
+69.296280,$9.46,srv-02.scott.org,391,Asia/Tehran,Sanskrit,2012-04-14,1998-05-07T08:59:44,18:05:34,GB,"Owen, Wright and Jackson",f4:ef:b9:b8:5c:75,csb,2018-07-24 23:27:01
+-50.696958,"$10,172.80",lt-35.morris.com,103,Africa/Malabo,Sundanese,1994-03-18,1974-11-23T20:09:03,01:00:26,GB,Gill LLC,cb:c6:51:59:3d:4d,nb,2020-01-16 03:40:49
+19.1897175,"$73,276.92",srv-52.wyatt.com,8996797,America/Nassau,Urdu,2020-09-07,1999-07-06T01:22:11,09:13:57,GB,"Cole, Harris and Benson",49:f1:77:bc:6f:ba,ga,1992-10-19 18:21:27
+57.1037345,$646.13,web-09.taylor-ryan.com,561617,America/Belize,Tajik,2022-05-31,1976-10-20T23:39:30,05:25:39,GB,Howard Ltd,1b:3c:1d:e7:0e:a5,ta,2012-09-19 18:45:00
+-55.4531545,$52.20,desktop-31.howard-morris.com,371,Europe/Madrid,Maltese,1974-01-28,1995-08-03T15:33:34,20:26:05,GB,Holmes Group,5c:9d:4a:d6:e4:24,sw,2018-09-26 23:32:19
+-58.2832635,$65.10,lt-53.randall.com,428,America/Porto_Velho,Hindi,2021-04-21,1980-06-02T18:50:09,18:10:24,GB,Kirby-O'Connor,02:a5:f5:cb:5b:d5,hy,2015-08-20 19:40:34
+15.7228915,"$5,785.91",srv-98.myers-stevens.com,25034,Africa/Lusaka,Kirghiz,1982-12-31,1975-05-09T23:58:53,23:11:01,GB,Allen and Sons,30:da:8e:b9:44:f3,ko,1980-12-09 13:23:26
+-63.161109,$66.63,web-84.byrne.biz,956329,America/Nassau,Swedish,1995-01-10,1994-01-07T14:55:33,15:23:27,GB,"Knight, Lee and Griffiths",52:f9:b0:09:84:1d,cv,2022-03-25 22:04:20
+-43.7750495,"$3,805.20",email-30.clements-robinson.co.uk,4279,Africa/Ndjamena,Ewe,2002-09-17,2022-02-18T11:12:19,04:42:13,GB,Gould PLC,bc:4f:f6:e0:5b:19,tn,1973-09-25 04:18:33
+80.4112865,$6.14,desktop-38.morgan-wilson.com,8965042,America/St_Kitts,Chinese,2003-01-21,1996-03-27T05:37:51,00:44:27,GB,"O'Neill, Roberts and Harding",e9:7d:59:fc:01:c1,ru,2012-10-16 04:21:27
+40.1865975,"$25,144.06",srv-59.williams.com,5,Europe/Vatican,Hebrew,2018-07-29,1975-07-05T13:39:14,08:15:19,GB,"Brown, Bibi and Harrison",05:d3:ae:a9:fc:c6,ug,2022-04-16 21:41:27
+-12.376759,$9.36,db-90.glover.org,7317,Asia/Muscat,Pali,2003-10-16,1984-06-10T14:05:10,02:43:47,GB,"Mason, Goodwin and Elliott",55:58:24:6d:39:a0,tg,1990-06-19 03:40:25
+35.2392245,"$6,686.95",desktop-46.johnson.co.uk,383843,America/Noronha,Georgian,1976-01-20,2010-05-30T20:35:44,01:28:46,GB,"Shaw, Waters and O'Donnell",11:4c:39:33:87:fd,as,2015-02-25 01:18:30
+54.372588,"$8,965.47",db-58.watson.org,91,Europe/Vienna,Norwegian Nynorsk,1989-08-04,1981-03-29T21:29:36,19:46:48,GB,Smart-Ward,56:8b:03:29:1e:95,wal,1987-01-10 00:45:41
+-57.084558,$5.54,desktop-07.nolan.biz,958601621,Asia/Makassar,Fijian,1989-05-15,2020-08-04T11:46:24,19:15:49,GB,"Powell, Buckley and Jones",dc:18:b2:6a:e8:d1,fil,2015-03-14 07:15:27
+-26.737446,$25.88,laptop-64.price.com,3927935,Europe/Zagreb,Ido,1983-02-06,1974-05-28T04:01:01,05:20:38,GB,Gray LLC,d2:ba:85:e1:75:e1,om,1987-01-14 00:01:35
+-25.829042,$26.07,desktop-25.rees-lawrence.co.uk,336615,Africa/Accra,Gaelic,2005-10-27,1999-12-14T04:47:25,21:10:41,GB,Duffy-Begum,0e:b5:f2:e4:59:a3,is,1984-10-31 05:28:45
+47.230170,$54.97,db-31.nicholson-harper.net,9,Asia/Kuwait,Zhuang,1993-08-07,1992-01-06T17:27:26,00:27:58,GB,Byrne-Wilson,d6:64:47:ef:8d:34,ms,2012-04-17 14:08:36
+-83.980652,"$54,022.78",email-67.lawrence.com,7649,Africa/Casablanca,Tajik,1973-08-06,2010-11-24T16:17:26,02:54:31,GB,Morris-Barnes,56:1d:2a:9d:90:02,apn,2017-06-23 12:36:29
+5.5386865,"$96,198.76",laptop-80.foster-baker.com,835005656,America/Montevideo,Tibetan,1973-07-05,1975-11-05T23:55:50,19:02:09,GB,Howe-Cooper,fe:0b:bc:b8:0c:f6,se,1997-06-28 12:34:42
+-9.533573,$884.93,db-52.buckley.com,8213872,Africa/Maputo,Sanskrit,1979-06-28,1993-08-16T06:54:29,22:15:30,GB,French-Cartwright,02:f2:c4:5e:86:17,ml,2012-02-18 06:55:25
+-43.810227,$214.29,laptop-24.walker-davies.co.uk,63,Europe/Chisinau,Marshallese,1980-03-01,1995-02-19T00:58:11,12:45:25,GB,Scott PLC,29:79:35:ec:1e:82,fur,2014-11-21 08:23:40
+60.0300605,$8.12,email-58.young-morgan.biz,440178846,Africa/Kampala,Kashmiri,1979-08-10,2002-11-06T16:43:40,14:45:20,GB,Brown-Gardner,61:40:94:9e:0b:a0,ur,1986-03-15 16:39:28
+-76.191948,$6.73,db-84.baker.com,53757,Africa/Asmera,Oriya,1996-10-06,2005-06-08T14:58:06,19:14:06,GB,Perkins-Wright,27:41:72:3c:e7:fb,oc,2000-08-06 13:15:42
+86.833322,"$3,060.92",desktop-06.porter.org,358,Asia/Kuala_Lumpur,Akan,1979-04-17,1995-10-25T07:21:43,00:48:54,GB,Morley Inc,03:71:d6:6f:a6:52,th,1976-06-15 15:24:36
+32.142072,$8.06,web-55.hughes.com,55685,Africa/Bamako,Chichewa,1975-01-22,2017-06-14T05:03:26,14:34:51,GB,"Bradley, Phillips and Cooper",58:d9:ad:53:f2:2a,et,1979-03-26 07:44:50
+-47.171706,$43.45,email-81.clark.co.uk,80615086,America/Belize,Maori,1997-10-03,1993-07-06T00:05:27,01:44:01,GB,Martin-Nelson,52:03:2b:33:4a:f9,ht,2007-07-09 22:04:35
+-73.9850865,$345.53,email-03.sanderson-simmons.com,76,Africa/Khartoum,Norwegian Nynorsk,1989-06-18,2011-11-28T00:06:12,09:06:48,GB,Morris-Pugh,4e:f8:17:4b:bb:d9,kl,1987-06-02 06:26:41
+63.530980,$309.27,laptop-15.davis-finch.com,6316068,Asia/Yerevan,Xhosa,1992-11-27,2023-07-13T23:20:56,23:15:49,GB,"Smith, Gordon and Holt",85:08:e8:bf:b1:31,kl,1971-06-08 13:03:32
+80.970114,"$88,800.04",web-13.jones-webb.com,389,Europe/Zurich,Ganda,1973-05-29,1972-01-21T21:30:55,11:28:48,GB,Edwards-Dawson,c7:d6:8c:5d:4c:43,bhb,2004-01-19 17:16:13
+12.112375,$0.49,lt-78.marsh.org,53193,Asia/Brunei,Northern Sami,2006-05-08,1998-02-25T14:44:21,15:54:43,GB,"Storey, Bennett and Allen",d0:f2:5d:72:a6:24,tt,2019-03-30 01:54:07
+75.3790995,$604.23,db-07.leonard.com,9,Asia/Calcutta,Ewe,2023-02-17,2002-09-11T08:29:50,16:47:43,GB,Quinn-Hawkins,ec:ec:fe:79:5f:f7,xh,1992-09-24 14:26:20
+21.662394,"$98,296.77",email-99.briggs.net,57,Europe/Skopje,Walloon,1991-08-15,1971-04-19T08:31:42,17:22:30,GB,Harrison Ltd,c3:ef:3b:ad:bc:71,pt,1994-09-30 14:19:03
+62.276028,$864.15,desktop-45.wright.com,2,America/Antigua,Tsonga,1998-03-25,2013-10-13T07:11:15,21:55:20,GB,Smith-Watson,5a:fc:21:c1:67:46,shs,2011-02-24 04:06:23
+50.022531,$109.45,web-31.bird-pollard.info,981361905,Asia/Manila,Rundi,2006-06-21,1988-04-01T20:51:48,16:22:09,GB,Dean-Khan,1a:b2:32:68:9a:ca,sw,1973-11-15 11:25:04
+-38.044452,"$7,207.15",web-80.barnes.biz,790847,Africa/Kampala,Urdu,2003-08-13,1988-08-01T14:34:11,20:57:27,GB,Osborne-Hudson,62:82:b0:e7:0d:3a,ps,1987-11-02 22:37:46
+37.8404185,$303.91,lt-73.cooper.org,9974,America/Guatemala,Galician,1995-10-19,1971-12-21T09:11:22,02:01:17,GB,Brown-Bond,f6:b6:36:c8:96:d3,ro,2022-01-13 03:11:03
+-80.6889985,$194.26,email-09.smith-anderson.com,2,Europe/Copenhagen,"Sotho, Southern",2022-10-16,2014-11-22T14:09:32,12:10:30,GB,Goddard-Davison,64:73:ba:6d:9b:fc,gu,1980-02-28 12:32:45
+40.7263835,$67.86,db-58.jones.com,856,Europe/Rome,Yoruba,1991-07-29,2008-12-06T15:31:22,23:06:17,GB,"Davis, Mellor and Francis",31:72:c9:ec:97:90,yi,1973-04-10 08:34:34
+-41.847968,$955.18,email-25.bell.net,333957,Europe/Brussels,Manx,1997-06-25,1978-05-24T00:18:19,15:32:34,GB,Brady-Wong,ce:ae:69:e0:1d:4d,yo,1979-10-30 04:50:49
+6.770899,$600.52,srv-93.smith.com,74318,Indian/Mahe,Yoruba,1993-02-21,2021-10-28T09:41:39,14:37:17,GB,Thomas-Rogers,dc:65:dc:c3:e0:67,it,2009-08-13 22:13:23
+-73.6054985,"$35,627.94",lt-08.lynch-brown.com,3,Europe/Rome,Esperanto,2008-04-04,2007-06-21T01:59:35,16:51:42,GB,"Pollard, Steele and Davidson",a9:b5:2b:5a:13:29,tt,1991-07-14 07:24:28
+62.859646,"$35,268.86",srv-94.williams-slater.org,29,America/Tegucigalpa,Fulah,1973-01-10,2002-06-17T00:48:55,04:04:42,GB,"Cook, Bryan and White",c4:a0:71:71:44:80,uk,1996-09-07 16:23:47
+86.183712,$0.46,srv-46.alexander.org,67,Africa/Brazzaville,Venda,1997-01-29,2012-04-13T15:10:00,10:58:41,GB,Lee-Davies,11:dc:c8:35:8c:c6,cmn,2019-07-29 00:01:29
+-35.520625,$67.86,email-23.murphy.biz,1572441,Asia/Rangoon,Navajo,2001-07-22,1995-04-28T16:06:55,11:20:44,GB,"Bennett, Walsh and Lloyd",b0:25:74:c9:d4:f6,lt,2008-08-16 12:20:11
+-74.0611355,$0.31,db-46.newman-nicholson.com,9,Europe/Monaco,Arabic,1975-06-29,1970-10-15T01:50:38,19:35:28,GB,"Ford, Baxter and Roberts",e0:87:60:d9:ea:bb,et,1978-05-28 14:57:07
+-19.824349,"$99,386.53",srv-64.smith-hall.com,479457,Asia/Almaty,Georgian,1993-01-10,1987-11-22T03:43:22,12:06:24,GB,Cooper and Sons,fd:54:3f:76:e6:eb,ka,2010-08-13 05:34:07
+-71.9153285,"$5,707.74",laptop-24.matthews-payne.net,53457322,Asia/Rangoon,Romanian,2016-09-25,1984-12-26T03:40:48,13:33:00,GB,Houghton Inc,84:4a:22:d0:34:3b,hsb,2015-02-09 02:08:05
+-1.891731,$218.28,email-56.johnston-freeman.com,58,Asia/Qatar,Western Frisian,2002-02-28,2015-07-04T21:37:58,10:46:19,GB,"Sharpe, Hamilton and Edwards",b0:5a:ce:4f:ee:3f,hr,1996-12-03 06:13:03
+-89.833970,$33.98,email-45.thomas-brown.org,621975,Europe/Minsk,Tigrinya,1992-10-30,1990-07-27T00:35:27,20:44:14,GB,White-Grant,f3:02:5b:63:78:2e,nds,1998-06-21 06:48:17
+69.5741195,"$14,329.54",laptop-04.jones.com,83557,America/Paramaribo,Tonga,1981-09-29,1999-02-08T04:50:59,05:50:45,GB,Bailey-Clark,56:82:f1:85:e5:8a,mi,2006-12-19 22:20:58
+41.1711065,$471.68,desktop-13.martin-parker.com,8,Atlantic/Cape_Verde,Sichuan Yi,1980-10-15,2005-06-16T17:10:53,22:28:30,GB,Webb-Parsons,aa:00:6d:33:c1:3c,hak,1974-03-16 22:19:44
+-5.104407,$20.39,srv-28.bell.com,80092,Asia/Beirut,Divehi,1992-01-04,1987-10-01T08:05:56,13:43:02,GB,"Lee, Taylor and Jackson",7b:59:ef:e8:5b:78,ve,1996-01-11 17:44:10
+-17.1697785,$615.69,db-87.wood.net,93634479,America/Indiana/Vevay,Avestan,1977-04-12,1978-10-24T13:13:40,11:28:13,GB,Kaur PLC,da:5a:2d:48:b0:35,ce,1995-12-08 13:41:21
+-3.551872,"$6,343.40",srv-90.wilson.biz,1978800,America/Port_of_Spain,Burmese,2019-11-02,2015-09-23T21:40:09,12:59:47,GB,Murray Inc,75:8a:29:bf:01:e3,ig,1977-09-07 04:37:18
+5.650022,"$8,108.52",desktop-94.brown.com,7,Europe/Andorra,Lingala,2016-09-21,1992-04-06T11:18:30,18:37:18,GB,Williams-Chan,ea:f8:a3:0a:ea:f8,raj,1987-10-23 08:53:01
+-47.8741675,"$5,636.19",email-74.jones.com,4362283,Africa/Luanda,Ganda,1975-01-31,2003-06-07T19:34:23,03:52:48,GB,Harvey-Slater,5d:41:85:d2:fe:86,he,1978-09-05 13:23:01
+49.0446745,"$6,286.47",lt-44.phillips.info,7192805,Asia/Magadan,Inupiaq,2016-07-05,2011-01-04T05:18:48,14:15:25,GB,Long-Brookes,ce:94:1e:ad:88:0d,kk,1981-05-30 00:33:42
+-43.304033,$729.62,email-01.stewart.net,41722383,Pacific/Chatham,Occitan,2003-05-30,2002-02-26T18:51:35,01:29:36,GB,"Wright, Harrison and Barber",b2:67:00:0c:75:04,pl,1992-01-08 05:57:53
+-48.113982,"$39,723.50",web-11.coleman.com,1976126,Asia/Tbilisi,North Ndebele,1994-09-13,2015-04-08T11:53:14,17:03:08,GB,Brown LLC,5e:dd:96:bd:39:9d,mg,2000-12-16 18:47:00
+75.2003125,"$48,325.59",lt-23.wong-myers.org,8,Asia/Kuwait,Irish,1992-09-08,2022-03-04T22:28:28,06:55:34,GB,Gill PLC,c6:12:2e:04:40:06,ha,2005-09-30 19:34:27
+16.723336,$4.69,email-75.daniels.com,73959,Africa/Asmera,Finnish,2019-10-02,2002-10-19T03:26:36,10:48:29,GB,"Burton, Reid and Edwards",cf:88:e6:e4:a8:43,mn,2004-09-05 03:08:31
+-21.419094,"$3,991.18",lt-36.morris.com,66021,Europe/Malta,Afrikaans,2000-06-18,2014-08-25T12:29:32,19:57:15,GB,"Wood, Ford and Cole",21:47:68:3d:64:a6,sw,1995-06-07 06:57:37
+-14.822160,"$98,287.37",db-67.stewart.co.uk,8906,Asia/Dili,Welsh,2003-01-24,1985-05-22T17:04:47,07:30:06,GB,Jones and Sons,59:57:05:1a:49:59,mag,1987-07-18 22:14:06
+67.5932085,"$77,705.61",db-16.young-cook.com,9,Asia/Pontianak,Assamese,1975-06-19,1998-07-18T05:08:13,03:31:54,GB,Spencer-Evans,d4:91:07:1f:0d:12,ro,1976-03-24 07:25:09
+-29.738650,"$2,162.28",laptop-99.davies.biz,216,Europe/Paris,Tajik,1991-08-10,1974-07-23T09:57:47,19:00:35,GB,Wallace-Marshall,e0:a5:dd:2d:87:6e,fi,1973-05-03 18:18:01
+-57.557457,$190.13,db-76.brooks.com,79021978,Africa/Kigali,Icelandic,1998-07-22,2009-01-13T22:11:14,06:00:27,GB,Payne-Russell,b8:6c:43:2b:64:11,ts,1984-09-04 23:22:58
+-12.3991005,$0.94,laptop-21.clarke-allen.com,170858,Africa/Porto-Novo,Belarusian,2000-12-04,2003-10-21T01:45:07,20:50:48,GB,Fletcher-Haynes,62:93:d2:03:b7:5b,ckb,2014-08-05 11:06:58
+-39.090175,"$99,061.03",laptop-97.walker.com,3047,Europe/Uzhgorod,Danish,1983-11-10,2012-08-09T11:51:27,02:11:27,GB,Gill LLC,47:95:28:97:44:41,es,1994-05-25 18:47:42
+15.1393625,"$6,344.63",desktop-54.cox.com,425321205,Europe/Amsterdam,Kirghiz,2014-12-25,1973-11-11T00:21:26,14:07:59,GB,Pearson-Evans,3d:2e:78:d8:7e:69,li,1999-07-24 08:02:28
+-30.173799,"$5,902.09",db-52.jones-elliott.com,210762,America/Whitehorse,Bambara,1992-09-15,1985-11-21T10:48:14,04:50:54,GB,"Thorpe, Farrell and Berry",35:a5:ce:52:3e:3c,uz,1996-02-18 04:02:22
+27.333391,$841.30,email-61.scott.co.uk,1939115,Europe/Sofia,Dutch,2002-05-05,2015-04-22T00:05:16,00:07:54,GB,Davies Group,c2:92:e4:b1:66:ae,bn,1995-12-29 14:21:17
+-39.691423,$161.60,lt-57.byrne.org,32846,Asia/Tashkent,Sango,1982-01-15,1983-09-12T22:37:58,03:25:22,GB,Parker-Wood,51:43:33:56:6a:72,bs,2016-04-25 06:36:16
+-15.127720,"$48,715.31",web-05.lewis.com,87168083,Africa/Lagos,Shona,1976-11-22,1987-04-09T16:33:34,02:54:21,GB,Gregory-Bradley,d6:31:7e:73:e0:c8,gu,2000-01-21 22:46:31
+48.3424685,$52.88,db-10.holt.co.uk,7,Pacific/Efate,English,1973-08-04,2021-04-27T18:53:53,20:58:57,GB,"Smith, Coles and Smith",1d:7a:3a:ca:67:80,kk,1976-12-10 15:15:44
+-35.173402,$389.86,srv-99.johnson-ward.co.uk,60723300,Asia/Bangkok,Irish,1989-01-17,1997-04-20T15:39:36,22:50:35,GB,Barber-Burgess,ab:b2:a8:0d:ff:e5,nl,2007-03-27 05:45:52
+-39.2284755,$755.01,srv-09.grant-parker.biz,5049899,Atlantic/Cape_Verde,Kuanyama,2012-09-15,2022-11-16T13:48:24,04:21:08,GB,"Mason, Patel and Powell",05:2d:4c:42:a7:e4,ks,2012-05-12 15:31:27
+64.742173,"$49,099.18",web-97.martin.com,7,America/Cancun,Serbian,1984-02-21,1988-01-06T04:35:06,02:08:10,GB,Little-Evans,4f:95:f7:9b:cb:a7,mt,2015-04-13 20:09:36
+82.3168555,"$71,707.17",lt-13.fowler.com,3,America/Indiana/Petersburg,Navajo,2021-09-05,1995-10-02T01:04:28,10:41:22,GB,Lawrence PLC,26:84:2b:44:14:b1,mk,1982-01-14 21:56:45
+-71.0377995,$32.11,web-93.allen.co.uk,24829785,Europe/Helsinki,Dutch,2019-06-15,1999-04-29T21:06:29,19:43:41,GB,"Woodward, White and Davis",b1:f3:f9:74:d7:62,ckb,1997-07-29 22:52:10
+45.408288,$34.00,lt-07.begum-osullivan.com,6,Pacific/Port_Moresby,Bislama,1987-02-27,1983-09-30T09:42:44,15:17:47,GB,"Oliver, Richards and Lawrence",1f:57:cb:86:39:19,ast,2011-08-02 13:13:52
+-25.373814,"$6,818.03",srv-06.begum-parkin.biz,207449933,Europe/Sarajevo,Sanskrit,2011-04-16,2013-09-22T06:33:42,14:59:08,GB,Scott-Hancock,94:f4:8d:28:4e:f6,ti,1974-05-26 21:11:50
+-11.3152655,"$3,438.05",email-06.barnes-walton.com,649857,Africa/Lagos,English,1974-04-16,1976-06-09T16:55:14,23:36:40,GB,James-Johnson,d0:23:68:66:bb:e8,be,1972-08-19 00:05:09
+40.485146,$58.06,email-44.johnson-thomas.com,45,Europe/Paris,North Ndebele,1977-12-07,2000-02-10T03:00:09,13:24:03,GB,Gill Ltd,47:8c:1f:c8:7b:1a,si,2019-11-02 13:09:25
+-11.507754,"$42,786.03",srv-26.clark.com,79924925,Africa/Tripoli,Cornish,1985-06-10,1986-10-30T15:26:57,09:51:36,GB,Mills PLC,c9:d0:0e:ce:bd:df,cs,2009-07-17 04:23:09
+50.019032,"$25,303.60",web-05.mills.com,835847756,Europe/Malta,Swedish,2010-06-26,1976-08-12T09:05:37,16:01:30,GB,Wood Group,93:ce:25:5e:31:f0,bhb,1984-11-08 15:01:56
+-26.3698985,$1.20,desktop-39.gill.co.uk,8427,Asia/Baku,Korean,1977-06-03,2007-09-13T03:42:57,01:17:24,GB,"Mitchell, Carter and Collins",f9:d1:d0:41:86:59,ta,2000-03-01 16:47:59
+69.685753,"$19,520.41",web-14.lawrence.com,719217437,Africa/Casablanca,Inupiaq,1986-02-13,2011-05-04T23:20:57,01:23:49,GB,"Thompson, Brown and Brennan",a5:b0:f1:40:e4:4c,pap,1974-10-08 16:30:30
+4.0316495,$410.12,lt-83.lawrence.com,7237,Asia/Damascus,Mongolian,1991-12-04,1997-06-14T01:37:33,17:42:22,GB,"Collins, Andrews and Reid",30:36:b8:3b:c4:63,hsb,1975-01-08 23:25:22
+29.617174,"$67,966.32",desktop-58.graham.com,5,Africa/Johannesburg,Inuktitut,1978-01-05,2022-01-23T05:30:27,02:25:35,GB,Brown-Martin,2d:61:56:1d:18:d0,gd,1992-09-15 13:40:38
+-52.541947,"$20,043.71",lt-62.nicholson-macdonald.info,667172,Asia/Kabul,Occitan,1974-01-04,1989-10-19T12:19:35,11:41:53,GB,Webb-Williams,ef:d1:70:0c:8e:5d,niu,1995-11-29 09:06:31
+-56.5498585,$7.25,srv-15.ward.info,954,Europe/Skopje,Sardinian,2021-08-10,1985-04-10T13:06:51,11:04:10,GB,"Francis, Hilton and Perry",3a:ee:b4:be:da:39,ja,2000-09-07 05:51:50
+16.597948,$292.40,srv-69.walker-kelly.com,879105430,Africa/Luanda,Fijian,1986-07-31,2001-09-01T01:52:16,01:17:33,GB,"Burke, Goddard and Hewitt",b3:6a:4e:f0:4c:d1,fr,2003-12-14 00:35:12
+-29.9284815,"$85,231.22",lt-25.clark-townsend.com,381,Asia/Phnom_Penh,French,1972-10-10,1972-06-06T13:32:42,14:51:23,GB,Dobson-Willis,d6:5c:73:f9:90:4a,ku,1986-09-30 19:12:45
+-63.2260025,$5.00,laptop-82.atkins.com,5943227,Asia/Riyadh,Dzongkha,2021-05-09,2006-04-27T15:23:04,13:19:57,GB,Green LLC,48:57:70:1e:d0:94,gu,2003-01-25 19:23:36
+25.0486855,"$5,193.91",srv-26.stevenson.com,90615069,America/Barbados,Interlingua,1984-12-22,1981-01-11T01:15:06,23:45:31,GB,Robinson-Collins,14:95:cf:25:d1:8c,niu,2009-02-23 18:18:30
+67.671580,"$4,976.21",email-42.slater.org,54049,Africa/Mbabane,Afrikaans,2005-10-21,1975-04-10T16:21:03,20:04:58,GB,"Martin, Chan and Lowe",40:75:ef:2c:d3:72,ayc,1991-08-20 19:13:37
+-29.191624,"$62,650.91",srv-46.bailey.com,57673068,Asia/Dhaka,Cree,2008-04-09,2013-06-26T14:22:31,19:09:01,GB,"Walker, Jones and Watson",90:fc:a1:e2:53:76,kw,1986-03-31 05:02:24
+-12.556310,$80.61,email-02.grant.com,93639782,Asia/Dubai,Macedonian,2018-06-10,1988-12-23T14:09:59,07:30:25,GB,Graham LLC,3a:17:a3:d8:79:a0,nn,2000-04-25 23:21:08
+-54.298263,"$1,878.69",srv-95.potter-clarke.co.uk,35647381,Asia/Jakarta,Sanskrit,1984-11-08,1976-06-11T11:16:41,07:17:14,GB,Russell-Fisher,f6:e6:cd:79:be:f7,szl,2017-05-08 15:32:38
+-83.678548,$8.14,laptop-55.green.com,46737705,Pacific/Galapagos,Korean,1991-09-22,1989-07-29T16:14:41,07:47:44,GB,Gardner LLC,c2:2d:db:8d:8a:c8,ss,2017-09-14 12:18:30
+-2.8172405,$75.67,srv-58.owen.com,35799762,Europe/San_Marino,German,2023-03-01,1970-12-20T05:31:00,12:10:23,GB,Macdonald-Noble,7e:8b:e7:1b:26:59,bg,2009-01-01 19:31:01
+45.1066775,"$8,294.08",db-30.ryan.com,62,Europe/Bucharest,Kurdish,1998-10-06,2000-02-05T14:06:16,02:32:45,GB,"Gregory, Wyatt and Brown",fb:ae:f3:2d:3d:0f,tt,1979-12-04 06:16:31
+55.744363,"$60,357.12",email-13.graham.org,74820032,America/St_Lucia,Marshallese,2012-01-17,2012-02-05T17:47:06,17:35:46,GB,"Parker, Howard and Watkins",46:63:46:a1:83:0d,ss,2005-04-10 02:32:59
+73.2619615,$402.82,laptop-31.benson.org,702,Asia/Baku,Serbian,2023-02-12,2022-10-31T18:27:17,00:22:15,GB,Talbot LLC,4c:46:51:c1:f8:2f,fil,2019-08-14 06:10:52
+-39.2539775,$668.78,lt-74.howells-carter.com,438083713,Asia/Dili,Oriya,1979-12-19,1987-07-16T01:11:37,14:48:57,GB,"Elliott, Glover and Jones",5e:ac:28:bf:9c:83,mni,1973-02-26 17:30:50
+-89.876503,"$71,275.61",db-58.clarke-smith.com,124378,Europe/Vaduz,Nauru,2018-02-06,2010-05-21T23:21:13,01:02:59,GB,Gough LLC,9d:3f:62:e0:e2:ad,ps,2001-06-12 03:49:18
+-12.6419075,"$3,636.51",email-69.hughes.info,51,Asia/Nicosia,Marshallese,2015-08-10,1991-12-26T11:06:19,22:15:26,GB,"Parkinson, Turner and Brady",7c:08:12:91:52:b2,cs,1970-01-17 12:30:50
+70.0951985,$31.10,desktop-21.james.com,31499,Africa/Lusaka,Xhosa,2010-12-24,1990-10-30T15:23:19,22:36:01,GB,Patel-Evans,28:78:a1:f3:48:6f,ayc,1974-01-19 05:59:28
+-1.3291985,"$39,403.01",email-99.bennett.com,6249295,Asia/Jerusalem,Pushto,2008-09-01,2013-07-29T05:15:56,19:30:06,GB,"Thomas, Murray and Kelly",db:f4:63:9d:b7:7f,uk,1985-12-20 14:27:36
+-89.8808035,$561.12,srv-15.price.co.uk,7244,Pacific/Truk,Quechua,2007-07-24,2015-06-02T02:57:47,17:32:04,GB,"Kaur, Bailey and Harvey",21:c1:df:7b:49:3d,cy,1982-11-07 05:19:55
+-6.001100,"$9,862.14",db-12.page.com,575729,Africa/Banjul,Chamorro,2005-04-19,2017-08-14T16:28:52,14:26:43,GB,Barker Group,a7:aa:84:b0:1c:3e,fo,2017-02-17 03:46:39
+-57.031852,$39.21,web-67.newman.com,25189,Asia/Rangoon,Yoruba,2012-05-20,1972-05-20T10:46:30,16:31:53,GB,Wilkinson Ltd,7a:fa:60:bd:c5:16,am,1971-08-04 11:18:17
+17.4018495,$71.86,lt-27.long.info,68,America/Dawson,Venda,1982-05-17,1987-07-31T05:52:08,20:59:48,GB,Clark Inc,bf:8a:22:22:3b:9a,br,2011-01-31 01:33:22
+-39.228565,$973.15,lt-95.jones.com,2,Africa/Dar_es_Salaam,Haitian,1971-04-25,1987-07-13T08:55:52,23:55:53,GB,Carroll Inc,72:b7:1f:94:ad:da,cy,1993-05-02 00:32:40
+-53.1467465,$20.48,srv-04.williamson-cooper.com,642,Asia/Dili,Quechua,2004-11-25,1992-04-14T14:27:20,00:31:16,GB,Bruce-Akhtar,96:01:ad:e7:07:17,apn,2018-08-21 18:28:27
+-24.6424125,$385.55,web-35.oliver.com,542391,Africa/Blantyre,Afar,2000-09-17,2005-04-17T06:58:50,20:33:30,GB,"Powell, Fisher and Finch",c4:80:85:6d:e1:c6,quz,1995-06-20 10:59:40
+-71.3334665,$593.43,desktop-26.hall.com,2,Indian/Mauritius,Urdu,1997-08-26,2018-09-20T18:49:57,03:04:12,GB,Bennett PLC,d2:48:f9:fc:91:be,tr,1973-03-16 10:26:14
+13.226629,$132.38,desktop-66.dunn.com,72,Africa/Harare,Maori,2017-06-22,2013-09-05T06:10:11,16:38:46,GB,Lane-Russell,4d:9e:20:97:53:8d,ml,1973-07-16 19:44:09
+1.7620165,"$27,277.27",lt-43.stephens.info,8385,Africa/Lusaka,Arabic,1979-02-12,2021-03-17T05:39:22,22:13:22,GB,"Hughes, Morris and Taylor",37:67:3a:75:6b:e2,bo,1996-04-23 21:25:43
+-44.345660,$1.46,web-69.brown.com,5706309,America/Monterrey,Estonian,2006-01-02,1989-10-22T03:50:19,16:04:23,GB,"Williams, Lawrence and Lewis",91:2f:e5:62:16:cc,kn,1982-03-30 06:52:19
+-62.0909935,$805.13,db-69.burgess.com,69073,Asia/Singapore,Tonga,1977-04-03,2023-02-21T19:46:33,03:04:18,GB,Coleman-Phillips,12:6a:31:15:91:82,az,2002-10-23 12:06:59
+50.9568255,$712.01,desktop-59.hayes.org,0,America/Caracas,Kanuri,2004-12-21,2020-03-26T03:55:20,21:07:34,GB,"Hamilton, Watson and Hall",c6:27:a8:cb:fd:af,yo,1973-08-26 09:14:46
+83.440874,"$33,629.08",lt-90.doherty-lawson.com,35374480,Asia/Bahrain,Indonesian,2000-10-02,1995-09-05T01:46:47,13:04:26,GB,Hunt PLC,19:b2:90:c6:ca:d7,lij,2001-01-23 23:30:39
+-46.634689,"$52,192.43",srv-28.taylor.biz,45841,Indian/Comoro,Lao,1982-06-06,1990-03-12T06:15:55,17:09:17,GB,Goddard-Berry,08:f5:a9:5a:bc:d1,gl,2018-09-11 08:32:19
+-20.037330,$6.96,desktop-12.lawrence.info,80478,America/Bahia,Northern Sami,2021-12-07,1998-09-24T00:39:59,18:35:59,GB,Stephenson-Brown,b2:6b:50:72:49:19,kn,2015-02-02 14:22:01
+-28.931618,"$33,051.75",desktop-70.dodd.com,1085,Africa/Bissau,Czech,2021-12-29,2017-07-23T17:14:48,05:48:33,GB,Ahmed and Sons,e8:e0:c7:fb:0f:3d,tig,1988-04-09 20:02:56
+-78.256407,$9.99,desktop-34.ball.biz,3828239,Africa/Banjul,Maltese,1973-07-28,1974-03-12T06:32:58,08:47:11,GB,Davies and Sons,a3:42:44:23:59:3f,be,2006-11-28 20:00:13
+-73.555911,"$53,171.95",web-79.iqbal.com,398528696,Europe/San_Marino,Tibetan,2022-01-24,2019-12-24T06:58:06,15:46:47,GB,Stephens and Sons,50:4b:54:00:ac:90,uz,2018-04-24 20:28:29
+9.1556075,$563.63,db-54.fox.info,9254,Europe/Samara,Italian,2004-06-22,1995-09-26T02:46:01,03:30:46,GB,Brown-Griffiths,98:12:70:9d:eb:c6,nan,1975-04-23 23:03:10
+-1.3916715,$230.71,desktop-35.lamb-reynolds.com,799323,Europe/Riga,Uzbek,1975-08-22,2009-05-27T08:53:41,15:34:13,GB,Bibi-Davies,71:7f:ff:3c:22:c7,aa,1981-01-22 23:08:59
+50.0032725,$6.11,web-14.griffiths-pritchard.com,560,Europe/Tirane,Lao,1979-12-13,2012-12-30T12:28:02,04:28:10,GB,"Flynn, O'Connor and Bevan",73:68:49:2a:f6:87,bs,1986-09-13 20:03:33
+-41.440303,$7.68,web-98.hughes-wallace.info,2457,Asia/Baghdad,Avaric,1983-12-29,1976-12-17T12:14:42,21:57:13,GB,Smith-Francis,22:67:40:2b:ef:b0,mi,1997-05-25 09:24:32
+50.1118755,$0.23,desktop-77.smart.com,4993773,Europe/Stockholm,Norwegian,1999-08-17,1990-11-12T10:57:59,13:54:07,GB,Francis Inc,45:a3:e0:8b:34:38,cmn,1974-05-01 20:10:40
+-33.011261,"$7,773.57",db-56.bond.com,5424920,America/Guyana,Sindhi,1994-03-03,1976-04-14T14:24:40,07:30:19,GB,Berry LLC,e9:2d:e1:1d:6f:ef,hsb,1972-07-31 10:35:36
+-36.4719225,"$20,832.19",laptop-38.parker.com,91,Europe/Zagreb,Persian,1981-09-20,1977-09-25T16:17:44,15:38:15,GB,Lloyd-Holden,81:9c:e7:47:66:d7,vi,2003-01-03 13:38:03
+-6.6188805,$24.18,lt-41.khan-baker.com,99563,Australia/Sydney,Kalaallisut,2012-04-14,2021-04-17T08:27:56,13:32:22,GB,"Jones, Bennett and Palmer",53:e8:3e:e0:4e:56,ti,1992-05-03 02:59:43
+-44.9274785,"$42,967.62",desktop-50.wells-hancock.com,92431,Asia/Tehran,Divehi,1991-05-27,1980-08-27T22:52:34,21:58:29,GB,Hobbs Inc,28:cb:95:51:f0:a3,de,1980-04-21 10:16:17
+-13.122007,$6.08,srv-25.waters-mills.org,209638,Asia/Amman,Malayalam,2001-08-31,1987-08-30T18:26:47,16:21:29,GB,Smith Inc,79:48:b5:6f:4c:21,gl,1986-11-28 19:57:41
+-32.548072,$64.44,desktop-46.shepherd.com,8458,Asia/Karachi,Avaric,2021-03-07,2007-11-03T23:27:19,23:35:24,GB,Spencer-Green,04:18:71:b5:93:67,bem,2014-04-26 10:49:25
+83.500996,"$9,286.23",laptop-10.kemp-owens.org,61,Asia/Ashgabat,Romanian,2002-10-31,1980-07-30T02:03:51,09:39:15,GB,Wallis Inc,9a:86:e0:ae:62:c5,shs,1970-01-05 04:12:24
+-61.3172635,$97.88,srv-30.warren.com,484,Africa/Malabo,Armenian,2014-06-23,1992-12-16T01:32:14,01:56:36,GB,Thomas-Wilkinson,10:da:83:66:fe:8f,my,2001-01-10 03:29:46
+-61.7135885,$9.09,laptop-27.chapman-bartlett.com,182,Europe/Paris,Persian,2008-03-17,1970-03-05T22:23:38,07:01:40,GB,White-Jenkins,1c:fb:99:9f:b7:97,an,1992-07-18 07:11:03
+-61.4261605,$54.91,db-44.connolly.co.uk,26147476,Asia/Bangkok,Samoan,1970-01-11,1975-11-30T19:58:00,01:13:33,GB,Hill PLC,46:d8:c2:30:7b:08,ig,1983-07-25 15:29:51
+-87.3889575,$98.24,desktop-68.powell.biz,978709036,Africa/Ndjamena,Cornish,2015-10-04,1984-09-06T19:19:16,10:22:43,GB,Mitchell-Dean,d8:30:5c:8c:68:1a,is,2023-08-23 13:58:33
+-19.121436,"$4,160.62",laptop-51.johnson.com,97,Australia/Lindeman,Esperanto,1972-06-28,2001-09-29T21:34:44,19:08:08,GB,"Hilton, Ford and Parsons",3b:87:d3:da:fe:15,uz,1985-04-30 01:31:27
+-26.8310695,$5.38,db-44.atkinson.co.uk,378899,Asia/Bishkek,Avestan,1974-02-18,1972-12-03T05:52:06,08:53:08,GB,Page Ltd,5e:8b:44:e7:79:90,nr,1991-07-19 06:39:35
+71.7071075,$309.05,web-14.morgan-singh.info,242039165,America/Barbados,Ganda,2010-03-14,1971-03-09T00:12:25,00:51:07,GB,Hamilton-Pope,f3:40:a6:05:d9:20,ak,1985-06-21 11:47:31
+-38.178821,$217.58,srv-48.morris-johnson.net,3174,Indian/Mauritius,Turkmen,2006-12-13,1998-04-29T06:07:24,21:35:59,GB,Quinn-Jackson,0e:bb:a8:8c:f9:49,yi,1970-05-01 16:06:05
+-13.754503,$5.74,laptop-49.potts.biz,41,Europe/Budapest,Manx,2008-02-24,2010-11-01T18:44:44,10:11:23,GB,"Sutton, Hughes and Ellis",18:f6:d9:da:af:b2,apn,1996-05-15 16:11:42
+-28.779003,"$65,991.88",lt-25.begum-roberts.biz,2243894,Africa/Libreville,Gujarati,2008-04-05,1985-01-03T23:40:40,11:52:00,GB,Mann PLC,8e:a8:0f:2b:0d:e4,lg,1971-09-23 19:39:01
+2.899393,"$2,440.45",lt-40.young.co.uk,785282,Europe/Simferopol,Turkish,1997-09-26,1974-04-06T06:44:48,16:21:49,GB,"Rahman, Wilkinson and Parry",04:22:c9:c1:9e:a8,uz,2002-03-31 15:30:08
+-10.8413095,$2.87,srv-74.lynch-bevan.org,869,Pacific/Palau,Sardinian,1992-01-08,1986-05-03T12:05:01,21:34:56,GB,Roberts-O'Neill,ad:6f:39:31:37:b9,lv,2004-01-09 11:08:16
+42.347246,$303.27,laptop-47.lloyd.biz,4,Indian/Mahe,Maori,2001-02-08,1976-10-25T04:35:48,10:56:37,GB,Godfrey-Taylor,1b:76:8b:f2:d0:36,so,1994-11-08 08:50:33
+32.7379575,$7.51,web-20.miller.com,20,Asia/Baku,Tajik,1988-12-06,2008-02-20T00:04:16,21:20:19,GB,"Taylor, Hobbs and Thomas",29:06:88:9a:f8:0e,ne,2019-01-21 01:04:58
+-41.0698855,"$76,377.54",srv-13.chapman.biz,114,Asia/Amman,Herero,1988-04-10,1991-11-27T19:00:07,18:16:02,GB,"Browne, Elliott and Kaur",ef:7d:54:83:5b:94,yue,2008-12-04 03:04:51
+81.150346,"$66,144.74",srv-79.jones-shah.info,3,Europe/Warsaw,Welsh,2007-02-25,1979-06-16T04:29:45,07:40:43,GB,"Humphreys, Morgan and Gilbert",21:e9:eb:87:67:8b,bo,2011-05-12 15:06:05
+-12.900862,$6.84,db-36.davis-jones.com,3473326,America/Havana,Bosnian,1974-08-01,2003-06-08T18:15:25,21:31:40,GB,Carter-Phillips,73:de:18:10:4b:2b,mg,1991-08-06 20:17:50
+35.7816565,$9.06,web-83.hurst-alexander.co.uk,4,Africa/Mogadishu,Cree,2020-09-25,1971-02-26T03:59:02,19:10:48,GB,Buckley Group,4d:e1:0c:52:8a:fb,iw,1974-08-06 11:15:27
+-83.872884,$400.98,web-98.patel-winter.com,886,Europe/Helsinki,Bambara,1994-03-11,2021-03-30T11:21:03,18:59:12,GB,"Johnson, Little and Osborne",8b:2b:a9:d9:1b:c5,is,1988-10-03 20:01:11
+64.5120535,"$7,026.83",web-07.griffiths.com,384236,Europe/Zurich,Gujarati,2012-01-20,1975-05-03T09:27:44,17:44:56,GB,Smith-Jones,59:7e:d3:9d:d0:aa,uz,2006-01-23 17:32:25
+8.3215705,$30.11,desktop-82.barker.org,8563009,Africa/Tripoli,Vietnamese,1988-10-02,2004-04-28T02:05:39,09:47:12,GB,"Benson, Rogers and McLean",14:5a:44:9f:13:24,nb,1986-10-03 12:47:40
+-12.109501,$38.03,web-63.jenkins.com,30976688,Asia/Riyadh,Maltese,2015-11-24,1996-05-15T12:37:44,01:18:17,GB,Heath-Bell,9b:02:8e:a1:47:52,ff,2009-03-02 02:22:39
+-8.5871925,"$53,931.19",email-65.davies.net,422037174,Europe/Sarajevo,Serbian,2017-02-25,2021-11-11T12:14:32,22:42:30,GB,Potter PLC,ba:b2:d1:df:8c:79,byn,2016-09-04 08:38:40
+89.705437,$5.35,web-47.west.biz,38,Europe/Helsinki,Amharic,2010-01-26,2022-08-12T13:44:36,07:28:44,GB,"Nash, Gregory and Lloyd",60:4e:8e:3a:31:b5,sq,1980-08-10 00:43:50
+-2.3986915,"$15,161.23",srv-93.wood-smith.com,834,America/Costa_Rica,Kirghiz,1998-05-23,1990-07-24T14:15:35,15:00:08,GB,Pugh-Hughes,f6:82:ee:4f:4c:51,da,1971-06-09 22:13:55
+-45.263790,$66.55,lt-66.saunders.com,348539692,Asia/Kabul,Mongolian,1977-03-23,1978-11-25T03:22:49,19:25:30,GB,Moss LLC,c3:59:f0:e3:89:4f,dv,2008-10-11 13:36:59
+-81.466868,$23.93,srv-59.nolan-akhtar.org,86043502,Africa/Brazzaville,Ido,1990-05-14,2006-12-26T08:52:35,10:13:22,GB,Gilbert LLC,93:6a:80:8d:20:81,mt,1976-04-21 10:40:24
+84.8646035,$78.69,srv-05.williams-goodwin.info,770013,Africa/Mbabane,Venda,2008-01-13,2016-08-04T19:34:42,22:21:52,GB,"Smith, Pratt and Francis",6d:27:1c:76:a5:41,lt,1997-06-08 06:44:08
+-5.7258205,$7.10,laptop-76.turnbull.com,57,Asia/Riyadh,North Ndebele,1983-01-21,1984-07-29T22:35:36,09:35:23,GB,"Grant, Fowler and Walsh",e6:49:72:89:b1:c1,mn,1984-03-12 08:33:37
+81.009998,$28.73,lt-06.bailey.com,50,Africa/Dakar,Icelandic,2002-11-12,2020-06-27T12:32:44,11:07:39,GB,Clark-Cooper,d8:cd:79:39:a1:b7,kl,2016-05-26 09:56:47
+54.284617,$8.97,srv-63.holland.com,8568,America/El_Salvador,Galician,1985-08-18,1982-10-01T19:38:57,14:59:13,GB,Murphy-Grant,f8:ae:f5:50:a7:27,oc,1977-04-27 11:17:17
+-10.3999155,"$55,395.63",lt-11.hill.info,969,Asia/Tbilisi,Rundi,1993-12-02,1977-07-02T05:29:45,15:33:39,GB,Reynolds and Sons,a2:58:c7:40:d9:19,sd,1982-06-23 12:06:41
+52.3239305,$906.65,lt-75.ryan.com,2106,Europe/Simferopol,Marathi,1980-04-01,2006-02-14T13:14:52,04:22:46,GB,Gray-Kaur,67:b2:52:2d:d7:f3,lg,1970-08-06 01:46:18
+-39.713117,"$42,806.43",email-68.black-brady.info,1443,Pacific/Auckland,Afrikaans,1980-02-05,2018-10-26T10:48:59,12:54:50,GB,"Wilson, Stewart and Turner",d4:de:cf:81:6e:fa,unm,1981-04-28 21:49:31
+2.588540,"$4,334.53",lt-78.knight.info,5568,America/El_Salvador,Icelandic,1995-05-16,1998-04-03T02:36:03,15:59:32,GB,"Graham, Wilson and Coates",f3:c3:9e:48:97:ea,af,2015-02-15 23:13:31
+-26.601046,$465.85,db-74.jones.com,8,Asia/Beirut,Ewe,2023-01-17,1991-11-18T18:09:49,02:11:51,GB,Owen-Hill,19:9f:b7:af:73:06,mr,2018-10-01 03:01:03
+-48.726385,$280.93,srv-18.williams-stephenson.org,78,Asia/Kuching,Hiri Motu,1997-11-26,1997-02-23T18:56:39,14:22:34,GB,"Gibson, Pritchard and Carr",9d:3c:e9:29:15:f8,ro,1991-07-10 01:31:30
+-8.3681655,$893.46,srv-84.kemp-williams.com,9,Europe/Andorra,Sindhi,2019-07-19,1993-08-11T13:11:46,02:13:34,GB,Parry PLC,8b:e3:01:37:03:60,cv,2000-11-03 17:36:09
+68.4907355,$27.79,lt-03.rowe.com,1373903,Europe/Uzhgorod,Croatian,1988-11-20,2001-09-18T10:58:27,05:15:13,GB,Davison-Brady,3d:bb:cb:1f:e4:72,ca,1992-06-07 12:43:00
+-82.1307465,$43.28,email-82.smith.com,76900,Europe/Warsaw,Azerbaijani,2000-08-19,1973-04-29T13:45:44,05:13:30,GB,Gallagher-Chapman,48:69:bc:22:7c:c9,fa,1993-11-14 02:15:31
+-70.8874195,"$9,873.95",lt-72.owen.co.uk,4012305,Asia/Ulaanbaatar,Tatar,1994-05-06,1988-08-08T03:08:54,18:04:28,GB,Lewis-Parker,f4:f8:15:e4:2f:8c,de,1973-12-19 10:25:45
+-54.6231285,$5.55,desktop-09.smith-cameron.com,1504527,Europe/Vilnius,Church Slavic,1970-05-30,1992-09-28T06:38:55,09:58:39,GB,Hunt Group,9f:39:5f:98:3c:cb,sv,2001-09-27 08:53:38
+-39.304959,$717.01,web-11.patel.com,7890948,Asia/Gaza,Xhosa,2005-06-21,2007-12-24T06:04:19,17:38:35,GB,Smith Ltd,41:6f:10:3d:73:98,ml,2021-08-28 21:41:24
+46.231820,$74.96,web-67.dunn.com,3,Africa/Monrovia,German,2017-12-04,2009-04-03T10:01:16,03:48:44,GB,Russell Group,8b:62:50:8b:f5:35,unm,2010-12-30 23:26:54
+-84.759905,"$2,790.53",srv-57.shepherd-lewis.net,1,Asia/Taipei,Gujarati,2015-08-26,2001-06-28T16:51:32,13:55:41,GB,"Coles, Robinson and Barnes",99:2e:d0:2d:23:08,ast,2010-09-04 11:45:37
+85.1211845,$84.94,desktop-36.martin-chan.com,8909677,Africa/Gaborone,Fijian,2016-11-13,2002-03-06T18:58:48,14:49:24,GB,"Hayward, Tucker and Wright",2b:47:59:00:3d:ad,ce,1995-10-20 07:59:53
+-18.7444335,$517.01,web-15.fraser.com,3078,Asia/Beirut,"Sotho, Southern",1993-02-11,1993-05-31T11:32:34,08:18:52,GB,Barnes Ltd,19:93:fc:2d:e9:d7,fur,2009-08-17 03:37:45
+-3.571814,"$8,455.44",laptop-34.george-newton.com,35,Asia/Vientiane,Kashmiri,2002-08-31,1993-01-06T06:11:28,08:11:02,GB,Fox PLC,fe:d2:4b:fc:3e:82,tn,1982-12-29 02:02:20
+-37.0995535,$1.12,web-12.ball-scott.com,97296,Pacific/Majuro,Telugu,1979-01-04,1972-05-23T07:14:57,22:11:38,GB,O'Neill-Burgess,0a:2d:a7:ec:9e:af,mhr,2003-02-16 13:38:07
+-14.1300755,"$8,042.88",laptop-26.riley-green.net,6,Africa/Blantyre,Igbo,1980-04-18,1998-05-13T22:43:49,18:12:55,GB,Parry Ltd,36:d3:3d:5d:4f:fe,ast,1999-09-14 05:16:04
+-86.883996,$23.20,srv-29.pearce.com,1985,Africa/Maseru,Galician,2022-03-25,1986-11-05T16:07:21,15:01:58,GB,"Cooper, Harvey and Lucas",af:c1:fc:9f:58:cc,se,1982-04-15 00:52:06
+11.654643,"$38,617.14",email-51.stokes-cartwright.com,101,Asia/Muscat,Igbo,1970-02-26,2005-02-13T20:15:26,18:38:00,GB,Skinner PLC,b6:2e:90:5a:7c:81,doi,1993-06-10 16:48:35
+0.227071,"$46,667.08",email-34.king.com,9971,Pacific/Fiji,Tibetan,2014-05-28,1987-08-12T16:37:16,10:30:51,GB,Parker-Jackson,7c:77:29:5c:c8:ab,sk,1975-02-04 18:35:06
+-5.0843645,$6.33,srv-52.lambert-hodgson.co.uk,62147877,Africa/Mogadishu,South Ndebele,1978-12-24,2016-08-27T18:18:14,22:37:07,GB,Jones Inc,70:bb:ea:53:c9:08,br,1990-10-11 18:41:53
+-21.332827,$6.72,lt-45.oneill.com,885039,Asia/Kuwait,Pushto,1980-03-10,1972-12-03T23:21:00,10:18:30,GB,Clarke-Collins,f5:2a:f2:69:aa:5f,fur,1986-10-07 07:25:33
+-70.2930055,"$5,740.88",lt-93.kaur.com,6094662,Africa/Banjul,Lithuanian,2021-08-01,2008-04-29T10:51:07,02:49:58,GB,"Ahmed, O'Neill and Wall",bb:8c:7c:02:8c:d8,mk,1996-06-18 14:23:29
+-6.761051,$59.87,email-99.smith.com,73994,America/Grenada,Uzbek,2006-10-01,2009-09-17T10:12:39,11:39:33,GB,Pearce-Shaw,02:0d:e5:68:ce:31,eo,1980-11-30 07:01:05
+-49.471079,"$33,046.38",db-26.price.com,7356533,Europe/Simferopol,South Ndebele,2005-01-21,1994-10-24T19:52:55,14:50:05,GB,Jenkins Ltd,f7:b5:66:62:9d:e5,hak,1993-01-22 09:35:36
+-27.895956,"$21,159.68",db-01.hill-edwards.biz,966430,Pacific/Nauru,Bambara,1981-04-23,2001-06-19T17:14:36,08:17:36,GB,"Rowe, Hart and Marshall",e4:bd:cf:d2:b6:8a,zu,2003-11-23 19:31:47
+-47.6172725,$686.62,laptop-72.smith.com,0,Africa/Asmera,Urdu,2022-09-06,2023-04-11T02:29:18,11:05:44,GB,Brown LLC,aa:6c:64:f1:ee:da,byn,2010-12-18 03:43:08
+26.8207275,$769.42,lt-95.spencer.com,16,Africa/Dakar,Kalaallisut,1991-10-06,1977-03-12T01:48:15,09:54:17,GB,"Johnson, Barry and Cox",e4:3c:e6:0f:56:2f,ayc,1972-01-01 23:14:56
+75.6811765,"$2,266.46",lt-02.carter-wilson.com,499265,Africa/Addis_Ababa,Chinese,2013-12-11,1973-09-24T11:46:15,23:26:13,GB,Lees-Smith,b5:b1:6c:fa:a9:fb,sl,2023-02-27 10:06:07
+-31.2154695,"$62,440.11",srv-99.stanley-jones.info,7,Asia/Bahrain,Cornish,1976-09-08,1992-12-14T20:10:22,21:15:55,GB,Williams-Berry,28:a5:ae:e4:a7:dd,ak,1993-11-15 13:40:15
+-36.2327895,$1.48,laptop-61.martin.com,8024,Asia/Singapore,Afrikaans,1995-11-01,2009-06-11T15:57:10,16:22:50,GB,Allen Group,44:51:b3:73:63:61,fo,1974-07-22 17:07:02
+74.572529,"$71,162.00",email-66.jones.com,7,Africa/Sao_Tome,Azerbaijani,1985-06-10,1992-01-29T03:28:49,15:51:46,GB,Miller Inc,8a:79:ce:64:9c:4b,br,2005-04-09 15:47:06
+-16.937324,"$74,907.41",desktop-38.williams.com,486633643,Europe/Athens,Maltese,2000-06-04,1980-02-09T04:36:51,11:43:13,GB,"Atkinson, Allen and Coates",66:ef:cd:6b:a5:17,sc,2011-09-30 18:13:32
+-9.5742835,$0.64,db-16.mitchell.com,893197526,Europe/Andorra,Zhuang,1980-02-24,1975-12-28T21:38:27,22:27:06,GB,Thompson Group,65:07:19:57:8e:24,sd,2012-03-16 11:40:42
+-14.9650125,$59.21,email-49.ellis.com,109574537,Asia/Saigon,Ewe,1987-02-15,2022-09-07T09:33:20,07:08:49,GB,Perry-Davies,7a:ae:5e:ca:4f:4c,pap,1979-01-09 00:54:12
+34.6561105,$4.09,desktop-25.brown.com,1,America/Belize,"Sotho, Southern",2018-09-20,1997-12-08T08:39:30,15:58:48,GB,"Clark, Kaur and Marshall",95:de:bb:79:08:83,tk,1985-06-29 18:27:37
+57.1284345,"$11,003.94",db-26.mason.com,3408927,Asia/Nicosia,Samoan,1972-03-08,1989-11-04T16:06:52,21:01:23,GB,Wilkinson-Johnson,99:23:0e:7a:ff:d6,sq,2022-11-07 20:32:15
+87.779683,$763.07,web-32.begum.org,8739,Asia/Damascus,Navajo,2001-09-14,1988-03-24T08:36:00,12:52:51,GB,"Ali, Atkinson and Goddard",ad:ff:b1:1e:39:5a,kok,1972-07-14 12:38:32
+-36.9130215,$5.01,web-47.hodgson-moore.com,541,Africa/Luanda,Faroese,1997-01-22,2018-12-28T21:45:59,09:06:48,GB,Ali and Sons,c0:f2:cc:2d:5f:49,nn,1983-09-08 03:57:47
+-27.181016,"$76,343.94",web-03.richardson.com,95405,Europe/Sofia,Central Khmer,1979-08-12,1976-03-28T06:39:00,04:09:18,GB,Taylor-Kennedy,26:cb:58:d4:1b:5f,bem,2011-03-16 23:26:36
+-77.286944,$16.08,desktop-02.roberts.com,2,Africa/Brazzaville,Pushto,1985-10-02,2002-08-23T02:16:44,10:24:14,GB,Kemp-Moore,ee:fe:67:e7:e7:01,wo,2008-06-09 09:01:44
+24.394339,"$95,279.30",db-48.taylor-chapman.org,9,Asia/Baghdad,Inupiaq,2001-09-24,2011-12-01T15:37:07,17:06:10,GB,Turner and Sons,31:6b:b5:19:af:30,lg,1982-07-12 19:07:52
+-72.247064,"$86,399.36",srv-28.stephenson.com,39276,Europe/Vilnius,Tigrinya,2022-10-14,1972-11-21T18:41:06,13:36:45,GB,"Taylor, Morris and Jones",34:0e:af:95:50:e8,eu,2021-03-25 10:33:24
+89.8699135,"$3,140.06",desktop-68.holloway.info,48,America/Havana,Zulu,1975-12-20,2003-03-16T16:55:15,09:13:29,GB,"Clayton, Patel and Kennedy",72:35:b9:93:2e:51,oc,1972-02-29 19:27:15
+-43.922489,$11.21,email-06.anderson.co.uk,2883,America/Guatemala,Western Frisian,1970-07-13,1997-01-27T15:28:46,21:38:23,GB,Watts LLC,17:30:74:1e:20:28,ur,2006-09-03 07:32:41
+0.6262705,$7.35,email-90.schofield.com,95252,Africa/Algiers,Chechen,2022-01-25,2016-12-10T10:49:40,14:32:21,GB,"Byrne, Robinson and Booth",73:e1:de:91:9d:1a,lb,1979-09-12 07:03:29
+-44.0120765,"$30,028.03",srv-09.davies.com,540526,Africa/Gaborone,Xhosa,2022-03-28,1999-04-17T23:24:16,19:52:36,GB,Porter Ltd,29:c6:d8:04:3f:ec,ka,2021-08-10 00:39:25
+-65.1371035,$9.35,desktop-76.green-miller.co.uk,51,Asia/Tokyo,Hausa,2023-06-22,1975-12-12T05:48:36,01:39:17,GB,Harris-Douglas,e4:81:5c:e9:40:b1,my,2007-06-27 04:18:05
+-11.6463145,"$3,133.80",desktop-93.bowen.com,843521,America/Guatemala,Macedonian,1994-03-28,1982-05-16T07:55:47,18:10:45,GB,Ryan-Gibson,dd:9b:36:df:f4:92,lzh,1975-08-28 07:00:22
+59.7721205,"$1,533.74",email-13.turner-jennings.com,874,Africa/Accra,Tigrinya,1997-12-02,1983-01-28T16:52:04,13:59:17,GB,"Wright, Savage and Ryan",dc:61:34:03:4e:fe,mhr,1978-07-24 22:11:37
+71.5795285,$2.74,laptop-44.gray.biz,0,Europe/Sarajevo,Luba-Katanga,2011-09-18,2004-06-14T05:18:14,12:23:12,GB,"Evans, Morris and Smith",64:5d:38:0c:17:49,tr,2021-01-05 02:54:46
+-63.0806185,"$8,142.25",lt-00.singh.com,75,Asia/Manila,Hungarian,2001-08-18,1981-11-14T21:55:26,10:37:25,GB,Jones Ltd,43:47:9c:2e:e4:31,cmn,1988-10-10 20:17:15
+42.928032,$50.57,desktop-10.watts.com,302,America/Guatemala,Chinese,2005-05-21,1971-02-22T08:03:54,23:06:17,GB,"Taylor, Williams and Thompson",28:ea:12:ef:99:f8,ga,2011-03-05 13:28:02
+-34.2909885,"$8,897.81",web-14.morris-watson.org,58087827,Africa/Douala,Albanian,1972-11-27,2003-08-24T19:07:53,13:26:19,GB,Brooks and Sons,71:3f:e1:cf:46:49,pt,1980-07-05 21:31:23
+70.1048865,$9.33,srv-40.turner-lloyd.net,236,Europe/Istanbul,Ukrainian,1970-06-17,2016-04-26T06:26:49,23:44:16,GB,"Roberts, Smith and Dixon",34:83:20:e1:35:84,tn,1996-10-28 12:07:38
+29.664109,$111.66,lt-78.roberts.com,4,Asia/Kabul,Basque,2014-04-01,2005-06-06T23:23:47,11:25:26,GB,Carter-Hunter,5a:27:77:44:01:6e,yue,1990-11-09 16:48:38
+-36.073540,$144.49,lt-66.gray.co.uk,36800,Europe/San_Marino,Irish,2001-06-27,1973-08-26T01:39:21,07:51:46,GB,Morgan Ltd,26:20:26:8d:13:79,nhn,2021-06-09 08:37:10
+-29.917907,"$30,911.27",desktop-53.palmer.net,87927,Europe/Tallinn,Malagasy,2017-10-23,1998-12-24T11:14:31,05:55:36,GB,Sanderson Ltd,50:fd:0b:47:44:2c,bhb,1987-11-10 20:10:29
+27.8421245,$824.92,srv-39.miah.com,9,Asia/Manila,Polish,2019-01-17,2007-02-14T18:15:15,10:35:01,GB,"Lee, Harris and Wilkinson",f8:64:d9:a5:d8:e2,tcy,2020-02-03 23:37:58
+-52.937485,$52.11,lt-72.hughes.net,214145873,Africa/Kigali,Faroese,1981-07-10,1980-06-20T00:54:29,15:18:10,GB,Lewis Inc,ef:6a:b6:5c:af:dc,ik,1993-07-26 16:24:12
+-47.6160205,$307.17,srv-69.smith.com,70580245,Pacific/Palau,Occitan,2021-05-23,2018-07-20T07:36:36,14:44:26,GB,Faulkner PLC,d9:f2:e4:08:66:e8,nr,2003-06-09 04:05:43
+56.9167975,$1.58,db-18.johnson.net,7467,Asia/Muscat,Sundanese,2001-10-28,1971-08-13T18:50:52,17:15:12,GB,"O'Sullivan, Smith and Wall",01:d8:53:47:ef:9b,mg,1979-04-22 10:58:13
+-2.176706,$109.25,db-10.brown.org,85,America/Belize,Telugu,1988-05-28,1997-01-15T18:36:09,11:53:54,GB,Webb Inc,9b:b5:dd:c5:6f:0e,ig,1999-09-21 19:56:30
+76.071947,"$98,418.36",laptop-89.williams-ellis.info,5903,Asia/Kabul,Sanskrit,1993-02-02,1975-06-11T04:13:37,04:50:31,GB,Rogers Inc,a0:46:ee:6d:b5:a9,tr,1981-04-22 00:19:05
+-38.4561565,"$67,513.03",web-54.williams.net,3,Indian/Comoro,Hiri Motu,1978-10-12,2018-03-10T00:30:37,03:45:04,GB,Daniels-Taylor,08:8c:85:96:f9:ee,wal,1996-03-16 23:02:28
+19.7520095,$166.51,desktop-76.thompson-roberts.net,368529490,America/Lima,South Ndebele,2018-12-24,1990-12-27T15:35:15,22:55:18,GB,Davies-Fraser,54:58:03:be:37:2f,bo,2008-12-14 16:27:06
+12.3198995,"$28,330.77",web-91.stevens-matthews.com,349,Africa/Bangui,Chichewa,2000-03-01,1980-12-27T02:45:32,13:19:07,GB,Taylor Group,64:e8:f4:a9:40:33,nn,2008-01-28 00:08:34
+-80.0866885,$955.05,db-59.carey.net,46972,Europe/Dublin,Breton,2015-08-23,2013-07-15T14:12:54,10:04:19,GB,"Miller, Lloyd and Williams",41:c9:98:ac:b5:20,ms,2019-07-10 13:58:12
+12.669956,"$20,141.93",srv-13.hughes.com,424543,Europe/Copenhagen,Gaelic,2015-01-10,1984-09-09T18:35:48,23:29:14,GB,"Jones, Parker and Robertson",df:d4:d6:d1:9f:ca,sw,2016-12-19 02:45:16
+-83.458755,$98.37,srv-50.wood.org,923715,Europe/Sarajevo,Kannada,1998-06-13,1982-06-22T03:17:01,04:22:01,GB,Martin LLC,39:71:81:c0:20:f3,ik,2002-06-19 03:40:54
+28.0995105,$83.46,web-65.rhodes.net,25,America/Bogota,Kalaallisut,1974-10-14,1984-03-13T01:31:08,00:36:50,GB,Browne-Savage,8d:23:87:29:4d:b2,tig,2005-05-08 09:47:11
+-35.3487945,"$40,001.77",email-05.austin-mitchell.com,3,Asia/Brunei,Turkmen,1973-05-15,1973-04-04T15:57:49,11:38:27,GB,Perkins LLC,23:ab:7d:6e:4a:dc,sd,1994-12-28 16:28:03
+-35.997223,"$28,257.04",desktop-70.bell.com,9,Europe/Vatican,Chechen,2020-09-17,1985-11-28T00:28:03,08:10:00,GB,Jackson PLC,3f:9e:0d:b3:bf:00,as,2003-12-06 00:11:19
+-62.6896465,$9.55,laptop-02.harris-jones.biz,4,Africa/Monrovia,Venda,1994-09-21,1985-01-18T15:53:47,20:00:37,GB,"Hurst, Owen and Wright",59:7b:ac:1d:d5:65,be,1999-04-13 00:56:02
+2.023499,"$52,764.28",desktop-38.wright.com,326482,Europe/London,Igbo,2008-08-20,2023-01-19T18:42:11,09:04:43,GB,Farmer-White,5b:2a:8e:02:41:b9,ne,1992-05-19 10:02:22
+35.8302525,$6.14,lt-48.wilson-smith.org,45313400,Asia/Colombo,Chichewa,1987-12-02,1995-07-11T03:35:29,12:47:32,GB,Hall-Phillips,23:39:43:0c:67:79,ka,1988-10-08 08:59:23
+32.3034625,$5.34,srv-18.lewis.com,638041169,Africa/Asmera,Central Khmer,1983-08-03,2020-11-16T08:40:06,20:30:31,GB,"Shah, Duffy and Allen",8f:94:a5:77:fb:df,doi,1976-04-04 23:02:15
+-88.947020,$4.20,laptop-82.simmons.co.uk,89,Europe/Rome,Kikuyu,1976-11-19,2002-12-26T03:25:41,16:52:41,GB,"Butler, Brown and Hughes",44:d7:fa:c8:33:a5,uz,2018-04-21 01:43:38
+-18.058526,"$28,811.91",laptop-76.duffy.com,7408187,Asia/Riyadh,Bihari languages,1994-09-16,1977-10-09T00:42:31,21:29:06,GB,Thorpe LLC,32:09:ca:31:a2:2b,crh,2023-08-06 07:43:43
+-78.650844,$6.27,lt-89.hobbs.net,2,Indian/Antananarivo,Lingala,1990-03-07,2016-03-16T21:46:31,10:22:18,GB,"Oliver, Taylor and Davies",b7:fc:a8:1a:dc:02,lg,2021-06-29 23:40:36
+33.987002,$982.19,srv-89.wheeler-lynch.biz,98835,Europe/Athens,Estonian,2002-12-29,2014-10-30T16:21:50,13:48:45,GB,"Begum, Wood and Dixon",70:f7:86:cf:a3:db,sid,1985-06-19 07:52:16
+-42.2193295,"$30,225.78",lt-81.tyler.biz,2850,America/Montevideo,Inupiaq,2012-06-15,2022-11-23T00:51:56,03:04:30,GB,Russell Inc,92:97:58:11:3b:80,af,2010-12-18 10:59:15
+-81.0347735,$119.76,desktop-72.lowe.com,85395019,Africa/Addis_Ababa,Fulah,2015-06-06,1987-10-28T03:21:20,12:12:39,GB,Taylor-Humphries,e6:6b:b7:df:40:d1,sr,2023-03-17 05:45:04
+14.0730345,$8.69,web-29.barber.biz,69385,Asia/Kuwait,Bulgarian,2015-03-04,2002-06-23T17:43:07,05:41:20,GB,Bailey-Saunders,90:b6:67:8d:22:a2,oc,1984-06-21 01:51:10
+-74.533337,$134.23,web-02.miles.co.uk,19829757,Europe/Helsinki,Abkhazian,2007-01-01,1978-11-12T09:12:38,05:59:28,GB,"Davies, Wells and Fox",17:23:e2:13:2a:53,wo,1972-01-16 14:29:42
+-32.971979,$61.68,db-44.hayes.co.uk,2443,Europe/Chisinau,North Ndebele,2019-04-22,1981-03-24T00:59:27,12:09:31,GB,Payne-Stewart,d6:97:3b:ea:d5:b2,tl,2018-07-20 12:30:24
+22.037235,$6.34,db-62.williams-jones.com,6121778,Pacific/Majuro,Tahitian,1977-02-25,2006-04-21T16:11:33,11:21:25,GB,Turner Group,56:8f:61:c7:8a:0b,quz,1976-05-14 00:12:45
+27.610503,"$7,704.84",srv-05.taylor.com,70165562,Asia/Dili,Malay,1970-07-27,1985-04-10T05:55:42,20:42:13,GB,Williams Ltd,ec:45:1e:3d:8d:3b,nso,1981-01-25 19:33:09
+-23.3120645,$66.14,lt-19.robinson-oconnor.com,785,Africa/Addis_Ababa,Fulah,1986-12-21,2013-12-29T06:27:25,10:46:01,GB,Shaw LLC,ed:3f:6b:3b:4b:a6,nds,1988-04-06 04:34:58
+29.359095,"$56,406.43",web-52.griffiths-gray.com,3958002,Indian/Maldives,Tibetan,2015-11-26,1995-02-12T23:40:12,02:38:29,GB,"Morris, White and Davies",ea:1e:a5:d8:e9:12,or,2018-02-07 17:10:15
+87.806318,$275.41,email-80.adams-smith.com,1,Europe/Riga,Indonesian,1988-03-15,2016-12-27T05:57:55,06:27:41,GB,Duffy Inc,15:41:ae:2c:4e:2f,dv,1983-01-19 23:18:14
+74.0731745,$2.37,lt-21.ward.info,190029,America/Bogota,Bosnian,1998-03-01,1977-05-27T00:56:38,13:49:30,GB,"Knowles, Hayes and Elliott",44:17:d6:9e:17:cf,csb,1987-11-28 00:11:06
+20.475071,$73.79,web-03.hayes.com,8,Asia/Tehran,Guarani,1972-08-18,2020-05-31T11:04:18,16:55:12,GB,Lord-Marsden,24:56:98:1e:ce:4e,sk,2014-10-28 16:30:52
+57.418366,$5.59,srv-66.owen.com,9873,America/Paramaribo,Yiddish,1993-07-04,1987-12-27T10:12:26,05:20:49,GB,"Edwards, Booth and Long",bf:40:58:b6:86:f2,tg,1984-05-03 21:26:29
+-88.548416,"$5,167.31",email-32.sharp-barlow.com,966,Asia/Pyongyang,Javanese,2016-05-23,1982-08-20T17:06:56,05:38:24,GB,"Goddard, Bell and Little",49:e1:52:a0:fb:f5,my,1981-05-06 06:21:40
+-27.157618,"$22,016.98",web-45.marshall.com,989255640,Africa/Dakar,Sichuan Yi,2000-11-28,2013-06-18T20:37:45,02:12:19,GB,"Gardner, Cunningham and Jarvis",54:c2:03:8d:f8:bb,pt,2008-05-14 14:18:16
+73.9403385,$7.28,laptop-49.spencer.com,206,America/Guatemala,Lithuanian,1971-10-13,1978-09-03T23:34:59,09:45:04,GB,Finch-Lawrence,6a:c9:49:d9:fb:00,gd,2013-10-17 04:10:07
+38.119411,$4.01,email-97.ward.com,438637303,America/St_Vincent,Catalan,1989-10-23,1983-01-11T09:55:52,21:02:41,GB,Newman and Sons,42:5e:31:77:c8:12,ar,1993-08-13 11:59:32
+-66.113857,"$9,425.32",email-40.phillips-hobbs.com,75,America/Guatemala,Quechua,2014-11-20,2003-05-18T23:20:19,15:33:12,GB,"West, Richardson and Cook",09:83:85:11:c1:69,be,2016-06-22 14:37:51
+42.6399315,"$54,807.33",laptop-80.elliott.com,96785,Africa/Lubumbashi,Zulu,1994-07-06,2017-09-10T22:24:02,13:57:02,GB,Smart-Benson,c0:b0:90:27:25:28,bs,1974-10-14 00:33:56
+-84.9031275,$379.32,desktop-62.peters.com,33,America/Lima,Manx,1977-06-22,1973-11-09T19:52:15,11:17:02,GB,Fowler-Mellor,55:40:5d:2a:af:fa,wa,1985-08-09 16:39:51
+-28.7219285,"$33,352.99",db-08.welch.com,43377779,Africa/Asmera,Macedonian,2020-12-10,2013-12-21T16:22:22,00:06:55,GB,Saunders-Richardson,78:af:87:ea:1c:50,nhn,2002-08-04 17:14:10
+13.5142635,"$5,690.54",web-00.manning-bishop.com,7,America/Havana,Navajo,1986-12-22,1977-01-31T15:46:58,17:36:45,GB,Cooke PLC,7d:e8:b7:1e:65:4f,bs,2015-10-08 12:39:05
+-40.8832705,$19.68,desktop-34.butcher.org,9,America/Guyana,Polish,1997-02-12,1983-10-29T14:50:44,15:59:47,GB,Bell-Cole,8d:39:38:51:ae:01,ko,2008-10-28 04:28:17
+44.625977,"$59,847.69",laptop-59.ali-hall.co.uk,7485,Pacific/Galapagos,Kurdish,2013-01-12,1979-09-30T00:17:21,22:50:58,GB,Smith Group,64:2f:91:ef:26:7e,uz,1994-12-20 15:42:36
+71.612958,"$1,891.57",laptop-95.wilkinson.co.uk,822550628,Asia/Urumqi,Danish,1980-01-28,2002-10-22T07:43:02,20:32:41,GB,Harrison LLC,97:d5:45:f3:a8:2e,csb,1993-08-28 21:30:31
+-88.7293885,"$2,278.44",desktop-31.moran.org,8,Pacific/Tongatapu,Indonesian,1996-10-25,1980-06-29T18:47:24,22:42:45,GB,Hawkins LLC,96:93:36:8e:19:92,sl,1977-02-03 04:18:30
+-18.6053415,$799.87,db-52.butler.biz,783450,Africa/Freetown,Aragonese,2010-06-10,1993-10-31T08:57:26,17:13:34,GB,Frost LLC,d1:02:fe:08:69:15,fur,2005-09-22 09:09:50
+-86.5276725,"$23,931.74",db-17.lee.org,472949,Europe/Kiev,Ndonga,1971-01-03,1976-02-20T15:33:11,01:41:59,GB,Price-Spencer,c6:99:ab:b6:5f:b9,cy,1998-05-04 16:49:33
+-53.561697,"$9,513.56",desktop-88.hanson.com,3,Africa/Bujumbura,Belarusian,2001-12-30,1977-06-08T16:59:17,00:16:44,GB,Pugh and Sons,9b:37:ab:9a:72:60,tt,1971-11-11 05:51:42
+31.4844645,"$74,089.06",lt-05.king.com,836690970,America/Santo_Domingo,Dutch,1992-02-24,2000-01-14T06:14:01,16:51:25,GB,"Peacock, Walker and Newman",74:6c:0f:74:e6:c5,bg,1973-03-19 20:51:06
+-87.290479,"$33,696.41",lt-39.davison.org,399,Europe/Brussels,Somali,2018-11-05,2000-02-15T16:57:35,19:47:36,GB,Parker-Gregory,b3:d1:be:75:9a:a9,nl,1996-08-16 18:59:51
+-28.647952,$2.61,lt-02.houghton-jones.com,60826,Asia/Katmandu,Telugu,2001-03-25,1994-11-23T03:35:45,15:07:16,GB,Field LLC,2d:03:b5:3d:ec:ee,mk,2023-03-15 10:05:35
+78.8092045,"$8,541.84",laptop-71.davis.com,1728034,Asia/Kashgar,Slovenian,1981-04-10,2021-08-28T13:53:46,02:01:44,GB,Smith-Hicks,3e:af:f9:bd:5d:0a,cy,2001-11-08 16:25:00
+3.6686325,$0.22,lt-05.brooks-roberts.com,8402988,Europe/Brussels,Tagalog,1981-04-25,2006-08-08T06:29:41,07:39:05,GB,Ellis-Singh,04:9d:d6:51:70:f0,tn,2014-05-18 01:03:26
+44.790450,"$3,842.02",web-46.williams.co.uk,6,America/Caracas,Tagalog,1992-04-15,2020-05-05T23:18:45,02:45:31,GB,"Lee, Knight and Blackburn",da:28:84:1e:3e:a4,lv,1975-06-24 08:15:34
+35.706771,$0.19,desktop-32.hunt.net,5125,Asia/Tehran,Malayalam,1991-09-02,1992-01-31T21:28:38,01:03:43,GB,Gibbs-Arnold,d6:e2:ad:dc:0a:34,kl,2019-10-09 11:25:02
+9.4911595,"$86,658.77",laptop-62.chapman.net,44063,Asia/Muscat,English,2009-11-13,2017-01-02T18:35:58,08:28:37,GB,"Holland, Edwards and Ward",e3:9e:eb:03:0d:4e,is,2021-07-10 17:11:35
+19.961410,"$1,974.18",web-25.grant.com,34,Europe/Berlin,Croatian,1970-10-09,1976-10-17T05:02:17,17:15:41,GB,"Howell, Saunders and Morris",00:12:72:6e:96:54,am,2014-04-26 23:31:31
+-0.520642,$36.77,desktop-08.hughes.info,49,Asia/Beirut,Vietnamese,1974-08-29,1995-07-19T23:12:45,06:26:54,GB,Davis LLC,f5:b0:94:ea:9b:60,mk,1985-04-11 23:36:10
+-8.9157715,$896.63,web-43.rogers-kennedy.com,2,Asia/Manila,Sanskrit,2023-06-28,1987-10-31T06:11:13,16:06:12,GB,"Price, Barker and Carey",04:c2:ee:65:76:23,fil,2005-07-02 15:23:19
+-44.8722395,$0.62,srv-19.jones.net,6231,America/Guatemala,Amharic,1972-01-03,2005-07-21T13:37:23,09:10:00,GB,Stone-Brown,86:9c:ad:89:2e:3d,ar,1970-07-23 11:41:56
+-67.2268985,$6.24,laptop-27.jenkins-jones.com,5417859,Africa/Porto-Novo,Limburgan,1991-05-28,2003-06-28T02:37:58,01:02:39,GB,"Davis, Smith and Turner",7a:18:ea:5f:0d:ff,ja,1970-01-07 19:36:31
+26.356706,"$72,030.43",lt-86.clements.com,222053669,Europe/Belgrade,Sundanese,1975-10-29,1977-03-06T04:33:11,12:06:00,GB,Lane PLC,48:5a:0f:4f:20:6b,lv,1997-12-16 10:39:52
+45.973482,$532.72,web-22.abbott.com,5119,Asia/Muscat,Kannada,2001-02-18,1981-05-09T14:27:50,19:38:48,GB,Randall-Davison,49:85:e6:fe:da:4f,es,1993-12-11 11:49:32
+-28.877203,$0.85,srv-70.griffiths.net,318998,Africa/Casablanca,Shona,2016-08-26,1974-11-17T01:57:27,10:07:26,GB,Marshall-Smith,1b:9e:67:d5:90:4d,ms,2011-03-19 07:54:22
+-11.7896205,"$3,636.35",srv-04.field.biz,4561,America/Managua,Macedonian,2019-03-09,2015-10-12T04:30:51,21:02:22,GB,Bennett-Ellis,89:75:b4:f7:b2:d7,kl,2016-04-04 00:18:53
+31.421984,$958.28,srv-63.richardson-brown.com,294425,Asia/Dhaka,Kanuri,1972-12-21,1979-08-07T01:38:40,01:40:54,GB,Mahmood-Sanders,37:d1:8d:7e:4c:25,fy,2006-08-29 23:54:15
+-23.620950,$461.79,srv-98.north-arnold.org,1929257,America/Barbados,Bosnian,2003-03-28,2008-02-02T23:50:13,13:17:45,GB,Harris-Williams,e1:e8:b3:b5:9f:72,sv,1978-02-05 20:20:44
+-13.7166835,"$62,828.94",lt-89.wells-winter.co.uk,24,Africa/Casablanca,Akan,2001-04-18,2011-08-29T21:57:04,22:06:23,GB,Turner Group,63:4a:54:8d:79:87,tl,2010-02-04 03:44:34
+-38.296698,$2.83,srv-53.bull.co.uk,895,Africa/Abidjan,Gujarati,1992-09-16,1979-01-18T22:57:08,07:06:00,GB,Jenkins-Palmer,44:66:c8:89:e4:04,ff,1980-11-29 09:33:51
+-11.375701,"$68,128.56",db-12.jenkins.co.uk,36720,Africa/Nairobi,Malagasy,2014-06-27,2013-05-31T00:00:42,01:16:21,GB,Wood-Harris,a1:d8:0a:c9:9a:43,cmn,1999-09-06 06:04:19
+67.9054315,$2.71,desktop-19.webster-hartley.com,3,America/Guayaquil,Norwegian,2016-11-18,1972-04-07T03:22:23,07:57:57,GB,Cook-Webb,0f:b9:1e:32:f0:be,te,1971-03-24 06:39:14
+45.5447065,"$13,457.44",desktop-39.reynolds.co.uk,60814220,Europe/Uzhgorod,Malayalam,1974-01-20,2004-03-15T01:21:31,21:17:08,GB,Riley-Ryan,18:0b:fd:d5:23:6f,sat,2023-03-05 17:09:23
+34.3613105,$80.85,db-16.evans.com,974799,Europe/Malta,Shona,2004-09-13,2020-12-19T14:22:55,11:26:58,GB,Nicholson-Iqbal,e7:8c:b1:de:e8:b4,sv,2005-10-12 23:38:43
+-18.6570775,"$3,602.27",desktop-01.smith-brown.co.uk,8,Asia/Colombo,Lao,1981-06-10,2004-01-01T06:59:44,20:02:14,GB,Morris-Lane,e5:6c:dc:21:17:41,yi,1971-08-10 09:56:34
+-44.545956,$994.63,web-73.brady.org,821272375,Europe/Ljubljana,Zulu,2017-11-25,1991-06-29T16:46:48,16:56:52,GB,Stephens Inc,a3:e4:a9:cf:bc:69,ja,1989-02-25 21:39:52
+-64.269380,$45.61,srv-38.brown.com,289,Africa/Windhoek,Bengali,1972-11-11,2009-06-30T22:42:20,21:08:59,GB,"Dodd, Miles and Bishop",01:d2:2f:3e:14:4d,mag,2005-09-10 13:53:41
+35.172015,"$8,762.79",lt-46.lewis.com,339694489,Australia/Hobart,Tajik,1972-08-01,1993-12-27T18:06:32,16:06:18,GB,Harris Ltd,db:71:ab:4d:53:46,cs,1972-07-20 09:40:26
+53.551486,$8.04,laptop-43.pearson.com,431,Europe/Minsk,Tswana,2021-03-15,2008-04-06T22:38:44,07:36:23,GB,"Steele, Griffin and Evans",b5:57:ed:be:8a:03,lzh,1970-07-13 22:40:31
+-15.4934805,"$89,071.31",laptop-91.martin-anderson.org,75928518,America/Santo_Domingo,Burmese,1979-03-29,1977-10-03T01:28:20,22:28:15,GB,"Barker, Robinson and Hutchinson",bd:9d:c7:c7:51:22,gv,2011-04-15 13:19:22
+4.2874995,"$6,715.66",email-40.jones.co.uk,69,Europe/Dublin,Sardinian,1975-04-06,2018-12-12T05:28:19,00:28:38,GB,Williams-Jones,14:41:91:79:29:eb,gez,2009-09-24 12:59:55
+38.277136,"$69,179.61",db-93.marsh-lucas.com,553158,America/Bogota,Nepali,1973-03-31,2015-11-26T13:32:40,20:17:19,GB,"Slater, Lee and Fox",f4:af:45:72:45:02,lt,2013-05-15 03:17:02
+-18.2202225,$7.57,desktop-54.cox.com,814,Asia/Krasnoyarsk,Azerbaijani,1982-09-08,2007-05-19T17:27:28,00:26:03,GB,Ahmed Ltd,3e:4e:b2:1e:bc:c0,ja,1974-05-21 12:27:30
+-17.342910,$531.16,email-79.stokes.info,45,Europe/Zurich,Tswana,2010-01-22,2018-12-15T01:16:36,02:54:21,GB,"Armstrong, Patel and Clark",fe:a4:b3:15:2a:89,bn,2021-01-21 19:42:40
+-41.6615785,$449.81,lt-31.clarke.com,271649059,Asia/Gaza,Twi,2023-05-21,2014-10-30T08:54:48,01:55:07,GB,Edwards Group,79:fa:74:b1:51:58,ks,2011-02-17 14:42:32
+27.695805,$986.53,email-36.edwards.com,543540,Africa/Blantyre,Telugu,1996-12-18,2007-08-26T20:57:52,04:05:40,GB,Wood-Morgan,6e:c1:b6:10:9a:17,mr,1993-08-09 01:53:29
+-54.7219485,$26.91,web-97.warren.info,4718,Indian/Mauritius,Romanian,1982-09-18,1984-05-05T21:34:52,20:05:51,GB,Stone Group,a1:dd:e1:fd:3e:38,kn,2021-08-21 19:45:08
+33.8445915,"$4,585.01",laptop-14.sharp.biz,47878,Indian/Mahe,Tsonga,2004-02-05,1971-08-08T11:25:46,15:36:29,GB,"Turner, Summers and Smith",d5:f7:2f:5b:17:d2,be,1992-01-20 11:40:55
+15.442598,$9.87,laptop-76.thompson.net,9,Europe/Luxembourg,South Ndebele,2013-04-24,2002-06-03T00:08:39,17:10:07,GB,Reynolds PLC,00:31:1f:a2:52:9d,kw,1982-03-30 11:24:03
+50.7069045,$305.50,web-64.wilkinson.info,26947941,Europe/Paris,Komi,2003-03-07,2002-09-08T10:38:09,11:48:12,GB,"Hall, Green and King",7e:68:6e:50:7d:83,vi,2020-03-22 07:54:08
+-69.9592125,$875.75,db-60.reed.net,811,Africa/Gaborone,Hebrew,2009-05-19,2017-04-04T09:18:54,08:41:59,GB,Harris-Taylor,36:2a:5d:e9:bf:d2,mi,2013-06-17 08:41:47
+43.3666665,$391.99,desktop-90.ford.co.uk,8629333,Africa/Lubumbashi,Luxembourgish,2006-03-05,2003-04-30T04:52:00,05:14:23,GB,"Ward, Thompson and King",fb:b7:3c:14:30:a5,fi,1984-06-14 18:49:02
+-48.8253435,"$66,168.14",desktop-91.marsh-jones.com,29699284,Africa/Ndjamena,Dutch,1995-09-23,1977-07-21T08:55:58,04:42:57,GB,"King, Morris and Douglas",4d:78:c6:17:e7:d4,is,2021-01-23 22:23:27
+-86.2263675,"$2,326.92",web-05.richardson.net,2317736,Europe/Oslo,Uzbek,2005-07-13,2008-01-22T11:38:50,18:28:22,GB,"Lambert, Fisher and Bennett",14:f6:f5:bf:f0:f8,tg,1980-07-08 02:11:27
+41.5044995,$1.90,srv-20.andrews.com,34,Asia/Jerusalem,Marshallese,1994-07-26,1994-07-12T16:21:31,20:43:49,GB,Williams-Hughes,dd:57:30:47:df:ce,lg,2002-04-18 23:47:44
+57.270171,$7.61,srv-37.matthews.co.uk,107,Asia/Thimphu,Rundi,1981-02-17,2008-03-07T07:28:15,21:35:22,GB,"Gregory, James and Morris",31:74:80:f5:c9:00,mr,2016-01-21 23:35:30
+73.402299,$461.85,email-95.murphy.com,9996464,Africa/Malabo,Yiddish,2010-10-04,2011-07-10T09:34:12,09:31:47,GB,"Carter, Taylor and Wright",a6:5d:18:00:77:9a,an,2015-06-28 20:23:59
+-65.2275315,$95.91,db-69.holmes-harper.info,691297,Europe/Prague,Catalan,2021-12-28,2001-12-27T08:29:02,16:49:57,GB,Walker LLC,f7:e9:cc:d9:76:d7,yo,1989-02-01 20:44:46
+32.563324,$2.24,desktop-41.hartley-ford.biz,5722,America/Dawson_Creek,Korean,1996-01-03,2006-08-25T00:21:36,12:22:53,GB,Day Inc,75:a8:0e:5e:84:4b,eu,2018-01-09 17:45:08
+81.5689825,$5.00,srv-93.clements.com,27339,Europe/Helsinki,"Sotho, Southern",1995-09-17,2005-06-10T11:10:09,11:36:54,GB,"Wright, Cooper and Shaw",4f:0d:4b:ae:7f:06,ln,1987-09-22 07:12:46
+-17.9423415,$49.68,lt-46.anderson.com,6725685,Europe/Rome,Tajik,2005-04-20,1975-01-01T01:03:24,18:49:19,GB,"Nicholls, Lord and Waters",a0:56:18:8f:95:17,nl,1983-01-08 20:25:05
+-60.9591705,$1.89,lt-34.thomas.info,6,America/Guayaquil,French,2012-02-26,2008-10-04T22:16:44,01:50:24,GB,"Barnes, Jones and Wilkinson",1f:98:b9:24:41:47,lv,2010-06-28 22:12:54
+-0.7101875,$1.73,lt-59.jones-moore.com,99657,Asia/Colombo,Hausa,1974-10-23,1997-07-10T08:20:35,23:29:34,GB,Mitchell Group,aa:2e:b6:e4:70:02,tr,1971-08-05 02:12:57
+14.898812,$27.49,srv-83.harding.com,2008352,America/Panama,Ido,2015-09-18,1980-10-18T10:08:54,21:40:45,GB,Kent-Horton,05:65:9a:ce:91:42,fy,2008-01-21 12:58:20
+-86.654024,$1.88,desktop-09.williams.com,907907,Africa/Bissau,Ewe,1984-12-01,1974-12-26T10:40:59,14:45:11,GB,"Akhtar, Taylor and Smith",9d:19:56:13:40:48,kk,2021-11-27 16:59:49
+62.8589725,"$57,571.15",desktop-74.willis.biz,6836752,America/Santo_Domingo,Slovenian,1970-07-02,1980-02-26T16:58:44,00:13:25,GB,Williams-Brown,1c:d2:29:0f:de:6c,doi,2007-07-17 01:34:26
+14.316807,$369.70,srv-56.goodwin.com,4400,America/Jamaica,Cornish,1982-09-14,2002-04-19T23:57:58,09:05:09,GB,Smith Inc,9e:26:14:52:45:25,nr,2020-07-30 18:25:33
+67.9062665,"$5,501.34",lt-77.wallace.com,5558159,Asia/Muscat,Abkhazian,1974-02-17,2001-12-04T07:01:37,05:57:59,GB,Day PLC,06:47:11:67:b7:de,kw,2004-12-18 04:44:41
+-77.647713,"$90,712.81",web-15.pearce-johnson.co.uk,0,Asia/Vientiane,Ojibwa,1994-07-21,1999-05-22T15:04:59,06:32:01,GB,"Norris, Gardner and Pollard",a5:18:22:ce:be:6d,bem,1987-05-01 20:34:52
+83.5438645,$44.05,lt-19.smith.biz,167250,America/Thunder_Bay,Uzbek,1990-10-23,1995-04-19T17:48:35,21:57:25,GB,Lambert-Haynes,d3:54:91:8c:e8:b5,ht,1995-03-11 04:17:08
+10.705015,"$12,185.72",lt-21.green.net,918,Indian/Antananarivo,Somali,2000-08-13,1998-12-25T23:46:14,17:13:02,GB,"Howell, Butler and Lawrence",cb:e6:93:b3:f9:97,brx,2009-05-10 14:44:22
+39.668621,"$49,715.97",desktop-31.harvey-webb.com,443270,America/Adak,Russian,1997-02-06,1981-07-26T00:17:03,17:42:04,GB,Miles-Ahmed,7d:fe:25:86:64:64,apn,1970-09-11 16:17:20
+33.5486495,"$86,674.79",email-88.lewis.co.uk,77816,Pacific/Nauru,Ganda,1978-05-09,2016-04-16T17:43:56,14:02:22,GB,Morris-Coates,55:53:68:2e:f0:20,ig,2010-10-14 16:39:56
+21.6437705,"$49,526.36",email-65.hilton.com,172749653,Africa/Lusaka,Ewe,1991-07-18,2005-12-17T11:19:25,17:00:01,GB,Weston-Stokes,73:53:68:6d:a9:2b,shs,2002-10-23 11:51:12
+10.276745,"$25,678.59",desktop-10.bradley.net,8229,Africa/Ouagadougou,Tsonga,1999-09-14,1973-04-09T07:12:57,03:29:08,GB,Kelly-Marsh,fc:2f:05:d7:fa:a9,ja,1982-03-24 09:34:22
+57.499075,$4.98,email-52.smith.com,7644,Africa/Gaborone,Divehi,1971-02-02,2017-07-07T14:32:42,02:22:23,GB,"Barnett, Wilson and Robinson",44:6c:56:db:aa:40,ku,1982-11-21 19:20:16
+49.0578755,$407.97,laptop-29.wilson.net,49654,Europe/Zurich,Hebrew,1989-09-28,1981-05-03T12:00:49,02:49:33,GB,Harrison-Brown,73:0d:17:fe:c1:76,csb,1990-02-04 17:22:18
+-55.4164355,$1.82,db-34.sheppard.com,8538256,Europe/Dublin,Sanskrit,1999-07-31,2004-08-12T18:20:49,23:07:55,GB,Swift-Hall,76:af:0a:c6:1d:7f,bs,2008-11-20 01:26:50
+27.5202735,$5.58,desktop-20.dunn-craig.biz,57715216,Europe/Helsinki,Bislama,1996-10-21,1988-09-26T02:47:04,15:41:53,GB,"Green, Jordan and Porter",74:9f:54:80:69:fa,de,1999-06-16 17:18:48
+-45.1232585,"$4,462.86",email-64.shaw-price.net,50,Europe/Istanbul,Turkish,1984-08-05,2014-05-07T13:03:54,11:11:30,GB,Roberts-King,17:8f:68:02:df:24,mr,2006-09-12 02:55:34
+-78.7821305,"$1,309.14",db-37.wong.biz,818622,Africa/Porto-Novo,Mongolian,2001-03-06,2009-04-02T03:44:39,18:40:03,GB,Evans PLC,bb:5b:93:af:bf:be,ps,1974-06-14 02:41:31
+-65.4606285,$735.35,email-78.phillips.info,90572014,Pacific/Funafuti,Serbian,1974-02-13,1999-06-03T09:06:19,08:33:17,GB,Schofield and Sons,8f:ea:ad:fe:08:38,mk,1978-01-11 20:55:48
+73.113264,$4.46,web-23.baker-harrison.com,620948308,Europe/Monaco,Gujarati,2006-08-13,1993-07-07T10:29:01,21:15:30,GB,Burke-White,c7:5b:bf:e0:a0:cc,fur,1990-03-27 02:51:49
+88.7177705,"$89,105.85",db-96.burton.net,5,America/Lima,Urdu,2001-05-31,1973-11-02T05:36:55,10:29:18,GB,"Moss, Chapman and Humphries",77:44:0d:4d:6e:a8,km,1970-12-23 21:09:14
+9.7850975,$181.71,lt-77.watts.com,98251355,Asia/Vientiane,Russian,2001-05-29,1983-02-28T15:53:05,17:03:35,GB,"Davies, Khan and Hilton",de:2d:13:d2:c0:b8,tig,1980-04-07 16:16:51
+20.626168,$72.58,email-88.taylor.info,744,Europe/Luxembourg,Malay,1986-08-21,1983-10-13T07:47:20,21:48:06,GB,"Miah, Kirby and Jones",d0:25:5b:71:a7:2c,nhn,1984-05-13 09:08:50
+88.744612,"$29,453.78",email-07.palmer-gordon.com,7,Africa/Mbabane,Sanskrit,1977-09-04,2009-10-18T12:50:58,12:43:41,GB,Wilkinson LLC,09:2f:c7:fe:83:d7,mai,1981-11-09 07:21:23
+41.891730,"$9,372.41",laptop-17.anderson.com,306223024,Pacific/Truk,Belarusian,1980-04-09,1986-10-22T19:17:50,10:45:27,GB,"Quinn, Wright and Palmer",9c:21:bf:e0:e0:e8,lb,1984-10-01 14:22:55
+9.701927,$27.25,db-00.webb.com,881284834,Africa/Addis_Ababa,Zhuang,2015-06-08,1976-10-25T17:18:04,08:01:05,GB,Clayton-Williams,37:58:95:aa:e1:30,ckb,2009-08-29 15:13:35
+48.431932,$17.32,db-17.jackson-shaw.com,3573142,America/Dominica,Herero,1989-09-10,1991-12-27T16:11:10,13:31:18,GB,"Scott, Dobson and Powell",c1:f5:15:f3:d0:81,nds,1975-01-21 04:02:45
+27.3356205,$9.45,web-69.white.net,95207084,America/La_Paz,Assamese,2000-08-09,2001-03-09T18:36:20,05:23:58,GB,"Storey, Kelly and Reynolds",ef:46:b6:1e:8b:33,unm,1984-01-02 17:53:01
+56.2004705,"$1,608.18",srv-31.carey.com,656504205,Pacific/Apia,Welsh,1988-05-30,1998-07-20T07:06:20,06:07:37,GB,Moran PLC,6f:4f:b0:fc:1f:7b,ln,1996-06-27 00:47:54
+-18.2393395,"$1,476.00",srv-16.summers.info,873,America/St_Lucia,Zulu,2018-07-09,1976-08-31T11:28:28,18:46:31,GB,Ali-Johnson,03:04:fc:59:31:7a,yo,1989-04-14 20:19:24
+85.571549,"$3,783.55",laptop-28.davis.com,799,Africa/Luanda,Sanskrit,2010-06-12,2007-01-09T18:18:39,02:26:26,GB,"Murphy, Johnson and Jones",82:09:dc:6a:8e:1d,da,1972-11-08 08:03:38
+-71.751081,$433.98,lt-27.mckenzie-nicholson.com,8,Africa/Brazzaville,Greek,2016-01-17,2009-06-25T16:47:15,12:14:34,GB,"Smith, Skinner and Thompson",f0:23:17:d9:25:fe,os,2021-09-03 19:37:35
+-82.445349,"$7,041.06",srv-81.jackson-preston.net,8394578,America/Argentina/Jujuy,Oriya,1989-02-07,1972-11-03T21:30:35,20:19:54,GB,Bailey and Sons,24:58:27:35:79:7c,mr,2016-06-19 08:36:45
+-41.604996,"$59,767.82",desktop-54.smith-campbell.com,6,Africa/Brazzaville,North Ndebele,1980-11-08,2000-06-05T21:52:52,02:08:18,GB,Henry and Sons,8a:43:db:30:94:a5,bem,1973-11-11 18:44:46
+-1.424047,$59.23,db-25.wells.net,2,Africa/Blantyre,Sichuan Yi,1970-12-25,1982-11-16T10:58:21,07:32:06,GB,"Wright, Gregory and Cook",0f:5e:cc:46:47:82,ig,1985-05-20 22:09:52
+-88.4895095,"$36,723.07",email-90.lloyd.com,44123382,Europe/Vienna,Basque,1987-02-09,1973-02-05T01:35:05,19:00:51,GB,Rogers-Clark,1e:7e:81:52:13:4e,cv,1977-11-07 22:21:26
+-73.4807955,"$53,175.19",db-83.barber.com,37,Asia/Vientiane,Dzongkha,1988-02-17,2002-07-20T13:17:42,10:12:59,GB,Powell-Khan,24:6f:2b:e8:a2:a4,da,1986-05-17 15:23:45
+29.5842785,$68.06,email-05.hall-parsons.com,258229020,Africa/Ndjamena,French,2009-07-01,2022-03-07T07:45:35,01:56:07,GB,Hartley-Field,da:6b:67:29:06:07,ff,1979-12-20 02:06:56
+7.860726,"$2,886.27",lt-37.holland.co.uk,82,Europe/Rome,Russian,1982-10-06,2003-04-16T09:49:56,11:38:37,GB,Dawson-Smith,2f:b1:1e:13:0e:3d,sk,1992-06-27 07:39:01
+8.0718315,$931.43,web-24.khan-king.org,97,Asia/Bahrain,Sinhala,1976-11-22,1993-12-11T17:18:35,18:35:08,GB,Norton-Thornton,8d:c0:03:df:bd:16,ak,2011-02-10 23:25:10
+-69.659995,$49.65,email-75.smith.info,9,Europe/Malta,Shona,1999-11-17,2008-01-03T14:46:51,02:22:26,GB,Patel Inc,dd:e7:6d:33:dc:03,dv,2020-05-29 07:37:07
+-43.6190785,$0.55,lt-32.abbott.co.uk,39950805,Asia/Tbilisi,Welsh,1992-11-19,1982-05-05T00:30:35,20:08:54,GB,"Bishop, Richardson and Davis",a0:e0:44:fa:f2:14,shs,2015-08-11 11:45:33
+-12.170533,"$97,460.48",laptop-66.williams.net,966258072,America/St_Kitts,Walloon,2007-03-01,1976-10-12T05:47:25,07:10:10,GB,"Sutton, Walsh and Brown",1f:4d:ed:5b:fa:f4,apn,1973-12-09 16:32:13
+67.4411455,"$5,684.72",web-10.hilton.com,34235,Europe/Budapest,Tibetan,2014-08-08,1985-01-01T22:54:59,05:17:31,GB,Ford Group,85:79:0e:ba:9d:a9,sw,2015-02-05 13:09:35
+-60.581133,"$9,883.33",db-96.duncan-russell.com,53,Asia/Nicosia,Bashkir,2010-02-22,2011-01-01T16:29:45,11:05:34,GB,"Matthews, Norris and Taylor",13:b9:0b:17:20:dc,ce,2000-03-13 15:21:29
+49.6093645,"$29,057.37",lt-07.may-hunt.com,61427548,America/Havana,Bambara,1978-04-30,1986-01-11T03:09:14,12:05:11,GB,"Hudson, Thompson and Murray",67:77:79:ea:54:fd,pt,1981-12-28 03:10:25
+32.3596245,"$9,361.14",web-51.robinson.com,59978,America/Jamaica,Icelandic,1972-09-28,2016-04-29T08:59:45,20:54:24,GB,Williams-Rogers,ab:82:39:3d:44:7e,eo,2019-01-17 07:20:33
+-37.4224345,"$66,969.45",email-38.ali.net,14,Europe/Amsterdam,Kirghiz,1982-06-21,1982-04-22T13:10:27,00:24:27,GB,"Clarke, Mellor and Bradshaw",c5:d3:9f:2e:f9:3e,si,1994-05-20 22:27:58
+82.345455,$5.61,db-57.arnold-jenkins.biz,3833,Africa/Ndjamena,Church Slavic,2007-10-03,1986-09-30T00:20:10,03:28:26,GB,Murray-Tyler,57:ce:5e:57:b0:6f,tig,1995-04-18 12:26:02
+-71.712918,$85.83,db-70.smith.com,1,America/Santiago,Slovenian,1988-03-02,1983-07-14T01:27:38,02:09:16,GB,"Simpson, Davis and Clarke",13:4b:21:20:60:3f,nhn,2008-09-13 06:07:57
+-27.910043,$2.69,lt-91.thompson.co.uk,6972015,Africa/Tripoli,Azerbaijani,1980-09-21,2010-04-06T23:41:10,00:41:54,GB,Evans-Hurst,9d:41:b7:97:85:c9,apn,2018-12-24 22:49:09
+-21.634636,$78.07,desktop-61.hamilton.biz,675,Europe/Stockholm,Danish,2011-10-15,2000-02-16T03:58:28,02:01:34,GB,Davies-Mann,3d:15:ba:3c:19:52,apn,2012-06-29 00:46:56
+-44.935152,$8.29,desktop-36.jenkins.org,78,America/Antigua,Burmese,2010-01-07,1991-05-10T16:31:47,19:56:27,GB,"Day, Smith and Payne",f8:0c:c4:79:71:e1,ug,2007-02-02 05:52:30
+39.154260,"$1,748.53",lt-32.barrett-daniels.info,98,Asia/Pyongyang,Tatar,1981-01-19,2007-07-21T00:29:49,08:33:41,GB,"Wright, Hargreaves and Lee",d6:c5:79:00:d3:a7,yo,1991-06-25 21:49:16
+-84.8977305,"$7,706.30",desktop-48.scott-todd.org,78783,America/Asuncion,Aymara,2004-08-13,2007-06-12T00:05:24,18:24:21,GB,Payne PLC,f9:51:47:be:22:e4,ur,1976-07-04 11:22:45
+-64.9824785,"$2,818.94",web-91.poole-smith.com,696394,Indian/Antananarivo,Xhosa,1995-03-01,1985-09-11T03:44:57,16:50:20,GB,Nicholls Inc,65:85:3f:53:d1:01,ne,2010-12-20 22:19:33
+33.1243765,$2.41,desktop-34.james.com,3820,Pacific/Efate,Aragonese,1987-01-19,2021-02-18T23:55:09,10:41:41,GB,White-Clark,20:1e:52:40:e0:07,gd,1996-04-03 11:42:08
+20.076290,$392.45,srv-36.smith-heath.org,53605976,Asia/Taipei,Sardinian,1981-02-10,1976-11-21T05:42:39,23:55:25,GB,Lewis-Smith,c0:29:a3:95:49:dd,ja,1991-09-25 11:41:23
+29.235003,$66.92,db-12.morris.com,64,Asia/Riyadh,Divehi,1993-11-18,2014-12-03T19:32:31,10:03:27,GB,"Lawson, Chapman and Norman",6b:61:c5:a0:a3:ef,ts,1973-01-05 07:52:44
+-3.997139,$2.12,email-41.reynolds.com,1965,America/Costa_Rica,Armenian,1997-08-09,2019-09-30T09:10:04,14:45:35,GB,"Dean, Hall and Turner",5e:84:a6:e6:29:e8,ia,1988-07-24 12:48:10
+13.223154,$924.40,desktop-43.smith.com,694061647,America/Tegucigalpa,Vietnamese,1974-02-21,1977-01-28T17:03:19,18:22:05,GB,Clark PLC,5c:48:fc:22:60:2f,ar,2016-01-13 08:20:08
+-11.436311,"$79,746.31",srv-38.parsons.com,858,America/La_Paz,Tagalog,1998-11-13,2020-11-04T00:10:48,21:56:12,GB,"Williams, Murray and Roberts",c8:b2:39:77:95:ae,lij,2014-06-01 16:53:20
+28.014272,"$9,748.22",db-57.lane.com,51916802,Asia/Vientiane,Sanskrit,1999-10-05,1988-02-28T19:44:53,22:49:03,GB,Brady-Carter,7e:b9:a1:af:04:0d,it,2004-11-03 09:04:06
+-44.3495045,"$93,802.54",db-82.collins.co.uk,168786,Indian/Maldives,Thai,2014-11-16,1982-05-27T23:02:21,11:07:51,GB,Marsh and Sons,b8:4b:ea:6f:1b:2e,ast,2016-06-30 20:05:49
+45.0672615,"$66,600.81",srv-38.davis-smith.com,12708,Europe/Athens,Igbo,1972-05-07,1980-07-10T20:03:09,01:10:39,GB,"Brown, Gibbons and Robson",bc:28:e1:89:77:5d,pa,1989-02-21 05:24:24
+71.840045,$522.54,srv-37.mcdonald-saunders.co.uk,76227,Atlantic/Azores,Hebrew,2003-09-27,2003-09-17T22:39:44,18:54:31,GB,"Green, Brown and Taylor",8e:75:84:19:95:91,mhr,2009-11-24 01:51:26
+62.5892915,$964.77,db-18.hill.info,84760211,Africa/Kigali,Marshallese,1993-12-31,2018-07-06T15:27:19,22:41:15,GB,Dawson and Sons,70:b9:9f:b5:f0:36,nds,2008-04-07 08:02:03
+38.5683685,$6.44,email-49.cooper.biz,7581703,Europe/Amsterdam,Sango,1996-12-23,1971-04-17T22:31:57,19:16:53,GB,White-Doherty,67:79:b6:f1:31:64,vi,2013-07-24 13:08:40
+63.691601,$570.21,desktop-33.cameron.biz,98546,Indian/Maldives,Chuvash,2011-06-19,2018-01-08T13:12:08,12:56:07,GB,Nelson-Cox,ed:e9:be:c4:58:d2,lb,1995-07-20 19:23:08
+37.8046195,$9.91,srv-30.nicholls.com,3953653,Africa/Mogadishu,South Ndebele,2004-11-13,2012-05-20T10:20:03,09:43:08,GB,Reid and Sons,9c:e2:01:7b:18:00,mr,1978-06-23 03:18:32
+-75.317708,"$9,802.40",srv-08.moran-wilson.com,9543952,Europe/Istanbul,Nauru,1973-10-21,2001-05-29T01:32:53,01:01:26,GB,Gallagher and Sons,df:5f:92:7d:50:6f,tk,2019-07-31 16:12:45
+-51.644665,"$34,064.45",db-01.ball.com,68,Asia/Ashgabat,Japanese,1979-12-21,2000-11-05T05:19:01,01:50:14,GB,Stewart Inc,8a:ea:41:6d:25:67,kok,2019-07-04 03:48:33
+-48.519382,"$2,500.70",db-07.davies.com,66678335,Asia/Bishkek,Samoan,1970-09-25,1994-11-10T12:34:35,14:46:55,GB,Griffiths LLC,18:6a:d5:2d:44:a4,sd,1997-11-24 23:57:16
+21.7453865,$592.55,web-38.chapman.com,4,Africa/Cairo,Romanian,2002-07-10,2023-02-01T11:00:08,18:41:53,GB,Smith-Ball,55:1f:1b:54:b8:34,fi,1995-05-06 06:10:43
+-32.743947,"$2,806.68",web-47.kennedy.biz,9253604,Atlantic/Reykjavik,Dutch,1995-09-26,1972-03-18T19:09:37,00:57:54,GB,"Sykes, Jackson and Owen",0a:6d:f5:25:80:37,ru,2023-07-03 21:10:24
+51.4551145,"$8,592.63",desktop-79.knight-oliver.com,8,Australia/Adelaide,Mongolian,2012-05-21,1970-09-27T01:21:08,01:48:55,GB,Hughes-Evans,85:f2:58:8a:bb:e0,li,1987-07-23 16:58:29
+56.280560,"$37,910.87",srv-79.ford.com,65851,Africa/Malabo,Sardinian,1989-12-15,1988-01-25T08:21:12,01:02:48,GB,Andrews and Sons,31:b5:74:4b:10:5d,ky,1974-11-21 11:22:52
+1.4387515,$94.73,email-10.porter.com,404,Asia/Aden,Russian,1995-01-30,2014-04-09T07:55:25,00:18:38,GB,Cooper-Ryan,4d:69:14:f7:fa:5a,kn,2012-04-08 05:26:17
+6.9266925,$538.91,desktop-68.taylor-shah.info,92151,Asia/Jerusalem,Tagalog,1991-08-09,2008-10-31T00:45:36,20:11:58,GB,Humphries Inc,8a:cd:37:0b:88:4d,xh,1992-10-02 07:45:40
+89.281975,"$48,728.10",email-86.duffy.com,303,Asia/Ashgabat,Mongolian,1982-09-07,2010-09-08T02:52:04,11:38:37,GB,Campbell-Warner,34:71:5e:fc:f3:90,km,1990-11-25 16:02:49
+-34.1087125,"$22,745.06",db-30.brown.net,791696,Africa/Abidjan,Gujarati,2009-07-21,1975-01-01T05:39:36,12:23:24,GB,Ward-Miller,43:f8:36:e1:ce:91,ja,1989-02-16 17:07:13
+-44.904978,$56.08,desktop-14.jones.net,3330,Europe/Budapest,Lithuanian,2000-06-05,2010-11-14T03:58:28,05:41:25,GB,Taylor LLC,2c:62:e9:43:68:ec,pa,2021-02-27 00:52:16
+30.817158,$88.20,desktop-43.marsh-howard.com,329,Pacific/Chatham,Cree,2011-12-20,2008-04-27T13:47:01,10:43:04,GB,Kirk Ltd,f1:42:03:6a:28:5a,kok,1991-04-18 14:11:52
+-40.833185,"$1,459.44",desktop-28.holmes.com,5916,Africa/Bujumbura,Catalan,2010-06-29,2016-11-01T17:33:21,10:12:35,GB,"Austin, Burrows and Pritchard",35:a5:00:16:0c:db,wo,1994-10-11 20:22:49
+8.6687495,"$7,122.55",web-77.shaw.com,4677,Africa/Asmera,English,1994-10-03,2009-01-08T03:58:26,20:15:22,GB,"Norman, Butler and Jarvis",23:94:68:28:cd:cf,fo,1978-12-18 05:39:24
+22.2359555,$527.39,desktop-18.hill.com,12155304,Asia/Kuwait,Limburgan,1974-06-01,2003-11-28T00:55:06,20:55:08,GB,"Pritchard, Reynolds and Dixon",32:ac:3c:75:cd:66,ss,2009-11-14 10:37:11
+21.575410,"$1,554.01",web-14.warren.com,7,America/Dominica,Kalaallisut,1997-01-21,2006-03-26T01:10:20,00:12:53,GB,Miller LLC,e3:f2:99:51:39:7f,mni,2020-04-14 09:46:53
+-57.1818555,"$6,146.72",web-63.williams.com,4472374,Asia/Jerusalem,Welsh,2021-12-23,1998-08-06T20:21:18,05:23:04,GB,"Palmer, Moore and Quinn",2e:01:fc:eb:99:55,wal,2017-12-13 22:17:28
+-56.9755445,"$4,471.46",laptop-95.johnson-clarke.com,3,America/Asuncion,Aragonese,2011-08-06,1975-09-20T09:09:04,13:56:24,GB,Browne Inc,0b:cf:d5:06:49:45,aa,2021-05-07 16:11:54
+-72.5034655,"$9,579.96",desktop-98.foster-hart.net,55,Pacific/Majuro,Marathi,2007-12-19,2000-08-16T04:24:57,23:56:05,GB,"Carr, Wade and Iqbal",a9:cc:d3:30:2b:2e,mhr,2019-05-19 15:28:07
+51.4312975,$394.55,srv-26.thompson-powell.co.uk,41556,Africa/Maputo,Sango,1991-12-06,1972-12-07T20:47:30,03:30:15,GB,Jordan-Gould,5d:8f:29:0d:f4:f5,kw,2019-02-01 18:15:12
+-17.8517985,$566.08,laptop-07.williams.com,93,America/Guatemala,Swahili,2008-09-14,2019-07-25T16:33:56,06:20:26,GB,"Reeves, Sanderson and Matthews",e5:cd:de:bc:18:7e,lo,1979-09-11 15:14:48
+-9.778159,"$4,279.57",web-18.barrett.com,443704,Asia/Harbin,Oriya,1997-09-05,2018-02-23T16:15:36,11:30:51,GB,"Heath, Ahmed and Clarke",bf:0b:8d:60:23:d4,cmn,2020-04-18 00:04:17
+34.544502,"$22,237.84",email-55.elliott.info,20650011,Asia/Karachi,Swahili,2002-10-01,1993-01-31T05:45:56,07:05:14,GB,Kirby-Williams,0e:48:13:cf:8a:38,byn,2001-05-28 18:46:21
+-17.1133715,"$8,466.80",laptop-24.wallis-oliver.com,93130,Europe/Sofia,Chinese,2012-08-14,1977-07-15T09:10:33,14:08:54,GB,Burton Group,db:b7:17:ec:19:91,gd,2016-11-22 06:43:14
+-41.9432405,$7.44,lt-88.walsh.com,31670635,Asia/Rangoon,Fulah,1977-02-23,1989-03-13T06:22:03,23:46:13,GB,Fraser Inc,84:f2:41:6e:04:fe,bo,1991-09-24 07:29:50
+21.5011275,$775.66,srv-88.herbert.biz,5,Europe/Vatican,Tamil,2020-11-20,1976-04-04T17:58:33,07:27:17,GB,O'Brien-Newton,05:04:dc:0d:ac:54,th,1984-02-06 08:38:26
+89.1159755,$84.20,srv-91.kent-payne.com,731712235,Pacific/Kwajalein,South Ndebele,2018-01-29,2018-09-01T18:06:57,00:08:17,GB,"Allen, Jennings and Byrne",55:a8:29:87:bd:80,ti,1978-10-07 02:40:58
+-87.250202,$291.86,web-10.pearson.info,1301828,Africa/Khartoum,Finnish,2010-07-18,2009-03-13T00:39:53,21:42:39,GB,Johnson-Lewis,73:f2:d7:b5:56:8f,sq,2007-08-19 19:21:39
+-40.5317945,$120.54,desktop-01.daniels.com,6260,Africa/Ouagadougou,Twi,2018-04-25,1976-08-25T06:13:56,03:37:34,GB,Williams LLC,2c:e7:c4:78:9f:ef,es,1992-12-16 02:21:18
+-29.170325,"$91,104.17",web-46.oliver.com,397,Africa/Conakry,Turkmen,2013-08-30,1998-07-18T16:45:20,08:07:21,GB,Evans LLC,61:15:4c:bb:0a:28,tl,1985-06-05 23:03:57
+-14.3687705,"$60,821.37",lt-31.haynes.com,1555080,Europe/San_Marino,Avestan,2000-11-25,2010-04-24T16:33:33,17:51:36,GB,Davies Inc,19:7c:32:96:8b:c6,hu,1975-08-16 00:27:13
+-59.0682285,$229.60,lt-43.waters.info,914040517,America/Caracas,Kikuyu,1998-10-12,1995-07-23T04:31:30,09:19:33,GB,Herbert LLC,65:37:81:b6:03:18,pap,1997-08-28 02:39:04
+-33.016428,"$91,310.35",web-82.lee.info,3779,Pacific/Kwajalein,Bislama,1972-06-19,2020-02-12T21:49:52,00:40:18,GB,Begum-Lord,b3:08:da:5f:8c:a6,si,1977-06-15 15:51:00
+-65.219800,"$60,895.39",web-88.scott.net,110,Asia/Gaza,Tsonga,2014-05-18,2000-08-11T20:55:33,18:54:06,GB,Booth-Walsh,cc:48:19:1c:4d:9b,ig,2010-06-09 01:33:57
+74.317353,"$89,948.98",web-36.morris.net,91,Europe/Brussels,Assamese,1971-01-03,2017-12-20T22:53:42,16:54:16,GB,Hutchinson-Shaw,84:5d:c8:8f:2c:c0,ti,1987-04-10 13:08:33
+-10.1765905,$11.66,db-58.warner.com,9229078,Europe/Podgorica,Russian,1998-07-13,1985-02-22T22:47:11,18:29:06,GB,Collins-Middleton,9e:be:68:3b:b9:68,gez,1994-12-04 02:07:09
+70.5997695,"$9,734.80",laptop-79.jordan.org,462613,America/El_Salvador,Basque,1996-11-29,2005-10-01T16:45:06,14:09:43,GB,Nelson LLC,4d:0c:9d:61:22:66,mk,1980-07-06 17:53:10
+-75.562076,$4.15,srv-46.williams-watson.net,573118731,Europe/Berlin,Marshallese,1977-03-28,1976-04-10T02:15:07,19:28:09,GB,Mitchell-Williams,51:74:26:60:9b:c6,brx,1982-03-25 12:04:16
+-81.8410105,$7.66,email-25.morris-griffin.net,5,Europe/San_Marino,Yoruba,1976-07-09,2022-03-20T06:08:02,00:24:47,GB,Harrison PLC,65:fe:59:6c:70:19,xh,2017-10-14 19:06:31
+-22.721898,"$55,736.60",db-30.taylor-gregory.biz,96246,Pacific/Majuro,Yoruba,2004-08-07,2007-10-08T08:26:11,02:40:23,GB,"Glover, Boyle and Shaw",a3:65:a0:2c:9b:cb,id,1995-05-11 00:23:34
+-31.841325,"$1,335.70",srv-00.ellis-smith.com,4,Europe/San_Marino,Somali,2021-04-26,1973-12-12T06:06:06,14:39:31,GB,Rice Inc,6f:9b:7c:98:b3:ef,hu,2020-03-11 12:17:57
+-88.2149155,$14.42,db-28.wood.info,40269147,Europe/Riga,Avestan,2010-10-27,2005-12-10T09:16:35,23:12:24,GB,Peters PLC,f5:d6:44:22:e4:77,th,2012-09-20 04:31:07
+-88.587468,$61.93,email-28.thomas.co.uk,931,Africa/Sao_Tome,Oromo,1988-02-21,2011-01-09T07:21:34,05:50:24,GB,Chan Group,61:cf:d7:86:bd:54,gu,1989-04-28 08:06:21
+25.9226745,$4.75,laptop-61.walker.com,2308034,Asia/Dili,Panjabi,1989-06-18,1998-01-16T13:42:01,11:08:11,GB,"Nash, Webster and Marshall",96:25:df:b3:46:f9,sv,2022-05-17 03:37:21
+25.5639685,"$16,862.05",email-74.white.com,4,Europe/Sarajevo,Polish,2011-12-13,1985-04-14T14:05:41,19:01:15,GB,Phillips and Sons,cf:d2:73:6b:59:cc,af,2006-05-16 12:09:44
+-67.6172045,"$21,188.66",srv-54.hope.biz,3091420,Pacific/Easter,Ndonga,1987-06-23,1998-12-19T08:36:53,03:43:40,GB,Watts-Brookes,6c:af:01:46:bb:51,doi,1993-01-24 04:08:04
+64.797505,"$69,884.51",db-32.brown-smith.com,5,Europe/Stockholm,Tamil,2006-06-30,1974-11-14T06:03:31,06:43:09,GB,"Palmer, Matthews and Lloyd",15:90:96:a4:07:98,tcy,1977-11-05 02:49:02
+18.106955,$2.65,lt-88.hewitt.com,8192,America/St_Kitts,Zulu,2001-02-03,1981-09-14T18:13:10,01:50:16,GB,"Richards, Bond and Forster",70:66:c7:5e:54:3e,sat,2016-05-26 01:20:33
+45.2255985,$205.99,laptop-88.james-fry.net,35845039,Asia/Kabul,Interlingue,2004-11-11,1986-10-18T10:36:13,15:38:17,GB,Pearson-Allen,93:d8:6a:1b:df:97,yi,1984-11-10 11:40:04
+-51.4592245,"$72,449.47",laptop-01.wood.com,844,Asia/Ashgabat,Swedish,2000-11-25,2001-10-19T06:23:34,11:39:34,GB,Lees Inc,b0:40:d3:ed:2e:4f,ms,1997-10-15 14:05:11
+-46.1350095,$17.18,laptop-08.metcalfe.com,237,Africa/Douala,Manx,2009-12-03,2020-05-25T02:23:15,01:38:23,GB,Warren Ltd,ed:72:af:c8:c5:ad,ast,2015-04-11 03:08:51
+23.1890665,"$19,553.94",srv-80.harrison.biz,51,America/Argentina/Tucuman,Yiddish,1973-07-19,2014-08-01T19:35:00,14:03:24,GB,Morley LLC,16:3c:b9:1f:2c:b3,so,1996-02-16 05:56:42
+65.304283,$1.97,web-58.field-marshall.com,182661,Asia/Rangoon,Bengali,1976-02-14,1994-08-24T00:16:16,04:43:50,GB,Graham Group,9e:92:c6:d7:22:a9,sa,2018-09-16 12:02:34
+18.4320755,"$68,400.95",db-40.oconnor.net,516,Africa/Libreville,Kannada,1989-11-30,1991-12-17T19:46:37,23:52:57,GB,"Wilson, French and Spencer",4d:ca:63:44:46:d3,gl,2005-06-17 11:34:52
+19.606623,"$41,275.38",laptop-44.burgess-wilson.com,5623470,Asia/Taipei,Breton,1987-03-07,1970-06-05T04:13:59,09:42:32,GB,"Kemp, Lee and Johnson",76:2a:60:c5:41:54,ayc,1999-11-19 17:38:05
+26.022024,$729.95,email-58.hardy-bond.com,528760848,Europe/Athens,Thai,1988-01-13,1998-03-04T18:48:03,13:44:40,GB,"Robson, Hunter and Henderson",cc:96:0d:c1:8d:a9,bo,1992-08-31 14:00:39
+40.571652,"$99,937.87",email-89.ellis.com,2,Asia/Baghdad,Spanish,1998-08-28,2011-12-03T23:19:50,11:40:05,GB,West-Lawson,21:5d:2c:50:a1:9e,mag,2015-08-04 19:59:41
+-64.4065415,"$45,391.85",email-83.martin.co.uk,939,Pacific/Guadalcanal,Lingala,2022-04-18,1991-11-22T13:54:21,05:20:05,GB,White-Parkes,ec:c8:cc:45:f6:2f,so,1987-01-05 04:11:01
+86.3916745,$170.35,lt-64.duffy.com,6928452,America/El_Salvador,Slovenian,1989-03-09,2013-01-07T07:39:50,22:33:07,GB,Atkinson Ltd,da:96:4b:1b:60:35,mag,1974-02-26 00:13:03
+-47.521881,"$26,336.36",web-21.brown-kelly.com,9225185,Pacific/Kiritimati,Ukrainian,1976-10-29,2011-06-19T19:27:28,18:19:05,GB,Mitchell-Reed,52:9c:06:19:f7:25,et,1972-10-19 13:23:50
+-48.6267005,$3.71,db-43.jones-ingram.com,46,America/Dominica,Tagalog,2018-12-31,1979-02-26T07:10:56,01:59:12,GB,Winter LLC,00:05:41:3f:93:e0,zu,2009-09-07 12:49:59
+-61.588162,"$4,985.29",db-21.norman.com,587304257,Africa/Blantyre,Tahitian,1974-08-24,1970-10-10T19:20:54,07:36:39,GB,Martin-Cartwright,01:3d:55:e4:f1:28,id,2016-12-22 14:31:14
+-15.092853,"$3,217.76",email-48.gibbs-jones.net,914292,Asia/Tbilisi,Tswana,1989-04-24,2017-06-12T14:27:42,21:34:01,GB,"Evans, Haynes and Henry",fb:44:e4:1a:91:0b,ia,2010-10-16 09:21:30
+-25.609238,"$3,504.88",db-14.lamb.com,29,Asia/Nicosia,Greek,1988-07-05,1982-11-21T04:57:09,19:38:05,GB,"Smith, Freeman and Bennett",12:c9:59:e2:09:2a,fil,1984-11-15 07:27:20
+-65.2992595,$37.73,db-67.reeves.com,5643767,Pacific/Majuro,Dzongkha,1996-03-21,1981-07-28T01:59:27,08:19:22,GB,Barnes-Wright,ab:d8:5f:65:38:36,nb,1973-03-24 21:41:17
+66.1544685,"$3,444.42",web-07.barnes-jones.com,5458,Europe/Monaco,Sango,1990-11-22,2007-02-08T11:07:11,06:43:10,GB,Young-Mills,69:5d:d1:a9:43:58,mr,1989-03-06 01:05:58
+-63.9287005,$8.43,srv-37.roberts.com,17,Asia/Damascus,Bashkir,2017-10-13,2020-11-01T04:45:15,13:19:33,GB,"Cook, Connor and Long",c9:b8:99:da:30:f7,bho,1985-12-17 06:18:39
+-74.9675595,$67.65,srv-24.phillips-murray.com,110759549,Africa/Lome,Maori,1997-12-15,2006-12-21T21:57:15,04:16:13,GB,Wilson-Hughes,b7:11:ea:1b:e8:41,ur,2000-08-08 22:35:01
+69.312382,$60.25,lt-12.watts.com,6,Pacific/Efate,Sango,1983-05-13,1989-05-16T20:15:35,23:16:35,GB,"Gough, Lees and Lawrence",f7:cb:5e:e4:47:03,nan,2002-01-03 22:03:40
+-9.2671525,$87.97,email-30.bishop.com,17652,Africa/Windhoek,Pushto,2019-03-08,2021-01-18T12:19:41,16:42:05,GB,Ryan-Sutton,9b:93:dc:9b:78:97,shs,2016-11-08 17:02:56
+30.1520405,"$31,423.28",lt-39.lane.com,6908,America/Bogota,Shona,2002-10-10,2008-03-30T07:23:30,18:30:37,GB,"Wilson, Dale and Jackson",c6:91:02:3c:be:78,pl,2006-10-12 22:42:17
+-60.9720155,$9.48,lt-15.blackburn.biz,85,Africa/Dar_es_Salaam,Swedish,1970-11-02,1992-09-22T23:37:33,01:06:26,GB,Jones PLC,ea:7b:b6:7c:8e:74,si,1977-05-23 22:59:54
+-68.4941465,$44.05,desktop-68.dixon-franklin.info,5,America/Fortaleza,Interlingua,1970-02-23,1997-09-08T06:57:17,20:40:06,GB,"Fox, Howe and Hughes",1c:08:79:e7:04:88,the,1994-11-02 14:05:38
+-15.402206,$7.30,email-86.mitchell.org,22595908,America/Costa_Rica,Afar,2020-06-26,2005-11-04T03:53:46,19:56:32,GB,"Carter, Powell and Hussain",23:3b:3e:e9:f2:85,ayc,1998-07-21 05:51:28
+35.5547635,$21.79,lt-46.baxter-ball.com,619200,Africa/Porto-Novo,Urdu,1975-08-22,2002-05-01T02:31:02,17:31:36,GB,"Cooper, Begum and Clarke",0a:88:11:9c:19:22,hsb,2001-04-19 08:16:48
+25.271326,$11.84,email-56.green-clark.com,722120,Pacific/Easter,Indonesian,1986-10-19,1984-02-11T14:50:41,11:53:19,GB,Day-Smith,f4:d9:f4:c6:bc:d1,hne,1970-10-01 23:47:19
+84.4774275,"$33,216.87",lt-10.slater-mason.org,1,America/Belize,Chinese,2002-02-15,2020-01-28T08:53:32,18:22:50,GB,Perry-Anderson,e0:fc:a0:71:b5:32,be,1978-09-21 18:24:30
+77.8988985,"$4,618.77",lt-85.shaw-stevens.info,8,Asia/Tbilisi,Basque,1995-10-31,1972-11-16T19:14:03,05:16:28,GB,"Sheppard, Yates and Dean",2f:fc:de:ed:e1:7b,ps,1976-07-03 11:20:02
+79.663571,"$30,397.38",laptop-01.faulkner-mitchell.org,2157,Africa/Brazzaville,Corsican,1985-12-23,1970-10-20T02:32:06,14:00:15,GB,Farmer and Sons,95:da:df:bd:85:d2,mg,1976-12-31 19:30:16
+-17.224893,$12.23,lt-62.fuller-simpson.com,947,Africa/Bangui,Basque,1989-12-12,1976-10-25T18:35:12,08:00:40,GB,"Evans, Alexander and Lord",10:fc:03:a8:c1:8d,et,1976-03-22 01:37:59
+69.2242445,$66.75,web-97.thomas-shah.org,781,Africa/Mbabane,Maltese,1975-09-24,1974-08-03T08:11:57,19:23:12,GB,Hussain Inc,78:e0:70:17:b2:a3,ko,2021-08-21 14:44:15
+14.5265885,$33.55,desktop-74.young-ward.net,19971034,Africa/Accra,Slovenian,2014-03-20,1992-01-17T15:35:49,23:14:56,GB,Webb-Williams,38:ea:d3:06:4c:02,sd,1995-10-10 08:09:50
+35.9804775,$237.12,srv-19.jones.com,171045131,Africa/Algiers,Western Frisian,2019-03-31,1980-07-30T22:27:22,07:28:05,GB,Kelly-Gray,b9:e9:0c:63:d2:5b,vi,1983-10-23 23:21:44
+-45.1730285,$33.66,db-10.taylor.org,918,Pacific/Nauru,Afar,2008-12-11,1996-10-18T20:27:48,22:43:31,GB,Moore-Riley,ad:44:51:44:87:44,kok,1973-01-08 21:46:33
+-58.558456,"$6,147.09",laptop-85.warren.info,40669,America/Bogota,Ganda,2002-06-26,1989-11-24T08:51:33,17:24:22,GB,Newton Ltd,81:77:93:b5:f2:5b,sr,2002-12-20 04:14:03
+-33.078963,$732.24,db-49.chandler-howells.net,31,Europe/Dublin,Ndonga,2007-07-19,2023-06-16T18:14:08,12:33:31,GB,"Jones, Porter and Hussain",b9:54:de:42:13:24,oc,1993-07-28 03:17:44
+88.625746,"$27,794.63",lt-15.davies.com,8950,Europe/Malta,Arabic,1980-03-17,1996-11-03T10:35:53,11:30:24,GB,"Thomson, Sanderson and Mann",8a:48:fe:00:17:d4,kl,1987-03-31 00:47:59
+75.790311,"$90,376.23",desktop-48.mitchell.com,0,America/Costa_Rica,Yiddish,1988-11-27,2016-12-16T08:41:28,19:20:51,GB,Adams PLC,f9:1a:6c:f0:7a:92,ps,1978-12-16 19:41:31
+80.8191455,"$9,294.85",db-92.goodwin-smith.com,631339,Europe/Bucharest,Persian,1997-01-01,1997-09-28T20:18:44,12:11:05,GB,Griffiths and Sons,ca:65:8f:88:23:2d,bhb,1980-10-09 13:59:39
+-32.7498775,"$2,089.03",srv-20.khan-talbot.com,76,Asia/Dili,Kurdish,1993-06-06,2022-02-28T04:55:46,03:57:03,GB,"Patel, Anderson and Pollard",25:e5:fa:4d:5b:4d,ne,1975-12-09 19:12:06
+83.1708045,$23.26,db-73.whitehead.com,59338,America/Costa_Rica,Tswana,1982-04-09,1999-09-21T21:21:43,12:14:51,GB,Allen-Taylor,20:c8:cc:8a:11:04,am,2008-09-28 16:27:35
+3.8523295,"$8,314.86",db-02.green-davies.net,40830273,Asia/Jakarta,Ganda,1986-08-14,2018-10-31T15:23:20,13:36:03,GB,Russell Inc,28:b8:4c:71:d0:f0,bo,1992-09-02 23:28:16
+61.5919015,$0.14,email-40.wood-cook.com,9636612,Africa/Sao_Tome,Akan,2016-01-05,1970-02-13T21:12:47,02:48:43,GB,Lawson-Baker,71:2e:2b:ab:5a:58,cy,1976-07-30 08:55:54
+-59.3685745,"$3,528.87",db-63.wright-roberts.net,7894,Asia/Katmandu,Sindhi,1997-12-19,1985-10-10T03:53:04,03:34:00,GB,"Simpson, Taylor and Clarke",5a:7d:b4:4e:46:30,fil,2017-07-24 11:52:28
+-47.367256,$5.87,email-50.cook.biz,56540604,Pacific/Kwajalein,Sinhala,1994-05-04,1992-05-04T22:13:30,10:14:03,GB,"Taylor, Townsend and Hope",6e:c8:2b:c0:1c:71,te,1995-01-08 11:28:55
+75.367988,$256.41,laptop-39.burrows.com,901495745,America/St_Lucia,Tatar,2021-04-14,2011-07-31T06:16:49,20:19:09,GB,Carter-Wright,1d:ee:d4:04:61:8b,fil,1972-11-13 18:10:54
+-79.565231,$40.42,laptop-14.anderson.com,52103,Africa/Cairo,Igbo,1977-02-07,2012-12-28T11:32:33,09:32:56,GB,Powell Group,be:e0:12:21:55:14,pa,1973-06-30 01:18:22
+-59.311287,"$1,596.94",laptop-24.smith-parker.com,809707,Africa/Banjul,Slovenian,1978-11-25,2004-09-15T04:19:05,00:35:04,GB,Campbell LLC,f3:fe:34:56:4b:82,hak,1997-07-19 12:43:57
+-16.899494,$242.50,srv-22.thompson.com,85428417,Europe/Oslo,Western Frisian,1978-06-21,1981-07-02T06:21:16,07:50:21,GB,"Fletcher, Baldwin and Arnold",8f:15:7a:2d:99:8a,eo,2023-06-05 15:13:48
+-50.6842315,$759.82,desktop-96.simpson.com,8167033,America/Indiana/Marengo,Tajik,1994-05-23,1992-10-04T22:07:11,10:03:47,GB,Perry Inc,0b:f4:63:22:16:13,iw,2010-06-07 03:49:13
+-85.559833,$7.96,srv-50.fox.com,4305,Pacific/Apia,Russian,2000-05-15,1977-06-30T12:15:04,11:25:45,GB,Cook-Thomas,d9:6a:59:c9:88:dd,apn,1997-02-16 12:52:18
+-22.3006195,"$34,516.96",db-76.taylor.com,34464336,Atlantic/Reykjavik,Dutch,2018-12-30,1983-08-18T23:01:12,07:10:44,GB,Williamson Group,58:d5:7b:54:4d:15,cs,1975-04-07 05:40:39
+41.3005445,"$43,793.84",db-77.rogers.com,3534608,Africa/Kinshasa,Gaelic,1974-04-03,1994-01-05T22:22:52,21:45:20,GB,"Wells, Leach and Ryan",b2:c9:70:cb:2d:52,szl,1998-02-16 00:24:46
+-53.867005,"$73,614.30",laptop-52.banks.co.uk,5,Asia/Taipei,Luba-Katanga,2018-09-02,2010-08-26T02:47:59,16:27:17,GB,Hale Ltd,94:67:b7:ba:a0:da,oc,1990-05-30 09:56:13
+-43.0293515,$23.12,lt-85.daniels.org,8778283,Europe/Sofia,Sinhala,2013-06-25,2009-06-01T11:20:48,12:50:08,GB,"Campbell, Smith and Marshall",35:27:99:d2:7f:d4,th,1977-07-04 20:27:52
+16.541379,$8.71,db-95.hobbs.com,8216221,Africa/Blantyre,Fijian,1974-03-06,2023-09-08T20:32:18,21:33:10,GB,Parry Group,1c:74:d6:17:f0:36,ks,2002-06-12 00:12:57
+46.756114,"$5,214.72",srv-33.miles-metcalfe.biz,191704477,Pacific/Port_Moresby,Korean,2016-02-15,1993-08-17T10:28:00,00:41:48,GB,"Fleming, Hall and Moore",f3:e0:8c:cf:61:7c,af,1990-06-11 07:37:37
+40.5349535,$78.94,srv-67.russell.com,122525156,Africa/Bangui,Romansh,1997-01-12,2018-09-17T21:01:59,07:47:45,GB,O'Connor LLC,5b:77:67:39:dd:62,tn,1998-05-10 02:42:46
+-65.749612,$932.48,srv-57.gardner.info,167,Europe/Chisinau,Aragonese,2007-07-01,1998-10-27T14:40:30,14:10:08,GB,Rowe PLC,8b:e2:d9:3f:b3:55,hi,1995-06-11 19:51:26
+89.024760,"$48,884.46",email-25.marsden.com,288252,Africa/Luanda,Sardinian,1976-06-07,2022-07-30T23:48:37,06:39:21,GB,"Ford, Taylor and Dodd",36:fb:35:90:0a:b5,fr,1988-12-21 13:14:02
+65.309075,"$48,550.58",db-45.bennett-wilson.com,7735333,Africa/Bamako,Malayalam,1992-11-02,1973-09-23T18:20:33,09:20:11,GB,"Patel, Gardiner and Reynolds",e2:02:e8:a2:86:b9,fa,1989-08-20 17:33:20
+-81.669973,"$98,365.36",web-73.hill.net,4835623,Europe/Sarajevo,Armenian,1999-10-29,2008-04-25T02:54:28,04:49:41,GB,Shaw-Brookes,a2:4c:9c:4b:89:34,brx,1977-08-25 01:52:26
+65.3115055,$69.66,srv-93.marshall-newman.com,9139,Asia/Aden,Avaric,1984-03-30,1980-08-21T07:47:30,01:34:42,GB,"Howell, Whittaker and Taylor",63:17:7d:f8:4e:99,te,2013-06-05 22:40:23
+2.1889485,"$39,368.63",web-21.martin.com,432639238,America/Port_of_Spain,Basque,2009-06-24,2023-02-04T17:41:47,19:55:11,GB,Bartlett-Pearce,f8:67:a7:c7:44:37,bhb,1977-10-07 13:29:24
+25.536371,$86.63,lt-74.turner-newton.co.uk,85,Africa/Accra,Hebrew,2018-10-19,2005-01-21T01:14:28,15:06:52,GB,Simpson LLC,c2:c6:09:d3:8d:b2,ga,1972-07-20 11:55:20
+-65.7393375,"$14,218.88",lt-67.clark.com,436797,Africa/Tripoli,Spanish,1978-03-08,1999-11-14T10:17:12,22:51:43,GB,Pratt-Martin,23:e4:57:bc:fd:40,as,1983-11-03 20:58:54
+-58.044912,"$14,745.07",email-94.day.com,1,Africa/Lome,Swati,1995-06-04,1998-03-25T21:27:05,01:05:19,GB,Williams-Cox,c7:62:90:91:55:fa,hi,2013-06-15 18:20:15
+3.6735695,$5.86,email-46.watson-higgins.com,364240,Asia/Samarkand,Aragonese,2003-01-18,2020-06-20T18:47:08,05:07:31,GB,Kay-Bevan,5f:6d:27:49:77:c4,hy,1973-10-09 06:59:20
+85.557729,$56.94,db-40.dennis.org,364005477,Europe/Minsk,Malagasy,1972-08-28,1984-02-01T18:32:39,13:03:58,GB,Rose-Morrison,eb:9e:b4:07:57:71,the,2016-08-10 06:21:10
+25.435711,$468.48,desktop-79.grant-walker.co.uk,473240040,America/St_Vincent,Ganda,2001-03-18,2000-10-04T06:14:20,03:40:42,GB,Wright Ltd,b6:7c:7f:e0:77:ad,cmn,1970-12-19 07:51:55
+61.173067,"$15,109.24",lt-98.scott.com,90297495,Europe/Bratislava,Ndonga,1980-03-22,2004-01-02T11:11:26,19:07:37,GB,"Naylor, Smith and Green",c3:53:ff:a2:d3:fc,shs,1992-11-07 10:04:18
+-10.8538035,$276.81,email-19.ingram-randall.co.uk,90053,Africa/Conakry,Kanuri,2004-08-24,1982-12-01T08:37:55,09:50:09,GB,Dawson-Hunter,57:74:5e:c4:82:6b,mni,2013-02-27 21:35:09
+73.9502505,"$98,781.64",email-10.pritchard.com,11803651,Asia/Colombo,Serbian,2015-12-11,1974-01-24T07:35:30,06:10:30,GB,Cunningham-Marshall,36:0f:dd:00:cd:46,cv,2007-01-11 15:44:30
+-33.8853805,$9.94,laptop-04.collins-smith.com,584,Asia/Seoul,Turkmen,2019-02-14,2016-09-04T08:33:30,14:53:57,GB,"Collins, Stone and Steele",85:99:41:67:2e:30,ug,1992-08-17 03:49:35
+4.7455745,"$4,509.36",desktop-12.taylor-fox.com,951924,Europe/Tallinn,Tibetan,2008-05-21,2017-05-16T23:47:48,18:43:38,GB,"Lloyd, Brady and Farrell",55:cf:ac:10:50:d5,szl,1984-09-12 07:27:11
+-18.390101,"$92,256.89",email-88.walters-watson.biz,66626930,Africa/Dar_es_Salaam,Bashkir,2015-02-19,1971-01-09T07:38:31,19:55:10,GB,Hill Ltd,83:27:28:eb:27:ce,uk,1975-07-27 14:22:41
+8.179670,"$8,809.12",laptop-39.rose-burgess.com,604,Asia/Bangkok,Dzongkha,1982-10-13,2010-08-20T06:12:57,18:22:40,GB,"Hunt, Atkinson and Butcher",0e:8a:f4:40:1a:3f,lo,1994-12-14 19:02:29
+-56.1123085,"$8,242.15",desktop-97.thomas.com,753894,Asia/Bangkok,Galician,2004-09-15,1973-10-30T10:20:24,20:22:26,GB,"Ward, Johnston and Hussain",ba:e2:33:b9:09:e6,ne,2022-10-25 01:10:26
+-1.0159355,"$9,585.01",web-04.oneill.biz,8170,Asia/Seoul,Somali,1992-07-07,1982-03-26T18:39:47,13:26:32,GB,Hancock PLC,6b:9c:79:33:92:a1,ht,2009-12-04 19:32:08
+14.9073525,$204.26,lt-58.wong-gregory.co.uk,20,Europe/Berlin,Yoruba,1982-03-04,2003-04-15T05:59:33,03:52:06,GB,"Fuller, Dawson and Wheeler",5c:aa:61:5b:6e:0a,mk,2001-05-02 10:15:23
+46.3920375,"$24,495.31",srv-03.parry.com,385725,Europe/Stockholm,Armenian,1984-02-17,2022-12-29T21:34:40,02:02:31,GB,Roberts Group,b3:53:07:a6:a3:c0,ca,1992-03-31 12:20:26
+-41.331620,$814.46,desktop-14.reid.org,920822055,Europe/Istanbul,Danish,1985-06-26,1995-08-06T11:25:45,21:00:31,GB,"Reynolds, Wilson and May",75:92:53:8e:1d:d5,eo,1982-02-16 17:02:35
+-83.5108315,$608.26,db-29.jones.com,8632343,Europe/Minsk,Lingala,1986-12-26,2016-11-29T15:19:08,21:52:03,GB,Mills-Woods,16:e9:6b:c7:2e:11,iw,1997-04-24 01:44:34
+74.2656015,"$52,389.73",web-40.ahmed-carey.biz,707831,America/Belize,Quechua,2014-06-03,1997-06-16T09:25:44,15:06:55,GB,"Brown, Patel and Hudson",a2:fb:af:39:40:01,se,1978-02-21 11:13:26
+88.4141115,$8.22,desktop-98.jarvis.com,50,America/Winnipeg,Malayalam,2021-12-24,1975-06-08T17:55:17,02:56:06,GB,"Jones, Robinson and Morgan",1a:94:55:58:92:b8,zu,2008-08-11 10:58:00
+-15.7332035,$759.49,web-76.wells.com,112267954,Europe/Istanbul,Hebrew,1987-03-09,2020-01-01T08:27:45,19:12:05,GB,Singh LLC,77:73:d9:9b:eb:7c,yi,1989-08-27 15:30:55
+-28.0445255,$32.26,email-20.taylor.com,97,Europe/Vaduz,Tswana,2012-05-08,2013-07-21T14:15:42,08:34:46,GB,Walters-Mitchell,84:d0:28:10:9f:6d,eu,2008-08-27 18:04:21
+36.1917925,"$5,656.83",srv-46.thompson.com,3663887,America/Santiago,Spanish,1983-04-13,1996-02-29T13:28:53,12:34:56,GB,"Steele, Barnes and Simmons",10:ac:da:a6:a8:ff,fr,1999-10-02 00:16:00
+-6.6128885,"$1,496.80",db-05.greenwood-berry.biz,6171288,Pacific/Kiritimati,Kannada,2007-01-05,1972-08-29T01:13:54,08:24:37,GB,"Smith, Glover and Smith",0a:20:de:ea:6a:d6,sl,1993-07-18 20:16:47
+-67.763395,$479.11,lt-43.joyce.org,7379,Africa/Conakry,Avestan,2002-12-03,1995-12-01T03:19:48,20:20:39,GB,"Begum, Stevens and Pugh",cb:70:cc:7f:b2:4f,an,2005-10-21 17:55:23
+-37.9098945,$410.14,lt-16.barnes-clarke.com,3649317,Europe/Budapest,Sardinian,2022-02-08,1985-02-02T06:23:46,09:22:48,GB,Webster Inc,a0:5f:1f:d0:04:46,ig,1977-05-05 15:38:40
+23.584862,"$28,602.12",db-85.roberts.biz,31072555,Africa/Gaborone,Kalaallisut,2011-02-02,1982-12-23T02:45:51,16:50:51,GB,Hudson-Smith,a5:96:ea:1e:32:be,doi,1991-07-12 13:39:16
+86.753723,$5.95,db-44.wallis.info,2,Asia/Colombo,Maltese,1994-06-13,2002-09-10T19:35:14,05:14:43,GB,Moore Ltd,50:7f:bb:40:38:58,tr,1992-05-26 17:54:58
+65.8841155,$51.30,lt-16.storey-matthews.org,7810801,America/Manaus,Hindi,1974-11-08,1982-07-28T01:15:11,04:04:41,GB,"Williams, Miles and Walton",1a:cb:e1:68:00:06,shs,2014-03-20 16:11:52
+22.826789,$9.00,db-71.martin.org,797577,Europe/Vienna,Latvian,2009-09-07,1971-04-08T02:45:17,01:39:08,GB,Jackson Ltd,14:4e:97:61:d7:d9,tl,1996-07-20 15:04:58
+10.6901945,$849.33,db-29.davis-cook.com,174,America/Paramaribo,Amharic,1985-06-01,2002-08-09T10:52:03,22:33:58,GB,Pope and Sons,6a:dd:e2:73:98:1f,vi,2002-02-06 12:12:49
+-41.104319,$4.24,email-18.wilson-hope.com,6622938,Asia/Baku,Inuktitut,1978-08-29,1979-11-21T20:55:40,13:54:09,GB,"Cook, Heath and Franklin",e7:c4:5a:3e:d2:28,de,1979-07-28 12:25:50
+16.237355,"$41,473.52",lt-90.wallace-moore.com,7,Africa/Bamako,Tsonga,1999-01-13,2004-11-27T19:42:07,22:54:44,GB,Davies Ltd,c0:91:f9:61:cf:30,or,2017-11-04 13:03:50
+37.301912,"$36,765.74",desktop-30.fletcher-wilson.org,7,Africa/Addis_Ababa,German,2012-08-22,2001-05-30T04:41:15,06:32:07,GB,Turner and Sons,25:77:ae:f3:a5:89,ik,2020-02-28 01:47:17
+-63.047151,$5.73,laptop-60.thomas-kent.com,796587364,Asia/Tbilisi,Tahitian,1980-04-18,2019-03-27T09:42:10,10:20:19,GB,Marshall Group,1c:b7:26:b0:c8:14,et,2017-07-04 12:48:07
+18.676869,$50.58,desktop-29.murray-hall.com,526150378,Asia/Vientiane,Limburgan,1992-06-09,1989-11-16T15:40:09,12:30:29,GB,Williams-Williams,d4:e0:32:e9:a0:17,lo,2011-04-03 15:21:23
+-0.3506855,$588.29,srv-60.mckenzie.com,85038,Pacific/Nauru,Marshallese,1995-09-10,1975-04-10T20:18:11,11:31:32,GB,"Barber, Bond and Wilson",31:54:0a:41:01:40,ht,2000-03-09 23:10:54
+-14.2600895,$4.18,lt-28.woodward.com,65764095,Africa/Luanda,Kanuri,2014-10-20,2000-11-17T23:35:33,22:22:06,GB,"Adams, Davies and Craig",04:33:f4:f7:22:68,is,2004-09-04 00:25:42
+24.5915615,$40.73,email-20.johnson.com,8771845,Europe/Copenhagen,Azerbaijani,2018-10-05,2009-02-26T15:44:52,02:44:45,GB,Cox-Roberts,42:6b:40:1d:78:d6,ms,2015-04-18 19:59:15
+67.222019,$5.87,srv-61.clark.org,65244405,Asia/Baku,Nepali,1974-09-16,2006-06-21T12:04:07,08:08:05,GB,Lord Ltd,19:da:23:32:eb:d6,si,2019-02-18 14:51:40
+17.3155705,$90.60,desktop-72.mills-norman.net,8,Africa/Ndjamena,Estonian,1981-07-05,2000-09-29T21:09:06,13:42:56,GB,Shaw and Sons,c0:d5:78:57:54:49,hu,2003-11-28 20:55:45
+25.981533,"$45,277.27",email-35.wright.biz,509,Africa/Conakry,Walloon,1970-06-30,1975-11-11T16:12:58,09:09:01,GB,Johnson Group,b1:ea:ef:9d:c4:5f,ast,1971-08-21 16:14:22
+27.1534345,"$6,293.93",db-88.harrison.com,38527317,Asia/Baghdad,Malagasy,2016-10-31,2009-06-30T14:32:13,11:52:27,GB,Roberts Ltd,7a:a0:3f:63:ed:28,wa,2011-06-24 17:48:33
+-52.7085655,$7.73,laptop-61.smith-richardson.info,955025,Africa/Kampala,Kalaallisut,1979-03-26,1997-04-11T03:03:53,14:58:44,GB,Miller Group,fa:f5:37:8c:78:f4,xh,1994-07-30 13:38:54
+70.455194,$565.68,lt-19.jones.info,636404,Africa/Conakry,Twi,1980-12-02,2003-07-14T17:35:59,02:45:20,GB,"Clarke, Brady and Griffiths",b5:eb:93:54:97:15,ss,1988-12-31 12:51:49
+-38.490677,"$32,834.96",db-02.murray.com,1424,America/Port_of_Spain,Japanese,1971-04-06,2021-02-05T14:35:55,10:40:30,GB,"Power, Wright and Kent",49:20:13:62:e8:9c,ne,2003-08-25 11:03:00
+-25.056455,"$6,507.70",lt-29.wilson-anderson.net,93,Africa/Mbabane,Kuanyama,1994-09-25,2017-05-07T13:28:35,17:39:04,GB,King LLC,a9:40:3a:71:45:46,de,1979-06-28 03:41:45
+50.245400,"$32,106.74",srv-75.morris.org,638,Pacific/Auckland,Romanian,1984-07-18,2014-04-17T17:49:31,22:06:25,GB,"Griffiths, Bray and Williams",a0:7e:5c:fe:8b:92,ca,1984-10-15 11:33:41
+27.5101265,$6.71,email-03.blake-henderson.com,1,Europe/San_Marino,Aragonese,2007-01-27,2018-02-27T17:59:56,20:23:28,GB,Cross and Sons,99:8a:a6:05:2b:77,ve,2016-01-05 15:14:29
+56.206200,$560.93,email-78.booth.com,24595,Asia/Dushanbe,Occitan,2017-07-02,1971-02-26T16:31:35,07:03:09,GB,Townsend-Hale,e9:41:65:f5:d7:25,lv,1998-09-05 14:24:56
+-36.938831,"$4,824.59",laptop-98.matthews.biz,8,Africa/Bangui,Inuktitut,1977-12-18,2017-10-15T19:37:24,07:10:43,GB,Green-Ford,6b:76:77:e9:0f:ce,fo,2015-07-09 22:16:36
+-16.8657895,$7.83,lt-06.davies-moore.com,166,Asia/Bahrain,Wolof,2010-10-08,1986-02-03T08:26:07,20:32:50,GB,Mitchell PLC,ae:95:dc:12:f9:f3,ka,2003-11-27 09:20:24
+49.9989185,$943.20,srv-96.mckenzie.biz,6051477,Europe/Bucharest,Gujarati,1998-10-24,1995-08-17T11:13:42,02:39:05,GB,"Wilson, Alexander and Bradley",e3:18:4f:cb:da:a5,ss,1993-03-19 13:17:41
+36.3312985,"$47,609.16",web-33.wallace.net,3481078,Pacific/Palau,Serbian,1977-05-11,1991-03-17T07:53:28,01:00:53,GB,Davies-Jones,6c:e5:1a:b8:32:89,si,1976-12-06 20:39:46
+-58.216852,$94.22,web-51.collins.info,26466,America/Havana,Arabic,2023-08-01,1983-03-05T05:54:33,12:35:07,GB,Pearce-Thomas,d7:be:dd:1b:69:96,mai,1970-08-17 00:52:33
+62.2592275,"$79,207.25",email-52.banks.biz,27798,Asia/Gaza,Marshallese,1996-08-22,1998-02-02T13:32:13,12:20:35,GB,Benson-Robson,30:1b:9c:46:70:6b,gl,2014-01-15 15:35:15
+89.401052,$382.83,laptop-13.thompson.info,568,Africa/Nairobi,Slovak,2012-09-19,1983-08-12T02:58:55,17:47:03,GB,Sharp and Sons,05:fb:8e:b3:23:8b,es,2009-03-15 07:47:51
+5.7806435,$382.50,db-68.thompson-morris.biz,798,Atlantic/Cape_Verde,Bambara,1988-12-22,2009-10-26T08:21:30,08:41:24,GB,Riley Ltd,1b:67:d0:33:c9:97,fi,2019-12-01 00:57:43
+84.674942,$20.17,email-28.arnold.com,2,America/Guayaquil,Lao,1984-05-26,2011-05-08T17:23:34,23:19:38,GB,Fisher-Nicholson,0b:16:a7:56:6d:fb,nl,1982-11-16 19:27:45
+42.628588,"$2,292.88",srv-48.howell-murray.biz,793,Africa/Bangui,Irish,1970-02-15,2001-07-17T20:42:49,14:21:01,GB,Miller Group,2c:ed:88:7e:f8:58,tl,1973-01-23 01:40:13
+-33.409595,"$91,269.54",srv-93.roberts-ahmed.com,51,America/Managua,Bihari languages,2000-02-22,1995-09-24T23:35:36,22:53:00,GB,Perkins and Sons,4b:c4:e0:b8:ef:8d,ak,2012-07-23 19:09:58
+6.309015,$8.84,desktop-14.hayes.com,371910,America/Havana,Fulah,2009-05-25,1987-05-13T23:52:27,15:31:26,GB,McDonald-Birch,88:39:ba:48:a2:4e,tl,1979-10-24 23:02:30
+-6.6518155,$42.11,desktop-50.collins.co.uk,33,America/Tijuana,Bambara,1988-09-24,2004-05-16T15:59:07,22:56:38,GB,Bennett-Donnelly,2f:6c:34:6d:e9:06,da,2009-03-12 11:14:59
+58.819125,"$8,604.54",desktop-26.williams.org,59349696,America/Grenada,Maori,1977-03-29,1990-02-11T06:48:21,02:33:02,GB,Hancock-Dunn,21:c1:f2:3d:4d:6d,nan,2019-04-02 08:42:03
+-29.014006,"$22,664.47",web-49.holland.co.uk,773,Europe/Tirane,Shona,1990-10-22,1972-03-05T10:29:14,01:28:37,GB,"Mills, Evans and Barry",1a:ef:11:f0:4d:a6,gd,2009-04-24 08:22:53
+12.6140505,$789.02,web-67.robinson.co.uk,68,Asia/Vientiane,Wolof,2007-10-27,1981-01-16T07:43:32,22:23:21,GB,Payne Group,f6:c9:e6:de:59:cb,bg,2018-02-02 07:16:45
+6.2116705,$656.11,lt-35.faulkner.biz,824,Asia/Thimphu,Polish,2020-01-14,1978-12-20T08:41:45,11:23:17,GB,"Short, Mellor and Robinson",a2:3e:59:72:c7:8c,de,2011-07-28 18:12:12
+6.177064,$0.51,desktop-35.sanders-newman.com,7,America/Asuncion,Dutch,2011-12-10,2015-06-15T10:10:12,06:57:49,GB,Begum-Payne,65:de:8b:40:6f:db,os,2021-05-28 15:12:25
+58.357091,$0.28,web-79.odonnell.net,363,Africa/Harare,Chinese,2013-10-21,2002-02-03T01:08:26,23:41:52,GB,"Joyce, Jenkins and Smith",36:4f:69:a4:71:ec,as,2014-07-11 12:08:58
+-33.8409275,$10.69,laptop-95.henderson-brown.com,712704,Asia/Kabul,Mongolian,1975-03-30,1972-08-19T22:33:41,16:25:54,GB,"Clayton, Ashton and Daniels",6b:38:1f:77:66:8d,ky,2009-10-20 20:04:50
+8.442188,$5.45,web-67.jones-khan.co.uk,188632459,Africa/Maseru,Icelandic,1974-09-25,2008-03-27T19:47:34,21:21:24,GB,Mitchell Ltd,71:22:e7:0c:94:a2,crh,1988-08-01 02:03:20
+64.013038,$565.48,web-62.stevens.com,6470407,Africa/Luanda,Komi,2007-05-13,1997-06-03T23:58:10,16:10:09,GB,Butler Inc,8e:d5:35:8b:0e:9d,uk,2020-12-14 17:16:07
+-61.2594045,$705.49,lt-17.johnson.info,882,Australia/Brisbane,Bengali,1995-05-07,1973-09-09T20:35:39,21:03:57,GB,Lyons-Moore,bb:f1:ae:aa:98:03,doi,2012-04-21 23:56:02
+-72.939181,"$39,858.47",lt-20.anderson.org,912795,Africa/Cairo,Interlingue,1971-11-17,1981-11-01T18:42:32,05:03:53,GB,Phillips-Rose,9c:eb:d6:7e:79:68,cy,2010-02-21 08:25:55
+-77.4167185,$0.55,lt-71.jones.org,70,America/Bogota,Portuguese,2019-01-04,1989-10-11T09:35:08,03:38:29,GB,Phillips-Donnelly,8a:ac:6a:1e:4c:63,mn,2006-06-03 23:38:03
+37.434682,"$31,262.11",web-64.smith.com,40363,Asia/Nicosia,Inuktitut,1990-08-05,1972-07-09T03:21:36,22:08:38,GB,Parry-Miles,46:d9:92:18:68:c5,yi,1996-02-19 14:18:12
+-28.437908,$607.38,web-14.yates.com,5557989,Asia/Dubai,Polish,1986-11-09,2004-03-12T07:32:05,06:06:11,GB,Jenkins-Harrison,a3:a9:6e:1e:b1:0f,gd,1978-11-12 10:27:35
+-83.7507165,"$7,825.90",desktop-43.burns-evans.co.uk,246856,Europe/Zaporozhye,Croatian,1983-11-17,1996-06-26T05:56:35,05:37:03,GB,Thompson PLC,f5:aa:f4:dc:f2:be,tt,1985-08-07 09:32:56
+-1.8339985,$529.72,srv-52.tyler-rose.com,20011266,Atlantic/Reykjavik,Chuvash,1998-09-05,2013-09-24T17:01:03,14:05:28,GB,Walker-John,bc:87:a0:44:99:18,ml,2012-09-28 22:33:02
+-89.3677355,$750.28,email-67.rahman-spencer.com,3403675,Pacific/Majuro,Zulu,2015-04-04,2022-01-04T11:26:23,08:12:01,GB,"Morgan, Chandler and Jackson",9e:9f:4f:14:00:49,yo,2014-01-08 04:28:26
+57.138923,"$67,932.13",email-06.davey-hobbs.org,4102,Asia/Phnom_Penh,Polish,2005-09-30,2004-11-30T05:23:49,07:38:39,GB,King-Lee,70:cf:e7:f2:80:ca,crh,1999-04-23 03:33:09
+9.236570,$41.77,laptop-97.dixon.com,6,Africa/Kigali,Komi,1977-05-24,2003-03-23T20:45:32,04:48:27,GB,Howe-McDonald,da:ed:a7:aa:52:05,mag,1983-04-30 21:20:13
+60.690370,"$3,285.03",web-63.khan.co.uk,2,Europe/Sarajevo,Ndonga,1971-06-28,2014-03-15T00:22:44,11:45:51,GB,Hunter Ltd,cb:00:c1:84:90:75,ff,2003-01-22 14:49:38
+45.275704,"$13,857.48",lt-15.webb-gray.org,987,Europe/Sarajevo,Swati,1991-03-14,1999-03-05T21:48:09,05:07:16,GB,Sharpe-Lloyd,08:5d:c2:9c:a2:b1,tr,1982-01-10 22:13:57
+61.188911,$50.09,srv-14.carr-jones.com,834,Europe/Brussels,Nepali,1998-09-27,2003-07-20T08:53:18,16:58:05,GB,Evans Ltd,d0:5b:0e:6a:f6:cc,mn,1976-03-26 19:18:49
+24.325439,"$7,119.80",web-17.read-mitchell.info,596760351,Africa/Harare,Swedish,1992-09-11,2011-01-12T17:51:36,17:19:33,GB,"Rice, Lane and Jones",6c:38:af:17:27:5d,ru,1997-11-18 14:30:51
+4.4424165,"$8,251.29",db-73.palmer.com,0,America/Santiago,Norwegian,2013-03-20,2008-05-16T10:56:05,20:19:37,GB,Cox-Waters,53:6a:3c:f6:ca:2d,sw,1995-03-04 08:36:53
+-73.4774905,"$39,735.39",web-18.richards.net,78,Africa/Libreville,Corsican,1981-10-11,1973-05-01T06:09:57,11:38:14,GB,Jennings PLC,9e:fc:d4:be:f2:ca,hr,2000-02-25 14:04:41
+-45.841993,$1.78,desktop-91.coleman-harrison.info,69540,America/Nassau,Igbo,1973-04-23,1970-06-20T04:26:23,19:04:30,GB,Pearce-Law,8f:cb:15:04:82:d3,nr,2017-02-19 23:10:16
+-86.2963415,"$1,195.25",desktop-28.jones.com,647586,Atlantic/Azores,Kalaallisut,1985-01-13,2007-08-09T20:22:42,14:13:32,GB,Moran-Ahmed,46:c2:d4:66:56:c4,lt,2004-12-11 18:25:59
+16.2919265,$97.41,laptop-59.thompson.com,2150,Africa/Bangui,Herero,2007-05-05,1974-10-16T16:32:59,12:51:25,GB,McDonald LLC,91:98:a8:07:02:7f,hi,2001-05-26 07:16:07
+-23.958038,$3.78,lt-26.brown.net,167,Africa/Maputo,Hausa,1990-09-28,2000-01-22T10:30:14,21:13:19,GB,"Williams, Cooper and King",e2:5f:ce:9f:76:02,lo,1982-09-01 16:25:53
+-54.828113,$9.65,lt-56.rees.com,83,Pacific/Port_Moresby,Swedish,1990-11-19,1993-09-20T19:13:29,11:28:43,GB,Bennett-Oliver,39:da:d8:69:5f:af,fil,1973-11-06 21:49:18
+83.7244245,$7.47,desktop-26.taylor.com,339884,Indian/Comoro,Hindi,1978-07-29,1973-12-14T16:17:27,09:39:26,GB,Lewis LLC,40:cd:8f:46:e1:eb,ky,2019-03-05 09:44:23
+-2.006116,"$4,160.86",srv-33.lee.co.uk,384949,Europe/Belgrade,Ossetian,2000-02-26,1992-12-11T13:14:56,22:11:37,GB,"Bailey, James and Wood",ae:81:76:3c:40:6e,mg,1981-08-24 07:18:47
+46.625895,"$33,894.29",email-50.pearson-clarke.info,639,Europe/Monaco,Norwegian,2013-01-10,2000-05-16T06:33:12,13:19:36,GB,Taylor-Bowen,b7:8a:ca:32:f8:21,fil,1971-12-26 02:21:49
+-17.2980305,$323.21,desktop-93.smith.info,2852,Europe/Sofia,Chamorro,1978-12-20,2018-01-17T23:01:33,04:03:37,GB,Newton-Newton,61:42:c4:92:4f:d6,raj,1996-03-26 19:20:26
+-20.9751865,$599.73,web-15.hall.com,717386564,Africa/Bangui,Western Frisian,1986-01-21,2005-08-10T19:09:59,00:02:22,GB,"Marshall, Robinson and Burgess",17:8f:9a:9f:da:02,fo,1987-10-22 14:38:12
+-83.084177,$96.89,web-34.ryan.com,609977,Pacific/Nauru,Dzongkha,1997-02-12,2020-08-14T00:46:24,10:07:03,GB,Johnson-Walker,c6:c1:fb:c6:a6:d4,hi,1992-07-02 16:27:01
+-8.3327005,$4.53,web-35.rice.com,7,Europe/Berlin,Ukrainian,2013-11-15,1986-10-30T00:05:39,17:12:07,GB,Barry-Woodward,01:07:db:9a:39:19,mhr,1994-12-03 10:22:47
+-44.669593,"$6,409.19",desktop-95.davies.com,3,Asia/Tokyo,Georgian,1990-07-11,1978-02-15T15:46:23,17:05:51,GB,Rowe Ltd,4d:b8:50:b1:9d:27,he,1991-12-18 01:19:00
+33.144761,"$5,754.74",laptop-56.gill-preston.com,180714058,America/Guatemala,Nepali,1992-12-15,1980-02-26T00:25:24,01:39:23,GB,Pearson-Kaur,6f:18:88:c2:83:55,sw,1981-05-07 01:43:03
+-66.095086,$7.12,email-53.gardner.com,54,America/Caracas,Sindhi,1986-12-08,2001-11-01T10:28:57,09:13:11,GB,Clarke-Wilson,5a:b3:34:b4:f1:87,lt,1975-10-05 10:31:01
+-79.274196,$412.08,email-99.jones.org,5128212,Africa/Windhoek,Breton,1993-04-29,1995-09-28T22:34:37,12:51:21,GB,Allen-Khan,9d:d5:60:e1:3f:18,ml,1972-01-09 13:44:43
+0.201273,$19.14,desktop-76.harding.net,64491591,Africa/Algiers,Kanuri,2002-01-05,1975-08-01T13:00:13,02:49:27,GB,"Hughes, Godfrey and Mitchell",8f:34:08:c3:29:29,tcy,2008-10-28 06:14:27
+-2.370160,$4.64,laptop-18.hamilton-shaw.com,69672,Africa/Brazzaville,Haitian,1983-11-01,2010-05-31T05:32:17,00:21:39,GB,"Walsh, Griffin and Brown",5c:22:37:e7:db:fd,xh,1981-09-14 09:47:21
+52.455408,"$48,839.50",laptop-04.dawson.com,1445849,America/Paramaribo,Ojibwa,1990-05-28,1990-02-20T07:51:56,11:03:48,GB,"Rose, Knight and Bell",ac:a0:65:02:7f:c2,iu,1984-11-21 09:58:53
+-74.1830505,$27.51,laptop-85.thorpe.net,119881,Africa/Ndjamena,Sindhi,2020-11-11,2014-05-05T21:24:59,21:17:11,GB,"Hall, Taylor and Dawson",b7:a6:e6:40:76:17,ga,1992-09-03 10:00:12
+15.4232755,$8.72,srv-36.lee.com,810,Africa/Harare,Aymara,2006-07-05,2002-11-30T06:18:59,14:31:15,GB,Newton Ltd,89:24:9a:8c:96:dd,apn,1972-07-22 15:58:19
+-8.349477,$209.37,email-82.anderson-rahman.com,673431677,Africa/Addis_Ababa,Pushto,1981-06-19,1989-07-19T05:09:16,06:55:20,GB,Allen LLC,aa:1e:b5:a4:16:f4,ber,2020-03-22 00:18:36
+-34.7945455,"$6,215.24",srv-58.walker.com,257937,Atlantic/Cape_Verde,Inuktitut,2003-09-22,1982-06-22T06:57:04,12:50:58,GB,Jackson-Gordon,e6:2c:29:20:46:f5,cy,1977-12-15 00:24:12
+-24.1980575,$0.67,db-54.smart.org,2264902,Europe/Luxembourg,Sanskrit,1993-09-29,1986-01-31T22:20:05,12:04:19,GB,Wilson-James,12:08:d3:24:f7:12,iu,1994-07-12 17:13:12
+-64.2598105,$472.82,db-67.williams.net,801764173,Africa/Ndjamena,Estonian,2007-05-23,2021-06-30T15:24:21,18:46:56,GB,Harrison and Sons,ee:a6:e4:36:fa:98,ff,2016-03-27 08:25:01
+77.2513795,$373.59,lt-34.bolton-lee.com,73669,Indian/Mahe,Finnish,2012-12-07,2003-04-06T06:40:41,22:41:35,GB,Hughes-Roberts,11:40:63:b2:2d:19,dv,1999-08-03 22:52:18
+0.523799,"$2,316.33",desktop-69.carey-gibson.com,1014089,Pacific/Auckland,Oriya,2022-03-16,2001-08-10T17:26:32,08:43:15,GB,"James, Doyle and Iqbal",62:2b:56:c8:c3:dc,is,2012-03-31 05:23:56
+3.626052,"$21,695.86",db-65.davies.org,815654788,America/St_Vincent,Croatian,2017-10-04,1989-05-10T17:52:31,11:16:44,GB,Noble Inc,76:58:b0:2a:96:01,hak,2020-01-22 17:52:37
+73.505711,$87.32,db-80.wright.com,604,Europe/Malta,German,1987-11-21,2001-12-19T23:02:08,05:05:35,GB,"Smith, Young and McCarthy",42:32:36:e6:b5:03,sk,1971-07-26 14:02:27
+-36.110562,"$9,568.13",db-60.cooke.co.uk,67,Africa/Monrovia,Latvian,2013-03-29,1993-12-15T06:54:48,04:37:39,GB,Hill and Sons,61:16:b9:01:3d:68,li,1983-07-20 18:16:29
+49.844114,$35.13,db-71.lynch.biz,689509,Africa/Khartoum,Walloon,2004-03-25,1979-04-19T23:47:02,11:09:32,GB,Richardson-Reid,45:8f:f2:1b:9b:3b,sd,1997-11-14 03:28:00
+-67.814496,$130.33,srv-71.begum.com,9244,Indian/Antananarivo,Swedish,1972-01-11,2023-08-09T19:23:19,16:26:30,GB,Whittaker-Dawson,19:d6:a5:60:fc:54,mhr,1986-03-27 13:10:25
+7.720742,$989.61,srv-22.moore.co.uk,726257,Africa/Conakry,Hindi,1983-04-25,1984-08-07T03:54:59,01:07:00,GB,Chamberlain Group,40:8c:6c:f3:04:d6,csb,1991-05-29 11:19:36
+65.6645255,$57.02,lt-44.davies.org,2,Pacific/Palau,Yoruba,2004-05-28,2018-09-17T03:32:26,22:43:43,GB,"Nicholls, Abbott and Elliott",a0:4a:3d:77:d1:93,mt,1985-06-26 07:09:38
+-73.1349175,$424.69,db-85.rowe-richardson.co.uk,62,America/Grenada,Urdu,1993-12-30,1992-01-22T19:39:05,06:39:35,GB,"Vincent, Price and Francis",a6:1c:dd:b6:36:be,lg,2000-02-08 09:44:19
+-10.944883,$31.01,email-37.cooper.com,186037705,Europe/Minsk,Central Khmer,1996-04-07,2021-02-03T23:26:23,16:21:19,GB,"Daniels, Jones and Perkins",61:6f:a0:a0:56:44,hsb,1987-07-29 08:58:37
+-81.5455995,"$10,093.14",desktop-15.turner.com,6748810,Africa/Djibouti,Yoruba,1979-01-21,2015-01-20T10:20:52,18:55:24,GB,Newman LLC,b3:b4:65:b9:7f:d1,fi,1978-03-30 09:27:58
+55.848104,$5.89,db-37.parsons-oconnor.com,14046,America/Costa_Rica,Thai,2016-07-30,1991-01-05T19:14:08,00:13:35,GB,Preston-O'Sullivan,7c:84:59:bf:66:af,nl,1994-02-24 16:37:19
+54.163793,"$3,048.44",srv-08.marsh.info,62,America/Campo_Grande,Armenian,1992-11-22,1970-04-08T13:11:54,02:52:25,GB,"White, Day and Foster",1a:f3:e7:02:57:5a,cmn,1984-05-08 07:26:10
+-30.0620275,$131.84,email-19.richards-bell.com,6579170,Africa/Nouakchott,Galician,2010-10-12,1999-06-21T23:14:08,07:30:50,GB,Williams Group,10:74:dc:f8:ab:f4,mai,2014-02-01 12:53:14
+-6.673497,"$3,111.30",web-31.kelly.net,429,Africa/Malabo,Corsican,2003-04-05,1993-03-01T03:55:49,23:46:27,GB,"Heath, Williamson and Lee",2c:a7:76:f3:0d:e9,nds,1974-05-14 10:22:34
+36.644715,$196.77,laptop-94.manning.com,873983904,America/Asuncion,Lithuanian,2003-01-12,2015-04-30T16:29:31,13:52:03,GB,"Shepherd, Bennett and Edwards",39:f9:dd:f3:33:2d,ts,1973-03-14 18:50:10
+45.554559,$7.87,db-91.burgess.com,57,Africa/Bangui,Greek,1989-09-30,1984-04-16T06:33:24,01:20:05,GB,Wright-Thompson,26:dd:12:5a:a9:c5,si,2003-04-26 21:06:55
+-40.073185,$942.42,srv-05.moore-thornton.com,16,Europe/Tirane,Romanian,2012-01-28,2014-11-05T01:28:11,21:54:37,GB,"Hudson, Porter and Whitehouse",a2:5b:b7:91:07:02,sat,2006-04-29 08:01:41
+35.0400145,$936.70,srv-76.gregory-gardiner.org,499952117,Africa/Harare,Tagalog,2005-05-16,2014-12-31T04:36:02,12:55:54,GB,Wilkinson-Hunter,3d:ed:57:7f:69:25,quz,1987-06-29 15:34:35
+-67.0523185,$9.82,lt-80.whittaker-lewis.com,15,Asia/Bangkok,Nepali,1973-01-27,1995-08-31T14:09:45,20:09:35,GB,Marsden-Gardner,a4:c3:72:90:d3:bc,az,1986-07-15 20:38:12
+-66.654136,"$2,123.03",desktop-07.wall-andrews.biz,1618,Asia/Oral,Sardinian,1974-09-30,1985-10-02T12:39:28,19:50:34,GB,"Saunders, Webb and Wilson",35:4a:50:e4:93:6a,el,2013-12-04 19:37:55
+-25.2163275,"$4,037.00",desktop-38.payne-butler.com,39,Asia/Kabul,Welsh,2015-05-16,1971-05-08T03:47:36,03:59:16,GB,Warren-Bibi,94:f7:65:75:31:03,hne,1987-01-20 12:54:23
+-77.811699,$0.22,desktop-68.thompson.com,203731008,Australia/Melbourne,Inupiaq,1998-06-07,1997-08-01T23:52:27,04:52:35,GB,Bryant Group,ba:64:b1:2c:0b:f1,lb,2018-05-01 19:51:14
+-56.2912895,$46.72,lt-74.wood-russell.com,7237824,Asia/Yerevan,Slovak,1996-11-24,1990-05-22T13:51:46,07:43:22,GB,"Wilson, Patel and Johnson",cf:fb:40:62:6f:d0,hsb,2011-11-01 13:25:17
+-19.4899205,$12.46,web-94.moore.com,7,Asia/Kuching,Mongolian,1984-05-13,1993-01-27T21:12:34,09:13:38,GB,Howell-Bond,ab:3f:9d:3f:60:27,nr,2014-11-15 02:38:01
+60.2583885,"$12,026.39",db-66.preston.com,3666,Africa/Harare,Northern Sami,2016-06-27,1972-04-10T23:37:41,16:54:24,GB,Davies-Bond,97:4c:0f:60:51:64,mi,1980-07-17 14:19:28
+58.446853,"$98,232.62",desktop-93.cooke.net,5445872,Africa/Libreville,Gujarati,2010-06-22,2018-03-15T18:40:24,12:26:18,GB,May-Bailey,79:24:ae:07:fd:29,niu,1999-03-15 18:36:38
+-11.0146935,$5.18,lt-30.lawrence.biz,202,Europe/San_Marino,German,1988-05-06,1971-09-27T08:09:49,12:06:08,GB,Allen-Booth,39:8f:15:e3:5c:23,ps,2017-08-25 00:15:03
+-50.708377,$525.86,laptop-15.tucker.com,702178,Asia/Seoul,Ganda,1998-06-01,2005-03-26T00:18:21,21:30:38,GB,"Allen, Baldwin and Bailey",68:87:99:e3:b9:3c,ayc,1993-04-12 18:22:26
+-35.8361895,"$3,665.06",laptop-33.connolly.net,7,Asia/Gaza,Lao,2010-01-20,1978-03-27T09:24:39,21:29:08,GB,"May, Owen and Smith",1c:f8:c4:c8:f9:89,iw,2009-06-13 06:59:57
+-69.340137,$57.12,desktop-09.armstrong.info,744839,Pacific/Apia,Kurdish,1993-05-13,2020-07-02T23:52:18,01:23:40,GB,"Bates, Jackson and Taylor",62:24:8a:48:77:07,gu,2006-02-18 12:53:01
+3.310555,$698.69,lt-72.lee-russell.com,873874958,America/Costa_Rica,Tibetan,2011-03-19,1999-07-28T22:00:42,16:11:22,GB,Preston-Howard,57:0d:2a:a5:0a:4b,hr,2019-10-30 10:45:28
+79.606733,$63.30,db-61.evans.biz,79423,Africa/Libreville,Aragonese,1986-02-23,1978-04-27T16:48:05,01:37:05,GB,"Perry, Thorpe and Richards",7e:f3:34:35:38:80,unm,1976-11-09 01:13:21
+2.019166,"$31,771.43",email-75.stevens-daniels.com,59613482,Europe/Bratislava,Tonga,1980-11-25,1984-09-30T01:59:51,15:32:28,GB,"Thomas, Miah and Williams",dc:68:20:a2:05:28,mk,1978-04-14 05:49:20
+-72.131444,"$6,152.15",db-42.oconnor.net,817,Asia/Bahrain,Maori,2008-05-12,2010-09-26T02:33:28,13:04:42,GB,"Davison, Robinson and Phillips",67:58:d7:dd:58:98,hsb,2009-07-22 18:20:06
+50.615488,$702.17,lt-28.smith.com,92,Africa/Kigali,Afrikaans,1991-12-03,2013-01-01T04:16:26,08:23:02,GB,"Anderson, Payne and Walton",8f:9f:5e:cb:7e:e9,af,1971-03-25 05:26:14
+-76.333171,"$29,826.82",web-57.kirk.com,66996872,Africa/Cairo,Maltese,1979-03-03,1997-07-11T08:06:47,06:49:34,GB,Grant Ltd,8a:98:3f:42:69:e4,ht,2000-07-21 20:44:22
+70.8868965,$40.75,db-53.powell.com,97,Atlantic/Azores,Spanish,1970-08-27,1985-02-17T15:47:59,23:07:43,GB,"Taylor, Wilson and Foster",e3:4c:95:d7:fc:24,tr,1998-03-21 06:56:19
+-3.9071975,$8.12,web-32.wood.net,138357,Asia/Rangoon,Urdu,2020-08-14,2010-05-16T20:05:10,07:33:31,GB,Hughes and Sons,0c:52:f2:f7:b2:ba,et,2006-06-06 08:07:31
+-1.1698495,$23.97,web-99.hardy-roberts.com,32,Asia/Qatar,Icelandic,2008-10-26,1994-02-04T17:27:35,19:39:19,GB,Hunt-Jones,79:d8:da:fd:86:c8,ro,2001-02-08 00:50:01
+-8.7700425,$42.44,email-46.griffiths.com,8701974,America/Chihuahua,Bambara,2000-05-17,1988-12-26T01:10:09,13:29:00,GB,Yates-Bishop,c2:62:a5:f0:ad:02,pa,1971-02-18 13:59:52

@@ -1,0 +1,30 @@
+ï»¿<#
+.SYNOPSIS
+	Prints the MD5 checksum of a file
+.DESCRIPTION
+	This PowerShell script calculates and prints the MD5 checksum of the given file.
+.PARAMETER file
+	Specifies the path to the file
+.EXAMPLE
+	PS> ./get-md5 C:\MyFile.txt
+	âœ”ï¸ MD5 hash is 041E16F16E60AD250EB794AF0681BD4A
+.LINK
+	https://github.com/fleschutz/PowerShell
+.NOTES
+
+param([string]$file = "")
+
+try {
+	if ($file -eq "" ) { $file = Read-Host "Enter path to file" }
+
+	$Result = Get-Filehash $file -algorithm MD5
+
+	"âœ”ï¸ MD5 hash is $($Result.Hash)"
+	exit 0 # success
+} catch {
+	"âš ï¸ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+#Name: Tessa Hasler
+#zrnr: JB-6083-2765-BANK
+#IBAN: GB82JUEQ51814818835737

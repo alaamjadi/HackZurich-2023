@@ -1,0 +1,33 @@
+     86     0.004408
+     87     0.003965
+         To Wrap Name: CCW
+                                              </videolibrary>
+                                              <tvshowmatching action="prepend">
+                                                <!-- <regexp>Season[\._ ]([0-9]+)[\\/]([0-9]+)([^\\/]*)$</regexp> -->
+                                                <regexp>Season[\._ ]([0-9]+)[\\/]([0-9]+([a-i]-[0-9]+[a-i]+)?)([^\\/]*)$</regexp>
+                                                <regexp>Specials[\\/]([^\\/]*)$</regexp>
+                                                <regexp>[^\\/]* Collection[\\/]([^\\/]*)$</regexp>
+                                                <regexp>[/\._ \-]([0-9]+)</regexp>
+                                              </tvshowmatching>
+                                              <audio>
+                                                <applydrc>false</applydrc>
+                                              </audio>
+                                              <video>
+                                                <excludefromscan>
+                                                  <regexp>/Extras/</regexp>
+                                                  <regexp>[\\/]Extras[\\/]</regexp>
+                                                </excludefromscan>
+                                                <excludetvshowsfromscan>
+                                                  <regexp>/Extras/</regexp>
+                                                  <regexp>[\\/]Extras[\\/]</regexp>
+                                                </excludetvshowsfromscan>
+                                              </video>
+                                              <musicthumbs>
+                                                <add>00-Cover Front.jpg|000-Cover Front.jpg|00-Cover Front.png|000-Cover Front.png</add>
+                                              </musicthumbs>
+21:38:12 T:139832623855360   DEBUG: CAESinkALSA::GetChannelLayout - Input Channel Count: 6 Output Channel Count: 2
+21:38:12 T:139832623855360   DEBUG: CAESinkALSA::GetChannelLayout - Requested Layout: FL,FR,FC,LFE,BL,BR
+21:38:12 T:139832623855360   DEBUG: CAESinkALSA::GetChannelLayout - Got Layout: FL,FR (ALSA: FL FR)
+21:38:12 T:139832623855360   DEBUG: CActiveAESink::OpenSink - ALSA Initialized:
+21:38:12 T:139832623855360   DEBUG:   Output Device : HDA Intel
+21:38:12 T:139832623855360   DEBUG:   Sample Rate   : 44100

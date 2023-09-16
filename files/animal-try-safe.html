@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>FaunaDB - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6MTA0LCJpc3MiOiJjb3VudGVyOnN5c3RlbSIsIm5iZiI6MTY5NDYxNDIxM30.mOpCLfwrS6iPTGF7DakePhrjl5PrCOUCNhIWIvjYkzU">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/faunadb" />
+<meta name="twitter:url" content="https://dbdb.io/db/faunadb" />
+<meta property="og:title" content="Database of Databases &mdash; FaunaDB" />
+<meta property="og:description" content="FaunaDB is a cloud-native OLTP database with distributed ACID transactions using the Calvin protocol. It includes support for enterprise features like configurable data retention and hierarchal multi-tenancy. FaunaDB is available as a managed cloud service or as a downloadable JAR, machine image, o…" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/faunadb.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; FaunaDB" />
+<meta name="twitter:description" content="FaunaDB is a cloud-native OLTP database with distributed ACID transactions using the Calvin protocol. It includes support for enterprise features like configurable data retention and hierarchal multi…" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/faunadb.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/faunadb/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+FaunaDB
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<a class="badge badge-secondary" style="font-size: 12px;" href="/browse?tag=serverless">Serverless</a>
+<p class="card-text">
+<p>FaunaDB is a cloud-native OLTP database with distributed ACID transactions using the Calvin protocol. It includes support for enterprise features like configurable data retention and hierarchal multi-tenancy. FaunaDB is available as a managed cloud service or as a downloadable JAR, machine image, or container.</p>
+</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://fauna.com/">https://fauna.com/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>Fauna was founded in 2012 by a team of ex-Twitter engineers to solve consistency vs scale tradeoff in distributed data infrastructure. FaunaDB in inspired by Calvin, and is the only commercial database system that implements that protocol till date.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.datanami.com/2018/03/21/startup-faunadb-has-twitter-roots/">https://www.datanami.com/2018/03/21/startup-faunadb-has-twitter-roots/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="checkpoints" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Checkpoints
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?checkpoints=non-blocking">Non-Blocking</a>
+<a class="badge badge-info" href="/browse?checkpoints=consistent">Consistent</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=multi-version-concurrency-control-mvcc">Multi-version Concurrency Control (MVCC)</a>
+<a class="badge badge-info" href="/browse?concurrency-control=deterministic-concurrency-control">Deterministic Concurrency Control</a>
+</p>
+<p><p>FaunaDB’s distributed transaction log is processed deterministically and non-conflicting transactions are retired to multi-version concurrency control storage (MVCC) with configurable data retention. Queries can access the previous versions of documents and indexes by supplying a timestamp, and even compare subqueries between snapshots at different timestamps. With elevated privileges, queries can modify past snapshots, because sometimes it’s better to fix a mistake than issue compensating transactions.</p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=relational">Relational</a>
+<a class="badge badge-info" href="/browse?data-model=keyvalue">Key/Value</a>
+<a class="badge badge-info" href="/browse?data-model=document-xml">Document / XML</a>
+<a class="badge badge-info" href="/browse?data-model=graph">Graph</a>
+</p>
+<p><p>FaunaDB is an indexed document store that allows access to the stored data using multiple models - relational, document, graph and key-value. Data stored using one paradigm can be queried with the others, for instance, GraphQL queries can read data written by FQL, etc.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models">https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="foreign-keys" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Foreign Keys
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?foreign-keys=supported">Supported</a>
+</p>
+<p><p>FQL supports references between documents with the Ref() type. Refs can be followed by queries to load related documents, or used in index lookups and results.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.fauna.com/fauna/current/reference/queryapi/types.html#ref">https://docs.fauna.com/fauna/current/reference/queryapi/types.html#ref</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="indexes" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Indexes
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?indexes=btree">B+Tree</a>
+<a class="badge badge-info" href="/browse?indexes=hash-table">Hash Table</a>
+</p>
+<p><p>FaunaDB indexes are <a href="https://fauna.com/blog/index-queries-in-faunadb">accessed via term and paginated by value</a>, enabling developers to optimize data locality as applications scale. Queries can use joins and other set operations to combine indexes, as well as iterate over rows to load documents or run dependent queries. By default, indexes work with snapshot isolation, but they can be configured for <a href="https://fauna.com/blog/acid-transactions-in-a-globally-distributed-database">serialized isolation.</a></p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.fauna.com/fauna/current/reference/indexconfig.html">https://docs.fauna.com/fauna/current/reference/indexconfig.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="isolation-levels" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Isolation Levels
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?isolation-levels=serializable">Serializable</a>
+<a class="badge badge-info" href="/browse?isolation-levels=snapshot-isolation">Snapshot Isolation</a>
+<a class="badge badge-info" href="/browse?isolation-levels=cursor-stability">Cursor Stability</a>
+</p>
+<p><p>Read-write transactions using serialized indexes run with strict-serializability. Read-only transactions and index reads from non-serialized indexes will see snapshot isolation. Clients can upgrade to strict-serializability across all operations.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://jepsen.io/analyses/faunadb-2.5.4">https://jepsen.io/analyses/faunadb-2.5.4</a></li>
+<li><a target="_blank" href="https://jepsen.io/consistency/models/strict-serializable">https://jepsen.io/consistency/models/strict-serializable</a></li>
+<li><a target="_blank" href="https://docs.fauna.com/fauna/current/reference/isolation_levels.html">https://docs.fauna.com/fauna/current/reference/isolation_levels.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="joins" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Joins
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?joins=hash-join">Hash Join</a>
+<a class="badge badge-info" href="/browse?joins=sort-merge-join">Sort-Merge Join</a>
+</p>
+<p><p>FaunaDB supports equi-joins and other relational algebra operations like union, intersect, minus, etc. across classes. Support for outer joins is on the roadmap.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.fauna.com/fauna/current/howto/fql_for_sql_users.html#join">https://docs.fauna.com/fauna/current/howto/fql_for_sql_users.html#join</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="logging" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Logging
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?logging=logical-logging">Logical Logging</a>
+</p>
+<p><p>FaunaDB uses standard file-based query logging with configurable log file locations. Additionally a <code>statsd</code> interface is provided for integration with tools like Datadog and Graphite.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.fauna.com/fauna/current/operations/configuration.html#data-directories">https://docs.fauna.com/fauna/current/operations/configuration.html#data-directories</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=graphql">GraphQL</a>
+</p>
+<p><p>Fauna Query Language (FQL) is expression oriented: all functions, control structures, and literals return values. It is easy to map over a collection and compute a result, possibly fetching more data, for each member. Queries are executed as ACID transactions by submitting them to any node in the FaunaDB cluster, which acts as the coordinator for the query. FaunaDB also offers support for GraphQL, including schema import. FQL allows access to historical snapshots, and makes it easy to compare the results of the same query at different times.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://app.fauna.com/documentation/reference/queryapi">https://app.fauna.com/documentation/reference/queryapi</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=disk-oriented">Disk-oriented</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=hybrid">Hybrid</a>
+</p>
+<p><p>Storage is automatically partitioned across a FaunaDB cluster, with each replica containing one full copy of the data set. Multi-version concurrency control enables configurable data-retention and ensures queries see a consistent snapshot of the database.</p></p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-organization" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Organization
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-organization=log-structured">Log-structured</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://www2.fauna.com/techwhitepaper">http://www2.fauna.com/techwhitepaper</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="stored-procedures" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Stored Procedures
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?stored-procedures=supported">Supported</a>
+</p>
+<p><p>FaunaDB's FQL allows user-defined functions, which can be called from other queries, and are subject to FaunaDB's access control rules.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.fauna.com/fauna/current/howto/crud_examples.html#create-a-user-defined-function">https://docs.fauna.com/fauna/current/howto/crud_examples.html#create-a-user-defined-function</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-nothing">Shared-Nothing</a>
+</p>
+<p><p>All nodes in a FaunaDB cluster run the same Java JAR, with administrator control over log and data replication topology. Queries can be serviced by any node in the cluster, which acts as the coordinator for the query. Queries run as isolated ACID transactions, and can include precondition checks and dependent queries. Transactions are processed using the Calvin protocol which is optimized for multi-region deployments.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://fauna.com/blog/consistency-without-clocks-faunadb-transaction-protocol">https://fauna.com/blog/consistency-without-clocks-faunadb-transaction-protocol</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=materialized-views">Materialized Views</a>
+</p>
+<p><p>FaunaDB’s indexes are similar to views, in that they materialize covered fields from the source class, which are returned as part of the index query result. Similar to materialized views, access control rules can enforce that particular indexes can only be read by client keys with specific roles. View entries can be sorted by value for efficient pagination, or bucketed by term for scalable O(1) lookups.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://fauna.com/blog/index-queries-in-faunadb">https://fauna.com/blog/index-queries-in-faunadb</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/faunadb/revisions/" title="View All Revisions for FaunaDB">
+<div class="card-body">
+Revision #46
+&nbsp;|&nbsp;
+<time datetime="2022-06-30T15:15:14.006000-04:00">
+Updated 06/30/2022 3:15 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/filodb" title="FiloDB">
+<img class="logo-recommendation" src="/media/logos/filedb.png.200x50_q85.png" alt="FiloDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/orientdb" title="OrientDB">
+<img class="logo-recommendation" src="/media/logos/orientdb.svg" alt="OrientDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/yugabytedb" title="YugabyteDB">
+<img class="logo-recommendation" src="/media/logos/yugabyte.svg" alt="YugabyteDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/fluree" title="Fluree">
+<img class="logo-recommendation" src="/media/logos/flureedb.svg" alt="Fluree" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/fauna2020.svg"><img class="logo-thumbnail" src="/media/logos/fauna2020.svg" style="border:none;" alt="FaunaDB Logo" title="FaunaDB"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="https://fauna.com/">https://fauna.com/</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="https://docs.fauna.com">https://docs.fauna.com</a></p>
+<h6 class="card-title">Twitter</h6>
+<p class="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" /></svg> <a target="twitter" href="https://twitter.com/fauna"> @fauna</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">Fauna Inc.</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=US" title="View other systems from United States of America">
+<i class="flag-sprite flag-u flag-_s"></i>
+US
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2012</p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=commercial" title="View other Commercial systems">Commercial</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=scala" title="View other systems that are written in Scala">Scala</a>
+</p>
+<h6 class="card-title">Supported languages</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?supported=csharp" title="View other systems that support C#">C#</a>, <a class="card-title" href="/browse?supported=go-lang" title="View other systems that support Go">Go</a>, <a class="card-title" href="/browse?supported=java" title="View other systems that support Java">Java</a>, <a class="card-title" href="/browse?supported=javascript" title="View other systems that support JavaScript">JavaScript</a>, <a class="card-title" href="/browse?supported=python" title="View other systems that support Python">Python</a>, <a class="card-title" href="/browse?supported=scala" title="View other systems that support Scala">Scala</a>
+</p>
+<h6 class="card-title">Derived From</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?derived=cassandra" title="View other systems derived from Cassandra">Cassandra</a>
+</p>
+<h6 class="card-title">Inspired By</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?inspired=calvin" title="View other systems inspired by Calvin">Calvin</a>
+</p>
+<h6 class="card-title">Operating Systems</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?os=all-os-with-java-vm" title="View other systems that support All OS with Java VM systems">All OS with Java VM</a>, <a class="card-title" href="/browse?os=hosted" title="View other systems that support Hosted systems">Hosted</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=proprietary" title="View other systems that use Proprietary">Proprietary</a>
+</p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/faunadb/revisions/" title="View All Revisions for FaunaDB">
+<div class="card-body">
+Revision #46
+&nbsp;|&nbsp;
+<time datetime="2022-06-30T15:15:14.006000-04:00">
+Updated 06/30/2022 3:15 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/filodb" title="FiloDB">
+<img class="logo-recommendation" src="/media/logos/filedb.png.200x50_q85.png" alt="FiloDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/orientdb" title="OrientDB">
+<img class="logo-recommendation" src="/media/logos/orientdb.svg" alt="OrientDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/yugabytedb" title="YugabyteDB">
+<img class="logo-recommendation" src="/media/logos/yugabyte.svg" alt="YugabyteDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/fluree" title="Fluree">
+<img class="logo-recommendation" src="/media/logos/flureedb.svg" alt="Fluree" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#016c60686d41656365632f686e" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="afce3bb12f5d8127cb060986-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="afce3bb12f5d8127cb060986-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="afce3bb12f5d8127cb060986-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="afce3bb12f5d8127cb060986-text/javascript"></script>
+<script type="afce3bb12f5d8127cb060986-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="afce3bb12f5d8127cb060986-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="afce3bb12f5d8127cb060986-text/javascript"></script>
+<script type="afce3bb12f5d8127cb060986-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="afce3bb12f5d8127cb060986-text/javascript"></script>
+<script src="/static/core/js/system.js" type="afce3bb12f5d8127cb060986-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="afce3bb12f5d8127cb060986-|49" defer></script></body>
+</html>

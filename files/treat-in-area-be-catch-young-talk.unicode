@@ -1,0 +1,119 @@
+/gamos/setParam GmSimplePhantomGeometry:PhantomDims -200 200 -200 200 -150 150
+/gamos/setParam GmReadPhantomGeometry:InitialDisplacement 0. 0. 0.
+2021-10-26T21:52:06.253Z,77.253220,43ba000,6 [FLog::LocalStorage] LocalStorage will flush 5310 bytes to /Users/studioagain/Library/Roblox/LocalStorage/memProfStorage11138.json
+2021-10-26T21:52:06.253Z,77.253693,43ba000,6 [FLog::LocalStorage] LocalStorage: Wrote 5310 bytes to disk
+2021-10-26T21:52:06.257Z,77.257385,43ba000,6 [FLog::Output] ! Joining game 'f6eb6ea4-23c5-cc25-0911-48846dc15df7' place 4996049426 at 128.116.27.2
+2021-10-26T21:52:06.257Z,77.257515,43ba000,6 [FLog::GameJoinLoadTime] Report game_join_loadtime: sid:30d83c6a-bfae-4f74-a7ff-d3360df51e5b, clienttime:1635285126.1349999905, join_time:0, referral_page:, placeid:4996049426, userid:3520967, universeid:1720936166, 
+2021-10-26T21:52:06.258Z,77.258102,43ba000,7 [FLog::Network] Client will attempt to connect following server endpoints with threadSleepTime(-1)
+  12.22.6
+
+Platform: 
+  darwin x64
+
+[   1899609] [op-spawn]
+     Date Prepared            : 2018-04-09
+     Report Type              : UPDATE
+     If Update:
+      Previous Site Log       : ohwa_20150326.log
+      Modified/Added Sections : 1,3,4
+[  0%] No install step for 'G4EMLOW'
+[  0%] Completed 'G4EMLOW'
+adduser (ADDUSER) [Y/n/?] y
+  Enable long options (FEATURE_ADDUSER_LONG_OPTIONS) [N/y/?] n
+  Enable sanity check on user/group names in adduser and addgroup (FEATURE_CHECK_NAMES) [N/y/?] n
+  Last valid uid or gid for adduser and addgroup (LAST_ID) [60000] 60000
+  First valid system uid or gid for adduser and addgroup (FIRST_SYSTEM_ID) [100] 100
+  Last valid system uid or gid for adduser and addgroup (LAST_SYSTEM_ID) [999] 999
+chpasswd (CHPASSWD) [N/y/?] n
+Default password encryption method (passwd -a, cryptpw -m parameter) (FEATURE_DEFAULT_PASSWD_ALGO) [md5] md5
+cryptpw (CRYPTPW) [N/y/?] n
+mkpasswd (MKPASSWD) [Y/n/?] y
+deluser (DELUSER) [Y/n/?] y
+delgroup (DELGROUP) [Y/n/?] y
+  Support for removing users from groups (FEATURE_DEL_USER_FROM_GROUP) [N/y/?] n
+getty (GETTY) [Y/n/?] y
+login (LOGIN) [Y/n/?] y
+  Run logged in session in a child process (LOGIN_SESSION_AS_CHILD) [N/y/?] n
+  Support for login scripts (LOGIN_SCRIPTS) [N/y/?] n
+  Support for /etc/nologin (FEATURE_NOLOGIN) [Y/n/?] y
+  Support for /etc/securetty (FEATURE_SECURETTY) [Y/n/?] y
+passwd (PASSWD) [Y/n/?] y
+  Check new passwords for weakness (FEATURE_PASSWD_WEAK_CHECK) [Y/n/?] y
+su (SU) [Y/n/?] y
+  Enable su to write to syslog (FEATURE_SU_SYSLOG) [Y/n] y
+  Enable su to check user's shell to be listed in /etc/shells (FEATURE_SU_CHECKS_SHELLS) [Y/n] y
+    Support SUN disklabels (FEATURE_SUN_LABEL) [N/y/?] n
+    Support BSD disklabels (FEATURE_OSF_LABEL) [N/y/?] n
+    Support GPT disklabels (FEATURE_GPT_LABEL) [Y/n/?] y
+    Support expert mode (FEATURE_FDISK_ADVANCED) [Y/n/?] y
+findfs (FINDFS) [N/y/?] n
+flock (FLOCK) [Y/n/?] y
+tdf#105562 LOCALHELP: AND, OR with range as argument: function uses not only current column or row [Olivier Hallot]
+tdf#105679 PDF Filter: does not respect last value of ExportOnlyNotesPages setting [David Tardon]
+tdf#114751 Preferred font order for Japanese locale [Takeshi Abe]
+tdf#114768 Preferred font order for Chinese locales [Yousuf Philips]
+tdf#114771 Focus rectangle misplaced in Navigator content navigation view after promote or demote or dnd [Jim Raykowski]
+tdf#114817 New bitmap presets for Area Fill [andreas kainz]
+tdf#114821 FILEOPEN PPTX: In some files bar chart data labels are incorectly positioned [Szymon Kłos]
+ciMethodData com/android/dx/util/ByteArray getLong (I)J 1 30 orig 264 8 110 37 81 0 0 0 0 96 36 189 22 0 0 0 0 192 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 241 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 144 0 0 0 255 255 255 255 2 0 6 0 0 0 0 0 data 18 0x60002 0x1e 0xb0002 0x1e 0x150002 0x1e 0x200002 0x1e 0x2b0002 0x1e 0x340002 0x1e 0x3e0002 0x1e 0x4a0002 0x1e 0x560002 0x1e oops 0
+bullet+express	01.08.2009 19:35:03	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4SUNA_enUS222US222&q=bullet+express%2bebay	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1; .NET CLR 2.0.50727)	24.25.241.13
+ohio+state+fair	01.08.2009 19:35:17	http://aim.search.aol.com/search/search?&query=Ohio+State+Fair+start+time+Sunday+August+2+2009&invocationType=tb50tr	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; Seekmo 10.0.406.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	65.31.5.241
+<10:40AM NPR_News> Who, if anyone, is still providing live coverage?
+(WildEep/#earthquake) KNBC
+(WildEep/#earthquake) Ch 4.
+<10:40AM KNBC> We are
+*** Netsplit at 10:40:34 (polaris.ctr.columbia.edu eff.org)2016-02-23 15:45:25,511  INFO Gbl:57 JVM: 1.8.0_45; Oracle Corporation; mixed mode; 64-bit
+2016-02-23 15:45:25,511  INFO Gbl:61 OS: Windows 8.1; 6.3; amd64
+2016-02-23 15:45:25,512  INFO Gbl:64 CPU cores: 8
+2016-02-23 15:45:25,512  INFO Gbl:65 max. Memory: 7282.0MB (7635730432B)
+2016-02-23 15:45:25,523  INFO Gbl:103 MATSim-Build: r${buildNumber} (${timestamp})
+2016-02-23 15:45:25,523  INFO AbstractController:61 Used Controler-Class: org.matsim.core.controler.NewControler
+2016-02-23 15:45:25,526  INFO Injector:68 org.matsim.api.core.v01.Scenario 
+2016-02-23 15:45:25,526  INFO Injector:69    -> of(org.matsim.core.scenario.MutableScenario@6771beb3)
+2016-02-23 15:45:25,526  INFO Injector:68 org.matsim.pt.transitSchedule.api.TransitSchedule 
+2016-02-23 15:45:25,528  INFO Injector:69    -> Key[type=org.matsim.core.scenario.ScenarioByInstanceModule$TransitScheduleProvider, annotation=[none]]
+2016-02-23 15:45:25,528  INFO Injector:68 org.matsim.vehicles.Vehicles 
+2016-02-23 15:45:25,528  INFO Injector:69    -> Key[type=org.matsim.core.scenario.ScenarioByInstanceModule$TransitVehiclesProvider, annotation=[none]]
+2016-02-23 15:45:25,528  INFO Injector:68 org.matsim.vehicles.Vehicles 
+2016-02-23 15:45:25,532  INFO Injector:69    -> @Provides org.matsim.core.scenario.ScenarioByInstanceModule.provideVehicles(ScenarioByInstanceModule.java:61)
+2016-02-23 15:45:25,533  INFO Injector:68 org.matsim.api.core.v01.network.Network 
+2016-02-23 15:45:25,533  INFO Injector:69    -> @Provides org.matsim.core.scenario.ScenarioByInstanceModule.provideNetwork(ScenarioByInstanceModule.java:39)
+2016-02-23 15:45:25,568  INFO Injector:68 org.matsim.core.router.util.LeastCostPathCalculatorFactory 
+2016-02-23 15:45:25,568  INFO Injector:69    -> FactoryProxy{key=Key[type=org.matsim.core.router.util.LeastCostPathCalculatorFactory, annotation=[none]], provider=com.google.inject.internal.ConstructorBindingImpl$Factory@15de0b3c[Scopes.SINGLETON]}
+2016-02-23 15:45:25,570  INFO Injector:68 org.matsim.pt.router.TransitRouter 
+2016-02-23 15:45:25,572  INFO Injector:69    -> Key[type=org.matsim.pt.router.TransitRouterImplFactory, annotation=[none]]
+2016-02-23 15:45:25,572  INFO Injector:68 org.matsim.core.router.RoutingModule @com.google.inject.name.Named(value=ride)
+2016-02-23 15:45:25,572  INFO Injector:69    -> org.matsim.core.router.PseudoTransit@6d2a209c
+2016-02-23 15:45:25,573  INFO Injector:68 org.matsim.core.router.RoutingModule @com.google.inject.name.Named(value=bike)
+2016-02-23 15:45:25,573  INFO Injector:69    -> org.matsim.core.router.Teleportation@75329a49
+2016-02-23 15:45:25,573  INFO Injector:68 org.matsim.core.router.RoutingModule @com.google.inject.name.Named(value=walk)
+  Turn on output of extra information (FEATURE_LAST_FANCY) [N/y/?] n
+less (LESS) [Y/n/?] y
+  Max number of input lines less will try to eat (FEATURE_LESS_MAXLINES) [9999999] 9999999
+  Enable bracket searching (FEATURE_LESS_BRACKETS) [Y/n/?] y
+  Enable -m/-M (FEATURE_LESS_FLAGS) [Y/n/?] y
+  Enable -S (FEATURE_LESS_TRUNCATE) [Y/n/?] y
+  Enable marks (FEATURE_LESS_MARKS) [N/y/?] n
+  Enable regular expressions (FEATURE_LESS_REGEXP) [Y/n/?] y
+  Enable automatic resizing on window size changes (FEATURE_LESS_WINCH) [N/y/?] n
+  Enable flag changes ('-' command) (FEATURE_LESS_DASHCMD) [N/y/?] n
+12J	ALABAMA	BREWTON MUNI	afd	se_8_25OCT2007.png
+60A	ALABAMA	BRUNDIDGE MUNI	afd	se_8_25OCT2007.png
+09A	ALABAMA	BUTLER-CHOCTAW CO	afd	se_9_25OCT2007.png
+OZR	ALABAMA	CAIRNS AAF 	afd	se_9_25OCT2007.png
+61A	ALABAMA	CAMDEN MUNI	afd	se_10_25OCT2007.png
+C22	ALABAMA	CENTRE MUNI	afd	se_10_25OCT2007.png
+0A8	ALABAMA	CENTREVILLE BIBB CO	afd	se_11_25OCT2007.png
+5R1	ALABAMA	CHATOM ROY WILCOX	afd	se_11_25OCT2007.png
+02A	ALABAMA	CLANTON GRAGG-WADE FLD	afd	se_12_25OCT2007.png
+11A	ALABAMA	CLAYTON MUNI	afd	se_12_25OCT2007.png
+9A4	ALABAMA	COURTLAND LAWRENCE COUNTY	afd	se_13_25OCT2007.png
+15A	ALABAMA	CREOLA MARK REYNOLDS-NORTH MOBILE CO	afd	se_13_25OCT2007.png
+3A1	ALABAMA	CULLMAN FOLSOM FLD	afd	se_13_25OCT2007.png
+4R9	ALABAMA	DAUPHIN ISLAND	afd	se_14_25OCT2007.png
+DCU	ALABAMA	DECATUR PRYOR FLD RGNL	afd	se_14_25OCT2007.png
+7A2	ALABAMA	DEMOPOLIS MUNI	afd	se_15_25OCT2007.png
+DHN	ALABAMA	DOTHAN RGNL	afd	se_15_25OCT2007.png
+3M2	ALABAMA	DOUBLE SPRINGS-WINSTON CO	afd	se_16_25OCT2007.png
+14J	ALABAMA	ELBA CARL FOLSOM	afd	se_16_25OCT2007.png
+EDN	ALABAMA	ENTERPRISE MUNI	afd	se_17_25OCT2007.png

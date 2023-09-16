@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>GrapheneDB - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6NTA1LCJpc3MiOiJjb3VudGVyOnN5c3RlbSIsIm5iZiI6MTY5NDYxNDI0N30.FAAbmd82TqM2otL_vjP3ZTDSsM0fI-y3pWdmx_v8mZg">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/graphenedb" />
+<meta name="twitter:url" content="https://dbdb.io/db/graphenedb" />
+<meta property="og:title" content="Database of Databases &mdash; GrapheneDB" />
+<meta property="og:description" content="GrapheneDB is a cloud-based Database-as-a-Service provider for graph databases based on Neo4j. The cloud vendors it supports are Heroku and Amazon Web Services. It provides automatic and on-demand backups as well as 24/7 monitoring and help." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/graphenedb.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; GrapheneDB" />
+<meta name="twitter:description" content="GrapheneDB is a cloud-based Database-as-a-Service provider for graph databases based on Neo4j. The cloud vendors it supports are Heroku and Amazon Web Services. It provides automatic and on-demand ba…" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/graphenedb.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/graphenedb/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+GrapheneDB
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<p class="card-text">
+<p>GrapheneDB is a cloud-based Database-as-a-Service provider for graph databases based on Neo4j. The cloud vendors it supports are Heroku and Amazon Web Services. It provides automatic and on-demand backups as well as 24/7 monitoring and help.</p>
+</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/developer/graph-database/">https://neo4j.com/developer/graph-database/</a></li>
+<li><a target="_blank" href="https://www.graphenedb.com">https://www.graphenedb.com</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>In 2012, the founder of GrapheneDB, Alberto Perdomo, wanted to use Neo4j for a project. The process of setting up and monitoring servers and finding a place to host it was challenging. Therefore, he decided to create GrapheneDB to make it easier for clients to focus on learning about Cypher and graph modeling in Neo4j as well as developing their applications.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/blog/production-grade-neo4j-hosting/">https://neo4j.com/blog/production-grade-neo4j-hosting/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="checkpoints" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Checkpoints
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?checkpoints=non-blocking">Non-Blocking</a>
+</p>
+<p><p>GrapheneDB is a Database-as-a-Service provider that uses Neo4j. Neo4j uses non-block checkpoints, so it can be backed up as it serves user traffic. Neo4j can have daily or weekly full backups, which results in a database image on the disk. It also provides incremental backups that can be done hourly or daily. A combination of incremental and full backups allows for safety and efficiency. GrapheneDB also provides similar backups- daily, weekly, monthly, or on-demand backups. This also captures a current snapshot of the database for recovery (if needed) and doesn't require downtime.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://d0.awsstatic.com/whitepapers/Database/neo4j-graph-databases-aws.pdf">https://d0.awsstatic.com/whitepapers/Database/neo4j-graph-databases-aws.pdf</a></li>
+<li><a target="_blank" href="https://docs.graphenedb.com/docs/backups">https://docs.graphenedb.com/docs/backups</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="compression" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Compression
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?compression=bit-packing-mostly-encoding">Bit Packing / Mostly Encoding</a>
+</p>
+<p><p>GrapheneDB uses "bit shaving" to compress the number of bits needed to store primitive types in arrays. This means that if an int array of size 4 has a a largest value of 4, it will only require 3 bits to write that 4. Therefore, each element in the array will be written in 3 bits to separate them from each other. The values are still "ints", but can be stored more efficiently. Similarly, if an int array contains -1, then that value will use the 32 bits required to write it, so each element in the array must also be written in 32 bits. It also has classes to limit the number of characters in each class. For example, the "Numerical, Date, and Hex" class have a 54 character count limit. This helps determine whether a string can be inlined or not, which allows for compression and less disk space required.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/docs/operations-manual/current/performance/property-compression/">https://neo4j.com/docs/operations-manual/current/performance/property-compression/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=two-phase-locking-deadlock-detection">Two-Phase Locking (Deadlock Detection)</a>
+</p>
+<p><p>Since GrapheneDB uses Neo4j as its graph database, it has the same concurrency control choices. Neo4j does deadlock detection and the transaction causing the deadlock is rolled back so the other transactions can continue. Neo4j allows the user to retry the transaction either by asking for the transaction to be attempted a certain number of times or through a retry loop.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/docs/java-reference/current/transactions/">https://neo4j.com/docs/java-reference/current/transactions/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=graph">Graph</a>
+</p>
+<p><p>Graphene is a Database-as-a-Service that uses Neo4j as the underlying graph database. Graph databases are good for data that are highly related to all the other data points as graph databases store data as nodes and the relationships between the nodes. Accessing nodes and getting relationships in a graph database is a constant time operation, which makes querying fast.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/developer/graph-database/">https://neo4j.com/developer/graph-database/</a></li>
+<li><a target="_blank" href="https://www.graphenedb.com/why-graphenedb.html">https://www.graphenedb.com/why-graphenedb.html</a></li>
+<li><a target="_blank" href="https://www.producthunt.com/posts/graphenedb">https://www.producthunt.com/posts/graphenedb</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="foreign-keys" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Foreign Keys
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?foreign-keys=not-supported">Not Supported</a>
+</p>
+<p><p>In relational databases, a foreign key is a key that "joins" two tables in a JOIN. In graph databases, because relationships are just as important as the actual data, relationships and adjacent nodes are stored in the data itself, so foreign keys are not necessary in a graph database. The graphs uses the adjacent nodes and connections to access other data.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/developer/graph-db-vs-rdbms/">https://neo4j.com/developer/graph-db-vs-rdbms/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="indexes" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Indexes
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?indexes=btree">B+Tree</a>
+<a class="badge badge-info" href="/browse?indexes=inverted-index-full-text">Inverted Index (Full Text)</a>
+</p>
+<p><p>GrapheneDB uses B+ trees as its native index. The key size of an index is limited to 4036 bytes, however, so if a transaction reaches the maximum key size, it will fail. When the B+ tree index is full, a user can change the configuration to use Lucene for that particular index- the user would have to delete that index and recreate it. It can also support full text search by keeping all the data up to date automatically whenever new data or indexes are created. These index choices come from Neo4j.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/docs/operations-manual/current/performance/index-configuration/schema-indexes/">https://neo4j.com/docs/operations-manual/current/performance/index-configuration/schema-indexes/</a></li>
+<li><a target="_blank" href="https://neo4j.com/docs/operations-manual/current/performance/index-configuration/fulltext-search/">https://neo4j.com/docs/operations-manual/current/performance/index-configuration/fulltext-search/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="joins" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Joins
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?joins=hash-join">Hash Join</a>
+</p>
+<p><p>Neo4j uses hash join for its joins. There are four variation- NodeHashJoin, ValueHashJoin, NodeLeftOuterHashJoin, and NodeRightOuterHashJoin. These are different hash joins that the Neo4j database supports. For example, NodeHashJoin joins on node ids while ValueHashJoin joins on any value.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/docs/cypher-manual/3.5/execution-plans/">https://neo4j.com/docs/cypher-manual/3.5/execution-plans/</a></li>
+<li><a target="_blank" href="https://neo4j.com/docs/cypher-manual/3.5/execution-plans/operators/#execution-plans-operators-hash-join-general">https://neo4j.com/docs/cypher-manual/3.5/execution-plans/operators/#execution-plans-operators-hash-join-general</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="logging" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Logging
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?logging=logical-logging">Logical Logging</a>
+</p>
+<p><p>The Neo4j uses logical logging to recover the database after an unclean shutdown and for incremental backups. The logs record write operations to the database (ex: adding or updating the indexes or data).</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/developer/guide-performance-tuning/">https://neo4j.com/developer/guide-performance-tuning/</a></li>
+<li><a target="_blank" href="https://neo4j.com/docs/operations-manual/current/configuration/transaction-logs/">https://neo4j.com/docs/operations-manual/current/configuration/transaction-logs/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-execution=tuple-at-a-time-model">Tuple-at-a-Time Model</a>
+</p>
+<p><p>GrapheneDB uses Neo4j, which uses the tuple-at-a-time model as each operator in the tree takes in an input and first evaluates that. This output then goes into its parent operator as the input.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/docs/cypher-manual/current/execution-plans/">https://neo4j.com/docs/cypher-manual/current/execution-plans/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<a>IBAN:<div>CH34 7281 9440 3553 3550 0</div>
+Name:<div>Erika Keller</div>
+Email:<a>erika.keller
+@gmx.de</a>
+</a><h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=cypher">Cypher</a>
+</p>
+<p><p>Cypher is Neo4j's graph query language that lets user's store and get data from the graph database easily. GrapheneDB has also followed suit and uses Cypher. Cypher has similar functionalities as SQL since it was inspired by the SQL language. Cypher allows queries to be written so that it can select, insert, update, delete data without a description of how to do it.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/developer/cypher-query-language/">https://neo4j.com/developer/cypher-query-language/</a></li>
+<li><a target="_blank" href="https://www.graphenedb.com/blog/">https://www.graphenedb.com/blog/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=disk-oriented">Disk-oriented</a>
+</p>
+<p><p>GrapheneDB stores its database on disk. It optimizes performance by storing information in a cache when possible. It caches data in memory by using buffer pools.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.graphenedb.com/docs/plans-and-placements">https://docs.graphenedb.com/docs/plans-and-placements</a></li>
+<li><a target="_blank" href="https://neo4j.com/docs/operations-manual/3.1/performance/disks-ram-and-other-tips/">https://neo4j.com/docs/operations-manual/3.1/performance/disks-ram-and-other-tips/</a></li>
+<li><a target="_blank" href="https://neo4j.com/developer/kb/understanding-memory-consumption/">https://neo4j.com/developer/kb/understanding-memory-consumption/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=custom">Custom</a>
+</p>
+<p><p>GrapheneDB uses Neo4j, which uses a custom storage model. Because Neo4j does not have a schema, each store file has the nodes, relationships, and key value properties. These are all stored at particular offsets in the files. For example, the property record holds 32 bytes (4 8byte blocks) which can either be a key, value, or both. Data that is on disk is a linked list size records that are fixed. Property records are also stored as a linked list. Each node also references the first relationship it has.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/developer/kb/understanding-data-on-disk/">https://neo4j.com/developer/kb/understanding-data-on-disk/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="stored-procedures" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Stored Procedures
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?stored-procedures=supported">Supported</a>
+</p>
+<p><p>A user can create a procedure using Cypher. The arguments when calling the function can either come from the query or from the associated parameter set.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://neo4j.com/docs/java-reference/3.5/extending-neo4j/procedures-and-functions/procedures/">https://neo4j.com/docs/java-reference/3.5/extending-neo4j/procedures-and-functions/procedures/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/graphenedb/revisions/" title="View All Revisions for GrapheneDB">
+<div class="card-body">
+Revision #16
+&nbsp;|&nbsp;
+<time datetime="2022-01-03T21:46:47.231000-05:00">
+Updated 01/03/2022 9:46 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/graphbase" title="GraphBase">
+<img class="logo-recommendation" src="/media/logos/graphbase_fX150o1.png.200x50_q85.png" alt="GraphBase" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/vertexdb" title="VertexDB">
+<img class="logo-recommendation" src="/media/logos/vertexdb.svg" alt="VertexDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/memgraph" title="Memgraph">
+<img class="logo-recommendation" src="/media/logos/memgraph.svg" alt="Memgraph" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/anzograph" title="AnzoGraph">
+<img class="logo-recommendation" src="/media/logos/anzograph.png.200x50_q85.png" alt="AnzoGraph" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/graphenedb.png"><img class="logo-thumbnail" src="/media/logos/graphenedb.png.280x250_q85.png" style="border:none;" alt="GrapheneDB Logo" title="GrapheneDB"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="https://www.graphenedb.com/">https://www.graphenedb.com/</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="http://www.graphenedb.com/docs">http://www.graphenedb.com/docs</a></p>
+<h6 class="card-title">Twitter</h6>
+<p class="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" /></svg> <a target="twitter" href="https://twitter.com/GrapheneDB"> @GrapheneDB</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">GrapheneDB Labs, S.L.</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=ES" title="View other systems from Spain">
+<i class="flag-sprite flag-e flag-_s"></i>
+ES
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2012</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.crunchbase.com/organization/graphenedb#section-overview">https://www.crunchbase.com/organization/graphenedb#section-overview</a></li>
+</ul>
+</cite>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=commercial" title="View other Commercial systems">Commercial</a>
+</p>
+<h6 class="card-title">Supported languages</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?supported=java" title="View other systems that support Java">Java</a>, <a class="card-title" href="/browse?supported=php" title="View other systems that support PHP">PHP</a>, <a class="card-title" href="/browse?supported=python" title="View other systems that support Python">Python</a>, <a class="card-title" href="/browse?supported=ruby" title="View other systems that support Ruby">Ruby</a>
+</p>
+<h6 class="card-title">Derived From</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?derived=neo4j" title="View other systems derived from Neo4j">Neo4j</a>
+</p>
+<h6 class="card-title">Compatible With</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?compatible=neo4j" title="View other systems compatible with Neo4j">Neo4j</a>
+</p>
+<h6 class="card-title">Operating Systems</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?os=hosted" title="View other systems that support Hosted systems">Hosted</a>
+</p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/graphenedb/revisions/" title="View All Revisions for GrapheneDB">
+<div class="card-body">
+Revision #16
+&nbsp;|&nbsp;
+<time datetime="2022-01-03T21:46:47.231000-05:00">
+Updated 01/03/2022 9:46 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/graphbase" title="GraphBase">
+<img class="logo-recommendation" src="/media/logos/graphbase_fX150o1.png.200x50_q85.png" alt="GraphBase" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/vertexdb" title="VertexDB">
+<img class="logo-recommendation" src="/media/logos/vertexdb.svg" alt="VertexDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/memgraph" title="Memgraph">
+<img class="logo-recommendation" src="/media/logos/memgraph.svg" alt="Memgraph" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/anzograph" title="AnzoGraph">
+<img class="logo-recommendation" src="/media/logos/anzograph.png.200x50_q85.png" alt="AnzoGraph" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#b5d8d4dcd9f5d1d7d1d79bdcda" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="fd230bc319c783efce93778d-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="fd230bc319c783efce93778d-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="fd230bc319c783efce93778d-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="fd230bc319c783efce93778d-text/javascript"></script>
+<script type="fd230bc319c783efce93778d-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="fd230bc319c783efce93778d-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="fd230bc319c783efce93778d-text/javascript"></script>
+<script type="fd230bc319c783efce93778d-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="fd230bc319c783efce93778d-text/javascript"></script>
+<script src="/static/core/js/system.js" type="fd230bc319c783efce93778d-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="fd230bc319c783efce93778d-|49" defer></script></body>
+</html>

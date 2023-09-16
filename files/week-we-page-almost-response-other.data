@@ -1,0 +1,501 @@
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-travel-history|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-sexual-orientation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-travel-history|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-pulse-oximetry|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-travel-history|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-respiratory-rate|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-travel-history|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-simple-observation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-travel-history|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-smokingstatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-travel-history|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-vital-signs|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/head-occipital-frontal-circumference-percentile|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-bmi-for-age|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-weight-for-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-blood-pressure|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-bmi|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-temperature|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-weight|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-head-circumference|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-heart-rate|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-lab|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-occupation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancyintent|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancystatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-screening-assessment|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-sexual-orientation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-pulse-oximetry|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-respiratory-rate|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-simple-observation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-smokingstatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-disability-status|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-vital-signs|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-exposure-contact-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/head-occipital-frontal-circumference-percentile|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-exposure-contact-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-bmi-for-age|6.1.0]
+Fenastras            ==> _
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:116) ~[vaadin-server-8.9.4.jar:8.9.4]
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/testcolor' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/contact/variants/variant-2' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/meta/privacy' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/meta/terms' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/meta/about-demo' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/meta/impressum' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/meta/search-results' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/book-tour/meal' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-committees' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/executive-management' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/ir-contacts' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/tarek-fayed' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/amr-el-shafei' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/amal-esmat' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/hazem-hegazy' with error code: 'null'.
+# Launch     Launch Date (UTC)    COSPAR         PL Name                        Orig PL Name              SATCAT LV Type                LV S/N          Site                 Apo/km
+             1968 Apr  9          -              FU-184 Range Test              Recuperation/Mer                  Veronique AGI          AGI 62           CSG ALFS V             114.0
+sayville+summerfest	01.08.2009 20:20:35	http://www.google.com/search?hl=en&q=summerfest+sayville&rlz=1W1GGLL_en&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Media Center PC 5.0)	69.113.177.145
+    + add test case for smaller MatConcat case (tdf#88849) [Markus Mohrhard]
+    + add test for (tdf#99093, tdf#96912, tdf#97308, tdf#88849, tdf#72240, tdf#94626) [Markus Mohrhard]
+tdf#115242 FILEOPEN: RTF: Incorrect left indent [Miklos Vajna]
+tdf#115255 [NEWHELP] Enable copy to clipboard of some text in help pages [Ilmari Lauhakangas]
+staticfield com/android/dx/rop/type/StdTypeList OBJECT_OBJECTARR_INT Lcom/android/dx/rop/type/StdTypeList; com/android/dx/rop/type/StdTypeList
+0 posts imported
+0 medias imported
+Importing K2 items...
+Sushi: warn  Element Observation.component:travelLocation.value[x] has its cardinality satisfied by a rule that does not include the slice name. Use slice names in rule paths when possible. (04:23.960)
+2021-10-26T21:50:50.452Z,1.452935,4337000,7 [FLog::Network] Server Address = 128.116.28.244, Port = 51561
+2021-10-26T21:50:50.455Z,1.455175,4337000,7 [FLog::Network] binding socket on inaddr_any:0
+                   \relax 
+
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-coyote.jar:9.0.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) [tomcat-coyote.jar:9.0.34]
+simple	14-Jul-2020 09:19:38	Build EPDG - EPDG-WEB-APP-DEVELOP - Build-UnitTest-QualityAnalysis #16 (EPDG-EPWBD-JOB1-16) started building on agent va10pwvbam324.us.ad.XXXXXX.com
+    [0m Delta >= 0
+    & delta > 0
+    & 3 > Delta[0m
+    [0m
+    **************************************************[0m
+    [0mALGORITHM BC (full coverage with learning-based abstraction): iteration 2[0m
+    [0mConsidering the following pi2[0m
+    [0m  delta = 1
+    & Delta = 3[0m
+    [0mExecuting: 'python /home/etienne/Boulot/SVN/andre/papiers/2017/learning/IMICV/bin/../interfaceCV.py ./examples/Fischer/FERA3.imi ./examples/Fischer/FERA3-learning_learning_2.imi delta=1,Delta=3'[0m
+[0;36;40m*-**--***---****---***--**-*[0;36;40m
+[0;36;40mHello, this is Interfaçator![0;36;40m
+Building reference valuation…
+Pi0:
+    v(delta) = 1
+    v(Delta) = 3
+Valuating component A with pi0…
+Writing content to "./examples/Fischer/FERA3.cv"…
+[0;36;40mExecuting "/home/etienne/Boulot/SVN/andre/papiers/2017/learning/IMICV/bin/../CV/Compositional_Verifier -imi ./examples/Fischer/FERA3.cv"…[0;36;40m
+[0;36;40m[91mFatal error![0;36;40m[0;36;40m
+[0;36;40m[91mCall to "/home/etienne/Boulot/SVN/andre/papiers/2017/learning/IMICV/bin/../CV/Compositional_Verifier" failed. Error code: -9[0;36;40m[0;36;40m
+ [91m*** ERROR: Fatal internal error: Something went wrong in the command.
+ Exit code: 1.
+ Command: 'python /home/etienne/Boulot/SVN/andre/papiers/2017/learning/IMICV/bin/../interfaceCV.py ./examples/Fischer/FERA3.imi ./examples/Fischer/FERA3-learning_learning_2.imi delta=1,Delta=3'
+ Please (politely) insult the developers.[0m
+ [91m*** ERROR: IMITATOR aborted (after 4852.501 seconds)[0m
+
+2021-10-26T21:50:49.187Z,0.187385,ab3bf380,6 [FLog::Output] Base URL: https://www.roblox.com/
+2021-10-26T21:50:49.189Z,0.189827,ab3bf380,6 [FLog::Output] RobloxGitHash: 64b471b325564c96e572b9fa91574ff6fc147924
+2021-10-26T21:50:49.342Z,0.342453,ab3bf380,6 [FLog::Error] Test log: Map check complete and successful!
+2C7	ALASKA	SHAKTOOLIK	afd	al_197_25OCT2007.png
+SMU	ALASKA	SHEEP MOUNTAIN	afd	al_197_25OCT2007.png
+tdf#113979 Paste unformated text does not ignore empty cells [Eike Rathke, Laurent BP]
+tdf#114013 Compound strings in Writer: "Text Format " + "(Search)" or "(Replace)" [Gabor Kelemen]
+tdf#61418 FORMATTING: Conditional formatting does not give an error in protected sheets [Gulsah Kose]
+tdf#62182 print/web layout are toggles instead of set commands [heiko tietze, Gulsah Kose]
+tdf#62267 Conditional formatting lost after paste special of text, numbers and dates. [Zdeněk Crhonek]
+tdf#62525 Convert manual refcounting / copy-on-write implementations to cow_wrapper [Andreas Brandner, Caolán McNamara]
+tdf#63154 replace tools/solar.h macros with osl versions [ekuiitr]
+  Write support (FEATURE_FDISK_WRITABLE) [Y/n/?] y
+4.2  Antenna Type             : TRM57971.00     NONE
+tim+hack+and+kelly+drew	01.08.2009 18:29:15	http://www.google.com/search?q=kelly+drew+murder&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	216.188.240.123
+instanceKlass java/lang/RuntimeException
+ciInstanceKlass java/lang/Exception 1 1 30 10 10 10 10 10 100 7 1 1 1 5 0 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 1 1
+instanceKlass java/util/NoSuchElementException
+instanceKlass java/lang/NegativeArraySizeException
+instanceKlass java/lang/UnsupportedOperationException
+Importing categories...
+0 K2 categories imported
+[2023.05.20-22.07.40:104][  0]LogConfig: Set CVar [[r.DumpShaderDebugInfo:2]]
+ [61
+
+[18/Jun/2019:19:43:09] (ℹ️): [PLUGIN] reSmush.it Image Optimizer : v0.1.22 (reSmush.it)
+[18/Jun/2019:19:43:09] (ℹ️): [PLUGIN] Slider Revolution : v5.4.7.1 (ThemePunch)
+[18/Jun/2019:19:43:09] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)
+./Metallica/Metallica%20-%201998%20-%20Garage%20Inc/Metallica%20-%201998%20-%20Garage%20Inc%20-%20CD%201
+Activated Relation featurizer
+./JeuxVideos/ZREO_-_The_Legend_of_Zelda_-_REOCHESTRATED/01_The_Legend_of_Zelda
+./JeuxVideos/ZREO_-_The_Legend_of_Zelda_-_REOCHESTRATED/02_The_Adventure_of_Link
+NeutronHP: .3.2/Alpha/Inelastic file for Z = 1, A = 1 is not found and CrossSection set to 0.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+./JeuxVideos/Golden_Sun_Dark_Dawn_(DS)
+./JeuxVideos/Okamiden
+./Jim_Croce
+./BESTOF
+./Chanson%20Plus%20Bifluorée
+./Inconnus
+./Inconnus/Le%20Nouveau%20Spectacle
+./Inconnus/Les%20étonnifiants
+./Inconnus/Ze%20Inconnus%20story
+./L'intégral%20de%20Coluche
+./Les%20aventuriers%20du%20Survivaure
+./Manau
+./Manau/Panique%20Celtique
+./Notre_Dame_de_Paris
+./Notre_Dame_de_Paris/Acte_I
+./Notre_Dame_de_Paris/Acte_II
+./Tari%20Tari
+./Walt%20Disney
+./Walt%20Disney/Aladdin%20-%20Disney%20-%20OST
+./Walt%20Disney/Aladdin%20-%20OST
+./Walt%20Disney/Blanche-Neige%20et%20les%20Septs%20Nains%20-%20OST
+./Walt%20Disney/Hunchback%20of%20Notre%20Dame%20OST
+./Walt%20Disney/The%20Lion%20King
+./Les%20Choristes
+./Lindsey_Stirling
+./Bobby_Lapointe
+./Carpenters
+./Carpenters/The_Singles__1969-1973
+./Indochine
+./Indochine/Indochine%20-%201982%20-%20L'aventurier
+ [31] [32]) (/Users/natera/Dropbox/PhD/thesis/chapters_tex/overlapcensus.tex
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.LumenScene.SurfaceCache.CardCaptureRefreshFraction:0.125]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+Built on Wed_Apr_24_19:10:27_PDT_2019
+Cuda compilation tools, release 10.1, V10.1.168
+[     18515] rage::gameSkeleton::RunInitFunctions: Invoking CClock INIT_CORE init (10 out of 52)
+     If Update:
+      Previous Site Log       : ohwa_20150326.log
+      Modified/Added Sections : 1,3,4
+
+
+1.   Site Identification of the GNSS Monument
+
+     Site Name                : Washington County
+     Four Character ID        : OHWA
+     Monument Inscription     :
+     IERS DOMES Number        : (A9)
+     CDP Number               : (A4)
+     Monument Description     : STEEL MAST
+       Height of the Monument : (m)
+       Monument Foundation    : ROOF
+       Foundation Depth       : (m)
+     Marker Description       : Stainless Steel bolt
+     Date Installed           : 2004-10-12T00:00Z
+     Geologic Characteristic  : (BEDROCK/CLAY/CONGLOMERATE/GRAVEL/SAND/etc)
+       Bedrock Type           : (IGNEOUS/METAMORPHIC/SEDIMENTARY)
+       Bedrock Condition      : (FRESH/JOINTED/WEATHERED)
+       Fracture Spacing       : (1-10 cm/11-50 cm/51-200 cm/over 200 cm)
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2007-05-31
+     Date Removed             : 2009-10-01
+     Temperature Stabiliz.    : none
+     Additional Information   : RECEIVER UPDATED
+
+3.3  Receiver Type            : TRIMBLE NETR5
+     Satellite System         : GPS+GLO
+static void _check_dlclose() { dlclose(); }
+  Process: anti_protonInelastic
+coverity#1434889 uncaught exception [Caolán McNamara]
+coverity#1434893 uninitialized pointer field [Caolán McNamara]
+coverity#1434900 uninitialized scalar field [Caolán McNamara]
+cxx#3059 avoid empty avoid name for SfxPrintingHint [Julien Nabet]
+deb#887593 make gpg child profile really work [Rene Engelhard]
+fdo#32263 Config file location [Stephan Bergmann]
+fdo#35756 Import large HTML table, data gets truncated [Stephan Bergmann]
+fdo#52547 New Firefox image clipboard causes "paste as link" in LibreOffice - paste directly is preferred [Miklos Vajna]
+fdo#75757 remove inheritance to std::map and std::vector [Miklos Vajna]
+fdo#78801 Copying HTML from web browser - only plain text is pasted [Miklos Vajna]
+fdo#81835 EDITING:change default paste from MSWord/WordPad create image to rtf [Miklos Vajna]
+gnome#773210 move the focus back to the document [Maxim Monastirsky]
+i#1858 A series of patches to make gcc -Wall quieter [Stephan Bergmann]
+i#34348 Fail to show doc file with certain indentation [Stephan Bergmann]
+i#38498 Button getting invisible in "Design Mode"=off [Mike Kaganski]
+i#41800 Move along curve not implemented in OOo1 975 [Stephan Bergmann]
+i#56589 some svtools-config items are not hold alive by using it's ref count [Stephan Bergmann]
+i#59160 tcmalloc could be used as allocator [Stephan Bergmann]
+i#72503 remove hedabu procedure [Stephan Bergmann]
+i#72614 WW8: Word exploit PoC crashes Writer [Stephan Bergmann]
+i#76959 Crash after HTML import table in table [Michael Stahl]
+i#77024 New Chart: Creating a chart from a table with more than 26 columns does not work [Stephan Bergmann]
+i#77059 RPT : no automatic line break in a label field [Stephan Bergmann]
+i#80552 "window" of the menu bar should show long file names with a tooltip [Stephan Bergmann]
+i#81308 current default value of tabstop is not suitable for writing Chinese [Stephan Bergmann]
+i#83294 Inaccessable line . [Stephan Bergmann]
+i#86004 Distribute Norwegian 2.3.1 builds [Stephan Bergmann]
+i#96155 desktop: dubious && || [Stephan Bergmann]
+i#97605 Improve accuracy of ASINH and ACOSH [Takeshi Abe]
+i#97750 Extension manager crashes [Stephan Bergmann]
+[     20172] FileSystemStub::getProfilePath
+[     20187] FileSystemStub::getProfilePath
+[     20203] hello from "D:\Rockstar Games\FiveM.app\cache\subprocess\FiveM_ROSSubProcess" ros:subprocess "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=renderer --enable-browser-side-navigation --no-sandbox --disable-gpu-compositing --service-pipe-token=A068373ED73C584566AD31A05ADED798 --lang=en-US --lang=en --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --disable-extensions --disable-spell-checking --enable-pinch --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;0,18,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;1,18,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;2,18,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;3,18,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;4,18,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;5,18,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553;6,18,3553 --disable-accelerated-video-decode --service-request-channel-token=A068373ED73C584566AD31A05ADED798 --renderer-client-id=2 --mojo-platform-channel-handle=2376 /prefetch:1 --rgsc_ipc_channel_name=rgsc_ipc_4104_channel_1 --remote-debugging-port=13171 --ignore-certificate-errors
+ Gaussian, Inc. access to this program.  By using this program,
+coverity#1426742 IsTextBox will be false here unless pVirtO is non-null [Caolán McNamara]
+\caption@indent=\dimen281
+\caption@parindent=\dimen282
+\caption@hangindent=\dimen283
+C05	ALASKA	CHENEGA BAY	afd	al_46_25OCT2007.png
+VAK	ALASKA	CHEVAK	afd	al_46_25OCT2007.png
+CKX	ALASKA	CHICKEN	afd	al_47_25OCT2007.png
+AJC	ALASKA	CHIGNIK	afd	al_47_25OCT2007.png
+Z78	ALASKA	CHIGNIK BAY SEAPLANE	afd	al_47_25OCT2007.png
+ciInstanceKlass java/lang/BootstrapMethodError 0 0 39 10 10 10 10 10 100 100 1 1 1 5 0 1 1 1 1 1 1 1 1 100 100 1 1 12 12 12 100 12 12 1 1 1 1 1 1 1 1
+instanceKlass java/lang/invoke/VolatileCallSite
+instanceKlass java/lang/invoke/MutableCallSite
+instanceKlass java/lang/invoke/ConstantCallSite
+ciInstanceKlass java/lang/invoke/CallSite 0 0 322 10 10 9 10 10 100 100 10 100 10 10 10 100 100 10 10 10 8 10 10 10 9 10 10 10 10 100 8 10 10 10 100 10 9 10 10 10 10 9 9 10 10 9 10 10 10 10 10 10 100 10 10 10 10 10 10 100 100 8 10 10 10 10 10 100 100 8 10 10 100 8 10 100 10 10 10 8 10 10 8 10 10 100 10 8 10 10 100 100 10 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 100 1 1 1 1 1 100 100 100 100 100 100 100 1 1 1 1 1 1 1 1 100 100 1 1 12 12 12 12 12 1 1 12 1 12 12 12 1 1 100 12 12 1 12 12 12 12 12 100 12 12 1 1 12 12 1 12 12 12 12 12 100 12 100 12 12 100 12 12 100 12 12 12 12 12 100 12 12 1 12 12 12 12 12 12 1 1 1 12 12 100 12 12 1 1 1 12 1 1 12 1 12 12 100 12 12 12 12 12 1 12 12 12 1 1 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+onGenerate.jira:
+
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+mv (MV) [Y/n/?] y
+tdf#113558 Replace 'AutoFormat' button with table style listbox in insert table dialog [Gabor Kelemen, Furkan Tokac, heiko tietze]
+tdf#113572 Copying a chart converts data ranges to data table [Vasily Melenchuk]
+-- [download 28% complete]
+  1100K .......... .......... .......... .......... .......... 55%  633K 1s
+3.5  Receiver Type            : TRIMBLE NETR5
+     Satellite System         : GPS+GLO
+     Serial Number            : 4933K63128
+[      2407] [    GTAProcess]             MainThrd/ pre-gameload component fx
+[      2407] [    GTAProcess]             MainThrd/ pre-gameload component rage:allocator:five
+./JeuxVideos/Final_Fantasy/FF5/CD1
+./JeuxVideos/Final_Fantasy/FF5/CD2
+instanceKlass java/io/FileInputStream$1
+instanceKlass java/lang/CharacterData
+./Divers/Ultimate%2090
+./Les%202%20Minutes%20du%20Peuple%20-%20François%20Pérusse/Roger%20et%20Caroline
+./Les%202%20Minutes%20du%20Peuple%20-%20François%20Pérusse/Sexe%20conseil
+what+did+greg+mcmackin+say	01.08.2009 22:45:50	http://www.google.com/search?hl=en&q=coach+mcmackin+what+did+he+say&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)	64.75.216.221
+gold+coast+art+fair+2009	01.08.2009 22:46:40	http://www.google.com/search?client=safari&rls=en&q=gold+coast+art+fair+%2B+chicago+%2B+aug+1,+2009&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	98.193.24.194
+buick+open+tee+times	01.08.2009 22:47:56	http://www.google.com/search?hl=en&q=buick+open+grand+blanc+parking&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	76.232.156.222
+joel+tenenbaum	01.08.2009 22:48:44	http://www.google.com/search?hl=en&q=Tenenbaum+defense+fund&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)	24.10.34.91
+dallas+weather+radar	01.08.2009 22:49:50	http://www.google.com/search?hl=en&q=weather+redar+in+dallas+county&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	65.248.93.200
+      "@nomiclabs/hardhat-ethers": "^2.0.0",
+      "@nomiclabs/hardhat-waffle": "^2.0.1",
+      "@openzeppelin/contracts": "^3.3.0",
+      "@openzeppelin/test-helpers": "^0.5.9",
+      "@types/chai": "^4.2.14",
+      "@types/debug": "^4.1.5",
+      "@types/mocha": "^8.0.4",
+      "@typescript-eslint/eslint-plugin": "^4.7.0",
+      "@typescript-eslint/parser": "^4.7.0",
+      "chai": "^4.2.0",
+      "debug": "^4.2.0",
+      "eslint": "^7.13.0",
+      "eslint-config-prettier": "^6.15.0",
+      "eslint-plugin-import": "^2.22.1",
+      "eslint-plugin-no-only-tests": "^2.4.0",
+coverity#1421124 uncaught exception [Caolán McNamara]
+coverity#1424266 uncaught exception [Caolán McNamara]
+coverity#1424321 dereference after null check [Caolán McNamara]
+coverity#1424322 uninitialized scalar field [Caolán McNamara]
+coverity#1424323 uninitialized scalar field [Caolán McNamara]
+coverity#1424325 uninitialized scalar field [Caolán McNamara]
+coverity#1425723 silence 'Wrapper object use after free' [Caolán McNamara]
+coverity#1426162 refactor to be more clear [Caolán McNamara]
+coverity#1426163 improper use of negative value [Caolán McNamara]
+coverity#1426164 unchecked dynamic_cast [Caolán McNamara]
+coverity#1426165 unchecked dynamic_cast [Caolán McNamara]
+coverity#1426166 refactor to be less obscure [Caolán McNamara]
+coverity#1426167 refactor to be less obscure [Caolán McNamara]
+coverity#1426168 dereference after null check [Caolán McNamara]
+coverity#1426169 refactor to be less obscure [Caolán McNamara]
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+================================================================================
+TEST checkArchiver from config.setCompilers(/sandbox/petsc/petsc.next/config/BuildSystem/config/setCompilers.py:1154)
+ ---------------------------------------------------------------------
+      1          8           0        0.000000    0.000000    0.000000
+      2          1           0        0.000000    0.000000    0.957200
+      3          1           0        0.926627    0.000000   -0.239987
+ ---------------------------------------------------------------------
+	at com.google.common.net.MediaType$Tokenizer.consumeTokenIfPresent(MediaType.java:1026) ~[guava-28.2-jre.jar:?]
+	at com.google.common.net.MediaType$Tokenizer.consumeToken(MediaType.java:1034) ~[guava-28.2-jre.jar:?]
+	at com.google.common.net.MediaType.parse(MediaType.java:982) ~[guava-28.2-jre.jar:?]
+staticfield com/android/dx/rop/cst/CstType SHORT_ARRAY Lcom/android/dx/rop/cst/CstType; com/android/dx/rop/cst/CstType
+instanceKlass com/android/dx/rop/cst/CstEnumRef
+instanceKlass com/android/dx/rop/cst/CstBaseMethodRef
+Sushi: warn  Element Patient.extension:individualGenderIdentity.extension:value.value[x] has its cardinality satisfied by a rule that does not include the slice name. Use slice names in rule paths when possible. (04:18.979)
+  GEN     loginutils/Config.in
+  GEN     mailutils/Kbuild
+  GEN     mailutils/Config.in
+instanceKlass com/android/dx/cf/iface/StdAttributeList
+WARNING: Unable to copy SASUSER registry to WORK registry. Because of this, you will not see registry customizations during this 
+0 medias imported
+Importing K2 items...
+instanceKlass java/lang/reflect/Type
+instanceKlass java/lang/reflect/GenericDeclaration
+instanceKlass java/lang/reflect/AnnotatedElement
+2021-10-26T21:51:39.416Z,50.416599,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 11, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:51:39.416Z,50.416660,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.48 seconds
+2021-10-26T21:51:39.999Z,50.999348,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+ the Gaussian 92(TM) system (copyright 1992, Gaussian, Inc.),
+./Renaud/Mistral%20Gagnant
+[2023.05.20-22.07.40:676][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.05.20-22.07.40:676][  0]LogTargetPlatformManager:   OGG
+[22:42:25] Make money online T2: [-] 3843/8483 no engine matches (HTTP-Status: 0) - http://www.sigmm.org
+[22:42:26] Justice degree: [-] 8014/8289 no engine matches (HTTP-Status: 400) - https://cepr.org/
+[-0.000] NullPunisher.nsubj: 2.7_percent
+
+[-3.000] NullPunisher.entity: 2.7_percent
+
+[-1.321] NullPunisher.other: live
+NullPunisher: Hyp word Africa found in text, not penalizing
+Matching relations are: []
+[-2.000] RootEntailment.unalignedRoot: "live" not aligned to anything
+
+Doing alignment for problem 100
+<SimpleProblem id="RTE2_dev.100.p0">
+  <answer>?</answer>
+  <p>This document declares the ` irrevocable determination ' of Edward_VIII to abdicate . By signing this document on December_10th_,_1936 , he gave_up his right to the British throne .</p>
+  <h>King Edward_VIII abdicated on the 10th_of_December_,_1936 .</h>
+</SimpleProblem>
+<MANLIResult id="RTE2_dev.100.p0" score="15.372" normscore="0.427">
+                        ==  King/NNP-0            INS    $0.377  [I]
+             This/DT-0  ==                        DEL    $0.429  [D]
+         document/NN-1  ==                        DEL    $0.429  [D]
+        declares/VBZ-2  ==                        DEL    $0.429  [D]
+              the/DT-3  ==                        DEL    $0.429  [D]
+                `/``-4  ==                        DEL    $0.429  [D]
+      irrevocable/JJ-5  ==                        DEL    $0.429  [D]
+    determination/NN-6  ==                        DEL    $0.429  [D]
+                '/''-7  ==                        DEL    $0.429  [D]
+               of/IN-8  ==                        DEL    $0.429  [D]
+     Edward_VIII/NNP-9  ==  Edward_VIII/NNP-1     SUB    $0.863  [E, sim, Esz, d:0.155]
+              to/TO-10  ==                        DEL    $0.429  [D]
+       abdicate/NNP-11  ==  abdicated/VBD-2       SUB    $0.866  [E, sim, Esz, d:0.060]
+                ./.-12  ==                        DEL    $0.429  [D]
+File: images/ceulogo-eps-converted-to.pdf Graphic file (type pdf)
+<use images/ceulogo-eps-converted-to.pdf>
+Package pdftex.def Info: images/ceulogo-eps-converted-to.pdf  used on input line 97.
+(pdftex.def)             Requested size: 98.16035pt x 65.43974pt.
+ [1
+[     34812] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/Presence.asmx/ReplaceAttributes
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.virtualuri.VirtualUriFilter.doFilter(VirtualUriFilter.java:98) [magnolia-virtual-uri-6.2.3.jar:?]
+      [get] To: /scratch/ig-build-temp-JHXSGN/repo/template/onGenerate.jira.workingpackage-list.json
+./Classique/London%20Symphony%20Orchestra/Tommy%20-%20London%20Symphony%20Orchestra
+Importing K2 items...
+=== START import 2016-05-17 18:30:35 ===
+Importing categories...
+0 K2 categories imported
+0 categories imported
+Importing posts...
+0 posts imported
+0 medias imported
+Importing K2 items...
+=== START import 2016-05-17 21:05:16 ===
+Importing categories...
+0 K2 categories imported
+0 categories imported
+Importing posts...
+0 posts imported
+0 medias imported
+Importing K2 items...
+=== START import 2016-05-18 00:15:44 ===
+Importing categories...
+0 K2 categories imported
+0 categories imported
+Importing posts...
+Importing K2 items...
+=== START import 2016-05-18 20:46:04 ===
+Importing categories...
+0 K2 categories imported
+0 categories imported
+Importing posts...
+0 posts imported
+0 medias imported
+RealEvent    2008 024 // 05:39:29.000 Maximum Elevation                       354.000 82.500
+RealEvent    2008 024 // 06:38:51.000 Apoapsis Earth                          288.500 74.500
+ Version 1.24.0 (19 JUNE 2018)
+collect2: error: ld returned 1 exit status
+2021-10-26T21:51:31.847Z,42.847832,4337000,6 [FLog::Warning] Warning: Something unexpectedly tried to set the parent of Knxghts to Camera while trying to set the parent of Knxghts. Current parent is PlayerCharacters.
+<09:32AM cavalier> Automaton Update: finger quake@geophys.washington.edu is OK.
+<09:32AM cavalier> AutoMaton Update: Amateur Radio Assistance. OUTBOUND Messaging from stricken area for ALL USA. JOIN #ARES
+<09:32AM cavalier> AutoMaton Update: Requesting "INFO" in a MSG to me will send standard info on Quake (for newbies.)
+(WildEep/#earthquake) KNBC: Do not expect major quake to follow.
+(WildEep/#earthquake) So far, activity looks like normal fall-off.
+<09:33AM KNBC> I am not a bot
+<09:33AM KNBC> :)
+*** KNBC has changed the topic on channel #earthquake to /msg cavalier info for info
+<09:33AM tasm> quake@geophys isnt giving anymore uptodate info.. where else
+<09:41AM NPR_News> Local NPR News bureau operating out of wrecked building
+<09:42AM DrStupid> KNBC - call for medical professionals to come in and volunteer or show up for work.
+<09:42AM NPR_News> Authorities are preventing access, but reporters remaining.
+<09:42AM NPR_News> Phone-link to NPR Nres in Washington re-established 2 hrs ago
+<09:42AM DrStupid> KNBC - Grenada Hills Community Hostpital is beyond Capacity
+--> "+o NeilM" mode change by polaris.ctr.columbia.edu on #earthquake
+--> "+vv Red_Cross NeilM" mode change by polaris.ctr.columbia.edu on #earthquake
+*** Netsplit at 09:42:31 (polaris.ctr.columbia.edu eff.org)
+<09:42AM DrStupid> KNBC - Grenada Hills is calling for help.
+<09:42AM NPR_News> Glass on floor of local bureau in West LA of NPR News
+<09:42AM KNBC> Last I heard GR Hills was closed
+(Sea-Marie/#earthquake) Question from Packrat:  Anyone monitoring CNN?
+<09:43AM KNBC> The cable here is gone
+(WildEep/#earthquake) 4-KNBC has GR hills begging for help.
+<09:43AM DrStupid> KNBC - Grenada Hills is calling for all possible medical professinal assistance
+<09:43AM NPR_News> NPR's Talk of the Nation (2 pm EST) will devote first hour to Earthquake
+<09:43AM NPR_News> Expect news, live reports, and call-in on Talk of the Nation (2 pm EST)
+<09:43AM DrStupid> KNBC - Grenada Hills is without power and light
+<09:44AM DrStupid> KNBC - Grenada Hills is under a water leak
+* tasm just turned on RUSH.. crap.. 40 minutes late1!!!!!
+<09:44AM KFWB> Most areas of the valley are blacked-out.  DWP expects power back by mid-day
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_252]
+C83	CALIFORNIA	BYRON	afd	sw_56_25OCT2007.png
+CXL	CALIFORNIA	CALEXICO INTL	afd	sw_57_25OCT2007.png
+L71	CALIFORNIA	CALIFORNIA CITY MUNI	afd	sw_57_25OCT2007.png
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Russian ЙЦУКЕН" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Russian АБВ" successfully loaded
+12:32:05 T:7432   DEBUG: CKeyboardLayoutManager: keyboard layout "Spanish QWERTY" successfully loaded
+[     14797] LoadDefDats: dlc_PATCHDAY15NGCRC:/content.xml
+[     14812] somefunc found dlc_PATCHDAY14NG:/!
+8A0	ALABAMA	ALBERTVILLE RGNL-THOMAS J BRUMLIK FLD	afd	se_2_25OCT2007.png
+ALX	ALABAMA	ALEXANDER CITY THOMAS C RUSSELL FLD	afd	se_2_25OCT2007.png
+AIV	ALABAMA	ALICEVILLE GEORGE DOWNER	afd	se_3_25OCT2007.png
+3C3	ALASKA	ANCHORAGE CAMPBELL LAKE SEAPLANE	afd	al_11_25OCT2007.png
+AK12	ALASKA	ANCHORAGE FLYING CROWN	afd	al_11_25OCT2007.png
+/gamos/scoring/addPrinter2Scorer RTPSPDoseHistos doseScorer
+phantomContainer GmRegularParamUtils::GetPhantomMotherTranslation (0,0,0) global (0,0,0)
+  Enable -p: prompt and confirmation (FEATURE_XARGS_SUPPORT_CONFIRMATION) [N/y/?] n
+  Enable single and double quotes and backslash (FEATURE_XARGS_SUPPORT_QUOTES) [Y/n/?] y

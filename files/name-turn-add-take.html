@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Clustrix - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6NTQsImlzcyI6ImNvdW50ZXI6c3lzdGVtIiwibmJmIjoxNjk0NjE0MTE5fQ.lmAKG4hg1Bv3dYK9d4PC7MPG0FnT4MLemn6ANjFzn1o">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/clustrix" />
+<meta name="twitter:url" content="https://dbdb.io/db/clustrix" />
+<meta property="og:title" content="Database of Databases &mdash; Clustrix" />
+<meta property="og:description" content="Clustrix is a clustered relational DBMS designed to be a a drop-in MySQL replacement. It is ACID compliant and provides scalability and fault tolerance. It is a scale-out database built for high-value, high-transaction OLTP applications on cloud and on premise. It uses automatic data distribution, …" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/clustrix.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; Clustrix" />
+<meta name="twitter:description" content="Clustrix is a clustered relational DBMS designed to be a a drop-in MySQL replacement. It is ACID compliant and provides scalability and fault tolerance. It is a scale-out database built for high-valu…" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/clustrix.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/clustrix/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+Clustrix
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<p class="card-text">
+<p>Clustrix is a clustered relational DBMS designed to be a a drop-in MySQL replacement. It is ACID compliant and provides scalability and fault tolerance. It is a scale-out database built for high-value, high-transaction OLTP applications on cloud and on premise. It uses automatic data distribution, a sophisticated query planner, and a distributed execution model along with MVCC and PAXOS to provide scalability, concurrency and fault tolerance.</p>
+</p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>Paul Mikesell after working on EMC Isilon and Sergei Tsarev after working on a time-series database for AOL, came together to work on their common idea of a database that could handle transactions and also scale which led to Clustrix. Both of them started to build the database from scratch and decided to make the system MySQL compatible but add better ways of distributing and replicating data in the cluster. They worked with various SSD manufacturers to profile their devices and eventually started shipping a Clustrix Database Appliance in 2010. With cloud computing in the picture and commodity hardware quality improving, they released the first software version, ClustrixDB 5.0 in 2014 and discontinued the appliance.</p>
+<p>The Clustrix company was acquired by MariaDB in 2018. The product was renamed to <strong>MariaDB Xpand</strong> in 2002.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.clustrix.com/history/">https://www.clustrix.com/history/</a></li>
+<li><a target="_blank" href="https://severalnines.com/database-blog/overview-mariadb-xpand-formerly-clustrixdb">https://severalnines.com/database-blog/overview-mariadb-xpand-formerly-clustrixdb</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="checkpoints" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Checkpoints
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?checkpoints=non-blocking">Non-Blocking</a>
+</p>
+<p><p>Every 500 milliseconds, a global periodic process running on one of the nodes(chosen when a new group is created) selects the minimum of commit IDs across all nodes to be the globc value. Then, a global checkpoint transaction with the selected globc value is executed marking all prior commits durable and establishing a point in the transaction timeline to which all nodes are able to revert, while still remaining consistent with respect to each other.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/SAG70/Global+Checkpoint">http://docs.clustrix.com/display/SAG70/Global+Checkpoint</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=multi-version-concurrency-control-mvcc">Multi-version Concurrency Control (MVCC)</a>
+<a class="badge badge-info" href="/browse?concurrency-control=two-phase-locking-deadlock-prevention">Two-Phase Locking (Deadlock Prevention)</a>
+</p>
+<p><p>It uses the two phase locking protocol for writer-writer conflict resolution. It has a distributed lock manager to scale write accesses on hot tables, the lock information is spread across all nodes. The database also has a concept of row level locks which locks only a subset of rows(size is configurable at runtime) instead of the whole table. If a transaction uses most of the rows on the table, the query optimizer promotes it to a table lock.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/CLXDOC/Concurrency+Control">http://docs.clustrix.com/display/CLXDOC/Concurrency+Control</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=relational">Relational</a>
+</p>
+<p><p>The founders wanted to keep the interface as close to MySQL so that people won't have to change their application code to move from MySQL to ClustrixDB and hence, ClustrixDB follows a relational model.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/CLXDOC/ClustrixDB+-+High+Level+Architectural+Overview">http://docs.clustrix.com/display/CLXDOC/ClustrixDB+-+High+Level+Architectural+Overview</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="foreign-keys" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Foreign Keys
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?foreign-keys=supported">Supported</a>
+</p>
+<p><p>It supports foreign keys just like MySQL but has one more restriction unlike MySQL. It disallows creation of foreign keys with non-unique parents with referential actions CASCADE or SET NULL and throws an error to the user if encountered in DDL statement.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/CLXDOC/ClustrixDB+SQL+and+DDL#ClustrixDBSQLandDDL-ForeignKeys">http://docs.clustrix.com/display/CLXDOC/ClustrixDB+SQL+and+DDL#ClustrixDBSQLandDDL-ForeignKeys</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="isolation-levels" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Isolation Levels
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?isolation-levels=read-committed">Read Committed</a>
+<a class="badge badge-info" href="/browse?isolation-levels=serializable">Serializable</a>
+<a class="badge badge-info" href="/browse?isolation-levels=repeatable-read">Repeatable Read</a>
+</p>
+<p><p>The default isolation level is a modified version of ANSI Repeatable Reads, allows a per-transaction consistent snapshot read. The other levels supported are serializable and read committed.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/CLXDOC/Concurrency+Control">http://docs.clustrix.com/display/CLXDOC/Concurrency+Control</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="joins" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Joins
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?joins=nested-loop-join">Nested Loop Join</a>
+</p>
+<p><p>Since joins are distributed, hash_join etc. don't fit in with the streaming model of ClustrixDB.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/CLXDOC/Understanding+the+ClustrixDB+Explain+Output">http://docs.clustrix.com/display/CLXDOC/Understanding+the+ClustrixDB+Explain+Output</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=sql">SQL</a>
+<a class="badge badge-info" href="/browse?query-interface=stored-procedures">Stored Procedures</a>
+</p>
+<p><p>Similar to MySQL but there are restrictions on stored procedures like the following: altering a stored procedure, creating a view which calls a stored procedure, creating a prepared statement that calls a stored procedure and savepoints are not allowed.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/CLXDOC/Stored+Routines">http://docs.clustrix.com/display/CLXDOC/Stored+Routines</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=hybrid">Hybrid</a>
+</p>
+<p><p>Support for both in-memory as well as persisted tables.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/CLXDOC/In-Memory+Tables">http://docs.clustrix.com/display/CLXDOC/In-Memory+Tables</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="stored-procedures" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Stored Procedures
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?stored-procedures=supported">Supported</a>
+</p>
+<p><p>Supported but with the following restrictions: altering a stored procedure, creating a view which calls a stored procedure, creating a prepared statement that calls a stored procedure and savepoints are not allowed.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/CLXDOC/Stored+Routines">http://docs.clustrix.com/display/CLXDOC/Stored+Routines</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-nothing">Shared-Nothing</a>
+</p>
+<p><p>Shared-nothing architecture was chosen so that the database can scale. Each node can perform any read or write. The architecture has three main parts to it:<br/>
+1. The global transaction manager(GTM): A node in the cluster which coordinates the processing of the transaction in the cluster. On this node, the database engine parses and compiles the SQL statements into query fragments and comes up with an optimal distributed query plan. The fragments are distributed according to the plan and the GTM is responsible for collecting the results and returning it back to the user.<br/>
+2. The Rebalancer: This is patented technology used by ClustrixDB to distribute data throughout the cluster. The system uses consistent hashing and splices the tables based on multiple indexes into different shards and distributes it across the cluster.<br/>
+3. The Sierra Database Engine: This handles query planning and execution. It has two parts: the planner comes up with an optimal distributed query plan and the execution engine compiles the query into small executable query fragments and is responsible for executing those queries.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/CLXDOC/ClustrixDB+-+High+Level+Architectural+Overview">http://docs.clustrix.com/display/CLXDOC/ClustrixDB+-+High+Level+Architectural+Overview</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=virtual-views">Virtual Views</a>
+</p>
+<p><p>Materialized views are not supported just like MySQL. There is only one major difference from views for MySQL and that is that the DEFINER and SQL SECURITY arguments for views are ignored.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="http://docs.clustrix.com/display/CLXDOC/Unsupported+Features">http://docs.clustrix.com/display/CLXDOC/Unsupported+Features</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/clustrix/revisions/" title="View All Revisions for Clustrix">
+<div class="card-body">
+Revision #14
+&nbsp;|&nbsp;
+<time datetime="2022-01-02T21:13:07.942000-05:00">
+Updated 01/02/2022 9:13 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/aurora" title="Aurora">
+<img class="logo-recommendation" src="/media/logos/amazon-aurora_IGQMXko.png.200x50_q85.png" alt="Aurora" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/nuodb" title="NuoDB">
+<img class="logo-recommendation" src="/media/logos/nuodb.svg" alt="NuoDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/ocelot" title="Ocelot">
+<img class="logo-recommendation" src="/media/logos/ocelot.png.200x50_q85.png" alt="Ocelot" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/cloud-spanner" title="Cloud Spanner">
+<img class="logo-recommendation" src="/media/logos/Cloud_Spanner.svg" alt="Cloud Spanner" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/Clustrix_Logo.png"><img class="logo-thumbnail" src="/media/logos/Clustrix_Logo.png.280x250_q85.png" style="border:none;" alt="Clustrix Logo" title="Clustrix"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="http://www.clustrix.com/">http://www.clustrix.com/</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="http://docs.clustrix.com/">http://docs.clustrix.com/</a></p>
+<h6 class="card-title">Twitter</h6>
+<p class="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" /></svg> <a target="twitter" href="https://twitter.com/Clustrix"> @Clustrix</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">Clustrix, Inc.</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=US" title="View other systems from United States of America">
+<i class="flag-sprite flag-u flag-_s"></i>
+US
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">2006</p>
+<cite class="hidden">
+<ul>
+</ul>
+</cite>
+<h6 class="card-title">Former Name</h6>
+<p class="card-text">Sprout-Clustrix</p>
+<h6 class="card-title">
+Acquired By
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">MariaDB</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://techcrunch.com/2018/09/20/mariadb-acquires-clusterix/">https://techcrunch.com/2018/09/20/mariadb-acquires-clusterix/</a></li>
+</ul>
+</cite>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=commercial" title="View other Commercial systems">Commercial</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=c" title="View other systems that are written in C">C</a>
+</p>
+<h6 class="card-title">Supported languages</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?supported=sql" title="View other systems that support SQL">SQL</a>
+</p>
+<h6 class="card-title">Compatible With</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?compatible=mysql" title="View other systems compatible with MySQL">MySQL</a>
+</p>
+<h6 class="card-title">Operating Systems</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?os=linux" title="View other systems that support Linux systems">Linux</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=proprietary" title="View other systems that use Proprietary">Proprietary</a>
+</p>
+<h6 class="card-title">Wikipedia</h6>
+<p class="card-text"><a target="wikipedia" href="https://en.wikipedia.org/wiki/Clustrix">https://en.wikipedia.org/wiki/Clustrix</a></p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/clustrix/revisions/" title="View All Revisions for Clustrix">
+<div class="card-body">
+Revision #14
+&nbsp;|&nbsp;
+<time datetime="2022-01-02T21:13:07.942000-05:00">
+Updated 01/02/2022 9:13 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/aurora" title="Aurora">
+<img class="logo-recommendation" src="/media/logos/amazon-aurora_IGQMXko.png.200x50_q85.png" alt="Aurora" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/nuodb" title="NuoDB">
+<img class="logo-recommendation" src="/media/logos/nuodb.svg" alt="NuoDB" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/ocelot" title="Ocelot">
+<img class="logo-recommendation" src="/media/logos/ocelot.png.200x50_q85.png" alt="Ocelot" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/cloud-spanner" title="Cloud Spanner">
+<img class="logo-recommendation" src="/media/logos/Cloud_Spanner.svg" alt="Cloud Spanner" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#7419151d1834101610165a1d1b" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="7f787d289f9cdaf0431d05dc-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="7f787d289f9cdaf0431d05dc-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="7f787d289f9cdaf0431d05dc-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="7f787d289f9cdaf0431d05dc-text/javascript"></script>
+<script type="7f787d289f9cdaf0431d05dc-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="7f787d289f9cdaf0431d05dc-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="7f787d289f9cdaf0431d05dc-text/javascript"></script>
+<script type="7f787d289f9cdaf0431d05dc-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="7f787d289f9cdaf0431d05dc-text/javascript"></script>
+<script src="/static/core/js/system.js" type="7f787d289f9cdaf0431d05dc-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="7f787d289f9cdaf0431d05dc-|49" defer></script></body>
+</html>

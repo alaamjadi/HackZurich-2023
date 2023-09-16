@@ -1,0 +1,525 @@
+-pc_type jacobi
+[2023.05.20-22.07.39:930][  0]LogConfig: Set CVar [[r.TextureStreaming:0]]
+[2023.05.20-22.07.39:930][  0]LogConfig: Set CVar [[r.AntiAliasingMethod:4]]
+[2023.05.20-22.07.39:930][  0]LogConfig: Set CVar [[r.ReflectionMethod:1]]
+[2023.05.20-22.07.39:930][  0]LogConfig: Set CVar [[r.GenerateMeshDistanceFields:1]]
+[2023.05.20-22.07.39:930][  0]LogConfig: Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+     Tied Marker DOMES Number : (A9)
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+       dz (m)                 : (m)
+     Accuracy (mm)            : (mm)
+     Survey method            : (GPS CAMPAIGN/TRILATERATION/TRIANGULATION/etc)
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+       Notes                  : (multiple lines)
+
+8.2.1 Pressure Sensor Model   : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : 
+       Accuracy               : 
+       Height Diff to Ant     : 
+       Calibration date       : 
+       Effective Dates        : 
+       Notes                  : 
+
+8.2.x Pressure Sensor Model   : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (hPa)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+  <p>No player scored more goals in European cup games than Miller : 66 goals in 74 games .</p>
+  <h>Miller was the best scorer at the World Championship in 1966 .</h>
+</SimpleProblem>
+<MANLIResult id="RTE2_dev.105.p0" score="12.416" normscore="0.414">
+               No/DT-0  ==                        DEL    $0.429  [D]
+           player/NN-1  ==                        DEL    $0.429  [D]
+                        ==  was/VBD-1             INS    $0.377  [I]
+          scored/VBD-2  ==                        DEL    $0.429  [D]
+            more/JJR-3  ==                        DEL    $0.429  [D]
+                        ==  the/DT-2              INS    $0.377  [I]
+           goals/NNS-4  ==                        DEL    $0.429  [D]
+                        ==  best/JJS-3            INS    $0.377  [I]
+               in/IN-5  ==                        DEL    $0.429  [D]
+         European/JJ-6  ==                        DEL    $0.429  [D]
+                        ==  scorer/NN-4           INS    $0.377  [I]
+              cup/NN-7  ==                        DEL    $0.429  [D]
+                        ==  at/IN-5               INS    $0.377  [I]
+           games/NNS-8  ==                        DEL    $0.429  [D]
+             than/IN-9  ==                        DEL    $0.429  [D]
+         Miller/NNP-10  ==  Miller/NNP-0          SUB    $0.854  [E, sim, Esz, d:0.588]
+                        ==  the/DT-6              INS    $0.377  [I]
+                        ==  World/NNP-7           INS    $0.377  [I]
+                :/:-11  ==                        DEL    $0.429  [D]
+              66/CD-12  ==                        DEL    $0.429  [D]
+                        ==  Championship/NNP-8    INS    $0.377  [I]
+          goals/NNS-13  ==                        DEL    $0.429  [D]
+              in/IN-14  ==  in/IN-9               SUB    $0.867  [E, sim, Esz, d:0.005]
+              74/CD-15  ==                        DEL    $0.429  [D]
+                        ==  1966/CD-10            INS    $0.377  [I]
+          games/NNS-16  ==                        DEL    $0.429  [D]
+gold+coast+art+fair+2009	01.08.2009 21:47:06	http://www.google.com/search?q=gold+coast+art&ie=UTF-8&oe=UTF-8&hl=en&client=safari	Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16	166.137.135.12
+./JeuxVideos/Super_Mario_World/Super%20Mario%20Bros%203
+./JeuxVideos/Super_Smash_Bros_Melee
+           Event Instances: 8
+         Cable Wrap Report: 
+     CableWrapNarrative:
+[   1965859] overriding handle for mp_f_freemode_01_female_apt01/jbib_007_u.ydd (was 5410008) -> 305
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+
+  Process: anti_neutronInelastic
+        Model:                      FTFP: 0 eV  ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns:          GheishaInelastic: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for anti_proton
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100.1 MeV
+        Model:              AntiAElastic: 100 MeV ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+
+  Process: anti_protonInelastic
+        Model:                      FTFP: 0 eV  ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns:          GheishaInelastic: 0 eV  ---> 100 TeV
+
+  Process: hFritiofCaptureAtRest
+
+---------------------------------------------------
+                           Hadronic Processes for anti_triton
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100.1 MeV/n
+        Model:              AntiAElastic: 100 MeV/n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 2.88022e+295 J  
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-coyote.jar:9.0.34]
+[      2688] [    GTAProcess]             MainThrd/ pre-gameload component net:http-server
+
+2021-10-26T21:51:58.902Z,69.902046,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 8, url: https://gamejoin.roblox.com/v1/join-reserved-game
+              Viewer     4              2         1536     0
+              Matrix     1              1     30431632     0
+              Vector    70             70     12295360     0
+       Krylov Solver     1              1         2392     0
+      Preconditioner     1              1          848     0
+========================================================================================================================
+Average time to get PetscTime(): 0
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_norm_type preconditioned
+-ksp_rtol 1e-5
+-ksp_type fcg
+-log_view :hpclin3/time-ksp-fcg-r1e-5.log
+-matload_block_size 3
+-pc_type jacobi
+-rmat system_data_binary/two_hole_nocrack_mat.bin
+-rrhs system_data_binary/two_hole_nocrack_vec.bin
+-v 1
+-vecload_block_size 3
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/usr/local/pkgs-modules/petsc_3.6.3
+-----------------------------------------
+Libraries compiled on Thu Feb 11 10:38:32 2016 on casbsrv4 
+Machine characteristics: Linux-2.6.32-504.12.2.el6.centos.plus.x86_64-x86_64-with-centos-6.6-Final
+Using PETSc directory: /misc/local/src/petsc-3.6.3
+Using PETSc arch: arch-linux2-c-debug
+-----------------------------------------
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [catalina.jar:9.0.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-coyote.jar:9.0.34]
+2021-10-26T21:51:33.482Z,44.482487,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.56 seconds
+2021-10-26T21:51:34.511Z,45.511650,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.module.cache.executor.Bypass.processCacheRequest(Bypass.java:58) [magnolia-cache-core-5.9.1.jar:?]
+[   1965265] overriding handle for mp_f_freemode_01/teef_002_u.ydd (was 4cd05fc) -> 2cf
+[   1965281] overriding handle for mp_f_freemode_01/teef_003_u.ydd (was 4cd05fd) -> 2d0
+[   1965297] overriding handle for mp_f_freemode_01/teef_004_u.ydd (was 4cd05fe) -> 2d1
+mcmackin+slur	01.08.2009 20:26:04	http://www.google.com/search?hl=en&q=mcmackin+slur+transcript&rlz=1R2ADBF_enUS329	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; InfoPath.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	24.21.43.210
+shun+ken+onion+11+piece+knife+block+set	01.08.2009 20:26:05	http://www.google.com/search?q=shun+onion+set+sale&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	68.13.91.191
+what+did+greg+mcmackin+say	01.08.2009 20:26:04	http://www.google.com/search?hl=en&safe=off&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=fXL&q=McMackin+faggot&btnG=Search	Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729) Ubiquity/0.1.4	68.41.247.130
+socorro+caro	01.08.2009 20:27:36	http://www.google.com/search?q=socorro+caro&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1	72.47.119.152
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 20:27:58	http://www.google.com/search?client=safari&rls=en-us&q=invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	74.184.102.55
+12:32:05 T:6472  NOTICE:         m_sampleRates     : 48000
+12:32:05 T:6472  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_AC3,AE_FMT_DTS
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+2000.04.06 10:45 B C:\USIAapril00\finalversion\trade\fedres\box02.gif --> ibureaudigilib.usia.gov /April00final/trade/fedres box02.gif
+onLoad:
+ PART_COUNT: Ne20 = 12
+ PART_COUNT: Ne21 = 3
+<09:21AM B-Clinton> "I have spoken with gov. Wilson by phone"
+<09:21AM DrStupid> Clinton - we intend to do everything we possibly can....
+2021-10-26T21:50:51.361Z,2.361713,43ba000,6 [FLog::Output] Chat message from unknown Player 128.116.28.244|51561 k
+2021-10-26T21:50:54.795Z,5.795963,4337000,6 [FLog::Output] Chat message from unknown Player 128.116.28.244|51561 Replace erwin for whatever
+12:32:05 T:7432  NOTICE: Previous line repeats 2 times.
+12:32:05 T:7432  NOTICE: Additional mode: 1440x900@ 60.00 #2 - Full Screen
+12:32:05 T:7432  NOTICE: Previous line repeats 2 times.
+12:32:05 T:7432  NOTICE: Checking resolution 16
+12:32:05 T:7432   DEBUG: CWinEventsWin32::WndProc: window resize event
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+Checking for program /usr/bin/ar...found
+              Defined make macro "AR" to "/usr/bin/ar"
+       Effective Dates        : 
+       Notes                  : 
+
+[22:42:48] eBay: [-] 8132/8467 download failed (Return: -) - http://myphamtunhien.info/dau-dua-duong-toc.html?ref_ucid=ad157a02027a15ad0001027a15ad&start=70
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+instanceKlass com/android/dx/util/ByteArray$MyInputStream
+instanceKlass java/util/zip/ZipFile$ZipFileInputStream
+       describes/VBZ-2  ==                        DEL    $0.429  [D]
+         American/JJ-3  ==                        DEL    $0.429  [D]
+          alcohol/NN-4  ==                        DEL    $0.429  [D]
+              use/NN-5  ==                        DEL    $0.429  [D]
+                 ,/,-6  ==                        DEL    $0.429  [D]
+              the/DT-7  ==                        DEL    $0.429  [D]
+       temperance/JJ-8  ==                        DEL    $0.429  [D]
+         movement/NN-9  ==                        DEL    $0.429  [D]
+                ,/,-10  ==                        DEL    $0.429  [D]
+    Prohibition/NNP-11  ==                        DEL    $0.429  [D]
+                ,/,-12  ==                        DEL    $0.429  [D]
+             and/CC-13  ==                        DEL    $0.429  [D]
+             the/DT-14  ==                        DEL    $0.429  [D]
+            War/NNP-15  ==                        DEL    $0.429  [D]
+              on/IN-16  ==                        DEL    $0.429  [D]
+          Drugs/NNS-17  ==  Drug/NNP-0            SUB    $0.854  [E, sim, Esz, d:0.586]
+                        ==  legalization/NNP-1    INS    $0.377  [I]
+                        ==  has/VBZ-2             INS    $0.377  [I]
+             and/CC-18  ==                        DEL    $0.429  [D]
+       explains/VBZ-19  ==                        DEL    $0.429  [D]
+            how/WRB-20  ==                        DEL    $0.429  [D]
+
+[-4.000] NullPunisher.other: legalization
+Matching relations are: []
+[-2.000] RootEntailment.unalignedRoot: "has" not aligned to anything
+
+Doing alignment for problem 104
+<SimpleProblem id="RTE2_dev.104.p0">
+  <answer>?</answer>
+  <p>Hands Across the Divide was formed in March_2001 , and one of its immediate aims was to press for more freedom of contact and communication right away between the two parts of Cyprus , and for early progress towards a solution to ` the Cyprus problem ' .</p>
+tdf#116301 FILESAVE Diagram layout is saved with incorrect content type in DOCX [Aron Budea]
+tdf#116305 Ctrl-Click on hyperlink doesn't bring Firefox into foreground [Samuel Mehrbrodt]
+tdf#112118 When using page-border, size of margins increases every time file is saved as DOC(X) (see comment 3) [Mike Kaganski]
+tdf#112140 Android Viewer - NPE at org.libreoffice.LOKitThread.updateCalcHeaders (LOKitThread.java:362) [Christian Lohmaier]
+[22:42:38] Hindu temples: [-] 0575/8054 no engine matches (HTTP-Status: 503) - https://www.imba-italia.org/
+[22:42:48] Forex: [-] 7894/7985 download failed (Return: -) - http://karneol.no/wp/kaper-og-jakker/
+[22:42:48] Digital Marketing: [-] 0140/7913 download failed (Return: -) - https://thenextweb.com/guests/meet-oliver-isaacs-serial-entrepreneur-t
+[22:42:48] Health: [-] 8192/8339 download failed (Return: -) - http://ar2d2g.blogspot.com/2011/01/how-to-complete-field-op.html
+[22:42:48] Car Insurance: [-] 4203/8012 no engine matches (HTTP-Status: 502) - http://www.adodarts.com/
+[22:42:47] Sports: [+] 8087/8698 matches engine EasyBlog - http://mwm-zahid.com.ua/index.php/tekhnika/item/1-khorvester-1050h?start=80
+  Process: photonNuclear
+        Model:            BertiniCascade: 0 eV  ---> 3.5 GeV
+        Model:           TheoFSGenerator: 3 GeV ---> 100 TeV
+     Cr_sctns:            PhotoNuclearXS: 0 eV  ---> 100 TeV
+     Cr_sctns:          GheishaInelastic: 0 eV  ---> 100 TeV
+  Process: muonNuclear
+        Model:      G4MuonVDNuclearModel: 0 eV  ---> 1 PeV
+        Model:           hElasticGlauber: 1 GeV ---> 100 TeV
+     Cr_sctns:       Barashenkov-Glauber: 0 eV  ---> 100 TeV
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+ofz#5301 direct-leak [Caolán McNamara]
+ofz#5302 integer-overflow [Caolán McNamara]
+ofz#5305 direct-leak [Caolán McNamara]
+ofz#5313 timeout [Caolán McNamara]
+ofz#5336 timeout [Caolán McNamara]
+ofz#5347 indirect-leak [Caolán McNamara]
+ofz#5379 timeout [Caolán McNamara]
+ofz#5391 integer-overflow [Caolán McNamara]
+ofz#5402 timeout [Caolán McNamara]
+ofz#5420 out-of-memory [Caolán McNamara]
+ofz#5423 timeout [Caolán McNamara]
+ofz#5428 timeout [Caolán McNamara]
+ofz#5431 direct-leak [Caolán McNamara]
+ofz#5435 sw: fix crash during painting of excessively nested tables [Michael Stahl]
+ofz#5444 asserts and Null-dereference READ [Caolán McNamara]
+ofz#5462 direct-leak [Caolán McNamara]
+ofz#5468 integer-overflow [Caolán McNamara]
+ofz#5471 null-dereference READ [Caolán McNamara]
+ofz#5475 integer-overflow [Caolán McNamara]
+ofz#5483 integer-overflow [Caolán McNamara]
+ofz#5508 out of memory [Caolán McNamara]
+ofz#5514 direct-leak [Caolán McNamara]
+ofz#5526 restrict mml parsing depth [Caolán McNamara]
+ofz#5535 max decimal places for rtl_math_round is 20 [Caolán McNamara]
+ofz#5539 stricter on strings in dxf [Caolán McNamara]
+ofz#5561 integer-overflow [Caolán McNamara]
+ofz#5565 indirect-leak [Caolán McNamara]
+ofz#5566 sw: HTML import: ignore <DIV> in table structure elements [Michael Stahl]
+ofz#5573 out of memory [Caolán McNamara]
+ofz#5575 call cleanup while its still a SmXMLImport [Caolán McNamara]
+<10:17AM NPR_News> Contatct your local NPR station for details.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+[     14500] del cfxcollection 0x26ab5db0
+[     14515] del cfxcollection 0x26ab5db0
+  2. Dmalloc (DMALLOC)
+  3. Electric-fence (EFENCE)
+choice[1-3?]: 1
+fedex+field	01.08.2009 17:39:57	http://www.google.com/search?client=safari&rls=en-us&q=Hyattsville+Fedex+Field+parking&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1	173.79.161.119
+tim+hack+and+kelly+drew	01.08.2009 17:40:23	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4ADBF_enUS331US331&q=kelly+drew+jefferson+wisconsin	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6; InfoPath.2; .NET CLR 1.1.4322)	68.96.235.58
+#include "confdefs.h"
+87         run;
+<KNBC> Fire on ABC
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/travel/about/company' with error code: 'null'.
+    + ...one more detail to get things fixed [Stephan Bergmann]
+    + ...these args are all default ones [Stephan Bergmann]
+[22:42:45] Mesa DUI lawyer: [-] 8186/8415 wrong engine detected (ezblog-dashboard|implement(easyblog) - https://www.zanettiterrazzo.nl/index.php?option=com_easyblog&view=dashboard&layout=write
+-- verifying file... done
+-- extracting...
+     src='/data/richards/NBRTT/build/Geant4/build/Externals/G4SAIDDATA-1.1/src/G4SAIDDATA.1.1.tar.gz'
+     dst='/data/richards/NBRTT/build/Geant4/build/data/G4SAIDDATA1.1'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done
+[  1%] No patch step for 'G4SAIDDATA'
+[  1%] No update step for 'G4SAIDDATA'
+[  1%] No configure step for 'G4SAIDDATA'
+[  1%] No build step for 'G4SAIDDATA'
+[  2%] No install step for 'G4SAIDDATA'
+[  2%] Completed 'G4SAIDDATA'
+[  2%] Built target G4SAIDDATA
+Scanning dependencies of target PhotonEvaporation
+[  2%] Creating directories for 'PhotonEvaporation'
+[  2%] Performing download step (download, verify and extract) for 'PhotonEvaporation'
+-- downloading...
+     src='http://geant4.cern.ch/support/source/G4PhotonEvaporation.2.3.tar.gz'
+     dst='/data/richards/NBRTT/build/Geant4/build/Externals/PhotonEvaporation-2.3/src/G4PhotonEvaporation.2.3.tar.gz'
+     timeout='1500 seconds'
+-- [download 0% complete]
+-- [download 1% complete]
+-- [download 2% complete]
+-- [download 3% complete]
+-- [download 4% complete]
+-- [download 5% complete]
+-- [download 56% complete]
+staticfield com/android/dx/rop/cst/CstFloat VALUE_1 Lcom/android/dx/rop/cst/CstFloat; com/android/dx/rop/cst/CstFloat
+     Temperature Stabiliz.    : none
+     Additional Information   : Receiver replaced.
+
+3.2  Receiver Type            : TRIMBLE NETRS
+     Satellite System         : GPS
+[   1960937] rage::gameSkeleton::RunInitFunctions: Invoking CProceduralInfo INIT_AFTER_MAP_LOADED init (29 out of 29)
+socorro+caro	01.08.2009 19:27:19	http://www.google.com/search?client=safari&rls=en-us&q=Socorro+Caro&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.18 (KHTML, like Gecko) Version/4.0.1 Safari/530.18	66.43.194.150
+sayville+summerfest	01.08.2009 19:45:21	http://www.google.com/search?hl=en&rlz=1W1GGLL_en&q=sayville+ny+fair&btnG=Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	173.77.154.187
+Sushi: |  -------------------------------------------------------------  |       (04:24.434)
+Sushi: | |      ValueSets     |    CodeSystems    |     Instances      | |       (04:24.434)
+tdf#108967 Help for Edit Index in Writer points to old place in menu [Muhammet Kara]
+     Monument Description     : STEEL MAST
+       Height of the Monument : (m)
+       Monument Foundation    : ROOF
+[   1958359] rage::gameSkeleton::RunInitFunctions: Invoking fwClipSetManager INIT_AFTER_MAP_LOADED init (23 out of 29)
+[   1959187] rage::gameSkeleton::RunInitFunctions: Invoking fwAnimDirector INIT_AFTER_MAP_LOADED init (24 out of 29)
+[   1960828] rage::gameSkeleton::RunInitFunctions: Invoking fwExpressionSetManager INIT_AFTER_MAP_LOADED init (25 out of 29)
+Show applet usage messages (SHOW_USAGE) [Y/n/?] y
+[     27390] rage::gameSkeleton::RunInitFunctions: Invoking 0x71cb65d7 INIT_CORE init (21 out of 21)
+    + Access2Base - OutputTo HTML [Jean-Pierre Ledure]
+    + Access2Base - Support of Hsqldb 2.3 [Jean-Pierre Ledure]
+    + Access2Base - Wider database support [Jean-Pierre Ledure]
+    + accessibility: cleanup doxygen errors [Chris Sherlock]
+    + accessibility: fix doxygen errors [Chris Sherlock]
+    + accessibility: fix rest of doxygen errors [Chris Sherlock]
+    + account empty pages for print preview (tdf#97505) [Jan-Marek Glogowski]
+    + aColumns is only used as a set [Stephan Bergmann]
+    + activate usage data collection from commandline. (tdf#96434) [aybuke]
+    + actually allow gbuild to see breakpad makefiles... [David Tardon]
+    + actually I don't see why this would need to be inside OSL_DEBUG_LEVEL > 0 [Tor Lillqvist]
+    + actually, why passive voice? [Tor Lillqvist]
+    + adapt __cxxabiv1 for libc++abi [Stephan Bergmann]
+    + adapt clang-cl.patch.0 to Boost 1.60 [Stephan Bergmann]
+    + adapt description, the algorithm does not define the escape character [Eike Rathke]
+    + adapt loplugin:implicitboolconversion to changes in Clang trunk towards 3.8 [Stephan Bergmann]
+    + adapt new/delete exception specs for MSVC [Stephan Bergmann]
+    + adapt places that call GetSearchTextPtr(), (tdf#72196) [Eike Rathke]
+    + adapt ScRefButtonEx UI object class (tdf#98023) [Stephan Bergmann]
+    + adapt sfx2 to use xml based context menus (tdf#93837) [Maxim Monastirsky]
+    + adapt to "Extract Directories from BootstrapFixtureBase" [Stephan Bergmann]
+    + adapt to more warnings being enabled for clang-cl [Stephan Bergmann]
+    + adapt to true wchar_t in clang-cl [Stephan Bergmann]
+    + add "use-wildcards" XML_USE_WILDCARDS, (tdf#72196) [Eike Rathke]
+    + add --ignore-unpublished to unoidl-check [Stephan Bergmann]
+    + add @since LibreOffice 5.2 [Eike Rathke]
+    + add [optional, property] boolean Wildcards, (tdf#72196) [Eike Rathke]
+    + add a "filter" to Insert > Field > Other > Cross reference tab (tdf#32364) [akki95]
+    + add a comment about user defined IDs [Eike Rathke]
+    + add a few unit tests for conditional format reference listening [Markus Mohrhard]
+		<param name="gapTravelSpeed" value="15.0" />
+		<param name="minimumInFlowCapacity" value="1800.0" />
+    + add a "filter" to Insert > Field > Other > Cross reference tab (tdf#32364) [akki95]
+    + add a comment about user defined IDs [Eike Rathke]
+            Defined make macro "PREFIXDIR" to "/sandbox/petsc/petsc.next/arch-cuda-double"
+================================================================================
+TEST saveReconfigure from PETSc.options.installDir(/sandbox/petsc/petsc.next/config/PETSc/options/installDir.py:79)
+TESTING: saveReconfigure from PETSc.options.installDir(/sandbox/petsc/petsc.next/config/PETSc/options/installDir.py:79)
+================================================================================
+TEST cleanConfDir from PETSc.options.installDir(/sandbox/petsc/petsc.next/config/PETSc/options/installDir.py:72)
+TESTING: cleanConfDir from PETSc.options.installDir(/sandbox/petsc/petsc.next/config/PETSc/options/installDir.py:72)
+================================================================================
+TEST configureInstallDir from PETSc.options.installDir(/sandbox/petsc/petsc.next/config/PETSc/options/installDir.py:56)
+TESTING: configureInstallDir from PETSc.options.installDir(/sandbox/petsc/petsc.next/config/PETSc/options/installDir.py:56)
+  Makes  installDir subdirectories if it does not exist for both prefix install location and PETSc work install location
+          Changed persistence directory to /sandbox/petsc/petsc.next/arch-cuda-double/lib/petsc/conf
+================================================================================
+TEST restoreReconfigure from PETSc.options.installDir(/sandbox/petsc/petsc.next/config/PETSc/options/installDir.py:92)
+TESTING: restoreReconfigure from PETSc.options.installDir(/sandbox/petsc/petsc.next/config/PETSc/options/installDir.py:92)
+================================================================================
+TEST setExternalPackagesDir from PETSc.options.externalpackagesdir(/sandbox/petsc/petsc.next/config/PETSc/options/externalpackagesdir.py:15)
+TESTING: setExternalPackagesDir from PETSc.options.externalpackagesdir(/sandbox/petsc/petsc.next/config/PETSc/options/externalpackagesdir.py:15)
+================================================================================
+TEST cleanExternalpackagesDir from PETSc.options.externalpackagesdir(/sandbox/petsc/petsc.next/config/PETSc/options/externalpackagesdir.py:22)
+TESTING: cleanExternalpackagesDir from PETSc.options.externalpackagesdir(/sandbox/petsc/petsc.next/config/PETSc/options/externalpackagesdir.py:22)
+================================================================================
+TEST printEnvVariables from config.setCompilers(/sandbox/petsc/petsc.next/config/BuildSystem/config/setCompilers.py:1602)
+TESTING: printEnvVariables from config.setCompilers(/sandbox/petsc/petsc.next/config/BuildSystem/config/setCompilers.py:1602)
+          **** printenv ****
+GROUP=petsc
+HOSTTYPE=x86_64-linux
+SSH_CLIENT=140.221.8.249 35558 22
+LOGNAME=petsc
+USER=petsc
+status code: 200
+))
+[22:42:46] eBay: [-] 8131/8467 no form at all - http://badpeople.co.za/wp-login.php?action=register
+[22:42:47] Mesothelioma: [+] 0534/7981 matches engine Drupal - Blog - http://data.agaric.com
+[22:42:47] Hollywood: [-] 8230/8544 download failed (Return: -) - https://moodle.pthsd.k12.nj.us
+[22:42:47] Structured Settlement: [-] 8357/8547 download failed (Return: -) - https://999lotterybookstore34.com/?attachment_id=110
+[22:42:47] Currency: [-] 7916/8085 no engine matches (HTTP-Status: 503) - http://jnsrfd.org
+[2023.05.20-22.07.39:933][  0]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+ciInstanceKlass com/android/dx/rop/type/Type 1 1 450 9 10 7 10 100 100 8 10 100 8 10 10 10 10 10 7 10 8 10 10 10 10 8 10 9 8 8 10 10 10 8 8 9 9 9 9 9 9 10 10 10 8 8 8 8 8 8 8 8 8 10 10 10 8 10 8 8 10 9 9 10 8 10 9 10 8 8 8 8 10 8 10 10 10 10 10 7 10 8 9 8 9 8 9 8 9 8 9 8 8 9 8 9 8 8 9 8 9 8 9 8 9 8 9 8 9 8 9 8 9 8 9 8 9 8 9 8 9 8 9 8 9 8 9 8 9 8 9 9 9 9 9 9 9 9 9 9 7 100 100 1 1 1 1 1 1 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 1 7 12 1 1 1 12 1 1 12 12 12 12 1 12 1 12 12 12 12 1 12 12 1 1 12 12 1 1 12 12 12 12 12 12 12 12 12 1 1 1 1 1 1 1 1 1 12 12 12 1 12 1 1 12 12 12 12 1 12 12 1 1 1 1 12 1 7 12 12 12 12 12 1 12 1 12 1 12 12 1 12 1 12 1 12 1 12 1 1 12 1 12 1 12 1 12 12 1 12 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 12 12 12 12 12 12 12 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+staticfield com/android/dx/rop/type/Type internTable Ljava/util/HashMap; java/util/HashMap
+staticfield com/android/dx/rop/type/Type BOOLEAN Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type BYTE Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+staticfield com/android/dx/rop/type/Type CHAR Lcom/android/dx/rop/type/Type; com/android/dx/rop/type/Type
+beach+to+beacon+2009	01.08.2009 18:50:19	http://www.google.com/search?hl=en&q=beach+to+beacon+2009+list+of+times&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1	72.224.222.157
+fedex+field	01.08.2009 18:51:48	http://www.google.com/search?q=parking+at+fedex+field+for+concerts&hl=en&start=10&sa=N	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1	173.66.203.243
+lark+voorhies	01.08.2009 18:51:57	http://www.google.com/search?hl=en&client=opera&rls=en&q=LARK+VOORHIES+SAVED+BY+THE+BELL+REUNION+MAGAZINE+PHOTOS&btnG=Search&aq=o&oq=&aqi=	Opera/9.64 (Windows NT 6.0; U; en) Presto/2.1.1	70.125.101.180
+x+games+15+moto+x+best+trick	01.08.2009 18:52:01	http://www.google.se/search?hl=sv&q=watch+x+games+15+on+expn.com+for+free&btnG=Google-s%C3%B6kning&meta=&aq=f&oq=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; msn OptimizedIE8;SVSE)	85.228.146.240
+friendship+quotes	01.08.2009 18:52:10	http://www.google.com/search?q=funny+friendship+sayings&hl=en&rlz=1T4HPNN_enOM313OM313&start=70&sa=N	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	82.178.4.124
+friendship+quotes	01.08.2009 18:52:14	http://www.google.com/search?q=funny+friendship+sayings&hl=en&rlz=1T4HPNN_enOM313OM313&start=70&sa=N	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	82.178.4.124
+fedex+field	01.08.2009 18:52:16	http://www.google.com/search?hl=en&client=ms-rim&channel=browser&ie=UTF-8&ei=nY50Sv33L42aMe-2rbEM&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=hotels+near+fedex+stadium+in+maryland&spell=1	BlackBerry9530/4.7.0.75 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105	206.53.153.104
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 18:52:18	http://www.google.com/search?q=Invicta+9212+Men%E2%80%99s+Gold+Plated+Stainless+Steel+Speedway+Watch&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 3.5.30729)	66.60.249.69
+fedex+field	01.08.2009 18:52:22	http://www.google.com/search?q=parking+at+fedex+field+for+concerts&hl=en&start=10&sa=N	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1	173.66.203.243
+clasica+san+sebastian+live	01.08.2009 18:52:34	http://www.google.nl/search?hl=nl&q=results+classica+san&meta=&aq=f&oq=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 2.0.50727)	94.208.201.193
+socorro+caro	01.08.2009 18:52:41	http://www.google.nl/search?source=ig&hl=nl&rlz=&q=socorro+caro&meta=lr%3D&aq=f&oq=	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)	87.209.64.194
+tim+hack+and+kelly+drew	01.08.2009 18:53:15	http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=rtJ&q=kelly+drew+tim+hack+picture&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	72.131.124.73
+tim+hack+and+kelly+drew	01.08.2009 18:53:26	http://www.google.com/search?hl=en&um=1&q=tim%20hack%20and%20kelly%20drew&ndsp=20&ie=UTF-8&sa=N&tab=iw&start=0	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13	216.67.85.239
+sayville+summerfest	01.08.2009 18:53:26	http://www.google.com/search?q=Sayville+Festival+NY+on+8%2F2&rls=com.microsoft:*:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7DMUS	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	68.195.168.228
+socorro+caro	01.08.2009 18:53:52	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4GGLL_enUS303US307&q=socorro+caro	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	68.225.10.32
+mcmackin+slur	01.08.2009 18:53:53	http://www.google.com/search?q=McMackin+suspended+over+derogatory+slur&hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=0ke&start=10&sa=N	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	70.44.226.71
+tim+hack+and+kelly+drew	01.08.2009 18:54:03	http://www.google.com/search?client=opera&rls=en&q=kelly+hack+murder+solved&sourceid=opera&ie=utf-8&oe=utf-8	Opera/9.64 (Windows NT 5.1; U; en) Presto/2.1.1	98.100.182.88
+tim+hack+and+kelly+drew	01.08.2009 18:54:12	http://www.google.com/search?sourceid=navclient-menuext&ie=UTF-8&q=Tim+Hack+and+Kelly+Drew	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	72.72.28.211
+cash+for+clunkers+requirements	01.08.2009 19:11:40	http://www.google.com/search?q=clunker+wiki&rls=com.microsoft:*:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7DKUS_en	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; .NET CLR 1.1.4322; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)	75.110.28.225
+tim+hack+and+kelly+drew	01.08.2009 19:11:54	http://www.google.com/search?hl=en&rlz=1G1GGLQ_ENUS336&q=Tim+Hack+and+Kelly+Drew+photo&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727)	67.162.138.232
+what+did+greg+mcmackin+say	01.08.2009 19:12:05	http://www.google.com/search?q=Greg+McMackin+June+Jones&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	70.95.76.145
+socorro+caro	01.08.2009 19:12:28	http://www.google.com/search?q=Socorro+shot+and+killed+three+of+their+four+children&rls=com.microsoft:en-us:IE-ContextMenu&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GPEA_en	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 1.1.4322; .NET CLR 3.0.30618; .NET CLR 3.5.30729; MSN Optimized;US)	173.169.165.129
+socorro+caro	01.08.2009 19:12:36	http://www.google.com/search?hl=en&q=Socorro+Caro+murder+case&btnG=Google+Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)	209.234.149.2
+sayville+summerfest	01.08.2009 19:13:19	http://www.google.com/search?q=sayville+street+fair+ny&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7SUNA	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0)	69.123.190.172
+tim+hack+and+kelly+drew	01.08.2009 19:14:08	http://www.google.com/search?q=Kelly+Drew+Tim+Hack+photos&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.0.12) Gecko/2009070609 Firefox/3.0.12	99.142.7.191
+frank+erwin+center	01.08.2009 19:14:33	http://www.google.com/search?q=frank+erwin+pictures&rls=com.microsoft:en-us&ie=UTF-8&oe=UTF-8&startIndex=&startPage=1	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)	70.132.202.15
+laguardia+evacuated	01.08.2009 19:14:35	http://www.google.com/m/search?ct=fsh&q=evacuation+lga	BlackBerry8330/4.3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105	206.53.153.48
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 19:14:41	http://www.google.com/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Finvicta%2B9212%2Bmen%25E2%2580%2599s%2Bgold%2Bplated%2Bstainless%2Bsteel%2Bspeedway%2Bwatch&ei=GZR0StyQM4bOsQOEgPnpCA&rct=j&q=Invicta+9212+Men%E2%80%99s+Gold+Plated+Stainless+Steel+Speedway+Watch&usg=AFQjCNHVHhg9g3_QCeShED4dzi5sUc7CTg&sig2=06V7McOVZimj266wht8Ksg	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1	71.189.203.190
+x+games+15+moto+x+best+trick	01.08.2009 19:15:56	http://www.google.com/search?client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&channel=s&hl=en&q=2006+moto+X+best+trick+winner&btnG=Google+Search	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10	204.116.18.72
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 19:16:09	http://www.google.com/search?q=Invicta+9212+Men%E2%80%99s+Gold+Plated+Stainless+Steel+Speedway+Watch&sourceid=navclient-ff&ie=UTF-8&rlz=1B3GGGL_enUS177US210	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 AutoPager/0.5.2.2 (http://www.teesoft.info/)	98.222.66.216
+ 921947,0.,0.5357612\Quadrupole=0.3660283,-1.0764602,0.7104319,0.,-0.66
+i#696969 colibre icons: use for font icons [andreas kainz]
+ofz#4746 invalid-bool-value [Caolán McNamara]
+
+[-4.000] NullPunisher.other: Non-authorized
+     0K .......... .......... .......... .......... .......... 53% 3.46M 0s
+[     52969] [    GTAProcess]               Render/ OnConnectionProgress: Downloading content manifest (964.72 kB)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:96) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107) [magnolia-core-6.2.3.jar:?]
+Executing: mpif90 -c -o /tmp/petsc-uGvYRc/config.setCompilers/conftest.o -I/tmp/petsc-uGvYRc/config.setCompilers   /tmp/petsc-uGvYRc/config.setCompilers/conftest.F90 
+<images/lqi/Budapest_LQI_Neighborhoods-eps-converted-to.pdf, id=1449, 1772.44177pt x 716.6775pt>
+File: images/lqi/Budapest_LQI_Neighborhoods-eps-converted-to.pdf Graphic file (type pdf)
+<use images/lqi/Budapest_LQI_Neighborhoods-eps-converted-to.pdf>
+Package pdftex.def Info: images/lqi/Budapest_LQI_Neighborhoods-eps-converted-to.pdf  used on input line 168.
+(pdftex.def)             Requested size: 418.25368pt x 169.11911pt.
+ [70 </Users/natera/Dropbox/PhD/thesis/images/lqi/Budapest_LQI_Neighborhoods-eps-converted-to.pdf>] [71]
+<images/lqi/LQI_categories_regplots.pdf, id=1525, 867.24pt x 578.16pt>
+File: images/lqi/LQI_categories_regplots.pdf Graphic file (type pdf)
+<use images/lqi/LQI_categories_regplots.pdf>
+Package pdftex.def Info: images/lqi/LQI_categories_regplots.pdf  used on input line 191.
+(pdftex.def)             Requested size: 418.25368pt x 278.83694pt.
+ [72 </Users/natera/Dropbox/PhD/thesis/images/lqi/LQI_categories_regplots.pdf>]) (/Users/natera/Dropbox/PhD/thesis/chapters_tex/conclusion.tex [73] [74
+
+]
+Chapter 6.
+
+Underfull \vbox (badness 1132) has occurred while \output is active []
+
+ [75] [76]) (/Users/natera/Dropbox/PhD/thesis/main.bbl [77] [78
+
+] [79] [80] [81] [82]
+Underfull \hbox (badness 10000) in paragraph at lines 756--766
+[]\OT1/ppl/m/n/12 Batty, M., Mil-ton, R.: A new frame-work for very large-
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 756--766
+\OT1/ppl/m/n/12 scale ur-ban mod-elling. Ur-ban Stud-ies \OT1/ppl/b/n/12 58\OT1/ppl/m/n/12 (15), 3071--3094 (2021).
+ []
+
+ PROC_COUNT N12 : ALL = 10909
+File: images/datadriven/SI_Lengths_Bike-Streets_FractionKM.pdf Graphic file (type pdf)
+<use images/datadriven/SI_Lengths_Bike-Streets_FractionKM.pdf>
+Package pdftex.def Info: images/datadriven/SI_Lengths_Bike-Streets_FractionKM.pdf  used on input line 36.
+## Memory (MB): Use = 4642, Free = 14365, Total = 19008, Max = 19008
+Run jekyll: jekyll build --destination "/scratch/ig-build-temp-JHXSGN/repo/output" (in folder /scratch/ig-build-temp-JHXSGN/repo/temp/pages) (22:53.161)
+Jekyll: Source: /scratch/ig-build-temp-JHXSGN/repo/temp/pages                    (22:53.489)
+      real time           0.00 seconds
+      cpu time            0.01 seconds
+sayville+summerfest	01.08.2009 17:56:28	http://www.google.com/search?hl=en&q=sayville+sumerfest&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)	68.195.175.56
+2021-10-26T21:51:43.159Z,54.159012,43ba000,7 [FLog::Network] Assigned peer id = 6
+    + add new uno commands to freeze one row and column. (tdf#91013) [Gulsah Kose]
+    + add officeotron version check [Markus Mohrhard]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+coverity#1401307 uncaught exception [Caolán McNamara]
+    + 1326202 (cid#1326191) [jan iversen]
+    + 1326270, 1326271, 1326272, 1326273, 1326274, 1326275 (cid#1326176) [jan iversen]
+Importing categories...
+[22:42:49] Hollywood: [-] 8234/8544 download failed (Aborted) - http://neewday365.com/lBim7sx
+[22:42:49] Make money online: [-] 7834/8047 download failed (Return: -) - http://www.trickphotographyideas.com/photography/2011/04/hugin-tips/
+[22:42:49] Web Design T2: [-] 4928/8453 download failed (Return: -) - https://www.haverford.edu/users/jdougher
+[22:42:49] Agriculture T2: [-] 3877/8565 download failed (Aborted) - http://www.kangenwaterreviews.net/kangen-water-reviews-answers-top-3-kangen-alkaline-water-questions/
+[22:42:49] Mesothelioma: [-] 0536/7981 download failed (Return: -) - https://www.progenealogists.com
+[22:42:49] Win News Time: [-] 7756/7826 download failed (Return: -) - http://www.gusmoorephotography.com/vestibulum-eleifend-justo/
+[22:42:49] Hollywood: [-] 8235/8544 download failed (Return: -) - http://fptp.uthm.edu.my/PGSeminar/?page_id=2
+[22:42:49] Make money online: [-] 7835/8047 no engine matches (HTTP-Status: 502) - http://noldu.net
+[22:42:49] Web Design: [-] 0801/7978 download failed (Return: -) - http://bappeda.kalselprov.go.id/halkomentar-93238-4857.html
+[22:42:49] Agriculture T2: [-] 3878/8565 download failed (Return: -) - https://videoone.icu/2018/06/12/samy-entertainment-roomcleaning-by-nina/
+[22:42:49] Mortgage: [-] 7949/8168 download failed (Aborted) - https://gohal.com/
+[22:42:49] Win News Time: [+] 7757/7826 matches engine Wordpress Article - http://fengshuifugui.com
+[22:42:49] Hollywood: [-] 8236/8544 download failed (Aborted) - https://dongsupark.wordpress.com
+[22:42:49] Car Insurance: [-] 4207/8012 download failed (Return: -) - http://etaaps.org/
+[22:42:49] Precious metals: [-] 0111/8003 download failed (Return: -) - http://www.fcntrans.com/halkomentar-176-9703.html
+[22:42:49] Win News Time: [+] 7757/7826 new URL - http://fengshuifugui.com/wp-login.php?action=registerVersion 1.16.0 (14 JUNE 2017)
+	New feature
+		- Add feature floor complete to override each task status.
+	Fix bugs
+		- Sorting floor in project summary page.
+ 
+ Version 1.17.0 (18 JUNE 2017)
+	New feature
+		- Add update date in part of drawing file section.
+	Fix bugs
+		- Sorting ASC code id in table of code tab.
+		
+ Version 1.18.0 (17 JULY 2017)
+	New feature

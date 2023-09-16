@@ -1,0 +1,1002 @@
+cellstdf#105412 uitest Calc merged [Zdeněk Crhonek]
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Turkish QWERTY" successfully loaded
+              in/IN-43  ==                        DEL    $0.429  [D]
+        response/NN-44  ==                        DEL    $0.429  [D]
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+xz -d (XZ) [Y/n/?] y
+bzip2 (BZIP2) [N/y/?] n
+12:32:05 T:2676   DEBUG:   Format cBSize   : 22
+12:32:05 T:2676   DEBUG:   Channel Layout  : FL,FR
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+PROC_CREATOR_COUNT C14 : neutronInelastic = 6
+PROC_CREATOR_COUNT C14 : protonInelastic = 12
+PROC_CREATOR_COUNT C14 : tInelastic = 2
+
+PROC_CREATOR_COUNT O14 : protonInelastic = 29
+coverity#1426922 uninitialized scalar field [Caolán McNamara]
+[  1%] No patch step for 'G4PII'
+[  1%] No update step for 'G4PII'
+[  1%] No configure step for 'G4PII'
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Build: ++UE5+Release-5.1-CL-23901901
+LogInit: Engine Version: 5.1.1-23901901+++UE5+Release-5.1
+LogInit: Compatible Engine Version: 5.1.0-23058290+++UE5+Release-5.1
+LogInit: Net CL: 23058290
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2965] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jan 30 2023 05:19:00
+LogInit: Compiled with Visual C++: 19.29.30147.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.1
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.1/Engine/Binaries/Win64/
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67) [magnolia-core-6.2.3.jar:?]
+ciMethodData java/util/BitSet set (I)V 2 7701 orig 264 8 110 37 81 0 0 0 0 120 141 153 22 0 0 0 0 80 2 0 0 192 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 243 0 0 0 17 233 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 9 0 2 0 0 0 0 1 0 0 255 255 255 255 7 0 1 0 0 0 0 0 data 32 0x10007 0x1d22 0xd0 0x0 0xc0002 0x0 0x110005 0x0 0x0 0x0 0x0 0x0 0x150005 0x0 0x0 0x0 0x0 0x0 0x180005 0x0 0x0 0x0 0x0 0x0 0x1b0002 0x0 0x200002 0x1d22 0x260002 0x1d22 0x360002 0x1d22 oops 0
+ciMethodData java/util/HashMap resize ()[Ljava/util/HashMap$Node; 1 6855 orig 264 8 110 37 81 0 0 0 0 96 133 138 22 0 0 0 0 56 6 0 0 176 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 46 2 0 0 41 0 0 0 177 194 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 240 4 0 0 255 255 255 255 7 0 6 0 0 0 0 0 data 158 0x60007 0x5 0x38 0x0 0xa0003 0x0 0x18 0x190007 0x0 0x98 0x5 0x1f0007 0x5 0x20 0x0 0x320007 0x0 0x90 0x5 0x380007 0x0 0x70 0x5 0x400003 0x5 0x50 0x440007 0x0 0x38 0x0 0x4a0003 0x0 0x18 0x570007 0x5 0x78 0x0 0x680007 0x0 0x58 0x0 0x700007 0x0 0x38 0x0 0x760003 0x0 0x18 0x880004 0x0 0x1925d3e0 0x5 0x0 0x0 0x940007 0x0 0x340 0x5 0x9d0007 0x5 0x320 0x1400 0xa70007 0x951 0x2e8 0xaaf 0xae0104 0x0 0x0 0x0 0x0 0x0 0xb40007 0x357 0x68 0x758 0xc50004 0x0 0x186f5f30 0x758 0x0 0x0 0xc60003 0x758 0x248 0xcb0004 0xfffffffffffffca9 0x186f5f30 0x357 0x0 0x0 0xce0007 0x357 0x98 0x0 0xd30004 0x0 0x0 0x0 0x0 0x0 0xdc0005 0x0 0x0 0x0 0x0 0x0 0xdf0003 0x0 0x180 0xfc0007 0x3b5 0x70 0x3f8 0x1010007 0x144 0x38 0x2b4 0x1080003 0x2b4 0x18 0x1160003 0x3f8 0x50 0x11b0007 0x124 0x38 0x291 0x1220003 0x291 0x18 0x1350007 0x456 0xffffffffffffff58 0x357 0x13a0007 0xa3 0x50 0x2b4 0x1490004 0x0 0x186f5f30 0x2b4 0x0 0x0 0x14c0007 0xc6 0x50 0x291 0x15d0004 0x0 0x186f5f30 0x291 0x0 0x0 0x1610003 0x1400 0xfffffffffffffcf8 oops 5 50 [Ljava/util/HashMap$Node; 78 java/util/HashMap$Node 87 java/util/HashMap$Node 141 java/util/HashMap$Node 151 java/util/HashMap$Node
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//18_36_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//18_38_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//18_40_Argon.z
+=======================================================================
+======       Radioactive Decay Physics Parameters              ========
+=======================================================================
+Max life time                                     1e+15 ps
+Internal e- conversion flag                       1
+Stored internal conversion coefficients           0
+NeutronHP: /Elastic file for Z = 6, A = 12 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Elastic/CrossSection/6_nat_Carbon
+NeutronHP: /Elastic file for Z = 6, A = 13 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Elastic/CrossSection/6_nat_Carbon
+NeutronHP: /Elastic file for Z = 8, A = 18 is not found and CrossSection set to 0.
+@@@ G4ParticleHPInelastic instantiated for particle neutron data directory variable is G4NEUTRONHPDATA pointing to /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//6_nat_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//6_nat_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//7_14_Nitrogen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Inelastic/F02//8_16_Oxygen.z
+NeutronHP: /Capture file for Z = 6, A = 12 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Capture/CrossSection/6_nat_Carbon
+NeutronHP: /Capture file for Z = 6, A = 13 is not found and NeutronHP will use /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4NDL4.5/Capture/CrossSection/6_nat_Carbon
+NeutronHP: /Capture file for Z = 8, A = 18 is not found and CrossSection set to 0.
+@@@ G4ParticleHPInelastic instantiated for particle triton data directory variable is G4TRITONHPDATA pointing to /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//6_12_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//6_13_Carbon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//7_14_Nitrogen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//7_15_Nitrogen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//8_16_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//8_17_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//8_17_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//18_36_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//18_38_Argon.z
+0 posts imported
+0 medias imported
+*** Daniel- (xyzzy@panix2.panix.com) has joined channel #earthquake
+*** The NICKNAME list is empty
+*** headcrash has left channel #earthquake
+2021-10-26T21:52:27.154Z,98.154457,ab3bf380,6 [FLog::Error] signalr: new state: 0, message: stop was called
+build	14-Jul-2020 09:19:57	[DEBUG]   Imported: org.apache.maven.configuration < plexus.core
+build	14-Jul-2020 09:19:57	[DEBUG]   Imported: org.eclipse.aether.version < plexus.core
+[22:42:46] Agriculture: [-] 0009/7854 download failed (Return: -) - http://Www.rwinstallatietechniek.nl/portfolio-view/malesuada-fames-ac/
+[22:42:47] Web Design: [-] 0797/7978 download failed (Return: -) - https://www.nationaltaxidermists.com/
+[22:42:47] Car Insurance T2: [-] 3378/8966 download failed (Return: -) - http://www.beninsite.net/spip.php?page=recherche&recherche=http%3A%2F%2Fhelveticsolar.com%2Findex.php%2Fcomponent%2Fk2%2Fitemlist%2Fuser%2F230537&debut_messages=1815
+[22:42:47] Car Insurance: [-] 4201/8012 no engine matches (HTTP-Status: 502) - http://musicreviews.theurbanmusicscene.com/2013/10/jonathan-butler-merry-christmas-to-you/
+[22:42:47] Mortgage: [-] 7944/8168 download failed (Return: -) - https://www.rebuildermedical.com
+[22:42:47] Make money online: [-] 7829/8047 no engine matches (HTTP-Status: 400) - https://bleedingedgedesign.com
+[22:42:47] Win News Time: [-] 7751/7826 download failed (Return: -) - http://taxlawadvisory.com/in-the-news/feed-levy/
+[22:42:47] Bollywood: [-] 0204/7884 download failed (Return: -) - https://www.macissues.com
+[22:42:47] Computer: [-] 0318/8028 no engine matches (HTTP-Status: 301) - https://foreignpolicy.com/2019/08/02/trump-hired-robert-lighthizer-to-win-a-trade-war-he-lost/
+[22:42:47] Injury Lawyers: [-] 7879/7969 download failed (Return: -) - http://www.free-blog-site.com/depuyhipreplacement
+[22:42:47] Justice degree: [-] 8025/8289 download failed (Return: -) - http://toonamifaithful.com/anime-siege-is-coming-to-toonamiasia-starting-in-may
+[22:42:47] Mesothelioma T1: [-] 0218/8853 download failed (Return: -) - https://mep.trimble.com/product/ec-cad/
+[22:42:47] Web Design T2: [-] 4924/8453 download failed (Return: -) - http://www.bibliotecadecordoba.com/index.php/Apple_s_Apple_ipad_tablet.
+[22:42:47] Mesa DUI lawyer T2: [-] 4201/8439 download failed (Return: -) - http://quigleyscabinet.blogspot.com/2011_04_01_archive.html
+[22:42:47] Internet VOIP: [-] 0128/8096 download failed (Return: -) - http://dogstar2.com/courses-2/
+[22:42:47] Health: [-] 8191/8339 no engine matches (HTTP-Status: 500) - https://starschanges.com/olivia-palermo-style-looks/
+[22:42:47] Sports: [+] 8087/8698 matches engine Joomla K2 - http://mwm-zahid.com.ua/index.php/tekhnika/item/1-khorvester-1050h?start=80
+[22:42:47] Sai: [-] 8093/8249 no engine matches (HTTP-Status: 502) - http://www.oceanaddicts.com.au/airton-cozzolino-is-coming-to-ocean-addicts/
+[22:42:47] Insurance: [-] 8219/8261 download failed (Return: -) - http://www.tarpley.net
+[22:42:47] Online Degree: [-] 7900/8073 download failed (Return: -) - https://assuflex.nl/
+[22:42:47] Hindu temples T2: [-] 4075/4573 download failed (Return: -) - http://feedproxy.google.com/~r/MichaelGreth/~3/CG7kWjc08jE/
+[22:42:47] Social Media: [-] 0500/7976 download failed (Return: -) - http://fieldtec.blogspot.com/2012/05/walk-by-faith.html
+[22:42:46] eBay: [-] 8131/8467 no form at all - http://badpeople.co.za/wp-login.php?action=register
+[22:42:47] Mesothelioma: [+] 0534/7981 matches engine Drupal - Blog - http://data.agaric.com
+[22:42:47] Hollywood: [-] 8230/8544 download failed (Return: -) - https://moodle.pthsd.k12.nj.us
+[22:42:47] Structured Settlement: [-] 8357/8547 download failed (Return: -) - https://999lotterybookstore34.com/?attachment_id=110
+[22:42:47] Currency: [-] 7916/8085 no engine matches (HTTP-Status: 503) - http://jnsrfd.org
+[22:42:47] Agriculture: [-] 0011/7854 download failed (Return: -) - http://www.ustinovforum.com/topic/current-concern
+[22:42:47] Mortgage: [-] 7945/8168 no engine matches (HTTP-Status: 502) - http://dev8.romeii.com
+[22:42:47] Win News Time: [-] 7752/7826 no engine matches (HTTP-Status: 501) - https://www.pacificunionpress.com/
+staticfield com/android/dx/rop/cst/CstInteger VALUE_0 Lcom/android/dx/rop/cst/CstInteger; com/android/dx/rop/cst/CstInteger
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+[      1829] [    SteamChild]             MainThrd/ CitizenFX Steam child starting - command line: "H:\FiveM Clean\FiveM.app\data\cache\subprocess\FiveM_SteamChild.exe" -steamchild:6640
+[      1829] [    SteamChild]             MainThrd/ game parent PID: 6640
+<10:13AM CNN_news> Feinstein says Clinton has declared Federal state of emergency
+-ABC_NEWS:#earthquake- Pat Georenson says: overall could have been alot worse...
+<10:14AM NPR_News> Gov. Wilson has decalred state of emergency; federal declaration will be made when request officially made by Calif. authorities.
+12:32:06 T:7040   DEBUG: PVR - PVR::CPVRClient::Create - creating PVR add-on instance 'Tvheadend HTSP Client'
+sono+arts+festival	01.08.2009 20:29:00	http://www.google.com/search?q=sono+fine+art+festival&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.20) Gecko/20081217 Firefox/2.0.0.20	67.86.121.209
+spiedie+fest	01.08.2009 20:29:01	http://www.google.com/search?hl=en&ei=OqV0SqD2G9y_tgfCkdGWCQ&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=binghamton+spiedie+festival&spell=1	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	67.251.77.81
+[2023.05.20-22.07.39:930][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.20-22.07.39:930][  0]LogConfig: Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.05.20-22.07.39:930][  0]LogConfig: Set CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.05.20-22.07.39:930][  0]LogConfig: Set CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.05.20-22.07.39:930][  0]LogConfig: Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+ciMethodData com/android/dx/rop/cst/StdConstantPool set (ILcom/android/dx/rop/cst/Constant;)V 2 5500 orig 264 8 110 37 81 0 0 0 0 176 48 190 22 0 0 0 0 208 3 0 0 24 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 67 1 0 0 201 161 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 28 0 2 0 0 0 120 2 0 0 255 255 255 255 5 0 1 0 0 0 0 0 data 79 0x10005 0x241 0x186ccb80 0x11f8 0x0 0x0 0x50007 0x0 0x88 0x1439 0x90005 0x802 0x186ccce0 0xb35 0x186ccd90 0x102 0xc0007 0x1438 0x38 0x1 0x100003 0x1 0x18 0x170007 0x1439 0x30 0x0 0x200002 0x0 0x250007 0x1438 0x80 0x1 0x300007 0x1 0x30 0x0 0x390002 0x0 0x450104 0x0 0x0 0x0 0x0 0x0 0x470007 0x0 0xe0 0x1439 0x500007 0x0 0xc0 0x1439 0x5f0007 0x17d 0xa0 0x12bc 0x640005 0x7cc 0x186ccce0 0xa22 0x186ccd90 0xce 0x670007 0x12bc 0x50 0x0 0x720004 0x0 0x0 0x0 0x0 0x0 0x790004 0x0 0x186ccce0 0xb35 0x186ccd90 0x102 oops 7 2 com/android/dx/rop/cst/StdConstantPool 12 com/android/dx/rop/cst/CstString 14 com/android/dx/rop/cst/CstType 59 com/android/dx/rop/cst/CstString 61 com/android/dx/rop/cst/CstType 75 com/android/dx/rop/cst/CstString 77 com/android/dx/rop/cst/CstType
+ciMethodData com/android/dx/rop/cst/Constant <init> ()V 2 21699 orig 264 8 110 37 81 0 0 0 0 48 109 189 22 0 0 0 0 48 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 25 150 2 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 3 0 2 0 0 0 16 0 0 0 255 255 255 255 2 0 1 0 0 0 0 0 data 2 0x10002 0x52c3 oops 0
+ciMethodData com/android/dx/rop/cst/TypedConstant <init> ()V 2 16181 orig 264 8 110 37 81 0 0 0 0 96 148 189 22 0 0 0 0 48 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 169 233 1 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 3 0 2 0 0 0 16 0 0 0 255 255 255 255 2 0 1 0 0 0 0 0 data 2 0x10002 0x3d35 oops 0
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-coyote.jar:9.0.34]
+[22:42:48] Car Insurance: [-] 4204/8012 no form at all - http://www.guardianms.com/?q=user
+[22:42:48] Web Design T2: [-] 4926/8453 download failed (Return: -) - https://www.kellimurray.com/
+[22:42:48] Mesothelioma: [ ] 0535/7981 waiting 6 seconds to not spam. http://blogs.journalism.cuny.edu/wp-login.php?redirect_to=http%3A%2F%2Fblogs.journalism.cuny.edu%2Fwp-admin%2F&reauth=1
+[22:42:48] Agriculture T2: [-] 3875/8565 download failed (Return: -) - https://www.dailypublications.org/losing-weight.html
+[22:42:48] Amazon: [+] 3702/7825 login successful - http://ed.gotway.com/?page_id=181
+
+Installing hl7.terminology.r5#5.0.0 done.
+Ignore Dependency on Core FHIR hl7.fhir.r5.core#5.0.0, from package 'hl7.terminology.r5#5.0.0' (05:47.985)
+Load Package hl7.terminology.r5#5.0.0
+Load Package hl7.fhir.uv.extensions#1.0.0
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-bmi|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-temperature|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-weight|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-head-circumference|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-heart-rate|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-lab|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-occupation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancyintent|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-pregnancystatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-screening-assessment|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-sexual-orientation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-pulse-oximetry|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-respiratory-rate|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-simple-observation|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-smokingstatus|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-is-postpartum|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-vital-signs|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-emergency-outbreak-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/head-occipital-frontal-circumference-percentile|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-emergency-outbreak-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-bmi-for-age|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-emergency-outbreak-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/pediatric-weight-for-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-emergency-outbreak-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-blood-pressure|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-emergency-outbreak-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-bmi|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-emergency-outbreak-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-height|6.1.0]
+US Core Comparison: compare StructureDefinition[http://hl7.org/fhir/us/ph-library/StructureDefinition/us-ph-emergency-outbreak-information|1.0.0] to StructureDefinition[http://hl7.org/fhir/us/core/StructureDefinition/us-core-body-temperature|6.1.0]
+gold+coast+art+fair+2009	01.08.2009 22:25:52	http://search.aol.com/aol/search?s_it=comsearch40&query=gold+coast+art+fair&do=Search	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.1)	68.165.46.244
+buick+open+tee+times	01.08.2009 22:26:05	http://www.google.com/url?sa=t&source=web&ct=res&cd=2&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fbuick%2Bopen%2Btee%2Btimes&ei=-MB0StnHKoH-NePHjLEM&rct=j&q=final+round+tee+times+2009+buick+open&usg=AFQjCNE3ISNRtk65iZlknwEPhIStiFwIvA	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	75.7.200.95
+bullet+express	01.08.2009 22:26:29	http://www.google.com/search?q=bullet+express+system&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1	24.199.68.189
+jerry+garcia+birthday	01.08.2009 22:26:35	http://www.google.com/search?hl=en&client=safari&rls=en&q=jerry+garcia+birthday+tribute+santa+cruz&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	99.170.149.41
+outre	01.08.2009 22:27:14	http://www.google.com/url?sa=t&source=web&ct=res&cd=9&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Foutre&ei=XsB0StyzNanEtge999GWCQ&rct=j&q=discount%2Fcheap+remi+outre+hair&usg=AFQjCNHxe7_aRM9UNTHjc82RFxh20yVq6w	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 GTB5 (.NET CLR 3.5.30729) FBSMTWB	71.51.65.14
+instanceKlass java/lang/ThreadGroup
+      "deploy:polygon": "hardhat compile && hardhat deploy --network polygon --tags floozMultichainRouter",
+simple	14-Jul-2020 09:19:45	From ssh://127.0.0.1:57370/epdgs/epdg-web-app
+<09:59AM cavalier> thanks tasm. finally.
+<09:59AM cavalier> AutoMaton Update: For TALK/CHAT join #QUAKECHAT or #QUAKETALK. This is the NEWS Channel.
+(WildEep/#earthquake) that was a big one.
+ofz#6360 direct-leak [Caolán McNamara]
+     Monument Inscription     :
+CYXY	ALASKA	WHITEHORSE INTL	afd	al_241_25OCT2007.png
+
+Underfull \hbox (badness 10000) in paragraph at lines 3346--3354
+12:32:06 T:7432   DEBUG: POParser: loaded 149 strings from file D:\Program Files (x86)\Kodi\addons\skin.confluence\language\resource.language.de_de\strings.po
+12:32:06 T:7432   DEBUG: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: D:\Program Files (x86)\Kodi\addons\skin.confluence\language\resource.language.en_gb\strings.po
+ciInstanceKlass java/lang/Short 1 1 161 7 100 10 10 100 100 10 8 10 8 10 10 10 10 10 10 9 10 10 10 8 8 10 9 10 10 10 10 3 3 5 0 10 8 10 9 100 100 100 1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 3 1 3 1 1 5 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 12 12 1 1 12 1 12 1 12 12 12 12 12 12 12 12 12 12 1 1 12 12 12 12 12 12 1 7 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+12:32:05 T:6472  NOTICE: Enumerated DIRECTSOUND devices:
+12:32:05 T:6472  NOTICE:     Device 1
+12:32:05 T:6472  NOTICE:         m_deviceName      : {775DFF2A-BF37-4C15-B2F6-4253FA03FA82}
+12:32:05 T:6472  NOTICE:         m_displayName     : SPDIF - Realtek Digital Output (2- Realtek High Definition Audio)
+12:32:05 T:6472  NOTICE:         m_displayNameExtra: DIRECTSOUND: Realtek Digital Output (2- Realtek High Definition Audio)
+PROC_CREATOR_COUNT N15 : alphaInelastic = 43
+PROC_CREATOR_COUNT N15 : dInelastic = 1
+[   1953968] level hash match - was custom: 0
+[   1954047] level hash match - was custom: 0
+             1971 Mar 15 0601     -              NASA 10.375GM                  NASA 10.375GM                     Nike Cajun             NASA 10.375GM    CSG ALFS                73.0
+             1971 Mar 16 1316     -              NASA 10.376GM                  NASA 10.376GM                     Nike Cajun             NASA 10.376GM    CSG ALFS                76.0
+             1971 Mar 18 1939     -              NASA 10.380GM                  NASA 10.380GM                     Nike Cajun             NASA 10.380GM    CSG ALFS               125.0
+1971-030     1971 Apr 15 0919     1971-030A      Tournesol                      D-2A                      S05128  Diamant B              No. 3            CSG Diamant              0.0
+             1971 May 17          -              FU-203                         Recup. Tech. en mer               Eridan                 E006             CSG ALFS               196.0
+             1971 Jun  8 1946     -              FU-194                         Biologie + Geophysique            Veronique 61M          61M/93           CSG ALFS V             210.0
+             1971 Jun 12 1944     -              FU-194                         Biologie + Geophysique            Veronique 61M          61M/94           CSG ALFS V             210.0
+             1971 Sep 13          -              FU-199                         Emission Na                       Centaure 1             C133             CSG ALFS                 0.0
+             1971 Sep 14 0420     -              FU-196                         Hydrogene atomique                Dauphin                DA005            CSG ALFS               103.0
+             1971 Sep 19 2156     -              NASA 10.348GM                  NASA 10.348GM                     Nike Cajun             NASA 10.348GM    CSG ALFS               125.0
+             1971 Sep 19 2200     -              FU-199                         Emission TMA                      Centaure 1             C132             CSG ALFS                 0.0
+             1971 Sep 19 2200     -              FU-199                         Emission TMA                      Centaure 1             C146             CSG ALFS                 0.0
+             1971 Sep 20 0330     -              NASA 10.349GM                  NASA 10.349GM                     Nike Cajun             NASA 10.349GM    CSG ALFS               122.0
+1982-F06     1982 Sep  9 0212:00  1982-F06       Marecs B                       Marecs B                  F00892  Ariane 1               L5               CSG ELA1                 0.0
+                                  1982-F06       Sirio 2                        Sirio 2                   F00895
+1983-058     1983 Jun 16 1159:03  1983-058A      ECS 1                          ECS 1                     S14128  Ariane 1               L6               CSG ELA1                 0.0
+                                  1983-058B      Oscar 10                       Amsat Phase 3B            S14129
+1983-105     1983 Oct 19 0045:36  1983-105A      Intelsat V F7                  Intelsat V F7             S14421  Ariane 1               L7               CSG ELA1                 0.0
+1984-023     1984 Mar  5 0050:03  1984-023A      Intelsat V F8                  Intelsat V F8             S14786  Ariane 1               L8               CSG ELA1                 0.0
+1984-049     1984 May 23 0133:29  1984-049A      Spacenet F1                    Spacenet F1               S14985  Ariane 1               V9               CSG ELA1                 0.0
+1984-081     1984 Aug  4 1332:54  1984-081A      ECS 2                          ECS 2                     S15158  Ariane 3               V10              CSG ELA1                 0.0
+                                  1984-081B      Telecom 1A                     Telecom 1A                S15159
+1984-114     1984 Nov 10 0114:18  1984-114A      Spacenet F2                    Spacenet F2               S15385  Ariane 3               V11              CSG ELA1                 0.0
+                                  1984-114B      Marecs 2                       Marecs B2                 S15386
+1985-015     1985 Feb  8 2322:00  1985-015A      Arabsat 1A                     Arabsat 1A                S15560  Ariane 3               V12              CSG ELA1                 0.0
+                                  1985-015B      Brasilsat 1                    SBTS 1                    S15561
+1985-035     1985 May  8 0115:38  1985-035A      Gstar 1                        Gstar 1A                  S15677  Ariane 3               V13              CSG ELA1                 0.0
+                                  1985-035B      Telecom 1B                     Telecom 1B                S15678
+1985-056     1985 Jul  2 1123:13  1985-056A      Giotto                         Giotto                    S15875  Ariane 1               V14              CSG ELA1                 0.0
+1985-F03     1985 Sep 12 2326:00  1985-F03       Eutelsat I F-3                 ECS 3                     F00951  Ariane 3               V15              CSG ELA1                 0.0
+fayette+county+fair	01.08.2009 18:57:50	http://www.google.com/search?client=ms-rim&hl=en&q=locate+fayette+county+fair+grounds&ie=UTF-8&channel=browser	BlackBerry8330/4.5.0.77 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/105	206.53.157.44
+fedex+field	01.08.2009 18:58:25	http://www.google.com/search?hl=en&rls=com.microsoft:en-us:IE-SearchBox&rlz=1I7GGLL_en&q=fedex+field+parking+map&revid=1586383765&ei=D5B0Su_FK56ltgfE-NyWCQ&sa=X&oi=revisions_inline&resnum=0&ct=broad-revision&cd=1	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MSN OptimizedIE8;ENUS)	72.83.251.150
+fedex+field	01.08.2009 18:58:36	http://www.google.com/search?hl=en&rls=com.microsoft:en-us:IE-SearchBox&rlz=1I7GGLL_en&q=fedex+field+parking+map&revid=1586383765&ei=D5B0Su_FK56ltgfE-NyWCQ&sa=X&oi=revisions_inline&resnum=0&ct=broad-revision&cd=1	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MSN OptimizedIE8;ENUS)	72.83.251.150
+sayville+summerfest	01.08.2009 18:59:06	http://www.google.com/search?hl=en&q=sayville+fair&btnG=Google+Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; FunWebProducts; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )	24.184.130.206
+what+did+greg+mcmackin+say	01.08.2009 18:59:28	http://www.google.com/search?hl=en&q=what+did+greg+mcmackin+say&aq=0z&oq=what+di&aqi=g-z2g8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	75.22.124.175
+)
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 90.
+ ******************************************
+ %nprocshared=40
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//8_17_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//8_17_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//18_36_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//18_38_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Triton/Inelastic/F02//18_40_Argon.z
+
+====================================================================
+                  HADRONIC PROCESSES SUMMARY (verbose level 1)
+
+---------------------------------------------------
+                           Hadronic Processes for GenericIon
+
+  Process: ionInelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 4 GeV/n
+        Model:                      FTFP: 2 GeV/n ---> 100 TeV/n
+     Cr_sctns: Glauber-Gribov nucleus nucleus: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns:          GheishaInelastic: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for He3
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns: Glauber-Gribov nucleus nucleus: 0 eV  ---> 2.88022e+295 J  
+     Cr_sctns:            GheishaElastic: 0 eV  ---> 100 TeV
+
+  Process: He3Inelastic
+        Model:       ParticleHPInelastic: 0 eV /n ---> 200 MeV/n
+        Model:  Binary Light Ion Cascade: 190 MeV/n ---> 4 GeV/n
+        Model:                      FTFP: 2 GeV/n ---> 100 TeV/n
+2021-10-26T21:52:27.506Z,98.506416,ab3bf380,6 [FLog::LocalStorage] LocalStorage writing to file: /Users/studioagain/Library/Roblox/LocalStorage/memProfStorage11138.json
+2021-10-26T21:52:27.506Z,98.506477,ab3bf380,6 [FLog::LocalStorage] LocalStorage will flush 5273 bytes to /Users/studioagain/Library/Roblox/LocalStorage/memProfStorage11138.json
+Additional CFLAGS (EXTRA_CFLAGS) [] 
+    "scripts": {
+ Sn                   -1.86216  -0.19975  -2.29707 
+Running AntonymFeaturizer 0.1
+buick+open+tee+times	01.08.2009 21:31:24	http://www.google.com/search?hl=en&q=buick+open+tee+times+4th&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	24.11.49.75
+kxas+weather	01.08.2009 21:31:37	http://www.google.com/search?hl=en&q=wbap+radio+doppler+radar&btnG=Google+Search&aq=o&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GoogleT5; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	76.203.200.252
+[      2532] [    GTAProcess]             MainThrd/ pre-gameload component rage:device:five
+[   1962593] overriding handle for mp_f_freemode_01/accs_diff_015_e_uni.ytd (was 4cd0119) -> 20e
+[   1962609] overriding handle for mp_f_freemode_01/accs_diff_015_f_uni.ytd (was 4cd011a) -> 20f
+ciMethod java/lang/StringBuilder <init> ()V 1145 1 10062 0 -1
+ PART_COUNT: C14 = 23
+                                  1991-003B      Eutelsat II F-2                Eutelsat II F-2           S21056
+1991-015     1991 Mar  2 2336:00  1991-015A      Astra 1B                       Astra 1B                  S21139  Ariane 44LP            V42              CSG ELA2                 0.0
+                                  1991-015B      Meteosat 5                     MOP 2                     S21140
+1991-026     1991 Apr  4 2333:00  1991-026A      Anik E2                        Anik E2                   S21222  Ariane 44P             V43              CSG ELA2                 0.0
+1991-050     1991 Jul 17 0146:31  1991-050A      ERS-1                          ERS-1                     S21574  Ariane 40              V44              CSG ELA2                 0.0
+                                  1991-050B      Tubsat                         Tubsat                    S21575
+                                  1991-050C      SARA                           SARA                      S21576
+                                  1991-050D      Orbcomm-X                      Orbcomm-X                 S21577
+                                  1991-050E      Uosat 5                        Uosat 5                   S21578
+1991-055     1991 Aug 14 2315:13  1991-055A      Intelsat 605                   Intelsat VI F-5           S21653  Ariane 44L             V45              CSG ELA2                 0.0
+1991-067     1991 Sep 26 2343:00  1991-067A      Anik E1                        Anik E1                   S21726  Ariane 44P             V46              CSG ELA2                 0.0
+1991-075     1991 Oct 29 2308:08  1991-075A      Intelsat 601                   Intelsat VI F-1           S21765  Ariane 44L             V47              CSG ELA2                 0.0
+1991-084     1991 Dec 16 2319:48  1991-084B      Inmarsat II F-3                Inmarsat II F-3           S21814  Ariane 44L             V48              CSG ELA2                 0.0
+                                  1991-084A      Telecom 2A                     Telecom 2A                S21813
+1992-010     1992 Feb 26 2358:10  1992-010A      Superbird B1                   Superbird B1              S21893  Ariane 44L             V49              CSG ELA2                 0.0
+                                  1992-010B      Arabsat 1C                     Arabsat 1C                S21894
+1992-021     1992 Apr 15 2325:27  1992-021B      Inmarsat II F-4                Inmarsat II F-4           S21940  Ariane 44L             V50              CSG ELA2                 0.0
+                                  1992-021A      Telecom 2B                     Telecom 2B                S21939
+1992-041     1992 Jul  9 2242:19  1992-041A      Insat 2A                       Insat 2A                  S22027  Ariane 44L             V51              CSG ELA2                 0.0
+                                  1992-041B      Eutelsat IIF4                  Eutelsat IIF4             S22028
+1992-052     1992 Aug 10 2308:07  1992-052A      Topex-Poseidon                 Topex-Poseidon            S22076  Ariane 42P             V52              CSG ELA2                 0.0
+                                  1992-052B      Kitsat A                       Kitsat A                  S22077
+                                  1992-052C      S80/T                          S80/T                     S22078
+1992-060     1992 Sep 10 2304:00  1992-060A      Hispasat 1A                    Hispasat 1A               S22116  Ariane 44LP            V53              CSG ELA2                 0.0
+                                  1992-060B      Satcom C3                      Satcom C3                 S22117
+1992-072     1992 Oct 28 0015:00  1992-072A      Galaxy VII                     Galaxy VII                S22205  Ariane 42P             V54              CSG ELA2                 0.0
+1992-084     1992 Dec  1 2248:00  1992-084A      Superbird A1                   Superbird A1              S22253  Ariane 42P             V55              CSG ELA2                 0.0
+1993-031     1993 May 12 0056:32  1993-031B      Arsene                         Arsene                    S22654  Ariane 42L             V56              CSG ELA2                 0.0
+                                  1993-031A      Astra 1C                       Astra 1C                  S22653
+1993-039     1993 Jun 25 0018:00  1993-039A      Galaxy 4H                      Galaxy 4H                 S22694  Ariane 42P             V57              CSG ELA2                 0.0
+                        ==  Fenastras/NNS-0       INS    $0.377  [I]
+            FMLN/NNP-0  ==  FMLN/NNP-4            SUB    $0.849  [E, sim, Esz, d:0.800]
+         reports/VBZ-1  ==                        DEL    $0.429  [D]
+  <MemoFn>Loaded 7043 memos: 7043 added, 0 changed, 0 matched.</MemoFn>
+</ActivateLexScorer>
+<ActivateLexScorer strSimIgnoringNonAlphaNumerics="name">
+-- [download 63% complete]
+-- [download 64% complete]
+-- [download 65% complete]
+-- [download 66% complete]
+-- [download 67% complete]
+ [93m*** Warning: The clock 'clock_Enter2' is declared but never used in the model; it is therefore removed from the model. Use option -no-var-autoremove to keep it.[0m
+ [93m*** Warning: The clock 'clock_SetX02' is declared but never used in the model; it is therefore removed from the model. Use option -no-var-autoremove to keep it.[0m
+ [93m*** Warning: The clock 'clock_Enter3' is declared but never used in the model; it is therefore removed from the model. Use option -no-var-autoremove to keep it.[0m
+tdf#113854 Cross-reference "above" and "below" in Swedish should trade places [sleepingpillow]
+tdf#113856 Navigator: Bad behaviour of controllers when changing slides [martinb214]
+tdf#113860 Selecting a recent or favorite special character is not applied by OK in bullets and numbering dialog [Mark Vecsernyes]
+tdf#113861 Chart data regions reduced in favor of labels [Eike Rathke, Vasily Melenchuk]
+tdf#113876 Parsing outline level only setted in english language on docsh2.cxx:1026 [Ahmed GHANMI]
+tdf#113877 Importing a document with numbered bullet points messes up numbering [Serge Krot]
+tdf#113901 UI: Comments for distant rows and columns are drawn shifted [Vasily Melenchuk]
+tdf#113907 Remove StartModuleCommands.xcu completely [Stephan Bergmann]
+tdf#113911 UI Text Language "More" button does not work [Henry Castro]
+tdf#113918 1bpp non-B&W PNG images are mishandled on Linux in all vcl "backends" ("plugins") [Vasily Melenchuk]
+tdf#113925 Paragraph dialog: Doubleclick on ruler should open "tabs" instead of "Indents & Spacing" [Nickson Thanda]
+tdf#113928 Read-only checkbox/toggle UNO command [Maxim Monastirsky, Gulsah Kose]
+tdf#113959 svxlo-FrameDirectionListBox should be used rather than GtkComboBox for text direction drop down list [Gabor Kelemen]
+tdf#113979 Paste unformated text does not ignore empty cells [Eike Rathke, Laurent BP]
+tdf#114013 Compound strings in Writer: "Text Format " + "(Search)" or "(Replace)" [Gabor Kelemen]
+tdf#114117 draw: page shadow issue. [Stephan Bergmann]
+tdf#114122 Double click in special character dialog inserts a character into the document, even when the dialog is only opened to select a single character [Mark Vecsernyes]
+tdf#114132 Tiling bitmaps does not work for charts (Format Wall) [Katarina Behrens]
+tdf#114173 FILESAVE XLSX Custom size of chart legend is not preserved when the file is saved as XLSX [Caolán McNamara]
+tdf#114180 FILESAVE XLSX Many custom chart wall properties are not preserved when the spreadsheet is saved as XLSX [Markus Mohrhard]
+tdf#114182 FILESAVE XLSX Pie chart slice moved back by LibreOffice Calc [Markus Mohrhard]
+tdf#114200 FILEOPEN: "Text Import" dialog: option to trim whitespace [Gabor Kelemen, manujvashist]
+tdf#114204 Clarify the "Local Help not installed" message [tagezi]
+tdf#114206 Remove duplication of strings found in StartModuleCommands.xcu [Yousuf Philips, Stephan Bergmann]
+tdf#114232 function ISERROR() doesn't work [Eike Rathke, Zdeněk Crhonek]
+tdf#114242 Menu/LibreOffice/Help/LibreOffice Help/[Content] -> Crash [Michael Stahl]
+tdf#114251 Hang loading spreadsheet [Eike Rathke]
+tdf#114256 Regression: Print Range not working anymore (Format - Page - Sheet - Scale) [Tomaž Vajngerl]
+tdf#114260 Customization button missing from menu, toolbar and context menus tab of customization dialog [Muhammet Kara]
+tdf#114261 Modifying a toolbar entry with a set toolbar:style attribute causes the attribute to be removed [Maxim Monastirsky]
+[2023.05.20-22.07.40:630][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2023.05.20-22.07.40:630][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2023.05.20-22.07.40:630][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.8
+[2023.05.20-22.07.40:630][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.05.20-22.07.40:630][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+[2023.05.20-22.07.40:734][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.05.20-22.07.40:734][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.05.20-22.07.40:734][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.05.20-22.07.40:734][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.05.20-22.07.40:734][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.05.20-22.07.40:734][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.05.20-22.07.40:734][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.05.20-22.07.40:734][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.05.20-22.07.40:734][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.05.20-22.07.40:739][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.05.20-22.07.40:739][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.05.20-22.07.40:739][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.05.20-22.07.40:739][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.05.20-22.07.40:739][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.05.20-22.07.40:739][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.05.20-22.07.40:739][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.05.20-22.07.40:739][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1 and r.RayTracing.EnableInEditor=1.
+[2023.05.20-22.07.40:742][  0]LogDerivedDataCache: FDerivedDataBackendGraph: Pak pak cache file ../../../../../../Users/steve/projects/zed-UE5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.20-22.07.40:742][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.05.20-22.07.40:742][  0]LogDerivedDataCache: FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../../../Users/steve/projects/zed-UE5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.20-22.07.40:742][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.05.20-22.07.40:764][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1363 MiB)
+[2023.05.20-22.07.40:764][  0]LogDerivedDataCache: FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.20-22.07.40:764][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.05.20-22.07.40:771][  0]LogDerivedDataCache: Speed tests for C:/Users/steve/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+tdf#104668 FORMATTING: Difference between MS Word and Writer text alignment. [Vitaliy Anderson]
+tdf#104707 FILESAVE DOCX: URL in comment is not saved to docx format [Justin Luth]
+tdf#104734 FIREBIRD: Add those field types that are not available with FB while they are available with Hsqldb [Tamas Bunth]
+     62     0.056077
+     63     0.050439
+     64     0.045367
+     65     0.040806
+     66     0.036703
+          **** printenv ****
+GROUP=petsc
+HOSTTYPE=x86_64-linux
+SSH_CLIENT=140.221.8.249 35558 22
+LOGNAME=petsc
+coverity#1421089 seems to be really reporting missing move ctors/assignments [Caolán McNamara]
+coverity#1421097 uncaught exception [Caolán McNamara]
+coverity#1421100 uncaught exception [Caolán McNamara]
+coverity#1421119 dereference after null check [Caolán McNamara]
+coverity#1421122 silence Uncaught exception [Caolán McNamara]
+coverity#1428610 unintended sign extension [Caolán McNamara]
+coverity#1428611 check for nullptr [Eike Rathke]
+coverity#1428612 silence reasonable 'Unchecked return value' warning [Caolán McNamara]
+coverity#1428613 check IsValidReference() return value, follow-up [Eike Rathke]
+coverity#1428661 uninitialized scalar field [Caolán McNamara]
+coverity#1428735 silence Use of untrusted scalar value [Caolán McNamara]
+coverity#1428736 dereference null return value [Caolán McNamara]
+coverity#1428737 dereference null return value [Caolán McNamara]
+coverity#1429470 uncaught exception [Caolán McNamara]
+coverity#1430056 dereference null return value [Caolán McNamara]
+coverity#1430057 silence Argument cannot be negative [Caolán McNamara]
+coverity#1430061 silence Unchecked return value [Caolán McNamara]
+coverity#1430065 silence Uncaught exception [Caolán McNamara]
+coverity#1430066 uncaught exception [Caolán McNamara]
+coverity#1430069 silence Uninitialized scalar field [Caolán McNamara]
+coverity#1430071 uninitialized scalar field [Caolán McNamara]
+coverity#1430073 silence Unchecked return value [Caolán McNamara]
+coverity#1430074 uncaught exception [Caolán McNamara]
+coverity#1430075 dereference after null check [Caolán McNamara]
+coverity#1430076 add assert for 'Division or modulo by zero' [Caolán McNamara]
+coverity#1430077 add assert for 'Division or modulo by zero' [Caolán McNamara]
+coverity#1430078 add assert for 'Division or modulo by zero' [Caolán McNamara]
+coverity#1430079 overflowed return value [Caolán McNamara]
+coverity#1430082 add assert for 'Division or modulo by zero' [Caolán McNamara]
+coverity#1430083 add assert for 'Division or modulo by zero' [Caolán McNamara]
+carolina+panthers	01.08.2009 23:31:02	http://www.google.com/search?hl=en&client=firefox-a&channel=s&rls=org.mozilla%3Aen-US%3Aofficial&hs=oWN&q=panther+fan+fantasy+football+names&btnG=Search&aq=f&oq=&aqi=	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	24.148.179.14
+AQY	ALASKA	GIRDWOOD	afd	al_85_25OCT2007.png
+[   1928250] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 447fc70b44c130290c360e2f00db2ac7705669d3) from http://139.99.125.59:30124/files/op-scoreboard/resource.rpf
+[   1928406] ResourceCache::AddEntry: Saved cache:v1:447fc70b44c130290c360e2f00db2ac7705669d3 to the index cache.
+[   1928422] ResourceCacheDevice: downloaded resource.rpf in 174 msec (size 90112)
+	at info.magnolia.virtualuri.VirtualUriFilter.doFilter(VirtualUriFilter.java:98) [magnolia-virtual-uri-6.2.3.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+2021-10-26T21:52:06.238Z,77.238220,ab3bf380,6 [FLog::Graphics] Loaded 620 shaders from pack metal_osx variant default (4412629 bytes)
+2021-10-26T21:52:06.238Z,77.238266,ab3bf380,6 [FLog::Graphics] Compiled 620 shaders in 43 ms
+2021-10-26T21:52:06.252Z,77.252037,43ba000,7 [FLog::Network] NetworkClient:Create
+2021-10-26T21:52:27.480Z,98.480843,4337000,7 [FLog::Network] NetworkClient:Remove
+2021-10-26T21:52:27.506Z,98.506302,ab3bf380,6 [FLog::LocalStorage] LocalStorage flushing (blocking)
+./Simon_and_Garfunkel/BestOf
+./Simon_and_Garfunkel/Greatest_hits
+	at java.util.Optional.map(Optional.java:215) ~[?:1.8.0_252]
+	at info.magnolia.dam.app.imageprovider.AssetPreviewProvider.getResource(AssetPreviewProvider.java:72) ~[magnolia-dam-app-3.0.3.jar:?]
+	at info.magnolia.dam.app.contentview.column.AssetNameColumnDefinition$ValueProvider.apply(AssetNameColumnDefinition.java:81) ~[magnolia-dam-app-3.0.3.jar:?]
+	at info.magnolia.dam.app.contentview.column.AssetNameColumnDefinition$ValueProvider.apply(AssetNameColumnDefinition.java:64) ~[magnolia-dam-app-3.0.3.jar:?]
+	at com.vaadin.ui.Grid$Column.generateRendererValue(Grid.java:1111) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.ui.Grid$Column.access$1100(Grid.java:849) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.ui.Grid$Column$1.generateData(Grid.java:898) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.data.provider.DataCommunicator.getDataObject(DataCommunicator.java:481) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.data.provider.DataCommunicator.pushData(DataCommunicator.java:461) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.data.provider.HierarchicalDataCommunicator.doExpand(HierarchicalDataCommunicator.java:316) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.data.provider.HierarchicalDataCommunicator.expand(HierarchicalDataCommunicator.java:289) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.ui.TreeGrid.lambda$registerTreeGridRpc$275f28ba$1(TreeGrid.java:187) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_252]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_252]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_252]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_252]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:155) ~[vaadin-server-8.9.4.jar:8.9.4]
+	... 111 more
+ERROR info.magnolia.admincentral.AdmincentralErrorHandler 15.10.2020 00:14:31 -- AdmincentralUI has encountered an unhandled exception.
+java.lang.IllegalArgumentException: Could not parse ''
+	at com.google.common.net.MediaType.parse(MediaType.java:1013) ~[guava-28.2-jre.jar:?]
+	at info.magnolia.dam.app.imageprovider.AssetPreviewProvider.lambda$getResource$0(AssetPreviewProvider.java:73) ~[magnolia-dam-app-3.0.3.jar:?]
+	at java.util.Optional.map(Optional.java:215) ~[?:1.8.0_252]
+	at info.magnolia.dam.app.imageprovider.AssetPreviewProvider.getResource(AssetPreviewProvider.java:72) ~[magnolia-dam-app-3.0.3.jar:?]
+	at info.magnolia.dam.app.contentview.column.AssetNameColumnDefinition$ValueProvider.apply(AssetNameColumnDefinition.java:81) ~[magnolia-dam-app-3.0.3.jar:?]
+	at info.magnolia.dam.app.contentview.column.AssetNameColumnDefinition$ValueProvider.apply(AssetNameColumnDefinition.java:64) ~[magnolia-dam-app-3.0.3.jar:?]
+	at com.vaadin.ui.Grid$Column.generateRendererValue(Grid.java:1111) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.ui.Grid$Column.access$1100(Grid.java:849) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.ui.Grid$Column$1.generateData(Grid.java:898) ~[vaadin-server-8.9.4.jar:8.9.4]
+	at com.vaadin.data.provider.DataCommunicator.getDataObject(DataCommunicator.java:481) ~[vaadin-server-8.9.4.jar:8.9.4]
+    + add officeotron version check [Markus Mohrhard]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 224.
+ [45 </Users/natera/Dropbox/PhD/thesis/images/datadriven/Fig01.png>] [46] [47]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+PROC_CREATOR_COUNT gamma : He3Inelastic = 2
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+     Additional Information   : (multiple lines)
+
+
+instanceKlass java/util/jar/Attributes
+AK28	ALASKA	FAIRBANKS CHENA MARINA	afd	al_76_25OCT2007.png
+AK28_1	ALASKA	FAIRBANKS CHENA MARINA SEAPLANE	afd	al_76_25OCT2007.png
+          Initialized LDFLAGS to 
+          Initialized FFLAGS to 
+          Initialized FFLAGS to 
+          Initialized LDFLAGS to 
+          Initialized CPPFLAGS to 
+LogDevObjectVersion:   FortniteNC (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 10
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 4
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+
+Installing hl7.fhir.us.core#4.0.0 done.
+Installing hl7.fhir.uv.bulkdata#1.0.1 to the package cache
+Z20	ALASKA	TUNTUTULIAK SEAPLANE	afd	al_227_25OCT2007.png
+4KA	ALASKA	TUNUNAK	afd	al_227_25OCT2007.png
+A63	ALASKA	TWIN HILLS	afd	al_228_25OCT2007.png
+		- Add feature validation check customer data exist before print transportation document
+		
+ofz#4919 direct-leak [Caolán McNamara]
+ofz#4920 direct-leak [Caolán McNamara]
+
+ [10] [11]
+ PART_COUNT: B10 = 357
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 21:47:01	http://www.google.com/search?rlz=1C1CHMA_enUS313US313&sourceid=chrome&ie=UTF-8&q=1+Invicta+9212	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.39 Safari/530.5	96.251.57.215
+gold+coast+art+fair+2009	01.08.2009 21:47:06	http://www.google.com/search?q=gold+coast+art&ie=UTF-8&oe=UTF-8&hl=en&client=safari	Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16	166.137.135.12
+market+days+chicago+2009	01.08.2009 21:47:09	http://www.google.com/search?hl=en&q=Chicago+Halsted+Street+Market+Days&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	75.207.97.252
+[2023.05.20-22.07.43:062][  0]LogDeviceProfileManager: 	[00000A60F7A8BA00][00000A60F7FEC800 52] iPhone13ProMax, 
+[2023.05.20-22.07.43:062][  0]LogDeviceProfileManager: 	[00000A60F7A8EA00][00000A60F7FA2800 52] iPhoneSE3, 
+	at info.magnolia.module.site.filters.SiteMergeFilter.doFilter(SiteMergeFilter.java:119) [magnolia-site-1.3.1.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.multisite.filters.MultiSiteFilter.doFilter(MultiSiteFilter.java:120) [magnolia-module-multisite-2.1.1.jar:?]
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85) [magnolia-core-6.2.3.jar:?]
+1992-010     1992 Feb 26 2358:10  1992-010A      Superbird B1                   Superbird B1              S21893  Ariane 44L             V49              CSG ELA2                 0.0
+Checking copula in apposition
+argH.first: det
+argH.first: partmod
+argT.first: num
+                ./.-28  ==  ./.-6                 SUB    $0.867  [E, sim, Esz]
+                                                       --------
+                                                TOTAL   $15.372
+</MANLIResult>
+All txt words are: [This-DT, document-NN, declares-VBZ, the-DT, `-``, irrevocable-JJ, determination-NN, '-'', of-IN, Edward_VIII-NNP, to-TO, abdicate-NNP, .-., By-IN, signing-VBG, this-DT, document-NN, on-IN, December_10th_,_1936-CD, ,-,, he-PRP, gave_up-VBD, his-PRP$, right-NN, to-TO, the-DT, British-JJ, throne-NN, .-.]
+<alignment>
+  King                 ==&gt; _
+  Edward_VIII          ==&gt; Edward_VIII
+  abdicated            ==&gt; abdicate
+  on                   ==&gt; on
+  the                  ==&gt; the
+  10th_of_December_,_1936 ==&gt; _
+  .                    ==&gt; .
+  Alignment score: 15.372
+</alignment>
+Alignment ------------------------------------------------
+
+King                 ==> _
+Edward_VIII          ==> Edward_VIII
+abdicated            ==> abdicate
+on                   ==> on
+the                  ==> the
+10th_of_December_,_1936 ==> _
+.                    ==> .
+Alignment score: 15.372
+
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box63
+jerry+garcia+birthday	01.08.2009 19:31:24	http://www.google.com/search?client=opera&rls=en&q=%22grateful+dead%22+birthday+shows+jerry&sourceid=opera&ie=utf-8&oe=utf-8	Opera/9.64 (Windows NT 5.1; U; en) Presto/2.1.1	65.29.98.93
+what+did+greg+mcmackin+say	01.08.2009 19:32:11	http://www.google.com/url?sa=t&source=web&ct=res&cd=4&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fwhat%2Bdid%2Bgreg%2Bmcmackin%2Bsay&ei=JJh0Suv3F5P6MKWtnLEM&rct=j&q=Greg+McMackin+++what+did+he+say&usg=AFQjCNGV41wKWkTAJJ3qWFfr6ZAacJpquw	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	24.247.56.41
+Successful compile:
+[   1946593] rage::gameSkeleton::RunInitFunctions: Invoking CRandomEventManager INIT_BEFORE_MAP_LOADED init (25 out of 31)
+tdf#114552 Improve image anchoring in Calc [Samuel Mehrbrodt]
+tdf#114555 Calc does not give warning when opening file containing a sheet with more than 1024 columns [Eike Rathke]
+Executing: mpicc  -o /tmp/petsc-uGvYRc/config.setCompilers/conftest    /tmp/petsc-uGvYRc/config.setCompilers/conftest.o -L/tmp/petsc-uGvYRc/config.setCompilers -lconf1 
+            Defined make macro "AR_FLAGS" to "cr"
+            Defined make macro "AR_LIB_SUFFIX" to "a"
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:155) ~[vaadin-server-8.9.4.jar:8.9.4]
+	... 111 more
+[  1%] No patch step for 'G4NEUTRONXS'
+[  1%] No update step for 'G4NEUTRONXS'
+[  1%] No configure step for 'G4NEUTRONXS'
+[  1%] No build step for 'G4NEUTRONXS'
+[  1%] No install step for 'G4NEUTRONXS'
+what+did+greg+mcmackin+say	01.08.2009 17:25:10	http://www.google.com/search?q=mcmackin+notre+dame+comment+what+did+he+say&btnG=Search&hl=en&rlz=1C1GGLS_enUS291US303&sa=2	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.37 Safari/530.5	98.220.175.104
+-- [download 67% complete]
+-- [download 68% complete]
+-- [download 69% complete]
+-- [download 70% complete]
+-- [download 71% complete]
+    Enable fractional arguments (FEATURE_FLOAT_SLEEP) [Y/n/?] y
+  Cyprus               ==&gt; Cyprus
+[2023.05.20-22.07.39:932][  0]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+     [xslt] Processing /scratch/ig-build-temp-JHXSGN/repo/template/onGenerate-ig-working.xml to /scratch/ig-build-temp-JHXSGN/repo/temp/pages/_data/artifacts.json
+     [xslt] Loading stylesheet /scratch/ig-build-temp-JHXSGN/repo/template/scripts/onGenerate.data.xslt
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+  No lockfile
+INFO:root:about to clone!
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+2021-10-26T21:52:01.045Z,72.045349,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 12, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:52:01.045Z,72.045395,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.24 seconds
+2021-10-26T21:52:01.366Z,72.366730,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+2021-10-26T21:52:01.366Z,72.366913,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 13, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:52:01.366Z,72.366951,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.68 seconds
+2021-10-26T21:52:02.124Z,73.124580,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+2021-10-26T21:52:02.124Z,73.124687,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 14, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:52:02.124Z,73.124741,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.24 seconds
+2021-10-26T21:52:02.462Z,73.462387,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+2021-10-26T21:52:02.462Z,73.462540,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 15, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:52:02.462Z,73.462753,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.66 seconds
+2021-10-26T21:52:03.188Z,74.188606,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+
+2021-10-26T21:52:03.188Z,74.188705,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport: requestCount: 16, url: https://gamejoin.roblox.com/v1/join-reserved-game
+2021-10-26T21:52:03.188Z,74.188766,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.27 seconds
+2021-10-26T21:52:03.526Z,74.526024,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+0O2	CALIFORNIA	BAKER	afd	sw_46_25OCT2007.png
+petty+officer+jonathan+campos	01.08.2009 18:29:07	http://www.google.com/search?hl=en&ie=ISO-8859-1&q=Petty+Officer+Jonathan+Campos+&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.1; AOLBuild 4334.5006; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.30618)	207.200.116.73
+12:32:05 T:7432  NOTICE: Additional mode: 1280x800@ 75.00 - Full Screen
+12:32:05 T:7432  NOTICE: Additional mode: 1280x960@ 60.00 - Full Screen
+12:32:05 T:7432  NOTICE: Previous line repeats 2 times.
+1989-041     1989 Jun  5 2237:18  1989-041A      Superbird A                    Superbird A               S20040  Ariane 44L             V31              CSG ELA2                 0.0
+21:38:12 T:139832867932032  NOTICE: GL_VENDOR = Intel Open Source Technology Center
+     Date Removed             : 2018-04-09T13:15Z
+     Temperature Stabiliz.    :
+     Additional Information   : decommissioned
+
+tdf#116482 CRASH on Drawing (assertion failure at vcl/source/app/scheduler.cxx:597) [Mohammed Abdul Azeem]
+2021-10-26T21:51:59.971Z,70.971832,4231000,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequestForTeleport, response:
+{"jobId":"JoinPrivateGame:PlaceId=4996049426&AccessCode=df63cb48-6c59-4b3c-b945-a9bd6dc15df7","status":0,"joinScriptUrl":null,"authenticationUrl":null,"authenticationTicket":null,"message":null,"joinScript":null}
+status code: 200
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59) [magnolia-core-6.2.3.jar:?]
+1999-016     1999 Apr  2 2203     1999-016A      Insat 2E                       Insat 2E                  S25666  Ariane 42P             V117             CSG ELA2                 0.0
+1999-042     1999 Aug 12 2252     1999-042A      Telkom 1                       Telkom 1                  S25880  Ariane 42P             V118             CSG ELA2                 0.0
+1999-046     1999 Sep  4 2234     1999-046A      Mugunghwa 3                    Koreasat 3                S25894  Ariane 42P             V120             CSG ELA2                 0.0
+2021-10-26T21:52:06.074Z,77.074615,ab3bf380,6 [FLog::Output] Hello to all (CLI-46686)
+   350K .......... .......... .......... .......... .......... 19%  614K 4s
+   400K .......... .......... .......... .......... .......... 21%  626K 4s
+[22:42:44] Bollywood: [-] 0200/7884 download failed (Return: -) - http://psdreview.com/best-wordpress-poll-plugins/
+[22:42:44] Justice degree: [-] 8020/8289 download failed (Return: -) - http://www.hangardesign.com/sites/taximedya/index.php/component/k2/item/4-excepteur-sint-occaecat-cup/4-exc
+[22:42:44] Mesothelioma T1: [-] 0214/8853 download failed (Return: -) - https://bonoboville.com/
+[22:42:44] Online Degree: [-] 7895/8073 download failed (Return: -) - http://www.afroexposure.org/schedule.html
+[22:42:44] Mesa DUI lawyer T2: [-] 4197/8439 download failed (Return: -) - http://www.3rlab.com.br/cinco-quilos-a-mais-de-forragem-na-minha-dieta-sao-possiveis-qual-a-maneira-profissional-para-tomar-esta-decisao/
+[22:42:44] Car Insurance T2: [-] 3374/8966 download failed (Return: -) - http://ferox-featherworks.com/
+[22:42:44] Social Media: [-] 0495/7976 download failed (Return: -) - https://theassociation.org.nz
+[22:42:44] Forex: [-] 7888/7985 download failed (Return: -) - https://www.healingafricafoundation.org/
+[22:42:44] Make money online T2: [-] 3845/8483 download failed (Return: -) - http://sanderl.de/en/comment/reply/1/24
+[22:42:44] Travels: [+] 8129/8261 matches engine Wordpress Article - http://www.angulonline.in/login/?checkemail=newpass
+[22:42:44] Mesa DUI lawyer: [-] 8183/8413 download failed (Return: -) - http://www.androidseal.com/2015/06/zen-ultrafone-303-qhd-update-android.html
+[22:42:44] Sports: [-] 8081/8698 download failed (Return: -) - https://www.rachkincaid.com
+[22:42:44] Insurance: [+] 8215/8263 matches engine Wordpress Article - http://schumachercreative.com
+[22:42:44] Mesothelioma: [-] 0527/7981 download failed (Return: -) - http://elizabethbixler.com/french-country-bathroom-design-collage/
+[22:42:44] Web Design: [-] 0793/7978 download failed (Return: -) - http://www.evercam.io/blog/wayra-finalist/
+[22:42:44] Make money online: [-] 7823/8047 no engine matches (HTTP-Status: 502) - http://www.resolvcrm.com
+[22:42:45] eBay: [-] 8127/8467 download failed (Return: -) - https://www.snsmedreview.com/
+[22:42:45] Car Insurance: [-] 4197/8012 download failed (Return: -) - http://trishishappy.freeblog.biz/2014/10/24/welcome-to-my-first-blog/
+[22:42:45] Digital Marketing: [-] 0135/7912 no engine matches (HTTP-Status: 502) - http://comida-pl.blogspot.com/2012/11/cannelloni-ze-szpinakiem.html?showComment=1407352973824
+[22:42:45] Hollywood: [-] 8225/8544 download failed (Return: -) - http://scallender.info/?page_id=19
+[22:42:45] Computer: [-] 0313/8028 download failed (Return: -) - http://www.arampatzisfoods.gr/?p=1
+[22:42:45] Health: [-] 8186/8339 download failed (Return: -) - http://www.system-tr.jp
+[22:42:45] Hindu temples: [-] 0577/8054 download failed (Return: -) - http://www.kyon.xyz/?p=119
+[22:42:45] Dwi Attorney: [-] 2913/7988 download failed (Return: -) - https://www.abi.org/newsroom/bankruptcy-brief/analysis-for-profit-colleges-lose-bid-to-scuttle-government-rules
+[22:42:45] Agriculture T1: [-] 0901/1000 download failed (Return: -) - http://christianpeter.hamburg/hozschnitte/
+[22:42:44] Insurance: [-] 8215/8263 no form at all - http://schumachercreative.com/wp-login.php?action=register
+[22:42:45] Dwi Attorney: [-] 2914/7988 download failed (Return: -) - https://endlesslyinspired.com/top-posts-2013/
+[22:42:45] Car Insurance: [+] 4199/8012 new URL - http://www.beach-rentals.org/wp-login.php?action=register
+[22:42:45] Sports T1: [+] 0924/1000 matches engine Discuz - http://www.facenet.top/member.php?mod=register&inajax=1&inajax=1
+[22:42:45] Hindu temples T2: [-] 4072/4573 download failed (Return: -) - http://www.armotec.pe/productos/electricidad/fuente-de-poder/fuente-de-poder-programable-rigol-serie-dp1000a-detail
+-- [download 82% complete]
+instanceKlass sun/misc/PerfCounter$CoreCounters
+instanceKlass sun/misc/Perf
+2016-02-23 15:45:25,557  INFO Injector:68 org.matsim.core.router.util.TravelTime @com.google.inject.name.Named(value=car)
+SAD	ARIZONA	SAFFORD RGNL	afd	sw_29_25OCT2007.png
+PROC_CREATOR_COUNT alpha : alphaInelastic = 274
+PROC_CREATOR_COUNT alpha : dInelastic = 115
+PROC_CREATOR_COUNT alpha : ionInelastic = 64
+PROC_CREATOR_COUNT alpha : neutronInelastic = 457
+PROC_CREATOR_COUNT alpha : protonInelastic = 4175
+PROC_CREATOR_COUNT alpha : tInelastic = 14
+PROC_CREATOR_COUNT deuteron : He3Inelastic = 2
+PROC_CREATOR_COUNT deuteron : alphaInelastic = 5
+PROC_CREATOR_COUNT deuteron : dInelastic = 22
+PROC_CREATOR_COUNT deuteron : hadElastic = 5
+PROC_CREATOR_COUNT deuteron : ionInelastic = 3
+PROC_CREATOR_COUNT deuteron : nCapture = 911
+PROC_CREATOR_COUNT deuteron : neutronInelastic = 85
+PROC_CREATOR_COUNT deuteron : protonInelastic = 672
+PROC_CREATOR_COUNT deuteron : tInelastic = 1
+PROC_CREATOR_COUNT gamma : He3Inelastic = 2
+PROC_CREATOR_COUNT gamma : alphaInelastic = 9
+PROC_CREATOR_COUNT gamma : dInelastic = 3
+PROC_CREATOR_COUNT gamma : ionInelastic = 169
+PROC_CREATOR_COUNT gamma : nCapture = 925
+PROC_CREATOR_COUNT gamma : neutronInelastic = 788
+drake+falls+on+stage	01.08.2009 17:36:41	http://www.google.com/search?hl=en&q=drake+falls+on+stage&aq=0z&oq=drake+f&aqi=g-z1g9	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB5; FunWebProducts; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618; InfoPath.2; yie8)	173.51.47.111
+x+games+15+moto+x+best+trick	01.08.2009 17:36:42	http://www.google.com/search?q=the+vault+kyle+loza&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.6) Gecko/2009011912 Firefox/3.0.6	98.204.101.67
+sayville+summerfest	01.08.2009 17:37:03	http://www.google.com/search?hl=en&client=safari&rls=en-us&q=Still+Cruisin+car+club+sayville+New+York&btnG=Search&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	24.46.104.250
+socorro+caro	01.08.2009 17:37:15	http://www.google.com/search?q=socorro+caro&rls=com.microsoft:en-us:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GGLL_en	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB5; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	67.10.77.54
+rhea+durham	01.08.2009 17:38:18	http://www.google.com/search?q=jeremy%20piven&hl=en&tbo=1&tbs=rcnt:1,sbd:1	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	69.65.84.161
+petty+officer+jonathan+campos	01.08.2009 17:38:46	http://www.google.com/search?client=safari&rls=en-us&q=jonathan+campos+lancaster,+ca&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	74.183.159.206
+petty+officer+jonathan+campos	01.08.2009 17:39:21	http://www.google.com/search?client=safari&rls=en-us&q=jonathan+campos+lancaster,+ca&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	74.183.159.206
+fedex+field	01.08.2009 17:39:57	http://www.google.com/search?client=safari&rls=en-us&q=Hyattsville+Fedex+Field+parking&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1	173.79.161.119
+tim+hack+and+kelly+drew	01.08.2009 17:40:23	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4ADBF_enUS331US331&q=kelly+drew+jefferson+wisconsin	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6; InfoPath.2; .NET CLR 1.1.4322)	68.96.235.58
+[22:42:47] Computer: [+] 0319/8028 new URL - http://blog.chapterthirtyseven.com/wp-login.php?action=register
+[22:42:47] Hindu temples: [-] 0582/8054 download failed (Return: -) - https://www.fbijobs.gov/
+[22:42:48] Web Design T2: [-] 4925/8453 download failed (Return: -) - http://www.presstor.fr/la-pratique-du-sport-extreme
+[22:42:47] Justice degree: [+] 8027/8289 new URL - http://asmartpioneeragent.com/wp-login.php?action=register
+[22:42:48] Forex: [-] 7894/7985 download failed (Return: -) - http://karneol.no/wp/kaper-og-jakker/
+[22:42:48] Digital Marketing: [-] 0140/7913 download failed (Return: -) - https://thenextweb.com/guests/meet-oliver-isaacs-serial-entrepreneur-t
+[22:42:48] Health: [-] 8192/8339 download failed (Return: -) - http://ar2d2g.blogspot.com/2011/01/how-to-complete-field-op.html
+[22:42:48] Car Insurance: [-] 4203/8012 no engine matches (HTTP-Status: 502) - http://www.adodarts.com/
+[22:42:47] Sports: [+] 8087/8698 matches engine EasyBlog - http://mwm-zahid.com.ua/index.php/tekhnika/item/1-khorvester-1050h?start=80
+[22:42:47] Online Degree: [-] 7901/8073 login not possible/awaiting verification (sorry, unrecognized username or password) - http://china.as.uky.edu/?q=user
+[22:42:47] Social Media: [+] 0501/7976 new URL - http://madmimi.com/signups/120065/join?action=register
+[22:42:48] Make money online: [-] 7831/8047 no engine matches (HTTP-Status: 400) - https://electrek.co
+[22:42:48] Win News Time: [-] 7753/7826 download failed (Return: -) - https://unternehmermanufaktur.com
+[22:42:48] Bollywood: [-] 0206/7884 download failed (Return: -) - http://enteresenet.blogspot.com/2009/08/cibertec-y-enteresenet-premiaron-con.html
+[22:42:48] Mesothelioma: [+] 0535/7981 matches engine Wordpress Article - http://homecoming.journalism.cuny.edu/2012/05/14/map/
+[22:42:48] Amazon: [+] 3702/7825 matches engine Wordpress Article - http://ed.gotway.com/
+[22:42:47] Currency: [+] 7917/8085 new URL - http://www.aeroporttransport.com/wp-login.php?action=register
+[22:42:47] Computer: [-] 0319/8028 no form at all - http://blog.chapterthirtyseven.com/wp-login.php?action=register
+[22:42:48] Dwi Attorney: [-] 2918/7988 download failed (Return: -) - http://www.jangjin.kr/?document_srl=716089
+[22:42:47] Justice degree: [+] 8027/8289 new URL - http://asmartpioneeragent.com/wp-login.php?action=register
+[22:42:48] Make money online T2: [-] 3850/8483 download failed (Return: -) - http://www.trobank.com/h-e-edward-kiwanuka-ssekandi-pays-visit-to-our-newly-opened-kaliro-branch/
+[22:42:48] Health: [-] 8193/8339 no engine matches - http://julieroys.com/can-you-lose-your-salvation-calvinism-vs-arminianism-explained/
+[22:42:48] Car Insurance: [+] 4204/8012 matches engine Drupal - Blog - http://www.guardianms.com/content/sending-snmp-traps-splunk
+[22:42:47] Sports: [-] 8087/8698 wrong engine detected (ezblog-dashboard|implement(easyblog) - http://mwm-zahid.com.ua/index.php?option=com_easyblog&view=dashboard&layout=write
+[22:42:48] Precious metals: [-] 0108/8003 download failed (Return: -) - https://uniwaybezcanta.com/
+[22:42:47] Social Media: [-] 0501/7976 no form at all - http://madmimi.com/signups/120065/join?action=register
+[22:42:48] Mesothelioma: [+] 0535/7981 new URL - http://blogs.journalism.cuny.edu/wp-login.php?redirect_to=http%3A%2F%2Fblogs.journalism.cuny.edu%2Fwp-admin%2F&reauth=1
+[22:42:48] Sports: [-] 8088/8698 download failed (Return: -) - http://www.cheapbreitlingsale.com/a-breitling-watch/
+[22:42:48] Social Media: [-] 0502/7976 download failed (Return: -) - https://v-g.me.uk/blog/?p=139
+[22:42:48] Currency: [-] 7918/8085 download failed (Return: -) - http://www.chimyen.biz
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+12:32:05 T:7432  NOTICE: Previous line repeats 2 times.
+12:32:05 T:7432  NOTICE: Additional mode: 1600x900@ 60.00 #2 - Full Screen
+12:32:05 T:7432  NOTICE: Previous line repeats 2 times.
+12:32:05 T:7432  NOTICE: Additional mode: 1600x1024@ 60.00 #2 - Full Screen
+12:32:05 T:7432  NOTICE: Previous line repeats 2 times.
+12:32:05 T:7432  NOTICE: Additional mode: 1440x900@ 60.00 #2 - Full Screen
+12:32:05 T:7432  NOTICE: Previous line repeats 2 times.
+12:32:05 T:7432  NOTICE: Checking resolution 16
+12:32:05 T:7432   DEBUG: CWinEventsWin32::WndProc: window resize event
+12:32:05 T:7432   DEBUG: CWinEventsWin32::WndProc: window move event
+12:32:05 T:7432   DEBUG: CWinSystemWin32::ResizeInternal - resizing due to size change (0,0,1920,1200 fullscreen)->(0,0,1920,1200 fullscreen)
+12:32:05 T:7432   DEBUG: CWinEventsWin32::WndProcWindow is active
+12:32:06 T:7432   DEBUG: CRenderSystemDX::InitRenderSystem - trying D3D9Ex...
+12:32:06 T:7432   DEBUG: CRenderSystemDX::InitRenderSystem - using D3D9Ex
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice on adapter 0
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - using hardware vertex processing
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - adapter 0: nvd3dum.dll, NVIDIA GeForce GTX 670, VendorId 4318, DeviceId 4489
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - using D3DCAPS2_DYNAMICTEXTURES
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - texture caps: 0x0001ECC5
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - RENDER_CAPS_DXT
+12:32:06 T:7432   DEBUG: CRenderSystemDX::CreateDevice - RENDER_CAPS_NPOT
+12:32:06 T:7432  NOTICE: Running database version MyMusic52
+12:32:06 T:7432  NOTICE: Running database version MyVideos93
+12:32:06 T:7432  NOTICE: Running database version TV29
+12:32:06 T:7432  NOTICE: Running database version Epg10
+12:32:06 T:7432   DEBUG: CDatabaseManager::Initialize, updating databases... DONE
+12:32:06 T:7432   DEBUG: DPMS: supported power-saving modes: OFF STANDBY
+12:32:06 T:7432   DEBUG: CAnnouncementManager - Announcement: OnClear from xbmc
+12:32:06 T:7432   DEBUG: GOT ANNOUNCEMENT, type: 2, from xbmc, message OnClear
+12:32:06 T:7432   DEBUG: Activating window ID: 12997
+DBQ	IOWA	DUBUQUE RGNL	afd	nc_16_25OCT2007.png
+[   1911172] ResourceCache::AddEntry: Saved cache:v1:c5d691ceafcd3173383cad3d0750dac82d621ba4 to the index cache.
+[   1911187] ResourceCacheDevice: downloaded resource.rpf in 4839 msec (size 2816000)
+[   1911312] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 69d6b12bae272d48182ed2ee129a352c791ab8c7) from http://139.99.125.59:30124/files/clothing/resource.rpf
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.security.LogoutFilter.doFilter(LogoutFilter.java:94) [magnolia-core-6.2.3.jar:?]
+[18/Jun/2019:19:43:09] (ℹ️): [PLUGIN] BackWPup : v3.6.9 (Inpsyde GmbH)
+[18/Jun/2019:19:43:09] (ℹ️): [PLUGIN] Better Admin Bar : v2.3 (KubiQ)
+-- Configuring download of missing dataset G4NDL (4.2)
+(Sea-Marie/#earthquake) unknown host, nbc.com
+
+* this is package 'trade' version '0.5.5'
+* package encoding: UTF-8
+*** Netsplit at 09:26:46 (disuns2.epfl.ch olymp.wu-wien.ac.at)
+<09:26AM DrStupid> NBC has not been able to contact Ventura county
+PROC_CREATOR_COUNT gamma : nCapture = 925
+PROC_CREATOR_COUNT gamma : neutronInelastic = 788
+drake+falls+on+stage	01.08.2009 17:36:41	http://www.google.com/search?hl=en&q=drake+falls+on+stage&aq=0z&oq=drake+f&aqi=g-z1g9	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB5; FunWebProducts; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618; InfoPath.2; yie8)	173.51.47.111
+#include "conffix.h"
+[22:42:46] Sports: [-] 8086/8698 download failed (Return: -) - https://krill-oil.wellwise.org
+[22:42:46] Amazon: [-] 3699/7825 no engine matches - http://www.openembedded.org/wiki/Main_Page
+i#81308 current default value of tabstop is not suitable for writing Chinese [Stephan Bergmann]
+i#83294 Inaccessable line . [Stephan Bergmann]
+PROC_CREATOR_COUNT Ne19 : alphaInelastic = 3
+socorro+caro	01.08.2009 20:18:39	http://www.google.com/search?hl=en&q=Socorro+Caro+&btnG=Google+Search&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.21022; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30618; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)	96.57.32.243
+sono+arts+festival	01.08.2009 20:18:54	http://www.google.com/search?client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&channel=s&hl=en&q=sono+art+fest&btnG=Google+Search	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	99.33.214.128
+clasica+san+sebastian+live	01.08.2009 20:19:01	http://www.google.it/search?q=Gp+san+sebastian&btnG=Cerca&hl=it&sa=2	Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.7) Gecko/20060909 Firefox/1.5.0.7 Novarra-Vision/7.3	213.161.85.104
+tim+hack+and+kelly+drew	01.08.2009 20:20:01	http://www.google.com/search?hl=en&safe=off&client=firefox-a&rls=org.mozilla:en-US:official&um=1&q=tim%20hack%20and%20kelly%20drew&ndsp=21&ie=UTF-8&sa=N&tab=iw&start=0	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729)	75.32.192.60
+sayville+summerfest	01.08.2009 20:20:35	http://www.google.com/search?hl=en&q=summerfest+sayville&rlz=1W1GGLL_en&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Media Center PC 5.0)	69.113.177.145
+buick+open+tee+times	01.08.2009 20:20:42	http://www.google.com/url?sa=t&source=web&ct=res&cd=5&url=http%3A%2F%2Fcomicsunlimited.com%2Fcomics%2Findex.php%3Fbuick%2Bopen%2Btee%2Btimes&ei=i6N0So7eOM23twevs9CWCQ&rct=j&q=2009+buick+open+grand+blanc+mi%2Cparking&usg=AFQjCNE3ISNRtk65iZlknwEPhIStiFwIvA	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10	68.31.205.191
+nbc5i+com+radar	01.08.2009 20:22:23	http://www.google.com/search?hl=en&rlz=1R2ADFA_enUS337&q=fox+4+radar+fort+worth&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; .NET CLR 3.5.21022)	76.255.95.42
+sono+arts+festival	01.08.2009 20:22:27	http://www.google.com/search?client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&channel=s&hl=en&q=sono+art+fest&btnG=Google+Search	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	99.33.214.128
+sayville+summerfest	01.08.2009 20:22:39	http://www.google.com/search?hl=en&rlz=1T4GGLR_enUS310US310&q=sayville+fair+august+1&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; MSN Optimized;US)	24.184.64.91
+carlos+justo	01.08.2009 20:23:10	http://www.google.com/search?q=justo%27s+carlos&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1	66.30.165.74
+jonathan+campos	01.08.2009 20:23:33	http://www.google.com/search?hl=en&q=Petty+Officer+Jonathan+Campos&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	76.83.202.192
+pan+mass+challenge+route	01.08.2009 20:24:26	http://www.google.com/search?q=pan+mass+challenge+route+2&ie=UTF-8&oe=UTF-8&hl=en&client=safari	Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16	65.96.9.32
+charlene+yi	01.08.2009 20:24:44	http://www.google.com/search?hl=en&safe=off&client=safari&rls=en&q=charlene+from+knocked+up+clips&aq=f&oq=&aqi=	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/523.12 (KHTML, like Gecko) Version/3.0.4 Safari/523.12	76.232.150.143
+jonathan+campos	01.08.2009 20:25:14	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4ACAW_enUS336US338&q=photos+navy+jonathan+campos	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322; eSobiSubscriber 2.0.4.16; .NET CLR 2.0.50727)	68.203.232.38
+x+games+15+moto+x+best+trick	01.08.2009 20:25:54	http://www.google.com/search?hl=en&q=2009+x+games+moto+x+best+trick&btnG=Google+Search&rlz=1R2GCNV_en&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.2)	209.183.55.45
+mcmackin+slur	01.08.2009 20:26:04	http://www.google.com/search?hl=en&q=mcmackin+slur+transcript&rlz=1R2ADBF_enUS329	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; InfoPath.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	24.21.43.210
+shun+ken+onion+11+piece+knife+block+set	01.08.2009 20:26:05	http://www.google.com/search?q=shun+onion+set+sale&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12	68.13.91.191
+what+did+greg+mcmackin+say	01.08.2009 20:26:04	http://www.google.com/search?hl=en&safe=off&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=fXL&q=McMackin+faggot&btnG=Search	Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729) Ubiquity/0.1.4	68.41.247.130
+socorro+caro	01.08.2009 20:27:36	http://www.google.com/search?q=socorro+caro&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1	72.47.119.152
+invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch	01.08.2009 20:27:58	http://www.google.com/search?client=safari&rls=en-us&q=invicta+9212+men%E2%80%99s+gold+plated+stainless+steel+speedway+watch&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7; en-us) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19	74.184.102.55
+bullet+express	01.08.2009 20:28:37	http://www.google.com/search?sourceid=navclient&ie=UTF-8&rlz=1T4DKUS_enUS311&q=Bullet+express+does+it+work	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)	96.250.181.62
+sono+arts+festival	01.08.2009 20:29:00	http://www.google.com/search?q=sono+fine+art+festival&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.20) Gecko/20081217 Firefox/2.0.0.20	67.86.121.209
+spiedie+fest	01.08.2009 20:29:01	http://www.google.com/search?hl=en&ei=OqV0SqD2G9y_tgfCkdGWCQ&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=binghamton+spiedie+festival&spell=1	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	67.251.77.81
+what+did+greg+mcmackin+say	01.08.2009 20:29:16	http://www.google.com/search?source=ig&hl=en&rlz=1G1GGLQ_ENUS290&q=what+did+greg+mcmackin+say&aq=0z&oq=what+did+&aqi=g%3Az1g9	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; FunWebProducts; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; Seekmo 10.0.406.0)	134.50.16.241
+charlene+yi	01.08.2009 20:29:29	http://www.google.com/search?client=safari&rls=en&q=charlene+from+knocked+up&ie=UTF-8&oe=UTF-8	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/523.12 (KHTML, like Gecko) Version/3.0.4 Safari/523.12	76.226.200.240
+petty+officer+jonathan+campos	01.08.2009 20:30:28	http://www.google.com/search?q=Jonathan+Campos%2C+32%2C&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	67.182.126.107
+petty+officer+jonathan+campos	01.08.2009 20:30:29	http://www.google.com/search?q=Jonathan+Campos%2C+32%2C&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)	67.182.126.107
+pan+mass+challenge+route	01.08.2009 20:31:12	http://www.google.com/search?hl=en&q=pan+mass+bike+route&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB5; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30618)	72.72.53.81
+petty+officer+jonathan+campos	01.08.2009 20:31:52	http://www.google.com/search?hl=en&q=Petty+Officer+Jonathan+Campos+&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; MS-RTC S; MS-RTC LM 8)	171.159.64.10
+fedex+field	01.08.2009 20:32:08	http://www.google.com/search?hl=en&q=fedex+field+seat+and+parking+map&aq=f&oq=&aqi=	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)	98.204.110.222
+  Enable -mtime: modified time matching (FEATURE_FIND_MTIME) [Y/n/?] y
+  Enable -mmin: modified time matching by minutes (FEATURE_FIND_MMIN) [Y/n/?] y
+KMY	ALASKA	MOSER BAY SEAPLANE	afd	al_146_25OCT2007.png
+MOU	ALASKA	MOUNTAIN VILLAGE	afd	al_147_25OCT2007.png
+76Z	ALASKA	NAKEEN	afd	al_148_25OCT2007.png
+5NK	ALASKA	NAKNEK	afd	al_148_25OCT2007.png
+5NK_1	ALASKA	NAKNEK SEAPLANE	afd	al_148_25OCT2007.png
+4AK9	ALASKA	NAKNEK TIBBETTS	afd	al_148_25OCT2007.png
+CYCD	ALASKA	NANAIMO	afd	al_149_25OCT2007.png
+78Z	ALASKA	NANCY LAKE SEAPLANE	afd	al_149_25OCT2007.png
+KEB	ALASKA	NANWALEK	afd	al_149_25OCT2007.png
+WNA	ALASKA	NAPAKIAK	afd	al_150_25OCT2007.png
+PKA	ALASKA	NAPASKIAK	afd	al_150_25OCT2007.png
+OUL	ALASKA	NELSON LAGOON	afd	al_151_25OCT2007.png
+ENN	ALASKA	NENANA MUNI	afd	al_151_25OCT2007.png
+ONP	ALASKA	NEWPORT MUNI	afd	al_152_25OCT2007.png
+KNW	ALASKA	NEW STUYAHOK	afd	al_152_25OCT2007.png
+EWU	ALASKA	NEWTOK	afd	al_153_25OCT2007.png
+WWT	ALASKA	NEWTOK SEAPLANE	afd	al_153_25OCT2007.png
+IGT	ALASKA	NIGHTMUTE	afd	al_153_25OCT2007.png
+FSP	ALASKA	NIKOLAI	afd	al_154_25OCT2007.png
+IKO	ALASKA	NIKOLSKI AS	afd	al_154_25OCT2007.png
+NIN	ALASKA	NINILCHIK	afd	al_154_25OCT2007.png
+WTK	ALASKA	NOATAK	afd	al_155_25OCT2007.png
+OME	ALASKA	NOME	afd	al_156_25OCT2007.png
+94Z	ALASKA	NOME CITY FLD	afd	al_156_25OCT2007.png
+5NN	ALASKA	NONDALTON	afd	al_157_25OCT2007.png
+D76	ALASKA	NOORVIK ROBERT (BOB) CURTIS MEM	afd	al_157_25OCT2007.png
+OTH	ALASKA	SOUTHWEST OREGON REGIONAL	afd	al_158_25OCT2007.png
+95Z	ALASKA	NORTH POLE BRADLEY SKY-RANCH	afd	al_158_25OCT2007.png
+95Z_1	ALASKA	NORTH POLE BRADLEY SKY-RANCH SEAPLANE	afd	al_158_25OCT2007.png
+AK41	ALASKA	GREGN SAGE	afd	al_159_25OCT2007.png
+[  1%] No patch step for 'G4NEUTRONXS'
+[  1%] No update step for 'G4NEUTRONXS'
+[  1%] No configure step for 'G4NEUTRONXS'
+[  1%] No build step for 'G4NEUTRONXS'
+[  1%] No install step for 'G4NEUTRONXS'
+[  1%] Completed 'G4NEUTRONXS'
+[  1%] Built target G4NEUTRONXS
+Scanning dependencies of target G4PII
+[  1%] Creating directories for 'G4PII'
+[  1%] Performing download step (download, verify and extract) for 'G4PII'
+-- downloading...
+     src='http://geant4.cern.ch/support/source/G4PII.1.3.tar.gz'
+     dst='/data/richards/NBRTT/build/Geant4/build/Externals/G4PII-1.3/src/G4PII.1.3.tar.gz'
+     timeout='1500 seconds'
+-- [download 0% complete]
+-- [download 1% complete]
+-- [download 2% complete]
+-- [download 3% complete]
+-- [download 4% complete]
+-- [download 5% complete]
+-- [download 6% complete]
+-- [download 7% complete]
+-- [download 8% complete]
+-- [download 9% complete]
+-- [download 10% complete]
+-- [download 11% complete]
+-- [download 62% complete]
+-- [download 63% complete]
+-- [download 64% complete]
+-- [download 65% complete]
+>>> skeleton  Building
+        Model:                      FTFP: 4 GeV ---> 25 GeV
+        Model:            BertiniCascade: 0 eV  ---> 5 GeV
+<SimpleProblem id="RTE2_dev.105.p0">
+4.   GNSS Antenna Information
+
+4.1  Antenna Type             : TRM41249.00     NONE
+     Serial Number            : 12482224
+     Antenna Reference Point  : BAM
+\pgf@xb=\dimen188
+  <ObtainLexScorer name="JiangConrathWN">
+    <rteLexScorer name="JiangConrathWN">active</rteLexScorer>
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+instanceKlass java/security/PrivilegedExceptionAction
+[22:42:48] Precious metals: [-] 0108/8003 download failed (Return: -) - https://uniwaybezcanta.com/
+[22:42:47] Social Media: [-] 0501/7976 no form at all - http://madmimi.com/signups/120065/join?action=register
+[22:42:48] Mesothelioma: [+] 0535/7981 new URL - http://blogs.journalism.cuny.edu/wp-login.php?redirect_to=http%3A%2F%2Fblogs.journalism.cuny.edu%2Fwp-admin%2F&reauth=1
+[22:42:48] Sports: [-] 8088/8698 download failed (Return: -) - http://www.cheapbreitlingsale.com/a-breitling-watch/
+[22:42:48] Social Media: [-] 0502/7976 download failed (Return: -) - https://v-g.me.uk/blog/?p=139
+[22:42:48] Currency: [-] 7918/8085 download failed (Return: -) - http://www.chimyen.biz
+[22:42:48] Digital Marketing: [-] 0142/7912 no engine matches - http://www.cameraaxe.com/wiki/index.php?title=Main_Page
+[22:42:48] Win News Time: [+] 7755/7826 matches engine Wordpress Article - http://ikwro.org.uk/2011/12/nearly-3000-cases-of-honour-violence-every-year-in-the-uk/
+[22:42:48] Structured Settlement: [-] 8360/8547 no engine matches (HTTP-Status: 502) - http://www.rybarimb.cz
+[22:42:48] Cooking TIPS: [-] 0208/7845 download failed (Return: -) - http://marlins.blog.palmbeachpost.com/2015/03/10/miami-marlins-shortstop-adeiny-hechavarria-to-throw-on-backfield-return-to-lineup-wednesday/
+[22:42:48] Mesa DUI lawyer: [-] 8191/8413 download failed (Return: -) - http://www.crackingleaks.com.htmlserialize.co/
+[22:42:48] Travels: [-] 8132/8261 download failed (Return: -) - http://diondee.com@clash-of-clans-hack-tool.net/
+[22:42:48] Injury Lawyers: [+] 7883/7969 matches engine Wordpress Article - https://www.expertinsurancereviews.com/insurance-company-reviews/auto-owners-insurance-review/
+[22:42:48] Health: [-] 8195/8339 download failed (Return: -) - http://bukbu.nodong.org/zbxe/?document_srl=10724108&mid=freeboard
+[22:42:48] Amazon: [-] 3702/7825 submission failed (wp-login.php?redirect_to=) - http://ed.gotway.com/wp-login.php?redirect_to=http%3A%2F%2Fed.gotway.com%2Fwp-admin%2F&reauth=1
+[22:42:48] Precious metals: [-] 0110/8003 download failed (Return: -) - http://www.it-corp.com/index.php/component/users/?view=login
+[22:42:48] Hindu temples T2: [-] 4078/4573 download failed (Return: -) - https://europeangaming.eu/thecompany/
+[22:42:48] Justice degree: [-] 8028/8289 download failed (Return: -) - https://sathyasaibaba.wordpress.com/2007/03/22/tony-oclery-caught-posting-as-sucked-by-baba/
+[22:42:48] Sports: [-] 8089/8698 download failed (Return: -) - http://teamcenterpin.sitemix.jp/2011/03/20/smart-cover-%E3%81%A7-ipad-2-%E3%82%92%E5%86%B7%E8%94%B5%E5%BA%AB%E3%81%AB%E8%B2%BC%E3%82%8A%E3%81%A4%E3%81%91/
+[22:42:48] Digital Marketing: [-] 0143/7912 download failed (Return: -) - http://www.arnaschoemans.nl/?attachment_id=413
+[22:42:48] Win News Time: [+] 7755/7826 new URL - http://ikwro.org.uk/wp-login.php?action=register
+[22:42:48] eBay: [-] 8133/8467 download failed (Return: -) - http://instagrafite.com/img_0704/
+[22:42:48] Cooking TIPS: [-] 0209/7845 download failed (Return: -) - https://www.piratde.de
+[22:42:48] Agriculture: [-] 0013/7854 download failed (Return: -) - http://un.derg.i.rdpax.t@jouwonlinecasinobonus.nl/
+[22:42:48] Mesa DUI lawyer: [-] 8192/8413 download failed (Return: -) - https://www.cybrary.it/0p3n/types-of-hackers/
+[22:42:48] Travels: [-] 8133/8261 download failed (Return: -) - http://www.luisrosamusic.com/playing-edited-2/
+[22:42:48] Injury Lawyers: [+] 7883/7969 new URL - https://www.expertinsurancereviews.com/wp-login.php?action=register
+[22:42:48] Online Degree: [-] 7902/8073 download failed (Return: -) - http://www.librus.ru/user/Kevinkeemn/
+[22:42:48] Justice degree: [-] 8029/8289 download failed (Return: -) - https://irritablebowelremedies.wordpress.com/2014/10/15/managing-irritable-bowel-syndrome/
+[22:42:48] Sports: [-] 8090/8698 download failed (Return: -) - https://healthyfitnessmeals.com/recipes/yogurt-berry-parfait/
+2021-10-26T21:52:27.160Z,98.160126,4337000,7 [FLog::Network] Time to disconnect replication data: 0.057149
+2021-10-26T21:52:27.160Z,98.160446,4337000,7 [FLog::Network] Sending disconnect with reason: -1
+2021-10-26T21:52:27.160Z,98.160500,4337000,7 [FLog::Network] Sending disconnect with reason: -1
+[     15031] somefunc found dlc_patchDay5NG:/!
+[     15047] LoadDefDats: dlc_patchDay5NGCRC:/content.xml
+[     15062] somefunc found dlc_patchDay4NG:/!
+[     15078] LoadDefDats: dlc_patchDay4NGCRC:/content.xml
+[     15093] somefunc found dlc_patchDay3NG:/!
+             Convg  =    0.4127D-08             -V/T =  2.0025
+
+[   1965547] overriding handle for mp_f_freemode_01/teef_diff_004_f_uni.ytd (was 4cd061c) -> 2e3
+
+-- [download 75% complete]
+
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks50
+\verbatim@line=\toks51
+\verbatim@in@stream=\read4
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box65
+\tcb@upperbox=\box66
+\tcb@lowerbox=\box67
+\tcb@phantombox=\box68
+\c@tcbbreakpart=\count324
+\c@tcblayer=\count325
+\c@tcolorbox@number=\count326
+\tcb@temp=\box69
+\tcb@temp=\box70
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)

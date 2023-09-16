@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>SQL Server - Database of Databases</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="counter" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwayI6MjExLCJpc3MiOiJjb3VudGVyOnN5c3RlbSIsIm5iZiI6MTY5NDYxNDUxNn0.x5_b-_e5cm17yBRcq4YZWdSopJ0JyXT3Z8Rp--XKv9Q">
+<script src="/cdn-cgi/apps/head/cMiHuBTCYiM0FotgIzjlp9WgBtc.js"></script><link href="/static/core/images/favicon.ico" rel="shortcut icon" type="image/png" />
+<link rel="apple-touch-icon" sizes="32x32" href="/static/core/images/dbdb_io-32x32.png">
+<link rel="apple-touch-icon" sizes="90x90" href="/static/core/images/dbdb_io-90x90.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/core/images/dbdb_io-180x180.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800">
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.9.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/static/lib/css/bootstrap-select.css">
+<link rel="stylesheet" type="text/css" href="/static/core/css/base.css?v=2">
+<link rel="stylesheet" type="text/css" href="/static/core/css/jquery.auto-complete.css">
+<meta property="og:site_name" content="Database of Databases" />
+<meta property="og:url" content="https://dbdb.io/db/sql-server" />
+<meta name="twitter:url" content="https://dbdb.io/db/sql-server" />
+<meta property="og:title" content="Database of Databases &mdash; SQL Server" />
+<meta property="og:description" content="Microsoft SQL Server (MSSQL) is a commercial DBMS supporting both structured and unstructured data sources, scaling to petabytes of data. While highly optimized primarily for OLTP use cases (such as in-memory Hekaton engine), it can also be configured to work as an OLAP DBMS." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://dbdb.io/media/twitter/sql-server.png" />
+<meta name="twitter:title" content="Database of Databases &mdash; SQL Server" />
+<meta name="twitter:description" content="Microsoft SQL Server (MSSQL) is a commercial DBMS supporting both structured and unstructured data sources, scaling to petabytes of data. While highly optimized primarily for OLTP use cases (such as …" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://dbdb.io/media/twitter/sql-server.png" />
+<link href="/static/core/css/system.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="navbar-brand" href="/">Database of Databases</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/browse">Browse</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/stats">Leaderboards</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn btn-outline-secondary" href="/recent">Recent</a>
+</li>
+<li class="nav-item ml-2 ">
+<a class="nav-link btn btn-outline-secondary" href="/db/sql-server/revisions/">Revision List</a>
+</li>
+</ul>
+<form action="/browse" method="GET" id="topsearch" class="form-inline form-search my-2 my-lg-0 mr-4">
+<div class="input-group">
+<input type="search" class="form-control" placeholder="Search" aria-label="Search" id="top-searchbox" name="q" value>
+<div class="input-group-append">
+<button class="btn" type="submit">
+<i class="fas fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+<ul class="navbar-nav my-2 my-lg-0 mr-4">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Accounts
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="/login/">Login</a>
+
+
+</div>
+</li>
+</ul>
+</div>
+</nav>
+<div class="jumbotron">
+<div class="row justify-content-md-center system-content">
+
+<div class="col-sm-12 col-md-7 order-2 order-md-1">
+<div class="card has-citations">
+<div class="card-body">
+<h2 class="card-title">
+SQL Server
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h2>
+<p class="card-text">
+<p>Microsoft SQL Server (MSSQL) is a commercial DBMS supporting both structured and unstructured data sources, scaling to petabytes of data. While highly optimized primarily for OLTP use cases (such as in-memory Hekaton engine), it can also be configured to work as an OLAP DBMS.</p>
+</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://info.microsoft.com/sql-server-2017-technical-white-paper-registration.html">https://info.microsoft.com/sql-server-2017-technical-white-paper-registration.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h4 class="card-title">
+History
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text"><p>Microsoft, Ashton-Tate (the creator of dBASE) and Sybase (currently SAP) started a partnership to build DBMS in 1988, resulting in SQL Server 1.0 (Filipi) in 1989 working under OS/2 (cooperated work between Microsoft and IBM). After ending relationship with Ashton-Tate, SQL Server 1.1 (Pietro) supported in Windows 3.0 and OS/2 has released in 1991.</p>
+<p>In 1993, due to different pursue of marketing schemes and design, the partnership between Sybase and Microsoft ended, Microsoft created SQL Server 4.21a(SQLNT) available in Windows NT. Microsoft independently updated and released SQL Server 6.0(SQL95) supported in Windows 95 and the main feature was replication. </p>
+<p>In 1998, SQL Server 7.0 (Sphinx) has dramatic changes compared to other previous update versions. Its core database engine is no longer based on Sybase engine written in C but independently written C++.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.sqlshack.com/history-sql-server-evolution-sql-server-features/">https://www.sqlshack.com/history-sql-server-evolution-sql-server-features/</a></li>
+<li><a target="_blank" href=" http://www.itprotoday.com/windows-8/whats-new-sql-server-70"> http://www.itprotoday.com/windows-8/whats-new-sql-server-70</a></li>
+<li><a target="_blank" href=" https://www.wikiwand.com/en/History_of_Microsoft_SQL_Server"> https://www.wikiwand.com/en/History_of_Microsoft_SQL_Server</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="checkpoints" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Checkpoints
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?checkpoints=non-blocking">Non-Blocking</a>
+<a class="badge badge-info" href="/browse?checkpoints=consistent">Consistent</a>
+<a class="badge badge-info" href="/browse?checkpoints=fuzzy">Fuzzy</a>
+</p>
+<p><p>According to the SQL Server documentation, the following types of checkpoints are supported:</p>
+<ol>
+<li>Automatic Checkpoints: These resemble fuzzy checkpoints with the addition that they can be tuned to automatically be taken depending on the number of changes in the database over time. Naturally they end up having some additional overhead during recovery.</li>
+<li>Indirect Checkpoints: These more resemble consistent checkpoints as they limit the number of dirty pages allowed while checkpointing is ongoing. As a result it is advised that performance degradation might be observed. The main benefit is that they have lower recovery time.</li>
+</ol></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/logs/database-checkpoints-sql-server?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/logs/database-checkpoints-sql-server?view=sql-server-2017</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="compression" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Compression
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?compression=dictionary-encoding">Dictionary Encoding</a>
+<a class="badge badge-info" href="/browse?compression=naive-page-level">Naïve (Page-Level)</a>
+<a class="badge badge-info" href="/browse?compression=naive-record-level">Naïve (Record-Level)</a>
+<a class="badge badge-info" href="/browse?compression=bit-packing-mostly-encoding">Bit Packing / Mostly Encoding</a>
+<a class="badge badge-info" href="/browse?compression=prefix-compression">Prefix Compression</a>
+</p>
+<p><p>SQL Database just like SQL Server 2017 features row and page compression on tables and indexes. It uses bit packing for row values and a combination of prefix and dictionary compression for pages.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/data-compression/data-compression?view=azuresqldb-current">https://docs.microsoft.com/en-us/sql/relational-databases/data-compression/data-compression?view=azuresqldb-current</a></li>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/data-compression/page-compression-implementation?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/data-compression/page-compression-implementation?view=sql-server-2017</a></li>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/data-compression/row-compression-implementation?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/data-compression/row-compression-implementation?view=sql-server-2017</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="concurrency-control" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Concurrency Control
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?concurrency-control=multi-version-concurrency-control-mvcc">Multi-version Concurrency Control (MVCC)</a>
+<a class="badge badge-info" href="/browse?concurrency-control=two-phase-locking-deadlock-prevention">Two-Phase Locking (Deadlock Prevention)</a>
+</p>
+<p><p>MS SQL Server supports transactions.
+The Concurrency control scheme it uses by default is 2 Phase Locking. However it is possible to enable MVCC style row-versioning to ensure readers dont block writers. MVCC can be enabled by using the <em>Isolation Levels</em> - Read Committed with Row Versioning(<em>Read Committed Snapshot</em>) or by <em>Snapshot Isolation</em>. The Hekaton In-memory optimized engine which can be enabled by declaring a table as <em>Memory Optimized</em> also supports MVCC.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide?view=sql-server-2017</a></li>
+<li><a target="_blank" href="https://dba.stackexchange.com/questions/174791/does-sql-server-use-multiversion-concurrency-control-mvcc">https://dba.stackexchange.com/questions/174791/does-sql-server-use-multiversion-concurrency-control-mvcc</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="data-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Data Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?data-model=relational">Relational</a>
+</p>
+<p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://info.microsoft.com/sql-server-2017-technical-white-paper-registration.html">https://info.microsoft.com/sql-server-2017-technical-white-paper-registration.html</a></li>
+<li><a target="_blank" href="https://searchdatamanagement.techtarget.com/feature/Microsoft-SQL-Server-2016-relational-DBMS-overview">https://searchdatamanagement.techtarget.com/feature/Microsoft-SQL-Server-2016-relational-DBMS-overview</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="foreign-keys" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Foreign Keys
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?foreign-keys=supported">Supported</a>
+</p>
+<p><p>Both Primary and Foreign Key constraints are supported.
+Declaring a column as Primary key automatically results in a unique index built on it.
+There are some limits on foreign key references:</p>
+<ol>
+<li>Maximum number of other tables and columns that can be referenced as a foreign key: 253</li>
+<li>SQL Server 2016 onwards, the number of maximum incoming foreign key references has been increased to: 10000(from 253).</li>
+</ol></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/tables/primary-and-foreign-key-constraints?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/tables/primary-and-foreign-key-constraints?view=sql-server-2017</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="indexes" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Indexes
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?indexes=btree">B+Tree</a>
+<a class="badge badge-info" href="/browse?indexes=hash-table">Hash Table</a>
+</p>
+<p><p>Yes, both Primary key and secondary key indexes are supported. For both of these the index types(<a href="https://docs.microsoft.com/en-us/sql/relational-databases/indexes/indexes?view=sql-server-2017">ref to definitions</a>) supported are: </p>
+<ol>
+<li>Clustered: </li>
+<li>Unclustered</li>
+<li>Unique</li>
+<li>Filtered</li>
+<li>Hash</li>
+<li>Columnstore</li>
+<li>Spatial</li>
+<li>XML</li>
+<li>Full-Text</li>
+</ol>
+<p>The internal data structures used for these indexes are BW-Trees primarily. BW-Trees are an in-memory optimized lock-free variant of the simple B+ Tree used in traditional DBMS. In-Memory hash table based Hash Indexes are also supported.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://www.microsoft.com/en-us/research/publication/the-bw-tree-a-b-tree-for-new-hardware/">https://www.microsoft.com/en-us/research/publication/the-bw-tree-a-b-tree-for-new-hardware/</a></li>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide?view=sql-server-2017</a></li>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/indexes/create-filtered-indexes?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/indexes/create-filtered-indexes?view=sql-server-2017</a></li>
+<li><a target="_blank" href="https://technet.microsoft.com/en-us/library/jj835095(v=sql.110).aspx#Filtered%20Index%20Design%20Guidelines">https://technet.microsoft.com/en-us/library/jj835095(v=sql.110).aspx#Filtered%20Index%20Design%20Guidelines</a></li>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-2017</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="isolation-levels" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Isolation Levels
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?isolation-levels=read-uncommitted">Read Uncommitted</a>
+<a class="badge badge-info" href="/browse?isolation-levels=read-committed">Read Committed</a>
+<a class="badge badge-info" href="/browse?isolation-levels=serializable">Serializable</a>
+<a class="badge badge-info" href="/browse?isolation-levels=snapshot-isolation">Snapshot Isolation</a>
+<a class="badge badge-info" href="/browse?isolation-levels=repeatable-read">Repeatable Read</a>
+</p>
+<p><p>The Isolation levels supported are:</p>
+<ol>
+<li><code>Serializable</code>: Implemented using Range-locks. This prevents other transactions from updating or writing other rows in the range.</li>
+<li><code>Snapshot</code>: Ensures that statements of a transaction reads a consistent value during transaction duration. This is ensured via MVCC schemes where multiple versions of the data are maintained(thus ensuring readers dont block writers) and transactions read data consistent corresponding to their own timestamp.</li>
+<li><code>Repeatable Read</code>: Write locks are used to enforce the behavior that uncommitted writes cannot be read. Even shared locks are issued and all these are held till the end of the transaction.</li>
+<li><code>Read Committed(Default)</code>: The behavior of this option depends on what <code>READ_COMMITTED_SNAPSHOT</code> is set to. If set to OFF(the default), this isolation level is guaranteed using read(shared) locks to prevent data being read by one(or a group of txns) to be written into(by another txn). If set to ON, row-versioning for maintaining the isolation level.</li>
+<li><code>Read Uncommitted</code>: No read locks or exclusive locks are issued.</li>
+</ol></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/t-sql/statements/set-transaction-isolation-level-transact-sql?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/t-sql/statements/set-transaction-isolation-level-transact-sql?view=sql-server-2017</a></li>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/connect/jdbc/understanding-isolation-levels?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/connect/jdbc/understanding-isolation-levels?view=sql-server-2017</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="joins" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Joins
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?joins=nested-loop-join">Nested Loop Join</a>
+<a class="badge badge-info" href="/browse?joins=hash-join">Hash Join</a>
+<a class="badge badge-info" href="/browse?joins=sort-merge-join">Sort-Merge Join</a>
+</p>
+<p><p>MS SQL Server 2017 supports Hash joins, Merge Joins and Nested Loop joins.
+For Hash Joins, the system initially defaults to an in-memory hash join. But as soon as the memory requirements for the build phase become too large, the system switches to a Grace Hash Join and Recursive Hash Join depending on the input size and characteristics. If the build phase memory needs are only slightly larger than the available memory, SQL Server will apply a hybrid of In-memory and Grace hash join.
+They support an additional feature called the <strong>Batch Mode Adaptive Join Operator</strong>. Basically what this does is to scan the first join input and based on its characteristics decides which join would be better. This feature is only supported for selecting between Hash and Nested Loop joins.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/joins?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/performance/joins?view=sql-server-2017</a></li>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/adaptive-query-processing?view=sql-server-2017#batch-mode-adaptive-joins">https://docs.microsoft.com/en-us/sql/relational-databases/performance/adaptive-query-processing?view=sql-server-2017#batch-mode-adaptive-joins</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="logging" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Logging
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?logging=physical-logging">Physical Logging</a>
+</p>
+<p><p>MS SQL Server supports physical logging via a feature they advertise as the <strong>Transaction Log</strong>. Their logging scheme allows for individual or incomplete transaction recovery as well as rollbacks of the database to ensure durability. The logs are managed carefully by spilling over to multiple files when exceeding a tunable threshold. The system truncates log files as much as it can to prevent overly huge log file sizes.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/logs/the-transaction-log-sql-server?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/logs/the-transaction-log-sql-server?view=sql-server-2017</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-compilation" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Compilation
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-compilation=code-generation">Code Generation</a>
+<a class="badge badge-info" href="/browse?query-compilation=stored-procedure-compilation">Stored Procedure Compilation</a>
+</p>
+<p><p>Yes, as mentioned in their technical whitepaper, In-Memory OLTP, queries and procedures stored as T-SQL are aggressively converted to machine code.
+Memory optimized tables support natively compiled UDFs and stored procedures.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://info.microsoft.com/sql-server-2017-technical-white-paper-registration.html">https://info.microsoft.com/sql-server-2017-technical-white-paper-registration.html</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-execution" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Execution
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-execution=tuple-at-a-time-model">Tuple-at-a-Time Model</a>
+</p>
+<p><p>MS-SQL Server 2017 uses the Volcano-style query processing model.(Note: Based on Slides from Class)
+Intraquery parallelism within SQL Server works as follows - the data to be operated on is partitioned between threads running on different CPUs. Then each thread operates on the data assigned to it while using SIMD intrinsics wherever possible. It should be noted that Intraquery parallelism should only be turned on for OLAP queries and would result in overhead/be inappropriate for OLTP workloads. The linked reference goes into a lot more detail and lists some useful knobs associated with this option.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://blogs.msdn.microsoft.com/craigfr/2007/04/17/parallel-query-execution-presentation">https://blogs.msdn.microsoft.com/craigfr/2007/04/17/parallel-query-execution-presentation</a></li>
+<li><a target="_blank" href=" https://15721.courses.cs.cmu.edu/spring2018/slides/16-optimizer2.pdf"> https://15721.courses.cs.cmu.edu/spring2018/slides/16-optimizer2.pdf</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="query-interface" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Query Interface
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?query-interface=sql">SQL</a>
+</p>
+<p><p>MS SQL Server supports an extension of SQL known as Transact-SQL (T-SQL).</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/t-sql/tutorial-writing-transact-sql-statements?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/t-sql/tutorial-writing-transact-sql-statements?view=sql-server-2017</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-architecture=hybrid">Hybrid</a>
+</p>
+<p><p>SQL Server supports In-Memory OLTP transactions via Hekaton. However if the memory needs of transactions are much more than memory can handle it is better to not use memory optimized tables, or alternatively use it for specific performance critical tables. OOM issues are definitely a possibility in the worst cast - SQL Server has setup an entire <a href="https://docs.microsoft.com/en-us/sql/relational-databases/in-memory-oltp/resolve-out-of-memory-issues?view=sql-server-2017">Wiki page</a> to help customers resolve their Out of Memory issues.
+In a scenario where the working set may not fit in-memory, it is possible to use the original setup of SQL server without Hekaton by not declaring tables as memory optimized.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/in-memory-oltp/in-memory-oltp-in-memory-optimization?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/in-memory-oltp/in-memory-oltp-in-memory-optimization?view=sql-server-2017</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="storage-model" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Storage Model
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?storage-model=n-ary-storage-model-rowrecord">N-ary Storage Model (Row/Record)</a>
+<a class="badge badge-info" href="/browse?storage-model=custom">Custom</a>
+</p>
+<p><p>By default SQL Server is a NSM(row-store). When In-Memory OLTP via Hekaton is enabled, an in-memory buffer pool for hot-data stores incoming rows. Over time the data is moved to the cold traditional disk based storage.
+Optionally column stores on specific columns of specific tables can be also enabled when expecting OLAP style usage by declaring a <em>Clustered Columnstore</em> index on that column.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://msdn.microsoft.com/en-us/library/dn589807(v=sql.120).aspx">https://msdn.microsoft.com/en-us/library/dn589807(v=sql.120).aspx</a></li>
+<li><a target="_blank" href="https://www.red-gate.com/simple-talk/sql/database-administration/sql-server-storage-internals-101/">https://www.red-gate.com/simple-talk/sql/database-administration/sql-server-storage-internals-101/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="stored-procedures" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Stored Procedures
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?stored-procedures=supported">Supported</a>
+</p>
+<p><p>Yes, stored procedures are supported and can be written using the Transact-SQL Syntax or using the Microsoft .NET Framework common runtime language (CLR) method.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/t-sql/statements/create-procedure-transact-sql?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/t-sql/statements/create-procedure-transact-sql?view=sql-server-2017</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="system-architecture" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+System Architecture
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?system-architecture=shared-disk">Shared-Disk</a>
+</p>
+<p><p>By default MS SQL Server clusters require shared disks. There do seem to be some unconventional and proprietary solutions which seem to be available for having completely shared nothing architectures.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/sql-server/failover-clusters/windows/always-on-failover-cluster-instances-sql-server?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/sql-server/failover-clusters/windows/always-on-failover-cluster-instances-sql-server?view=sql-server-2017</a></li>
+<li><a target="_blank" href="https://www.mssqltips.com/sqlservertip/3241/implement-a-sql-server-ha-failover-solution-without-shared-storage/">https://www.mssqltips.com/sqlservertip/3241/implement-a-sql-server-ha-failover-solution-without-shared-storage/</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div id="views" class="card card-feature has-citations">
+<div class="card-body">
+<h4 class="card-title">
+Views
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h4>
+<p class="card-text">
+<a class="badge badge-info" href="/browse?views=virtual-views">Virtual Views</a>
+<a class="badge badge-info" href="/browse?views=materialized-views">Materialized Views</a>
+</p>
+<p><p>MS SQL Server supports many different types of views. </p>
+<ol>
+<li><strong>Standard User Defined Views</strong>: This is the standard View normally supported by DBMSs.</li>
+<li><strong>Indexed View</strong>: Just another name for a <strong>Materialized View</strong>.</li>
+<li><strong>Partitioned View</strong>: A Partitioned view is one which contains data joined from tables over the same(locally partitioned) or different SQL server instances. </li>
+<li><strong>System View</strong>: This can be used to view and analyze catalog metadata such as information about user defined databases. </li>
+</ol>
+<p>As is obvious from the views described above, the complexity of queries supported for views is pretty high - i.e. views involving joins not only over this SQL server instance but also between instances seems to be supported.</p></p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-2017">https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-2017</a></li>
+</ul>
+</cite>
+</div>
+</div>
+<div class="card card-version d-block d-md-none revision-card">
+<a href="/db/sql-server/revisions/" title="View All Revisions for SQL Server">
+<div class="card-body">
+Revision #11
+&nbsp;|&nbsp;
+<time datetime="2022-06-26T22:58:46.905000-04:00">
+Updated 06/26/2022 10:58 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+Compatible Systems
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/adaptive-server-enterprise" title="Adaptive Server Enterprise">
+<img class="logo-recommendation" src="/media/logos/sybase.svg" alt="Adaptive Server Enterprise" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/access" title="Access">
+<img class="logo-recommendation" src="/media/logos/microsoft-access.svg" alt="Access" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/filemaker" title="FileMaker">
+<img class="logo-recommendation" src="/media/logos/filemaker.svg" alt="FileMaker" />
+</a>
+</li>
+</ul>
+<div class="card-footer text-muted p-1 font-weight-bold">
+<a href="/browse?compatible=sql-server">View All (5)</a>
+</div>
+</div>
+</div>
+
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+Derivative Systems
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/azure-sql-database" title="Azure SQL Database">
+<img class="logo-recommendation" src="/media/logos/azure.png.200x50_q85.png" alt="Azure SQL Database" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+Embeddings
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/provendb" title="ProvenDB">
+<img class="logo-recommendation" src="/media/logos/provendb.svg" alt="ProvenDB" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="card d-block d-md-none systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/mysql" title="MySQL">
+<img class="logo-recommendation" src="/media/logos/MySQL.svg" alt="MySQL" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/postgresql" title="PostgreSQL">
+<img class="logo-recommendation" src="/media/logos/postgres-horizontal.svg" alt="PostgreSQL" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/azure-sql-database" title="Azure SQL Database">
+<img class="logo-recommendation" src="/media/logos/azure.png.200x50_q85.png" alt="Azure SQL Database" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/db2" title="Db2">
+<img class="logo-recommendation" src="/media/logos/ibm-db2-vertical.svg" alt="Db2" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
+<div class=" col-sm-12 col-md-3 order-1 order-md-2">
+<div class="card">
+<div class="card-body text-center">
+<a href="/media/logos/microsoft-sql-server.svg"><img class="logo-thumbnail" src="/media/logos/microsoft-sql-server.svg" style="border:none;" alt="SQL Server Logo" title="SQL Server"></a>
+</div>
+</div>
+<div class="card has-citations">
+<div class="card-body">
+<h6 class="card-title">Website</h6>
+<p class="card-text"><a href="http://www.microsoft.com/sqlserver/">http://www.microsoft.com/sqlserver/</a></p>
+<h6 class="card-title">Tech Docs</h6>
+<p class="card-text"><a href="https://docs.microsoft.com/en-us/sql/sql-server/sql-server-technical-documentation">https://docs.microsoft.com/en-us/sql/sql-server/sql-server-technical-documentation</a></p>
+<h6 class="card-title">Twitter</h6>
+<p class="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" /></svg> <a target="twitter" href="https://twitter.com/SQLServer"> @SQLServer</a></p>
+<h6 class="card-title">Developer</h6>
+<p class="card-text">Microsoft</p>
+<link rel="stylesheet" href="/static/flags/sprite.css">
+<h6 class="card-title">Country of Origin</h6>
+<p class="card-text">
+<a href="/browse?country=US" title="View other systems from United States of America">
+<i class="flag-sprite flag-u flag-_s"></i>
+US
+</a>
+</p>
+<h6 class="card-title">
+Start Year
+<a href="javascript:;" class="citations"><i class="fas fa-info-circle" title="Citations"></i></a>
+</h6>
+<p class="card-text">1988</p>
+<cite class="hidden">
+<ul>
+<li><a target="_blank" href="https://en.wikipedia.org/wiki/History_of_Microsoft_SQL_Server">https://en.wikipedia.org/wiki/History_of_Microsoft_SQL_Server</a></li>
+</ul>
+</cite>
+<h6 class="card-title">Project Type</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?type=commercial" title="View other Commercial systems">Commercial</a>
+</p>
+<h6 class="card-title">Written in</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?programming=cplusplus" title="View other systems that are written in C++">C++</a>
+</p>
+<h6 class="card-title">Derived From</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?derived=adaptive-server-enterprise" title="View other systems derived from Adaptive Server Enterprise">Adaptive Server Enterprise</a>
+</p>
+<h6 class="card-title">Operating Systems</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?os=linux" title="View other systems that support Linux systems">Linux</a>, <a class="card-title" href="/browse?os=windows" title="View other systems that support Windows systems">Windows</a>
+</p>
+<h6 class="card-title">Licenses</h6>
+<p class="card-text">
+<a class="card-title" href="/browse?license=proprietary" title="View other systems that use Proprietary">Proprietary</a>
+</p>
+<h6 class="card-title">Wikipedia</h6>
+<p class="card-text"><a target="wikipedia" href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server">https://en.wikipedia.org/wiki/Microsoft_SQL_Server</a></p>
+</div>
+</div>
+<div class="card card-version d-none d-md-block revision-card">
+<a href="/db/sql-server/revisions/" title="View All Revisions for SQL Server">
+<div class="card-body">
+Revision #11
+&nbsp;|&nbsp;
+<time datetime="2022-06-26T22:58:46.905000-04:00">
+Updated 06/26/2022 10:58 p.m.
+</time>
+</div>
+</a>
+</div>
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+Compatible Systems
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/adaptive-server-enterprise" title="Adaptive Server Enterprise">
+<img class="logo-recommendation" src="/media/logos/sybase.svg" alt="Adaptive Server Enterprise" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/access" title="Access">
+<img class="logo-recommendation" src="/media/logos/microsoft-access.svg" alt="Access" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/filemaker" title="FileMaker">
+<img class="logo-recommendation" src="/media/logos/filemaker.svg" alt="FileMaker" />
+</a>
+</li>
+</ul>
+<div class="card-footer text-muted p-1 font-weight-bold">
+<a href="/browse?compatible=sql-server">View All (5)</a>
+</div>
+</div>
+</div>
+
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+Derivative Systems
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/azure-sql-database" title="Azure SQL Database">
+<img class="logo-recommendation" src="/media/logos/azure.png.200x50_q85.png" alt="Azure SQL Database" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+Embeddings
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/provendb" title="ProvenDB">
+<img class="logo-recommendation" src="/media/logos/provendb.svg" alt="ProvenDB" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="card d-none d-md-block systems-extra">
+<div class="card-body">
+<h4 class="card-title">
+People Also Viewed
+</h4>
+<ul class="list-group list-group-flush">
+<li class="list-group-item list-group-item-action">
+<a href="/db/mysql" title="MySQL">
+<img class="logo-recommendation" src="/media/logos/MySQL.svg" alt="MySQL" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/postgresql" title="PostgreSQL">
+<img class="logo-recommendation" src="/media/logos/postgres-horizontal.svg" alt="PostgreSQL" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/azure-sql-database" title="Azure SQL Database">
+<img class="logo-recommendation" src="/media/logos/azure.png.200x50_q85.png" alt="Azure SQL Database" />
+</a>
+</li>
+<li class="list-group-item list-group-item-action">
+<a href="/db/db2" title="Db2">
+<img class="logo-recommendation" src="/media/logos/ibm-db2-vertical.svg" alt="Db2" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<footer class="font-small mdb-color pt-4">
+<div class="container align-top">
+<div class="row d-flex align-items-center ">
+<div class="col-md-7 col-lg-8 footer-text">
+<p class="text-center text-md-left">
+Copyright &copy; 2023
+&bullet;
+<a target="_blank" href="https://db.cs.cmu.edu">Carnegie Mellon Database Group</a>
+</p>
+</div>
+<div class="col-md-5 col-lg-4">
+<div class="text-center text-md-right footer-text">
+<a href="/cdn-cgi/l/email-protection#3d505c54517d595f595f135452" class="btn-floating btn-sm rgba-white-slight"><i class="fa fa-envelope"></i> Contact</a>
+<a href="https://github.com/cmu-db/dbdb.io" class="btn-floating btn-sm"><i class="fab fa-github"></i> Github</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="877c6488b984acc10bb391eb-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="877c6488b984acc10bb391eb-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="877c6488b984acc10bb391eb-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4067813-21" type="877c6488b984acc10bb391eb-text/javascript"></script>
+<script type="877c6488b984acc10bb391eb-text/javascript">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-4067813-21');
+</script>
+
+<script type="877c6488b984acc10bb391eb-text/javascript">
+    function convertToSlug(text) {
+        return text
+            .toLowerCase()
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^\w -]+/g,'')
+            .replace(/ +/g,'-');
+    }
+</script>
+
+<script src="/static/core/js/jquery.auto-complete.min.js" type="877c6488b984acc10bb391eb-text/javascript"></script>
+<script type="877c6488b984acc10bb391eb-text/javascript">
+    // Top Search Box
+    $("#topsearch").find('input[name="q"]').autoComplete({
+        minChars: 3,
+        source: function(term, response) {
+            $.getJSON('/search/autocomplete/', { q: term }, function(data) { response(data); });
+        },
+        onSelect: function(e, term, item) { window.location.href = "/db/" + convertToSlug(term); }
+    });
+</script>
+<script src="/static/lib/js/bootstrap.bundle.js" type="877c6488b984acc10bb391eb-text/javascript"></script>
+<script src="/static/core/js/system.js" type="877c6488b984acc10bb391eb-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="877c6488b984acc10bb391eb-|49" defer></script></body>
+</html>

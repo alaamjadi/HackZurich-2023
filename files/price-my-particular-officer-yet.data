@@ -1,0 +1,515 @@
+[     47141] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CPortalTracker INIT_CORE init (16 out of 52)
+what+did+greg+mcmackin+say	01.08.2009 18:37:07	http://www.google.com/m/search?oe=UTF-8&client=safari&hl=en&q=what+did+greg+mcmackin+say&ct=broad-revision&oi=revisions_inline&sa=X&ei=D4p0SoD0A46KrgOn9rlH&cd=1&resnum=0	Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16	166.205.6.32
+ ---------------------------------------------------------------------
+      1          8           0        0.000000    0.000000    0.000000
+      2          1           0        0.000000    0.000000    0.957200
+[   1830578] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/ProfileStats.asmx/ReadStatsByGamer2
+[   1879015] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/GeoLocation.asmx/GetLocationInfoFromIP
+[   1889093] EndpointMapper::HandleRequest: POST /gta5/11/gameservices/presence.asmx/GetPresenceServers
+[   1899437] [op-progressbar]
+[   1899453] [op-inventory]
+[   1899468] [bob74_ipl]
+[   1899484] [op-stores]
+[   1899500] [gcphone]
+[   1899515] [clothing]
+[   1899531] [connectqueue]
+[   1899547] [assets-police-imports]
+[   1899562] [op-soundeffects]
+[   1899578] [op-animations]
+[   1899593] [assets-repairshop]
+[   1899609] [easyadmin]
+[   1899609] [op-spawn]
+[   1899640] [assets-church]
+[   1899640] [loading-screen]
+[   1899656] [op-phone]
+[   1899672] [notifications]
+[   1899687] [mhacking]
+[   1899703] [op-drugs]
+[   1899718] [mysql-async]
+[   1899734] [op-court]
+[   1899750] [sessionmanager]
+[   1899750] [taximeter]
+[   1899765] [wk_wrs]
+[   1899781] [op-bridge]
+[   1899797] [webadmin]
+[   1899828] [assets-interiors]
+          Changed persistence directory to /sandbox/petsc/petsc.next/arch-cuda-double/lib/petsc/conf
+================================================================================
+	at info.magnolia.module.site.filters.SiteMergeFilter.doFilter(SiteMergeFilter.java:119) [magnolia-site-1.3.1.jar:?]
+[     47672] [    GTAProcess]  UV loop: httpClient/ OnConnectionProgress: df_Core: Deferring connection...
+[   1900812] [op-base]
+AAT	CALIFORNIA	ALTURAS MUNI	afd	sw_42_25OCT2007.png
+A24	CALIFORNIA	ALTURAS CALIFORNIA PINES	afd	sw_42_25OCT2007.png
+AHC	CALIFORNIA	AMEDEE AAF	afd	sw_42_25OCT2007.png
+2O3	CALIFORNIA	ANGWIN-PARRETT FLD	afd	sw_43_25OCT2007.png
+APV	CALIFORNIA	APPLE VALLEY	afd	sw_43_25OCT2007.png
+
+	at info.magnolia.module.cache.executor.CompositeExecutor.processCacheRequest(CompositeExecutor.java:66) [magnolia-cache-core-5.9.1.jar:?]
+staticfield java/io/File fs Ljava/io/FileSystem; java/io/WinNTFileSystem
+staticfield java/io/File separatorChar C 92
+staticfield java/io/File separator Ljava/lang/String; "\"
+staticfield java/io/File pathSeparatorChar C 59
+staticfield java/io/File pathSeparator Ljava/lang/String; ";"
+staticfield java/io/File PATH_OFFSET J 16
+staticfield java/lang/Long TYPE Ljava/lang/Class; java/lang/Class
+ciInstanceKlass java/lang/NullPointerException 1 1 21 10 10 100 100 1 1 1 5 0 1 1 1 1 1 1 1 12 12 1 1
+ciInstanceKlass java/lang/ArithmeticException 1 1 21 10 10 100 100 1 1 1 5 0 1 1 1 1 1 1 1 12 12 1 1
+instanceKlass java/util/concurrent/ConcurrentHashMap
+instanceKlass java/util/TreeMap
+instanceKlass java/util/WeakHashMap
+instanceKlass sun/util/PreHashedMap
+instanceKlass java/util/HashMap
+instanceKlass java/util/Collections$EmptyMap
+ciInstanceKlass java/util/AbstractMap 1 1 161 10 10 10 11 10 11 11 11 100 11 10 11 100 10 11 11 10 11 9 100 10 9 100 10 100 11 11 11 100 100 11 8 100 10 10 8 10 10 10 100 7 100 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 100 100 1 1 1 1 1 100 1 1 100 1 1 1 1 1 100 100 100 1 1 1 100 100 1 1 1 100 1 1 1 1 1 1 12 12 12 100 12 12 100 12 12 1 12 12 12 1 12 12 12 12 1 12 12 1 1 12 12 1 1 12 1 1 12 1 12 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+instanceKlass java/util/LinkedHashMap
+ciInstanceKlass java/util/HashMap 1 1 481 10 100 10 100 10 100 11 11 11 7 3 10 100 100 10 8 10 10 10 10 10 8 10 9 10 9 4 10 10 11 9 4 10 11 11 11 11 100 11 11 10 10 9 10 9 9 9 10 9 7 10 10 10 10 10 9 10 100 3 7 7 10 10 9 9 10 10 10 10 9 7 10 9 100 10 9 100 10 100 10 11 11 11 100 10 10 100 100 10 10 10 10 10 10 10 100 10 10 8 4 10 4 10 4 10 10 10 10 7 7 100 100 1 1 100 1 100 1 100 1 100 1 100 1 100 1 100 1 100 1 1 1 1 1 1 1 1 5 0 1 1 3 1 1 1 1 3 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 100 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 100 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 100 1 1 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 12 1 12 1 100 12 1 12 12 12 1 12 1 1 1 12 12 12 12 7 12 1 12 12 12 12 12 12 12 12 12 12 100 12 100 12 12 1 12 12 12 12 12 12 12 12 12 12 12 1 12 12 12 12 12 12 12 1 1 12 12 12 12 12 12 12 12 1 12 12 1 12 1 1 100 12 100 12 100 12 1 12 1 1 12 12 12 100 12 12 12 100 12 1 12 1 100 12 12 12 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+instanceKlass java/util/LinkedHashMap$Entry
+ciInstanceKlass java/util/HashMap$Node 1 1 85 10 9 9 9 9 100 10 10 8 10 10 10 100 11 10 11 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 1 12 1 12 12 100 12 100 1 12 12 12 100 1 1 1 1 1 1 1 1 1 1 1
+ciInstanceKlass java/lang/Math 1 1 289 10 10 10 10 10 10 10 6 0 7 6 0 10 10 10 10 10 10 10 10 10 10 10 10 100 3 3 3 10 100 5 0 5 0 5 0 5 0 5 0 9 10 100 8 10 8 10 100 5 0 5 0 100 3 5 0 3 10 10 9 9 10 10 7 6 0 9 100 10 10 10 10 10 4 10 10 10 10 10 10 10 10 10 10 10 10 5 0 5 0 3 6 0 4 6 0 6 0 7 4 4 6 0 10 9 10 9 10 4 6 0 100 100 1 1 1 1 1 6 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 100 12 12 12 12 12 12 1 12 12 12 12 12 12 12 12 12 12 12 12 1 12 1 12 100 12 1 1 12 1 12 1 1 12 12 12 12 12 12 1 12 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 1 12 12 12 12 7 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+staticfield java/lang/Math $assertionsDisabled Z 1
+ciInstanceKlass java/util/Arrays 1 1 810 10 100 100 10 8 10 10 8 8 10 10 100 10 10 10 10 10 10 10 10 10 7 10 100 10 10 100 10 10 100 10 10 100 10 10 100 10 10 100 10 10 100 10 10 9 10 100 10 10 10 100 10 10 7 10 10 10 10 10 10 10 100 11 10 10 10 10 10 10 10 10 11 10 100 10 10 100 10 10 100 10 10 100 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 7 10 10 8 100 10 10 10 100 10 100 10 100 10 100 10 100 10 100 10 100 10 100 10 10 9 100 10 10 10 10 10 10 10 10 10 10 8 8 10 10 8 10 10 10 10 100 3 10 100 10 10 11 10 10 10 10 10 10 10 10 10 11 8 10 11 11 11 11 18 11 11 18 11 18 11 18 100 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1 1 100 1 100 1 1 1 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 100 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 1 1 1 12 12 1 1 12 12 1 12 100 12 12 12 12 12 12 12 12 1 100 12 100 1 1 1 12 12 100 1 1 12 100 1 1 12 100 1 1 12 100 1 1 12 100 1 1 12 100 1 1 12 12 100 12 100 1 1 12 7 12 7 12 1 12 1 12 12 100 12 100 12 12 12 12 1 12 12 7 12 12 12 100 12 12 12 100 12 100 12 100 1 1 12 1 1 12 1 1 12 1 1 12 12 12 12 12 12 12 100 12 12 100 12 12 12 12 12 1 7 12 12 1 1 12 12 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 12 12 1 12 12 12 12 12 12 12 12 12 1 1 12 12 1 12 12 12 100 12 1 1 12 100 12 12 12 12 12 12 12 12 12 12 12 1 12 100 12 100 12 12 1 15 16 15 12 12 100 12 15 12 100 12 15 12 100 12 15 12 1 100 12 12 12 12 12 12 12 12 12 12 100 12 12 12 12 12 12 12 12 12 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 10 10 1 1 1 1 1 1 1 10 1 1 1 1 10 1 1 1 1 10 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 12 12 12 12 12 1 1 100 1 1 100 1 1
+staticfield java/util/Arrays $assertionsDisabled Z 1
+ciInstanceKlass java/lang/IllegalArgumentException 1 1 27 10 10 10 10 100 100 1 1 1 5 0 1 1 1 1 1 1 1 1 1 12 12 12 12 1 1
+ciInstanceKlass java/util/HashMap$TreeNode 0 0 182 100 10 9 9 100 9 9 9 10 100 10 9 9 9 10 10 10 10 10 10 10 10 10 9 10 10 10 10 9 10 10 10 10 10 10 10 100 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 100 1 1 1 100 100 1 1 1 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 1 12 12 12 12 1 12 12 12 12 100 12 12 12 12 12 12 100 12 100 12 100 12 12 12 12 12 12 12 12 12 12 12 12 12 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ciInstanceKlass java/util/BitSet 1 1 400 7 9 9 9 100 10 10 9 10 100 100 10 8 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 9 10 10 10 10 10 10 5 0 10 10 10 10 100 8 10 8 8 8 8 10 10 10 5 0 10 10 10 10 10 10 10 8 10 10 10 10 5 0 10 10 10 7 100 100 10 10 8 10 10 10 10 10 10 10 10 10 8 18 100 10 100 10 10 10 7 10 9 7 100 100 1 1 1 1 1 3 1 3 1 3 1 1 1 1 1 1 1 1 1 1 5 0 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 100 1 1 100 100 100 1 1 100 1 1 1 100 1 1 1 1 1 1 12 12 12 1 12 12 12 1 1 1 12 12 12 12 12 12 100 12 12 100 12 12 12 12 100 12 12 12 100 12 12 12 12 12 12 12 12 100 12 12 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 100 12 1 12 12 12 100 12 12 12 100 1 1 12 100 12 1 100 12 12 100 12 100 12 12 12 12 12 1 1 15 16 15 16 12 1 100 12 1 12 100 12 7 12 1 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 10 10 1 1 1 1 1 1 100 1 1 1 1 100 12 12 100 1 1 1 100 1 1 1 100 1 1
+staticfield java/util/BitSet serialPersistentFields [Ljava/io/ObjectStreamField; 1 [Ljava/io/ObjectStreamField;
+staticfield java/util/BitSet $assertionsDisabled Z 1
+ciInstanceKlass java/lang/AssertionError 0 0 66 10 10 10 10 100 10 10 10 10 10 10 10 10 100 100 1 1 1 5 0 1 1 1 1 1 1 1 100 100 1 1 1 1 1 1 1 1 1 12 12 100 12 1 12 12 12 12 12 12 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+30         
+31         *__________________________________________________________________________________________________
+31       ! _____________________
+32         
+33         Pull off the records with trades.
+34         ___________________________________________________________________________________________________
+34       ! _____________________;
+35         data trades;	*	Put the values in a new dataset;
+36         	set this.myTicker;
+37         	where price^=.;
+59         	var size;
+60         	id date time ex cond;
+61         	by symbol;
+62         run;
+
+NOTE: The PROCEDURE UNIVARIATE printed page 4.
+NOTE: PROCEDURE UNIVARIATE used (Total process time):
+      real time           0.01 seconds
+      cpu time            0.01 seconds
+      
+
+63         
+64         
+65         *__________________________________________________________________________________________________
+65       ! _____________________
+66         
+67         Plot trade prices - fancy
+68         
+69         This procedure routes graphic output to an rtf file. The rtf file can be read in Microsoft Word and
+69       !  other programs.
+12:32:05 T:7432  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+                                            Regie: Ridley Scott
+                                            Drehbuch: Cormac McCarthy
+                                            Komponist: Daniel Pemberton
+Version mismatch. This IG is version 4.0.1, while the IG 'hl7.fhir.uv.extensions' is from version 5.0.0 (will try to run anyway) (05:43.524)
+Installing hl7.terminology.r5#5.0.0 to the package cache
+  Fetching:
+2R3	ALASKA	ISLAND LAKE SEAPLANE	afd	al_112_25OCT2007.png
+
+MatMult            21547 1.0 9.3700e+01 1.0 1.08e+11 1.0 0.0e+00 0.0e+00 0.0e+00 82 76  0  0  0  82 76  0  0  0  1148
+MatAssemblyBegin       1 1.0 4.0531e-06 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatAssemblyEnd         1 1.0 4.4630e-03 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLoad                1 1.0 1.1789e-01 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecTDot            43094 1.0 1.7945e+00 1.0 1.88e+09 1.0 0.0e+00 0.0e+00 0.0e+00  2  1  0  0  0   2  1  0  0  0  1045
+VecMTDot           21546 1.0 5.4893e+00 1.0 1.41e+10 1.0 0.0e+00 0.0e+00 0.0e+00  5 10  0  0  0   5 10  0  0  0  2568
+VecNorm            21548 1.0 5.7011e-01 1.0 9.38e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0  1645
+VecScale           21546 1.0 4.9945e-01 1.0 4.69e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0   939
+VecCopy            21548 1.0 3.3384e-01 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet                73 1.0 3.1374e-03 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY            43094 1.0 1.3701e+00 1.0 1.88e+09 1.0 0.0e+00 0.0e+00 0.0e+00  1  1  0  0  0   1  1  0  0  0  1369
+VecMAXPY           21546 1.0 7.6101e+00 1.0 1.41e+10 1.0 0.0e+00 0.0e+00 0.0e+00  7 10  0  0  0   7 10  0  0  0  1853
+VecAssemblyBegin       1 1.0 3.0994e-06 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAssemblyEnd         1 1.0 2.8610e-06 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecPointwiseMult   21548 1.0 1.2755e+00 1.0 4.69e+08 1.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0   368
+VecLoad                1 1.0 6.7289e-03 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp               1 1.0 1.5900e-03 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSolve               1 1.0 1.1418e+02 1.0 1.41e+11 1.0 0.0e+00 0.0e+00 0.0e+00100100  0  0  0 100100  0  0  0  1238
+Using Fortran linker: mpif90
+Using libraries: -Wl,-rpath,/misc/local/src/petsc-3.6.3/arch-linux2-c-debug/lib -L/misc/local/src/petsc-3.6.3/arch-linux2-c-debug/lib -lpetsc -llapack -lblas -lssl -lcrypto -lX11 -Wl,-rpath,/usr/local/pkgs/PBSPro_64/lib -L/usr/local/pkgs/PBSPro_64/lib -Wl,-rpath,/usr/local/pkgs-modules/openmpi_1.6.5_intel_2013_PBS/lib -L/usr/local/pkgs-modules/openmpi_1.6.5_intel_2013_PBS/lib -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/tbb/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/tbb/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/ipp/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/ipp/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/mkl/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/mkl/lib/intel64 -Wl,-rpath,/misc/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -L/misc/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -Wl,-rpath,/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -lmpi_f90 -lmpi_f77 -lm -lifport -lifcore -lm -lmpi_cxx -ldl -Wl,-rpath,/usr/local/pkgs/PBSPro_64/lib -L/usr/local/pkgs/PBSPro_64/lib -Wl,-rpath,/usr/local/pkgs-modules/openmpi_1.6.5_intel_2013_PBS/lib -L/usr/local/pkgs-modules/openmpi_1.6.5_intel_2013_PBS/lib -lmpi -lrt -lnsl -lutil -lpbs -Wl,-rpath,/usr/local/pkgs/PBSPro_64/lib -L/usr/local/pkgs/PBSPro_64/lib -Wl,-rpath,/usr/local/pkgs-modules/openmpi_1.6.5_intel_2013_PBS/lib -L/usr/local/pkgs-modules/openmpi_1.6.5_intel_2013_PBS/lib -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/tbb/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/tbb/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/ipp/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/ipp/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/mkl/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/mkl/lib/intel64 -Wl,-rpath,/misc/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -L/misc/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -Wl,-rpath,/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/tbb/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/tbb/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/ipp/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/ipp/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/mkl/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/mkl/lib/intel64 -Wl,-rpath,/misc/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -L/misc/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -limf -lsvml -lirng -lipgo -ldecimal -lcilkrts -lstdc++ -lgcc_s -lirc -lpthread -lirc_s -Wl,-rpath,/usr/local/pkgs/PBSPro_64/lib -L/usr/local/pkgs/PBSPro_64/lib -Wl,-rpath,/usr/local/pkgs-modules/openmpi_1.6.5_intel_2013_PBS/lib -L/usr/local/pkgs-modules/openmpi_1.6.5_intel_2013_PBS/lib -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/tbb/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/tbb/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/ipp/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/ipp/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/mkl/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/mkl/lib/intel64 -Wl,-rpath,/misc/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -L/misc/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -Wl,-rpath,/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/tbb/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/tbb/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/ipp/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/ipp/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -Wl,-rpath,/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/mkl/lib/intel64 -L/usr/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/mkl/lib/intel64 -Wl,-rpath,/misc/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -L/misc/local/pkgs-modules/intel_2013.0.079/composer_xe_2013.4.183/compiler/lib/intel64 -ldl 
+-----------------------------------------
+
+     fcg,  jacobi,1.000000e-05,1.000000e-50,1.000000e+04,1.001385e-21,21765,21547,2
++ echo 'Px6Gen wrapper'
+Px6Gen wrapper
++ export LD_LIBRARY_PATH=/rw/common/ops/bin/../lib
++ LD_LIBRARY_PATH=/rw/common/ops/bin/../lib
++ export PATH=/rw/common/ops/bin:/rw/common/spsops/bin:/bin:/opt/matlab-5.3.1/bin:/usr/java/j2sd1.4.2_03/bin:/usr/bin:/usr/sbin
++ PATH=/rw/common/ops/bin:/rw/common/spsops/bin:/bin:/opt/matlab-5.3.1/bin:/usr/java/j2sd1.4.2_03/bin:/usr/bin:/usr/sbin
+TESTING: checkMPICompilerOverride from config.setCompilers(/sandbox/petsc/petsc.next/config/BuildSystem/config/setCompilers.py:1572)
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in metadata.common.fanart.tv has been installed.'
+[ 0.045] Alignment.txtSpan NULL JUSTIFICATION
+[-1.000] Adjunct.addPosCxt: It is not okay that the hypothesis added the word "Africa" modifying "live"
+tim+hack+and+kelly+drew	01.08.2009 18:31:51	http://www.google.com/m/search?q=+Tim+Hack+and+Kelly+Drew+photo	Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11) Sprint:PPC6800	99.207.183.91
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in metadata.common.themoviedb.org has been installed.'
+[     46829] [    GTAProcess]  UV loop: httpClient/ OnConnectionProgress: Requesting authentication ticket...
+[     46891] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking PostFX INIT_CORE init (3 out of 52)
+[     46938] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CGtaAnimManager INIT_CORE init (4 out of 52)
+[     46938] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking fwClipSetManager INIT_CORE init (5 out of 52)
+[     46954] [    GTAProcess]  UV loop: httpClient/ Getting auth ticket for pipe appID 218 - should be 218.
+[     46954] [    GTAProcess]  UV loop: httpClient/ OnConnectionProgress: Obtaining Steam ticket...
+[     46969] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking fwExpressionSetManager INIT_CORE init (6 out of 52)
+[     46969] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking fwFacialClipSetGroupManager INIT_CORE init (7 out of 52)
+[     46969] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking audNorthAudioEngine INIT_CORE init (8 out of 52)
+[     47141] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CCheat INIT_CORE init (9 out of 52)
+[     47141] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CClock INIT_CORE init (10 out of 52)
+[     47141] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CCullZones INIT_CORE init (11 out of 52)
+[     47141] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CExpensiveProcessDistributer INIT_CORE init (12 out of 52)
+[     47141] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CGameLogic INIT_CORE init (13 out of 52)
+[     47141] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CutSceneManagerWrapper INIT_CORE init (14 out of 52)
+[     47141] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CAnimSceneManager INIT_CORE init (15 out of 52)
+[     47141] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CPortalTracker INIT_CORE init (16 out of 52)
+[     48516] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CVisualEffects INIT_CORE init (3 out of 11)
+[     48579] [    GTAProcess]  UV loop: httpClient/ OnConnectionProgress: df_Core: Please wait while the bans database is being checked...
+[     48579] [    GTAProcess]  UV loop: httpClient/ 
+[     48766] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking ViewportSystemInit INIT_CORE init (4 out of 11)
+[     48766] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CPhoneMgr INIT_CORE init (5 out of 11)
+[     48797] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CPhotoManager INIT_CORE init (6 out of 11)
+[     48797] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CLODLightManager INIT_CORE init (7 out of 11)
+[     48797] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CLODLights INIT_CORE init (8 out of 11)
+[     48797] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking AmbientLights INIT_CORE init (9 out of 11)
+[     48797] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CGps INIT_CORE init (10 out of 11)
+[     48797] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CPedAILodManager INIT_CORE init (11 out of 11)
+[     48797] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Running functions of order 3 (21 total)
+[     48797] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CPauseMenu INIT_CORE init (1 out of 21)
+NOTE: There were 1715 observations read from the data set WORK.TRADES.
+NOTE: PROCEDURE GPLOT used (Total process time):
+      real time           0.69 seconds
+      cpu time            0.62 seconds
+      
+
+89         ods rtf close;
+90         endsas;
+
+NOTE: SAS Institute Inc., SAS Campus Drive, Cary, NC USA 27513-2414
+NOTE: The SAS System used:
+      real time           4.83 seconds
+      cpu time            2.54 seconds
+      
+[         0] [    DumpServer]                 1676/ DumpServer is active and waiting.
+[         0] [         FiveM]             MainThrd/ --- BEGIN LOGGING AT Sat May 22 18:51:03 2021 ---
+[       329] [         FiveM]             MainThrd/ hello from "H:\FiveM Clean\FiveM.exe" 
+[       344] [         FiveM]             MainThrd/ Got ros:launcher process - pid 11196
+[       688] [   ROSLauncher]             MainThrd/ hello from "H:\FiveM Clean\FiveM.app\data\cache\subprocess\FiveM_ROSLauncher" ros:launcher --parent_pid=6640 "C:\program files\rockstar games\launcher\launcher.exe" -noRecogniser
+[       735] [   ROSLauncher]             MainThrd/ launcher! "H:\FiveM Clean\FiveM.app\data\cache\subprocess\FiveM_ROSLauncher" ros:launcher --parent_pid=6640 "C:\program files\rockstar games\launcher\launcher.exe" -noRecogniser
+[       891] [   ROSLauncher]             MainThrd/ Replacing function table list entry 0x140a51000 with 0x140a51000
+[      1016] [    GTAProcess]             MainThrd/ CitizenFX Steam child starting - command line: "H:\FiveM Clean\FiveM.exe" 
+[      1032] [    GTAProcess]             MainThrd/ hello from "H:\FiveM Clean\FiveM.exe" 
+[      1422] [    SteamChild]             MainThrd/ CitizenFX Steam child starting - command line: "H:\FiveM Clean\FiveM.app\data\cache\subprocess\FiveM_SteamChild.exe" -steamparent:3324
+[      1422] [    SteamChild]             MainThrd/ Initializing Steam parent.
+[      1454] [    SteamChild]             MainThrd/ Initializing Steam parent: Steam's running.
+[      1532] [   ROSLauncher]                 8372/ Got ROS service - pid 2652
+[      1547] [    SteamChild]             MainThrd/ Initializing Steam parent: Initializing presence.
+[      1547] [    SteamChild]             MainThrd/ Initializing Steam parent: Attempting to run processes.
+[      1750] [    ROSService]             MainThrd/ hello from "H:\FiveM Clean\FiveM.app\data\cache\subprocess\FiveM_ROSService" ros:service
+NullPunisher: Hyp word Vatican_Spokesman found in text, not penalizing
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//8_17_Oxygen.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//18_36_Argon.z
+G4ParticleHPManager::GetDataStream FILE /home/arce/gamos/external/geant4/geant4.10.04.p02.gamos/../data/G4TENDL1.3.2/Proton/Inelastic/F02//18_38_Argon.z
+[22:42:45] Travels: [ ] Verifying links...
+[22:42:45] Social Media: [-] 0497/7976 download failed (Return: -) - http://21stcenturyreformation.blogspot.com/2012/10/discipleship-intro-discipleship-and.html
+
+NOTE:  90 records written to /homedir/fin/fac/jhasbrou/phd2011Fall/sasgraph.emf
+NOTE:  90 records written to /rnddata/sastmp/SAS_work196600004C98_rnd.stern.nyu.edu/#LN00015
+================================================================================
+TEST configureExternalPackagesDir from config.framework(/sandbox/petsc/petsc.next/config/BuildSystem/config/framework.py:911)
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/corporate/business-divisons/financial-institutions' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+Source:
+Enable correlated gamma emission                  0
+[22:42:43] Precious metals: [-] 0101/8003 no engine matches (HTTP-Status: 0) - http://mikethomastv.com/?p=1103
+[22:42:46] Mesothelioma: [-] 0533/7981 no form at all - http://www.furlongsolutions.com/?q=user
+[22:42:46] Hollywood: [-] 8229/8544 download failed (Return: -) - http://s.h.oo.t.mo.u.t.jr.nt@openpleasedirect.wordpress.com/
+[22:42:46] Currency: [-] 7915/8085 no engine matches (HTTP-Status: 502) - http://zdrowieichoroby.info/
+cid#1424266 avoid C++17 mode for Coverity Scan [Stephan Bergmann]
+cid#1430098 mbInSyncExecute is uninitialized [Pranav Kant]
+[2023.05.20-22.07.40:595][  0]LogD3D12RHI: Async texture creation enabled
+[2023.05.20-22.07.40:595][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.05.20-22.07.40:610][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/steve/projects/zed-UE5/ZEDSamples.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/steve/projects/zed-UE5/Intermediate/TurnkeyReport_0.log" -log="C:/Users/steve/projects/zed-UE5/Intermediate/TurnkeyLog_0.log" -project="C:/Users/steve/projects/zed-UE5/ZEDSamples.uproject"  -platform=all'
+[2023.05.20-22.07.40:610][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.1/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/steve/projects/zed-UE5/ZEDSamples.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/steve/projects/zed-UE5/Intermediate/TurnkeyReport_0.log" -log="C:/Users/steve/projects/zed-UE5/Intermediate/TurnkeyLog_0.log" -project="C:/Users/steve/projects/zed-UE5/ZEDSamples.uproject"  -platform=all" ]
+[2023.05.20-22.07.40:630][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+<09:15AM cavalier> Automaton Update: finger quake@geophys.washington.edu is OK.
+<09:15AM cavalier> AutoMaton Update: Amateur Radio Assistance. OUTBOUND Messaging from stricken area for ALL USA. JOIN #ARES
+<09:15AM AttackYak> Northridge Fashion center parking lot collapsed!  [KNBC]  (Can anyone see this?)
+[22:42:38] Mesothelioma: [-] 0523/7981 no engine matches (HTTP-Status: 503) - http://osoranokuni.air-nifty.com/tenshi/2008/06/post_e435.html
+[22:42:38] Car Insurance T2: [-] 3373/8966 no engine matches - http://www.hetleerhuis.be/imgp5593/
+--> "+v me" mode change by KNBC on #earthquake
+ofz#5247 integer-overflow [Caolán McNamara]
+ofz#5248 integer-overflow [Caolán McNamara]
+For [4mTéléphone[24m: [01;33m0[01;37m photos, [01;35m13[01;37m subdirs.
+21:38:12 T:139832867932032   DEBUG: ADDON: cpluff: 'Plug-in metadata.tvdb.com has been installed.'
+CYHT	ALASKA	HAINES JUNCTION 	afd	al_90_25OCT2007.png
+4Z2	ALASKA	UPPER HANNUM CREEK	afd	al_91_25OCT2007.png
+HAY	ALASKA	HAYCOCK	afd	al_91_25OCT2007.png
+HRR	ALASKA	HEALY RIVER	afd	al_92_25OCT2007.png
+AK33	ALASKA	HERENDEEN BAY	afd	al_92_25OCT2007.png
+[   1966703] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_u_uni.ytd (was 51d001b) -> 594
+[   1966718] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_v_uni.ytd (was 51d001c) -> 595
+[   1966734] overriding handle for mp_f_freemode_01_mp_f_importexport_01/jbib_diff_007_w_uni.ytd (was 51d001d) -> 596
+./Notre_Dame_de_Paris/Acte_II
+0 medias imported
+Importing K2 items...
+Importing posts...
+0 posts imported
+0 medias imported
+Sushi:   Line: 7                                                                 (04:20.183)
+Sushi:   Line: 17                                                                (04:23.454)
+12:32:05 T:7432  NOTICE: Additional mode: 720x480@ 75.00 - Full Screen
+12:32:05 T:7432  NOTICE: Previous line repeats 2 times.
+12:32:05 T:7432  NOTICE: Additional mode: 720x576@ 60.00 - Full Screen
+12:32:05 T:7432  NOTICE: Previous line repeats 2 times.
+12:32:05 T:7432  NOTICE: Additional mode: 720x576@ 75.00 - Full Screen
+*** On LEAVE from "* *" do ^comment [SILENT] <0>
+\symupright=\mathgroup6
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+[22:42:33] Amazon: [-] 3682/7825 no engine matches (HTTP-Status: 501) - https://www.lagitarra.com/en/news/en/laoche-9th-of-december/
+[22:42:33] Hindu temples: [+] 0571/8054 matches engine MoinMoin - http://www.compucell3d.com
+[22:42:33] Hindu temples: [+] 0571/8054 new URL - http://www.compucell3d.com?action=login
+[22:42:33] Hindu temples: [+] 0571/8054 new URL - http://www.compucell3d.com?action=newaccount
+[22:42:33] Hindu temples: [-] 0571/8054 registration failed (<div class="error">) - http://www.compucell3d.com?action=newaccount
+[22:42:33] Hindu temples: [+] 0572/8054 matches engine Wordpress Article - http://www.practicalwinerylibrary.com/
+[22:42:33] Hindu temples: [+] 0572/8054 new URL - http://www.practicalwinerylibrary.com/wp-login.php?action=register
+[22:42:33] Hindu temples: [+] 0572/8054 new URL - http://www.practicalwinerylibrary.com/wp-login.php?action=register
+[22:42:33] Hindu temples: [-] 0572/8054 no form at all - http://www.practicalwinerylibrary.com/wp-login.php?action=register
+[22:42:33] Precious metals: [-] 0095/8003 no engine matches (HTTP-Status: 500) - http://links.hostingshouse.com
+[22:42:33] Win News Time T2: [ ] Project on pause for 76 more minutes as 15/15 verifications have been reached.
+[22:42:33] Online Degree: [-] 7890/8073 no engine matches (HTTP-Status: 400) - https://realestateinspection.net/
+[22:42:33] Currency: [+] 7904/8085 matches engine Wordpress Article - https://www.allcandlelanterns.com/about/
+[22:42:33] Currency: [-] 7904/8085 filter "breast" matches content on https://www.allcandlelanterns.com/about/
+[22:42:33] Sports T1: [+] 0923/1000 matches engine Wordpress Article - http://www.specialeats.com
+[22:42:33] Agriculture: [+] 0004/7854 matches engine Wordpress Article - http://vaping-world.com
+[22:42:33] Internet VOIP: [-] 0121/8096 no engine matches (HTTP-Status: 503) - http://personalissue.com/summer-coat-all-black/
+[22:42:33] Mortgage: [-] 7936/8168 no engine matches (HTTP-Status: 503) - http://www.ascap.com.au/what-we-do/design-implement-manage
+[22:42:33] Sports T1: [+] 0923/1000 new URL - http://www.specialeats.com/wp-login.php?action=register
+[22:42:33] Agriculture: [+] 0004/7854 new URL - http://www.vaping-world.com/login-register
+[22:42:33] Sports T1: [+] 0923/1000 new URL - http://www.specialeats.com/wp-login.php?action=register
+[22:42:33] Agriculture: [+] 0004/7854 new URL - http://www.vaping-world.com/login-register?action=register
+[22:42:33] Sports T1: [-] 0923/1000 no form at all - http://www.specialeats.com/wp-login.php?action=register
+[22:42:33] Agriculture T2: [-] 3868/8565 no engine matches (HTTP-Status: 503) - http://www.krapsody.com/
+[22:42:33] Justice degree: [-] 8017/8289 no engine matches (HTTP-Status: 503) - http://www.ECAEF.org
+[22:42:33] Agriculture: [-] 0004/7854 no form at all - http://www.vaping-world.com/login-register?action=register
+[22:42:33] Web Design: [-] site with IP as domain - http://67.227.235.146/main/index.php/privacy-statement-2/
+[22:42:33] Hindu temples: [-] 0573/8054 no engine matches (HTTP-Status: 503) - http://xiayiq.u5.625.413@downloadtroyesivantrxye.wordpress.com
+[22:42:34] Make money online: [-] 7817/8047 no engine matches (HTTP-Status: 400) - https://www.jewishpartisancommunity.org/
+[22:42:34] Hollywood: [-] 8222/8544 no engine matches (HTTP-Status: 0) - http://www.josephinesdayspa.com/blog/health-beauty/summer-beauty-protect-your-skin-hair-everyday
+Sushi:   Line: 21                                                                (04:24.041)
+Sushi: warn  Sliced element Library.relatedArtifact is being accessed via numeric index. Use slice names in rule paths when possible. (04:24.043)
+Sushi:   File: /scratch/ig-build-temp-JHXSGN/repo/input/fsh/instances/us-ph-valueset-library-example.fsh (04:24.044)
+Sushi:   Line: 22                                                                (04:24.044)
+Sushi: warn  Sliced element Library.relatedArtifact is being accessed via numeric index. Use slice names in rule paths when possible. (04:24.109)
+	at java.util.Optional.map(Optional.java:215) ~[?:1.8.0_252]
+	at info.magnolia.dam.app.imageprovider.AssetPreviewProvider.getResource(AssetPreviewProvider.java:72) ~[magnolia-dam-app-3.0.3.jar:?]
+	at info.magnolia.dam.app.contentview.column.AssetNameColumnDefinition$ValueProvider.apply(AssetNameColumnDefinition.java:81) ~[magnolia-dam-app-3.0.3.jar:?]
+tune2fs (TUNE2FS) [N/y/?] n
+Importing posts...
+0 posts imported
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Hebrew QWERTY" successfully loaded
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Hebrew ABC" successfully loaded
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Swedish QWERTY" successfully loaded
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Portuguese (Portugal) QWERTY" successfully loaded
+21:38:12 T:139832867932032   DEBUG: CKeyboardLayoutManager: keyboard layout "Bulgarian ЯВЕРТЪ" successfully loaded
+AK8	ALASKA	TALKEETNA CHRISTIANSEN LAKE 	afd	al_212_25OCT2007.png
+ [93m*** Warning: The clock 'clock_Enter3' is declared but never used in the model; it is therefore removed from the model. Use option -no-var-autoremove to keep it.[0m
+12:32:05 T:6472  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+Executing: mpicc -c -o /tmp/petsc-uGvYRc/config.setCompilers/conftest.o -I/tmp/petsc-uGvYRc/config.setCompilers     /tmp/petsc-uGvYRc/config.setCompilers/conftest.c 
+Successful compile:
+Source:
+#include "confdefs.h"
+#include "conffix.h"
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.security.LogoutFilter.doFilter(LogoutFilter.java:94) [magnolia-core-6.2.3.jar:?]
+[     47969] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CScriptHud INIT_CORE init (36 out of 52)
+* checking use of S3 registration ... OK
+* checking dependencies in R code ... OK
+
+8.5.1 Other Instrumentation   : (multiple lines)
+
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [catalina.jar:9.0.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [catalina.jar:9.0.34]
+instanceKlass java/lang/Float
+ciInstanceKlass java/lang/Number 1 1 34 10 10 100 7 100 1 1 1 5 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 1 1 1
+ciInstanceKlass java/lang/Float 1 1 175 7 100 10 10 100 4 100 10 10 8 8 10 10 10 10 4 4 4 10 9 10 10 10 10 10 10 3 3 3 10 10 10 10 8 10 9 100 100 1 1 1 1 1 4 1 1 1 4 1 1 3 1 3 1 3 1 3 1 1 1 1 1 1 1 5 0 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 12 100 12 1 1 12 100 12 1 1 100 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 1 7 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+staticfield java/lang/Float TYPE Ljava/lang/Class; java/lang/Class
+ciInstanceKlass java/lang/Double 1 1 229 7 100 10 10 10 100 10 10 6 0 8 10 8 10 8 100 6 0 10 5 0 5 0 8 8 10 10 8 10 8 8 8 10 10 10 10 10 10 10 10 6 0 6 0 6 0 10 9 10 10 10 10 5 0 5 0 10 10 10 10 8 10 9 100 100 1 1 1 1 1 6 0 1 1 1 6 0 1 1 3 1 3 1 3 1 3 1 1 1 1 1 1 1 5 0 1 1 1 1 1 1 100 100 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 12 12 12 1 12 100 12 1 12 1 12 1 1 12 1 1 100 12 100 12 1 12 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 1 7 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+Package: fmtcount 2020/01/30 v3.07
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+                                                <type>mysql</type>
+       nuclear repulsion energy         9.1949648140 Hartrees.
+ NAtoms=    3 NActive=    3 NUniq=    2 SFac= 1.69D+00 NAtFMM=   80 NAOKFM=F Big=F
+ One-electron integrals computed using PRISM.
+
+
+          Entering: Px6Gen at Mon Jan 21 09:25:22 2008
+
+                OS: Linux
+              node: localhost
+           release: 2.4.18
+                        Recommended Wrap: No
+            Wrap Reversal During Pre-Cal: No
+                                  Events: 0
+
+                      Event Strings : 0
+               Cable Wrap Sense Transitions: 2
+      Transition Time: 2008 024 // 05:03:03.00000
+       From Wrap Name: CW
+         To Wrap Name: CCW
+         Breaks Track: No
+      Transition Time: 2008 024 // 07:41:33.00000
+       From Wrap Name: CCW
+         To Wrap Name: CW
+         Breaks Track: Yes
+                              Wrap  Name: CCW
+                               Narrative: 
+                      Initial Wrap Valid: Yes
+              Complete w/o Wrap Limit(s): Yes
+  Opt. Period         Initial Wrap Valid: No
+  Opt. Period Complete w/o Wrap Limit(s): Yes
+                        Recommended Wrap: Yes
+            Wrap Reversal During Pre-Cal: No
+                                  Events: 0
+[     21547] rage::gameSkeleton::RunInitFunctions: Invoking CTheScripts INIT_CORE init (33 out of 52)
+[     21578] CitizenFX Steam child starting - command line: "D:\Rockstar Games\FiveM.app\cache\subprocess\FiveM_ChromeBrowser" --type=gpu-process --field-trial-handle=3228,12578950639655513996,16978597088910688445,131072 --disable-features=VizDisplayCompositor --disable-gpu-sandbox --use-gl=disabled --no-sandbox --use-angle=d3d11 --disable-direct-composition --locales-dir-path="D:\Rockstar Games\FiveM.app\bin/cef/" --log-file="D:\Rockstar Games\FiveM.app\cef.log" --resources-dir-path="D:\Rockstar Games\FiveM.app\bin/cef/" --lang=en-US --gpu-preferences=KAAAAAAAAACAAwAAAQAAAAAAAAAAAGAAAAAAAAUAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --log-file="D:\Rockstar Games\FiveM.app\cef.log" --service-request-channel-token=18305264740859222293 --mojo-platform-channel-handle=10412 /prefetch:2
+[     21781] Hooked external (mobile) GPU drivers to force enablement.
+[     21875] Hooked external (mobile) GPU drivers to force enablement.
+[     23000] rage::gameSkeleton::RunInitFunctions: Invoking CScriptAreas INIT_CORE init (34 out of 52)
+[     47672] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CTheScripts INIT_CORE init (33 out of 52)
+[     47969] [    GTAProcess]             MainThrd/ rage::gameSkeleton::RunInitFunctions: Invoking CScriptAreas INIT_CORE init (34 out of 52)
+<09:59AM cavalier> AutoMaton Update: For TALK/CHAT join #QUAKECHAT or #QUAKETALK. This is the NEWS Channel.
+(WildEep/#earthquake) that was a big one.
+<09:59AM cavalier> Automaton Update: finger quake@geophys.washington.edu is OK.
+<09:59AM cavalier> AutoMaton Update: Amateur Radio Assistance. OUTBOUND Messaging from stricken area for ALL USA. JOIN #ARES
+<09:59AM KNBC> jf
+ciInstanceKlass sun/misc/Unsafe 1 1 390 10 10 10 10 100 8 10 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 100 10 10 7 7 8 10 10 7 10 9 7 9 7 9 7 9 7 9 7 9 7 9 7 9 7 9 10 9 9 9 9 9 9 9 9 9 10 9 7 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 7 12 7 12 7 12 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 100 12 100 12 12 12 12 12 12 12 12 12 12 12 1 12 1 1 12 1 12 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 1 12 12 12 12 12 12 12 12 12 12 12 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+[      3234] Initialized system mapping!
+-- [download 31% complete]
+-- [download 32% complete]
+-- [download 33% complete]
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in plugin.video.ardmediathek_de has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in metadata.tvdb.com has been installed.'
+12:32:05 T:7432   DEBUG: ADDON: cpluff: 'Plug-in metadata.common.musicbrainz.org has been installed.'
+          <feature name="E" codomain="Boolean" range="" hidden="false" />
+          <feature name="sim" codomain="Double" range="" hidden="false" />
+---------------------------------------------------
+                           Hadronic Processes for kaon+
+     Cr_sctns:     KokoulinMuonNuclearXS: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+  4. not installed (INSTALL_APPLET_DONT)
+choice[1-4?]: 1
+12:32:06 T:6224   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - channel update id:1822900671, name:NDR FS HH HD
+12:32:06 T:6224   DEBUG: AddOnLog: Tvheadend HTSP Client: pvr.hts - channel update id:1891485708, name:tagesschau24 HD
+[      2828] waiting for process to exit...
+[      2875] Initialized system mapping!
+[   1901859] ResourceCacheDevice: downloaded resource.rpf in 573 msec (size 14336)
+[   1901922] resources::ResourceCacheDeviceV2::DoFetch downloading resource.rpf (hash 3db6b9d34dc675a409b70c281cbc5dcafcb99ff4) from http://139.99.125.59:30124/files/op-inventory/resource.rpf
+gold+coast+art+fair+2009	01.08.2009 18:03:03	http://www.google.com/m/search?ct=fsh&q=gold+coast+art+show+illinois+2009	BlackBerry8900/4.6.1.114 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100	206.53.153.36
+TEST checkLibC from config.setCompilers(/sandbox/petsc/petsc.next/config/BuildSystem/config/setCompilers.py:1415)
+TESTING: checkLibC from config.setCompilers(/sandbox/petsc/petsc.next/config/BuildSystem/config/setCompilers.py:1415)
+int main() {
+;
+
+int main() {
+  int b = foo(1);  if (b);
+tdf#113959 svxlo-FrameDirectionListBox should be used rather than GtkComboBox for text direction drop down list [Gabor Kelemen]
+tdf#113979 Paste unformated text does not ignore empty cells [Eike Rathke, Laurent BP]
+tdf#114013 Compound strings in Writer: "Text Format " + "(Search)" or "(Replace)" [Gabor Kelemen]
+tdf#114117 draw: page shadow issue. [Stephan Bergmann]
+tdf#114122 Double click in special character dialog inserts a character into the document, even when the dialog is only opened to select a single character [Mark Vecsernyes]
+tdf#114132 Tiling bitmaps does not work for charts (Format Wall) [Katarina Behrens]
+tdf#114173 FILESAVE XLSX Custom size of chart legend is not preserved when the file is saved as XLSX [Caolán McNamara]
+tdf#114180 FILESAVE XLSX Many custom chart wall properties are not preserved when the spreadsheet is saved as XLSX [Markus Mohrhard]
+tdf#114182 FILESAVE XLSX Pie chart slice moved back by LibreOffice Calc [Markus Mohrhard]
+tdf#114200 FILEOPEN: "Text Import" dialog: option to trim whitespace [Gabor Kelemen, manujvashist]
+tdf#114204 Clarify the "Local Help not installed" message [tagezi]
+tdf#114206 Remove duplication of strings found in StartModuleCommands.xcu [Yousuf Philips, Stephan Bergmann]
+tdf#114232 function ISERROR() doesn't work [Eike Rathke, Zdeněk Crhonek]
+tdf#114242 Menu/LibreOffice/Help/LibreOffice Help/[Content] -> Crash [Michael Stahl]
+tdf#114251 Hang loading spreadsheet [Eike Rathke]
+tdf#114256 Regression: Print Range not working anymore (Format - Page - Sheet - Scale) [Tomaž Vajngerl]
+tdf#114260 Customization button missing from menu, toolbar and context menus tab of customization dialog [Muhammet Kara]
+tdf#114261 Modifying a toolbar entry with a set toolbar:style attribute causes the attribute to be removed [Maxim Monastirsky]
+tdf#114286 Move uno command entries from module specific xcu file to GenericCommands.xcu [Yousuf Philips]
+tdf#114306 fix unexpected page break in row-spanned table [Manfred Blume]
+tdf#114308 FILEOPEN: Incorrect watermark size [Szymon Kłos]
+tdf#114310 Unify "Compatibility" elements names wrt "(in current document)" part [Gabor Kelemen]
+tdf#114333 RTF IMPORT: Half-width right-shifted table width is incorrect in specific document [Mike Kaganski]
+tdf#114384 export to pdf wrong results [Tomaž Vajngerl]
+tdf#114407 Empty help text tooltip while hovering the form (gtk) [Caolán McNamara]
+tdf#114418 BASIC Format() runtime function help should contain a link to number format codes [Olivier Hallot]
+tdf#114434 Font metrics in sm Formula editor erratic with Liberation 1.07 (Fedora 27) [Caolán McNamara]
+tdf#114441 Convert use of sal_uLong to better integer types [Shubham Verma]
+tdf#114455 SfxVoidItem::Clone(SfxItemPool*) leaks memory with multiple invocations [Julien Nabet]
+tdf#114457 MacOS: OfaTreeOptionsDialog::LoadNodes(Module*, rtl::OUString const&) is leaking a bit [Julien Nabet]
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has been already used, duplicate ignored
+ciMethod com/android/dx/rop/type/Prototype getDescriptor ()Ljava/lang/String; 1025 1 128 0 0
+ciMethod com/android/dx/rop/type/Prototype putIntern (Lcom/android/dx/rop/type/Prototype;)Lcom/android/dx/rop/type/Prototype; 2361 1 2630 0 0
+./JeuxVideos/The_Legend_of_Zelda/Phantom_Hourglass
+./JeuxVideos/The_Legend_of_Zelda/Sound_and_Drama
+./JeuxVideos/The_Legend_of_Zelda/The_Adventure_of_Link
+./JeuxVideos/The_Legend_of_Zelda/The_Legend_of_Zelda_NES
+./JeuxVideos/The_Legend_of_Zelda/The_Link's_Awakening
+ofz#4732 null-dereference [Caolán McNamara]
+
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79) [magnolia-core-6.2.3.jar:?]
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81) [magnolia-core-6.2.3.jar:?]
+PROC_CREATOR_COUNT B10 : neutronInelastic = 40
+PROC_CREATOR_COUNT B10 : protonInelastic = 274
+PROC_CREATOR_COUNT B11 : He3Inelastic = 1
+[      1797] [    GTAProcess]             MainThrd/ No such command rbind.
+        response/NN-44  ==                        DEL    $0.429  [D]
+              to/TO-45  ==                        DEL    $0.429  [D]
+    + added Test for cross ref bookmarks created with wrong prefix (tdf#94804) [Varun Dhall]
+Package pdftex.def Info: images/datadriven/5km.png  used on input line 182.
+PROC_CREATOR_COUNT O14 : protonInelastic = 29
+PROC_CREATOR_COUNT O15 : He3Inelastic = 1
+2021-10-26T21:52:27.223Z,98.223511,4f32000,7 [FLog::Network] Connection lost
+2021-10-26T21:52:27.223Z,98.223572,4f32000,7 [FLog::Network] Connection lost: connectMode: Disconnect ASAP, timeMS:98223, connectionTime 83392
+2021-10-26T21:52:27.223Z,98.223595,4f32000,7 [FLog::Network] Connection lost: AckTimeout 0, IsOutgoingDataWaiting 0
+2021-10-26T21:52:27.223Z,98.223618,4f32000,7 [FLog::Network] Disconnection Notification. Reason: -1
+2021-10-26T21:52:27.223Z,98.223648,4f32000,19 [DFLog::NetworkAudit] RakNet Disconnect: Closing connection to 128.116.27.2|58693
+2021-10-26T21:52:27.266Z,98.266418,4337000,19 [DFLog::NetworkAudit] RakNet Socket Close: 127.0.0.1|58786
+2021-10-26T21:52:27.367Z,98.367538,4337000,6 [FLog::Output] OnDisconnect http req time:97.76ms
+2021-10-26T21:52:27.367Z,98.367645,4337000,7 [FLog::Network] Replicator destroyed: 0x7f979e603e00
+2021-10-26T21:52:27.428Z,98.428391,4337000,7 [FLog::Network] Client:Disconnect
+2021-10-26T21:52:27.440Z,98.440651,4337000,6 [FLog::Output] Closing Fmod (as 1, ml 0, sl 0).
+2021-10-26T21:52:27.477Z,98.477592,4337000,6 [FLog::Output] Fmod Closed.
+2021-10-26T21:51:39.416Z,50.416660,4231000,6 [FLog::GameJoinUtil] Delaying request by 0.48 seconds
+modinfo (MODINFO) [N/y/?] n
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/ir-contacts' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/tarek-fayed' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/amr-el-shafei' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/amal-esmat' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/hazem-hegazy' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/corporate-governance' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/hisham-sanad' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/ramy-el-borai' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/tamer-wagih-salem' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/wael-zeyadah' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/sustainability/our-strategy' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/financial-information' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/investor-relations/board-of-directors/ashraf-bakry' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/sustainability/our-memberships' with error code: 'null'.
+ERROR info.magnolia.aws.foundation.AwsCredentialsProvider 15.10.2020 00:12:42 -- AWS credentials are expected to be set in Password manager module.
+ERROR info.magnolia.ai.text.TextClassificationModule 15.10.2020 00:12:42 -- Submission of text classification request has been failed at page path '/bdcwebsite/corporate/corporate-banking-details' with error code: 'null'.
