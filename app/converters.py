@@ -16,7 +16,7 @@ import pandas as pd
 import zipfile
 import os
 
-from app.crawler import classifier
+from crawler import classifier
 
 image_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp']
 

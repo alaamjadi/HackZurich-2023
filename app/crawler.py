@@ -32,7 +32,7 @@ def classifier(file_path):
 
     mime_type = magic.Magic()
     file_type_description = mime_type.from_buffer(file_path.read_bytes())
-    print(file_type_description)
+    # print(file_type_description)
     if "ASCII text" or "Unicode text" or "source" or "Generic INItialization" or "RSA" in file_type_description:
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
@@ -83,7 +83,6 @@ def main():
             # print(file_name)
             file_path = file_dir_path / file_name
             labels[file_name] = classifier(file_path)
-            print(labels[file_name])
 
         # Save the label dictionary as a Pickle file
         save_dict_as_pickle(labels, script_dir_path_parent / 'results' / 'crawler_labels.pkl')

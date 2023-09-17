@@ -6,3 +6,8 @@ SpeechRecognition
 scikit-learn
 python-docx
 pandas
+PyPDF2
+extract-msg
+pydub
+pytesseract
+ffmpeg
