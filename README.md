@@ -316,6 +316,9 @@ We check your solutions within a Docker image to ensure that your solution will 
 docker build -t crawler .
 ```
 
+or you can pull it from here :
+https://hub.docker.com/repository/docker/0x4ym4n/crawler/general
+
 This creates a Docker image from your `Dockerfile`. Afterwards you can run the container by entering following command in your terminal while being in the root directory of the repo.
 
 ```
