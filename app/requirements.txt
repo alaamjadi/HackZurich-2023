@@ -5,3 +5,4 @@ Pillow
 SpeechRecognition
 scikit-learn
 python-docx
+pandas

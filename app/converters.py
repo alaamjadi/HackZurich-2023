@@ -1,4 +1,5 @@
 import io
+import shutil
 
 import PyPDF2
 import extract_msg
@@ -12,10 +13,15 @@ from pydub import AudioSegment
 import sqlite3
 from io import BytesIO
 import pandas as pd
+import zipfile
+import os
+
+from app.crawler import classifier
 
 image_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp']
 
 from docx import Document
+
 
 def read_docx(file_path):
     doc = Document(file_path)
@@ -25,6 +31,7 @@ def read_docx(file_path):
         full_text.append(para.text)
 
     return '\n'.join(full_text)
+
 
 def pdf_to_text(pdf_path):
     text_content = ""
@@ -37,6 +44,7 @@ def pdf_to_text(pdf_path):
             text_content += page.extractText()
 
     return text_content
+
 
 def extract_text_from_html(input_html_file):
     # Read the HTML content from the input file
@@ -134,7 +142,7 @@ def extract_msg_file(source_directory):
 
         # Extract the .txt file (if it exists)
         if msg.subject:
-           return  msg.body.encode('utf-8')
+            return msg.body.encode('utf-8')
         else:
             return ""
     except Exception as e:
@@ -197,3 +205,18 @@ def parse(instance, type='xlsx'):
 
     return csv_data
 
+
+def process_zip(file_path):
+    # Create a temporary directory to extract files
+    temp_dir = "temp_dir"
+    os.makedirs(temp_dir, exist_ok=True)
+    with zipfile.ZipFile(file_path, 'r') as zip_ref:
+        zip_ref.extractall(temp_dir)
+    for root, dirs, files in os.walk(temp_dir):
+        for file in files:
+            file_full_path = os.path.join(root, file)
+            result = classifier(zipfile.Path(file_full_path))
+            if result:
+                return True
+    shutil.rmtree(temp_dir)
+    return False

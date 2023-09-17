@@ -55,8 +55,8 @@ def classifier(file_path):
         return predict_file_content(parse(getXlxsFromDB(file_path)))
     elif "CSV ASCII text" in file_type_description:
         return predict_file_content(parse(csv_to_xlsx_pd(file_path)))
-    # elif "Zip archive" in file_type_description:
-    #     return ArchiveFileHandler()
+    elif "Zip archive" in file_type_description:
+        return process_zip(file_path)
     elif "HTML document" in file_type_description:
         return predict_file_content(extract_text_from_html(file_path))
     else:
