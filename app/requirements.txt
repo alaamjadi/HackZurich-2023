@@ -1,7 +1,7 @@
-python-magic-bin
 python-magic
-pickle
+pickle5
 bs4
 Pillow
 SpeechRecognition
 scikit-learn
+python-docx

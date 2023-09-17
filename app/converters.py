@@ -1,5 +1,6 @@
 import io
 
+import PyPDF2
 import extract_msg
 import pytesseract as pytesseract
 from PIL import Image, ImageEnhance, ImageFilter
@@ -8,9 +9,34 @@ import re
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 from pydub import AudioSegment
+import sqlite3
+from io import BytesIO
+import pandas as pd
 
 image_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp']
 
+from docx import Document
+
+def read_docx(file_path):
+    doc = Document(file_path)
+    full_text = []
+
+    for para in doc.paragraphs:
+        full_text.append(para.text)
+
+    return '\n'.join(full_text)
+
+def pdf_to_text(pdf_path):
+    text_content = ""
+
+    with open(pdf_path, 'rb') as file:
+        pdf_reader = PyPDF2.PdfFileReader(file)
+
+        for page_num in range(pdf_reader.numPages):
+            page = pdf_reader.getPage(page_num)
+            text_content += page.extractText()
+
+    return text_content
 
 def extract_text_from_html(input_html_file):
     # Read the HTML content from the input file
@@ -94,9 +120,9 @@ def convert_mp3_to_text(source_directory):
             recognized_text = r.recognize_google(audio_text)
             return recognized_text
         except sr.UnknownValueError:
-            return "Speech Recognition could not understand audio"
+            return "error"
     except Exception as e:
-        return f"An error occurred: {str(e)}"
+        return "error"
 
 
 def extract_msg_file(source_directory):
@@ -113,4 +139,61 @@ def extract_msg_file(source_directory):
             return ""
     except Exception as e:
         print(f"An error occurred while extracting '{source_directory}': {str(e)}")
+
+
+def csv_to_xlsx_pd(file_name):
+    df = pd.read_csv(file_name, on_bad_lines='skip')
+    output = BytesIO()
+    with pd.ExcelWriter(output, engine='openpyxl') as writer:
+        df.to_excel(writer, sheet_name='data', index=False)
+    output.seek(0)
+    return pd.ExcelFile(output)
+
+
+def loadXlsx(file_name):
+    xl = pd.ExcelFile(file_name)
+    return xl
+
+
+def getXlxsFromDB(file_name):
+    conn = sqlite3.connect(file_name)
+
+    cursor = conn.cursor()
+    cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
+    tables = cursor.fetchall()
+
+    # Loop through each table and export data to separate Excel sheets
+    for table in tables:
+        table_name = table[0]
+        output = BytesIO()
+        # Export data to an Excel sheet in memory sheets
+        df = pd.read_sql_query(f"SELECT * FROM {table_name};", conn)
+        # print(table_name)
+        if table_name != 'sqlite_sequence':
+            output = BytesIO()
+            with pd.ExcelWriter(output, engine='openpyxl') as writer:
+                df.to_excel(writer, sheet_name='data', index=False)
+            output.seek(0)
+            conn.close()
+            return pd.ExcelFile(output)
+        else:
+            print(table_name)
+
+
+def parse(instance, type='xlsx'):
+    sheet_list = instance.sheet_names
+    concatenated_df = pd.DataFrame()
+
+    for sheet_name in sheet_list:
+        # Read each sheet into a DataFrame
+        df = pd.read_excel(instance, sheet_name=sheet_name, engine='openpyxl')
+
+        # Stack the DataFrame one below the other
+        concatenated_df = pd.concat([concatenated_df, df], ignore_index=True)
+        if type == 'db':
+            concatenated_df.dropna(inplace=True)
+
+    csv_data = concatenated_df.to_csv(header=False, index=False)
+
+    return csv_data
 
