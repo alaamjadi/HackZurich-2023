@@ -360,3 +360,8 @@ Both parts of the score will be normalized and summed up to reveal the overall w
 ## How to Reach Out to Us
 
 During the challenge, we will be active on the HackZurich Discord server ([join here](https://discord.com/invite/uMwgYS8qhC)). Send a message in the corresponding channel or DM us. We will make it clear which accounts belong to our team in the challenge channel.
+
+
+## Reference
+
+This repo was coppied from [here](https://github.com/nano256/hackzh23-scan-the-bank)

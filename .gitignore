@@ -1,6 +1,7 @@
-# Ignore the files folder
-files/**
-files-test/**
+# OS-specific files
+.DS_Store
+.Trashes
+Thumbs.db
 
 # Custom ignores
 crawler_labels.pkl
